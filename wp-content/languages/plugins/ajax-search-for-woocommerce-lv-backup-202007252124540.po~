@@ -1,0 +1,1386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AJAX Search for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-15 13:28+0000\n"
+"PO-Revision-Date: 2020-07-08 17:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: Latviešu valoda\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=n % 10 == 1 && n % 100 != 11 ? 0 : n != 0 ? "
+"1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: ajax-search-for-woocommerce.php:216
+msgid ""
+"<b>AJAX Search for WooCommerce</b>: You need PHP version at least 5.3 to run "
+"this plugin. You are currently using PHP version "
+msgstr ""
+"<b> AJAX meklēšana WooCommerce </b>: Šī spraudņa palaišanai nepieciešama "
+"vismaz PHP versija 5.3. Pašlaik jūs izmantojat PHP versiju"
+
+#: ajax-search-for-woocommerce.php:239
+msgid ""
+"<b>AJAX Search for WooCommerce</b>: You need PHP version at least 5.5 to run "
+"this plugin. You are currently using PHP version "
+msgstr ""
+"<b> AJAX meklēšana WooCommerce </b>: Šī spraudņa palaišanai nepieciešama "
+"vismaz PHP versija 5.5. Pašlaik jūs izmantojat PHP versiju"
+
+#: ajax-search-for-woocommerce.php:268
+#, php-format
+msgid ""
+"<b>AJAX Search for WooCommerce</b>:<br /> Your PHP version <b><i>%s</i></b> "
+"will not longer supported in the next plugin releases."
+msgstr ""
+"<b>AJAX meklēšana vietnē WooCommerce</b> : <br /> Jūsu PHP versija <b><i>% "
+"s</i></b> vairs netiks atbalstīta nākamajos spraudņu laidienos."
+
+#: ajax-search-for-woocommerce.php:270
+msgid ""
+" You have to update your PHP version to least 5.5 (recommended 7.2 or "
+"greater)."
+msgstr ""
+" Jums ir jāatjaunina PHP versija uz vismaz 5.5 (ieteicams 7.2 vai jaunāka)."
+
+#: ajax-search-for-woocommerce.php:273
+msgid ""
+"If you cannot upgrade your PHP version yourself, you can send an email to "
+"your host."
+msgstr ""
+"Ja jūs pats nevarat jaunināt savu PHP versiju, varat nosūtīt e-pastu savam "
+"resursdatoram."
+
+#: ajax-search-for-woocommerce.php:276
+msgid ""
+"If you do not upgrade the php version, the next plugin release will not work!"
+msgstr ""
+"Ja jūs neatjaunināsit php versiju, nākamais spraudņa laidiens nedarbosies!"
+
+#: ajax-search-for-woocommerce.php:281
+msgid "Remind me again in week."
+msgstr "Atgādini man vēl pēc nedēļas."
+
+#: ajax-search-for-woocommerce.php:303
+#, php-format
+msgid ""
+"<b>AJAX Search for WooCommerce</b> is enabled but not effective. It requires "
+"%s in order to work."
+msgstr ""
+"<b> AJAX meklēšana WooCommerce </b> ir iespējota, bet nav efektīva. Lai "
+"strādātu, nepieciešams %s."
+
+#: widget.php:25
+msgid "AJAX (live) search form for WooCommerce"
+msgstr "AJAX (tiešraides) meklēšanas forma vietnei WooCommerce"
+
+#: widget.php:27 includes/EmbeddingViaMenu.php:53
+#: includes/EmbeddingViaMenu.php:91
+msgid "AJAX Search bar"
+msgstr "AJAX meklēšanas josla"
+
+#: widget.php:32
+msgid "Title"
+msgstr "Nosaukums"
+
+#: widget.php:38
+msgid "Default"
+msgstr "Noklusējums"
+
+#: widget.php:39 includes/Settings.php:225
+msgid "Search bar only"
+msgstr "Tikai meklēšanas josla"
+
+#: widget.php:40 includes/Settings.php:226
+msgid "Search icon"
+msgstr "Meklēšanas ikona"
+
+#: widget.php:41 includes/Settings.php:227
+msgid "Icon on mobile, search bar on desktop"
+msgstr "Ikona mobilajā ierīcē, meklēšanas josla uz darbvirsmas"
+
+#: widget.php:43 includes/Settings.php:222
+msgid "Layout"
+msgstr "Izkārtojums"
+
+#: partials/search-form.php:30 partials/admin/search-preview.php:34
+msgid "Products search"
+msgstr "Produktu meklēšana"
+
+#: includes/Settings.php:105
+msgid "Starting"
+msgstr "Sākot"
+
+#: includes/Settings.php:109 includes/EmbeddingViaMenu.php:167
+#: partials/admin/search-preview.php:23
+msgid "Search bar"
+msgstr "Meklēšanas josla"
+
+#: includes/Settings.php:113 partials/admin/search-preview.php:24
+msgid "Autocomplete"
+msgstr "Automātiski pabeigt"
+
+#: includes/Settings.php:117
+msgid "Search config"
+msgstr "Meklēšanas konfigur"
+
+#: includes/Settings.php:124
+msgid "Indexer"
+msgstr "Indeksētājs"
+
+#: includes/Settings.php:130
+msgid "Increase sales"
+msgstr "Palieliniet pārdošanas apjomus"
+
+#: includes/Settings.php:132
+msgid "by simple tricks"
+msgstr "veicot vienkāršus trikus"
+
+#: includes/Settings.php:156
+msgid "How to add search bar in your theme?"
+msgstr "Kā tēmai pievienot meklēšanas joslu?"
+
+#: includes/Settings.php:162
+msgid "How to add?"
+msgstr "Kā pievienot?"
+
+#: includes/Settings.php:171 includes/Settings.php:313
+msgid "Basic"
+msgstr "Pamata"
+
+#: includes/Settings.php:177
+msgid "Minimum characters"
+msgstr "Minimālais rakstzīmju skaits"
+
+#: includes/Settings.php:181
+msgid "Min characters to show autocomplete"
+msgstr "Minimālais simbols automātiskās aizpildīšanas parādīšanai"
+
+#: includes/Settings.php:186
+msgid "Max form width"
+msgstr "Maksimālais formas platums"
+
+#: includes/Settings.php:189
+msgid "To set 100% width leave blank"
+msgstr "Lai iestatītu 100% platumu, atstājiet tukšu"
+
+#: includes/Settings.php:195
+msgid "Show submit button"
+msgstr "Rādīt iesniegšanas pogu"
+
+#: includes/Settings.php:203
+msgid "Submit label"
+msgstr "Iesniegt etiķeti"
+
+#: includes/Settings.php:203
+msgid "To display the magnifier icon leave this field empty."
+msgstr "Lai parādītu palielinātāja ikonu, atstājiet šo lauku tukšu."
+
+#: includes/Settings.php:206
+msgid "Search"
+msgstr "Meklēt"
+
+#: includes/Settings.php:210
+msgid "Search input placeholder"
+msgstr "Meklēt ievades vietturi"
+
+#: includes/Settings.php:212 includes/Helpers.php:937
+msgid "Search for products..."
+msgstr "Produktu meklēšana"
+
+#: includes/Settings.php:216
+msgid "Layout (beta)"
+msgstr "Izkārtojums (beta)"
+
+#: includes/Settings.php:234
+msgid "Overlay on mobile"
+msgstr "Pārklājums mobilajā ierīcē"
+
+#: includes/Settings.php:235
+msgid "The search will open in overlay on mobile"
+msgstr "Meklēšana tiks atvērta pārklājumā mobilajā ierīcē"
+
+#: includes/Settings.php:241
+msgid "Mobile breakpoint"
+msgstr "Mobilais pārtraukuma punkts"
+
+#: includes/Settings.php:242
+msgid "px"
+msgstr "px"
+
+#: includes/Settings.php:250
+msgid "Search form colors"
+msgstr "Meklēšanas veidlapu krāsas"
+
+#: includes/Settings.php:256
+msgid "Search input background"
+msgstr "Meklēt ievades fonu"
+
+#: includes/Settings.php:263
+msgid "Search input text"
+msgstr "Meklēt ievades tekstu"
+
+#: includes/Settings.php:270
+msgid "Search input border"
+msgstr "Meklēt ievades robežu"
+
+#: includes/Settings.php:277
+msgid "Search submit background"
+msgstr "Meklēšana iesniedz fona"
+
+#: includes/Settings.php:284
+msgid "Search submit text"
+msgstr "Meklēt iesniegt tekstu"
+
+#: includes/Settings.php:291
+msgid "Preloader"
+msgstr "Iepriekšējs ielādētājs"
+
+#: includes/Settings.php:297
+msgid "Show preloader"
+msgstr "Rādīt preloader"
+
+#: includes/Settings.php:304
+msgid "Upload preloader image"
+msgstr "Augšupielādējiet augšupielādētāja attēlu"
+
+#: includes/Settings.php:319
+msgid "Limit"
+msgstr "Ierobežot"
+
+#: includes/Settings.php:322
+msgid "Maximum number of suggestions"
+msgstr "Maksimālais ierosinājumu skaits"
+
+#: includes/Settings.php:327
+msgid "Group results"
+msgstr "Grupas rezultāti"
+
+#: includes/Settings.php:334
+msgctxt "admin"
+msgid "No results label"
+msgstr "Nav rezultātu etiķetes"
+
+#: includes/Settings.php:336 includes/Helpers.php:934
+msgid "No results"
+msgstr "Nav rezultātu"
+
+#: includes/Settings.php:340 partials/admin/indexer-body.php:58
+msgid "Products"
+msgstr "c"
+
+#: includes/Settings.php:346
+msgid "Show product image"
+msgstr "Rādīt produkta attēlu"
+
+#: includes/Settings.php:352
+msgid "Show price"
+msgstr "Rādīt cenu"
+
+#: includes/Settings.php:358
+msgid "Show product description"
+msgstr "Rādīt produkta aprakstu"
+
+#: includes/Settings.php:364
+msgid "Show SKU"
+msgstr "Rādīt SKU"
+
+#: includes/Settings.php:382
+msgid "More results label"
+msgstr "Vairāk rezultātu etiķetes"
+
+#: includes/Settings.php:384 includes/Helpers.php:935 includes/Helpers.php:936
+msgid "See all products..."
+msgstr "Skatīt visus produktus ..."
+
+#: includes/Settings.php:388
+msgid "Non-Products in autocomplete"
+msgstr "Produkti, kas nav pilnībā pabeigti"
+
+#: includes/Settings.php:394
+msgid "Show categories"
+msgstr "Rādīt kategorijas"
+
+#: includes/Settings.php:401
+msgid "Show tags"
+msgstr "Rādīt tagus"
+
+#: includes/Settings.php:408
+msgid "Show posts"
+msgstr "Rādīt ziņas"
+
+#: includes/Settings.php:415
+msgid "Show pages"
+msgstr "Rādīt lapas"
+
+#: includes/Settings.php:422
+msgid "Details panel"
+msgstr "Sīkāka informācija panelis"
+
+#: includes/Settings.php:428
+msgid "Show Details panel"
+msgstr "Rādīt detaļu paneli"
+
+#: includes/Settings.php:429
+msgid ""
+"The Details panel is an additional container for extended information. The "
+"details are changed dynamically when a user mouse over one of the "
+"suggestions."
+msgstr ""
+"Sīkāka informācija ir papildu konteiners paplašinātai informācijai. Sīkāka "
+"informācija tiek dinamiski mainīta, lietotājam novietojot peles kursoru virs "
+"viena no ieteikumiem."
+
+#: includes/Settings.php:476
+msgid "Suggestions colors"
+msgstr "Ieteikumi krāsas"
+
+#: includes/Settings.php:482
+msgid "Suggestion background"
+msgstr "Priekšlikuma fons"
+
+#: includes/Settings.php:489
+msgid "Suggestion selected"
+msgstr "Ieteikums ir atlasīts"
+
+#: includes/Settings.php:496
+msgid "Text color"
+msgstr "Teksta krāsa"
+
+#: includes/Settings.php:503
+msgid "Highlight color"
+msgstr "Iezīmējiet krāsu"
+
+#: includes/Settings.php:510
+msgid "Border color"
+msgstr "Apmales krāsa"
+
+#: includes/Settings.php:519
+msgid "Products search scope"
+msgstr "Produktu meklēšanas joma"
+
+#: includes/Settings.php:525
+msgid "Search in description"
+msgstr "Meklēt aprakstā"
+
+#: includes/Settings.php:531
+msgid "Search in short description"
+msgstr "Meklēt īsā aprakstā"
+
+#: includes/Settings.php:537
+msgid "Search in SKU"
+msgstr "Meklēšana SKU"
+
+#: includes/Settings.php:539
+msgid "Searching also in variable products SKU"
+msgstr "Meklē arī mainīgo produktu SKU"
+
+#: includes/Settings.php:540
+#, php-format
+msgid ""
+"Searching in variable products SKU is available only in <a href=\"%s\">the "
+"pro version</a>."
+msgstr ""
+"Meklēšana mainīgos produktos SKU ir pieejama tikai <a href=\"%s\">"
+"profesionālajā versijā</a> ."
+
+#: includes/Settings.php:546 partials/admin/features.php:23
+msgid "Search in attributes"
+msgstr "Meklēt atribūtos"
+
+#: includes/Settings.php:553 partials/admin/features.php:24
+msgid "Search in categories"
+msgstr "Meklēt kategorijās"
+
+#: includes/Settings.php:560 partials/admin/features.php:25
+msgid "Search in tags"
+msgstr "Meklēt tagos"
+
+#: includes/Settings.php:567 includes/Settings.php:658
+#: partials/admin/features.php:22
+msgid "Search in custom fields"
+msgstr "Meklēšana pielāgotajos laukos"
+
+#: includes/Settings.php:574
+msgid "Exclude 'out of stock' products"
+msgstr "Izslēdziet produktus, kas nav noliktavā"
+
+#: includes/Settings.php:580
+msgid "Fuzziness"
+msgstr "Izplūdums"
+
+#: includes/Settings.php:586 includes/Settings.php:592
+#: partials/admin/features.php:29
+msgid "Synonyms"
+msgstr "Sinonīmi"
+
+#: includes/Settings.php:593
+msgid ""
+"Synonyms feature allows your users to find more relevant results. If your "
+"products have alternative names and users often misspelling them, consider "
+"adding synonyms."
+msgstr ""
+"Sinonīmu funkcija lietotājiem ļauj atrast atbilstošākus rezultātus. Ja jūsu "
+"produktiem ir alternatīvi nosaukumi un lietotāji bieži tos kļūdaini izmanto, "
+"apsveriet iespēju pievienot sinonīmus."
+
+#: includes/Settings.php:595
+msgid ""
+"Synonyms should be separated by a comma. Each new synonyms group in the new "
+"line. You can use a phrase instead of a single word. <br /> <br />Sample "
+"list:<br /> <br /><span class=\"dgwt-wcas-synonyms-sample\">sofa, couch, "
+"davenport, divan, settee<br />big, grand, great, large, outsize</span>"
+msgstr ""
+"Sinonīmi ir jāatdala ar komatu. Katra jauna sinonīmu grupa jaunajā rindiņā. "
+"Atsevišķa vārda vietā var izmantot frāzi. <br /><br /> Paraugu saraksts: <br "
+"/><br /> <span class=\"dgwt-wcas-synonyms-sample\">dīvāns, dīvāns, davenport,"
+" divan, dīvāns <br /> liels, grandiozs, liels, liels, lieks</span>"
+
+#: includes/Settings.php:603
+msgid "Pro features"
+msgstr "Pro funkcijas"
+
+#: includes/Settings.php:609
+msgid "Speed up search!"
+msgstr "Paātriniet meklēšanu!"
+
+#: includes/Settings.php:616
+msgid "Scheduling Indexing"
+msgstr "Plānošanas indeksēšana"
+
+#: includes/Settings.php:622
+msgid "Enable Scheduler"
+msgstr "Iespējot plānotāju"
+
+#: includes/Settings.php:623
+msgid ""
+"I most cases you don't need to use the scheduler because The search index is "
+"updating when you edit products. If you use import tools or custom code to "
+"refresh prices or bulk add/edit products, the indexing scheduler will be "
+"helpful."
+msgstr ""
+"Vairumā gadījumu jums nav jāizmanto plānotājs, jo, rediģējot produktus, "
+"meklēšanas indekss tiek atjaunināts. Ja cenu atsvaidzināšanai vai produktu "
+"lielapjoma pievienošanai / rediģēšanai izmantojat importēšanas rīkus vai "
+"pielāgotu kodu, noderēs indeksēšanas plānotājs."
+
+#: includes/Settings.php:631
+msgid "Interval"
+msgstr "Intervāls"
+
+#: includes/Settings.php:635
+msgid "Daily"
+msgstr "Katru dienu"
+
+#: includes/Settings.php:636
+msgid "Weekly"
+msgstr "Iknedēļas"
+
+#: includes/Settings.php:642
+msgid "What time to rebuild the index?"
+msgstr "Kurā laikā atjaunot indeksu?"
+
+#: includes/Settings.php:651
+msgid "Increases sales conversions"
+msgstr "Palielina pārdošanas reklāmguvumus"
+
+#: includes/Settings.php:652
+msgid ""
+"Returns suggestions based on likely relevance even though a search keyword "
+"may not exactly match. E.g if you type \"ipho<b>m</b>e\" you get the same "
+"results as for \"iphone\""
+msgstr ""
+"Atgriež ieteikumus, pamatojoties uz iespējamo atbilstību, kaut arī "
+"meklēšanas atslēgvārds var precīzi neatbilst. E. g., Ierakstot “ipho <b> m "
+"</b> e”, tiek parādīti tādi paši rezultāti kā “iphone”"
+
+#: includes/Settings.php:661
+msgid "Select the custom fields you want to add to the search scope"
+msgstr ""
+"Atlasiet pielāgotos laukus, kurus vēlaties pievienot meklēšanas tvērumam"
+
+#: includes/Settings.php:666 includes/Settings.php:684
+msgid "Fuzzy matching"
+msgstr "Izplūdušā saskaņošana"
+
+#: includes/Settings.php:671 includes/Settings.php:689
+msgid "-- Disabled"
+msgstr "- invalīds"
+
+#: includes/Settings.php:672 includes/Settings.php:690
+msgid "Soft"
+msgstr "Mīksts"
+
+#: includes/Settings.php:673 includes/Settings.php:691
+msgid "Normal"
+msgstr "Normāli"
+
+#: includes/Settings.php:674 includes/Settings.php:692
+msgid "Hard"
+msgstr "Grūti"
+
+#: includes/Settings.php:704 includes/Settings.php:715
+msgid "Index status"
+msgstr "Indeksa statuss"
+
+#: includes/Helpers.php:432 includes/Helpers.php:436
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/Helpers.php:920
+msgid "Brand"
+msgstr "Zīmols"
+
+#: includes/Helpers.php:926
+msgid "Brands"
+msgstr "Zīmoli"
+
+#: includes/Helpers.php:932
+msgctxt "in categories fe. in Books > Crime stories"
+msgid "in"
+msgstr "iekšā"
+
+#: includes/Helpers.php:933
+msgid "continue reading"
+msgstr "turpināt lasīt"
+
+#: includes/EmbeddingViaMenu.php:85
+msgid "Add AJAX search bar as a menu item."
+msgstr "Pievienojiet AJAX meklēšanas joslu kā izvēlnes vienumu."
+
+#: includes/EmbeddingViaMenu.php:113
+msgid "AJAX search bar will be displayed here."
+msgstr "Šeit tiks parādīta AJAX meklēšanas josla."
+
+#: partials/admin/indexer-header.php:16
+#, php-format
+msgid "Indexed <strong>100&#37;</strong>, <strong>%d products</strong>."
+msgstr "Indeksēti <strong>100%</strong> , <strong> %d produkti</strong> ."
+
+#: partials/admin/indexer-header.php:20
+#, php-format
+msgid "Last build %s"
+msgstr "Pēdējoreiz izveidots %s"
+
+#: partials/admin/indexer-header.php:21
+msgid "All products changes will be <strong>re-indexed automatically</strong>"
+msgstr ""
+"Visas produktu izmaiņas tiks <strong> automātiski atkārtoti indeksētas "
+"</strong>"
+
+#: partials/admin/indexer-header.php:29
+msgid "Troubleshooting"
+msgstr "Traucējummeklēšana"
+
+#: partials/admin/indexer-header.php:31
+#, php-format
+msgid "First try to <a class=\"%s\" href=\"#\">build the index again</a>"
+msgstr ""
+"Vispirms mēģiniet vēlreiz <a class=\"%s\" href=\"#\">izveidot indeksu</a>"
+
+#: partials/admin/indexer-header.php:32
+#, php-format
+msgid ""
+"Go to <a target=\"_blank\" href=\"%s\">WooCommerce -> Status -> section "
+"\"AJAX Search for WooCommerce Pro\"</a>. Is everything green?"
+msgstr ""
+"Dodieties uz <a target=\"_blank\" href=\"%s\">WooCommerce -&gt; Statuss -&gt;"
+" sadaļu “AJAX meklēšana WooCommerce Pro”</a> . Vai viss ir zaļš?"
+
+#: partials/admin/indexer-header.php:33
+#, php-format
+msgid ""
+"Go to <a target=\"_blank\" href=\"%s\">WooCommerce -> Status -> Logs (tab)"
+"</a>. Open last \"fatal-errors...\". Look for a phrase \"ajax-search-for-"
+"woocommerce\". Did you find anything significant?"
+msgstr ""
+"Atveriet <a target=\"_blank\" href=\"%s\">vietni WooCommerce -&gt; Statuss -"
+"&gt; Žurnāli (cilne)</a> . Atvērt pēdējās &quot;fatālās kļūdas ...&quot;. "
+"Meklējiet frāzi &quot;ajax-search-for-woocommerce&quot;. Vai atradāt kaut ko "
+"nozīmīgu?"
+
+#: partials/admin/indexer-header.php:35
+#, php-format
+msgid ""
+"Is it still not working? Write a <a target=\"_blank\" href=\"%s\">support "
+"request</a>."
+msgstr ""
+"Vai tas joprojām nedarbojas? Uzrakstiet <a target=\"_blank\" href=\"%s\">"
+"atbalsta pieprasījumu</a> ."
+
+#: partials/admin/indexer-header.php:44
+#: partials/admin/indexer-header-demo.php:16
+msgid "Show details"
+msgstr "Parādīt detaļas"
+
+#: partials/admin/indexer-header.php:45
+msgid "Hide details"
+msgstr "Slēpt detaļas"
+
+#: partials/admin/indexer-body.php:16
+msgid ""
+"Indexing... This process will continue in the background. You can leave this "
+"page."
+msgstr "Indeksēšana ... Šis process turpinās fonā. Jūs varat atstāt šo lapu."
+
+#: partials/admin/indexer-body.php:18
+msgid "Index build progress"
+msgstr "Indeksa veidošanas progress"
+
+#: partials/admin/indexer-body.php:21
+#, php-format
+msgid "Finalization... Wait a moment. (%s products)"
+msgstr "Pabeigšana ... Pagaidi. (%s produkti)"
+
+#: partials/admin/indexer-body.php:25
+msgid "Cancellation..."
+msgstr "Atcelšana ..."
+
+#: partials/admin/indexer-body.php:42
+msgid "Build ID"
+msgstr "Veidot ID"
+
+#: partials/admin/indexer-body.php:46
+msgid "DB"
+msgstr "DB"
+
+#: partials/admin/indexer-body.php:50
+msgid "Index build start"
+msgstr "Indeksa veidošanas sākums"
+
+#: partials/admin/indexer-body.php:54
+msgid "Status"
+msgstr "Statuss"
+
+#: partials/admin/indexer-body.php:63
+msgid "Posts & pages"
+msgstr "Ziņas un lapas"
+
+#: partials/admin/indexer-body.php:68
+msgid "Searchable"
+msgstr "Meklējams"
+
+#: partials/admin/indexer-body.php:72 partials/admin/indexer-body.php:95
+#: partials/admin/indexer-body.php:120
+msgid "Start"
+msgstr "Sākt"
+
+#: partials/admin/indexer-body.php:76 partials/admin/indexer-body.php:99
+#: partials/admin/indexer-body.php:124
+msgid "End"
+msgstr "Beigas"
+
+#: partials/admin/indexer-body.php:81 partials/admin/indexer-body.php:104
+#: partials/admin/indexer-body.php:129
+msgid "Time"
+msgstr "Laiks"
+
+#: partials/admin/indexer-body.php:90
+msgid "Readable"
+msgstr "Lasāms"
+
+#: partials/admin/indexer-body.php:115
+msgid "Taxonomies"
+msgstr "Taksonomijas"
+
+#: partials/admin/indexer-body.php:143
+msgid "Logs"
+msgstr "Baļķi"
+
+#: partials/admin/settings.php:25
+msgid "AJAX Search for WooCommerce (PRO) Settings"
+msgstr "AJAX meklēšana WooCommerce (PRO) iestatījumos"
+
+#: partials/admin/settings.php:27
+msgid "AJAX Search for WooCommerce Settings"
+msgstr "AJAX meklēšana vietnē WooCommerce"
+
+#: partials/admin/settings.php:32 partials/admin/settings.php:33
+msgid "Show advanced settings"
+msgstr "Rādīt papildu iestatījumus"
+
+#: partials/admin/indexer-header-demo.php:11
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:452
+msgid "The search index does not exist yet. Build it now."
+msgstr "Meklēšanas indekss vēl neeksistē. Veidojiet to tagad."
+
+#: partials/admin/indexer-header-demo.php:15
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:483
+msgid "Build index"
+msgstr "Veidot indeksu"
+
+#: partials/admin/how-to-use.php:14
+msgid "There are four easy ways to display the search bar in your theme"
+msgstr "Ir četri vienkārši veidi, kā parādīt meklēšanas joslu motīvā"
+
+#: partials/admin/how-to-use.php:16
+#, php-format
+msgid "As a menu item - go to %s and add menu item \"AJAX Search box\". Done!"
+msgstr ""
+"Kā izvēlnes vienums - dodieties uz %s un pievienojiet izvēlnes vienumu “AJAX "
+"meklēšanas lodziņš”. Gatavs!"
+
+#: partials/admin/how-to-use.php:16
+msgid "Menu Screen"
+msgstr "Izvēlnes ekrāns"
+
+#: partials/admin/how-to-use.php:17
+#, php-format
+msgid "Using a shortcode - %s"
+msgstr "Izmantojot īskodu - %s"
+
+#: partials/admin/how-to-use.php:18
+#, php-format
+msgid "As a widget - go to %s and choose \"AJAX Search bar\""
+msgstr "Kā logrīks - dodieties uz %s un izvēlieties “AJAX meklēšanas josla”."
+
+#: partials/admin/how-to-use.php:18
+msgid "Widgets Screen"
+msgstr "Logrīku ekrāns"
+
+#: partials/admin/how-to-use.php:19
+#, php-format
+msgid "By PHP - %s"
+msgstr "Pēc PHP - %s"
+
+#: partials/admin/how-to-use.php:22
+#, php-format
+msgid ""
+"Are there any difficulties? <b>We will do it for you!</b> We offer free of "
+"charge search bar implementation for Pro users. <a target=\"_blank\" "
+"href=\"%s\">Become one now!</a>"
+msgstr ""
+"Vai ir kādas grūtības? <b>Mēs to izdarīsim jūsu labā!</b> Pro lietotājiem "
+"piedāvājam bezmaksas meklēšanas joslu ieviešanu. <a target=\"_blank\" "
+"href=\"%s\">Kļūsti par vienu tagad!</a>"
+
+#: partials/admin/system-status.php:13
+msgid "Ajax Search for WooCommerce (Pro)"
+msgstr "Ajax meklēšana vietnē WooCommerce (Pro)"
+
+#: partials/admin/system-status.php:14
+msgid "This section shows the plugin requirements."
+msgstr "Šajā sadaļā parādītas spraudņa prasības."
+
+#: partials/admin/system-status.php:20
+msgid "PHP extension (mbstring)"
+msgstr "PHP paplašinājums (mbstring)"
+
+#: partials/admin/system-status.php:37
+msgid "PHP extension (pdo_mysql)"
+msgstr "PHP paplašinājums (pdo_mysql)"
+
+#: partials/admin/system-status.php:53
+msgid "Finding wp-load.php from outside"
+msgstr "Wp-load.php atrašana no ārpuses"
+
+#: partials/admin/system-status.php:62
+msgid "The location of wp-load.php is not the default."
+msgstr "Vietne wp-load.php nav noklusējuma."
+
+#: partials/admin/system-status.php:77
+msgid "Multisite"
+msgstr "Daudzvietīga"
+
+#: partials/admin/system-status.php:80
+msgid ""
+"The Ajax Search for WooCommerce (Pro) does not support multisite yet. "
+"Multisite must be disabled."
+msgstr ""
+"Ajax Search for WooCommerce (Pro) vēl neatbalsta vairākas vietnes. "
+"Daudzvietīga vietne ir jāatspējo."
+
+#: partials/admin/system-status.php:85
+msgid "disabled"
+msgstr "invalīds"
+
+#: partials/admin/system-status.php:87
+msgid "enabled"
+msgstr "iespējots"
+
+#: partials/admin/system-status.php:94
+msgid "Conflicts with other plugins"
+msgstr "Konflikti ar citiem spraudņiem"
+
+#: partials/admin/system-status.php:97
+msgid ""
+"The Ajax Search for WooCommerce (Pro) does not support multilanguages yet."
+msgstr "Ajax Search for WooCommerce (Pro) pagaidām neatbalsta daudzvalodas."
+
+#: partials/admin/system-status.php:103
+msgid "no"
+msgstr "Nē"
+
+#: partials/admin/search-preview.php:22
+msgid "Preview"
+msgstr "Priekšskatījums"
+
+#: partials/admin/search-preview.php:74
+msgid "Sample brand <strong>name</strong>"
+msgstr "Zīmola <strong> nosaukums </strong> paraugs"
+
+#: partials/admin/search-preview.php:87
+msgid "Sample category <strong>name</strong>"
+msgstr "Parauga kategorija <strong> nosaukums </strong>"
+
+#: partials/admin/search-preview.php:100
+msgid "Sample tag <strong>name</strong>"
+msgstr "Taga <strong> nosaukums </strong> paraugs"
+
+#: partials/admin/search-preview.php:113
+msgid "Sample post <strong>name</strong>"
+msgstr "Ziņas paraugs <strong> vārds </strong>"
+
+#: partials/admin/search-preview.php:126
+msgid "Sample page <strong>name</strong>"
+msgstr "Lapas <strong> nosaukums </strong> parauga lapa"
+
+#: partials/admin/search-preview.php:142
+msgid "Sample product <strong>name</strong>"
+msgstr "Produkta paraugs <strong> nosaukums </strong>"
+
+#: partials/admin/search-preview.php:144 partials/admin/search-preview.php:189
+msgid ""
+"Lorem <strong>ipsum</strong> dolor sit amet, consectetur adipiscing elit. "
+"Quisque gravida lacus nec diam porttitor pharetra. Nulla facilisi. Proin "
+"pharetra imperdiet neque, non varius."
+msgstr ""
+"Lorem <strong> ipsum </strong> dolor sit amet, consectetur adipiscing elit. "
+"Quisque gravida lacus citur neklasificēts porttitor pharetra. Nulla facilisi."
+" Proin pharetra imperdiet neque, non varius."
+
+#: partials/admin/search-preview.php:178
+msgid "Sample product name"
+msgstr "Produkta nosaukuma paraugs"
+
+#: partials/admin/features.php:14
+msgid ""
+"If users can’t find the product they’re searching for, they can’t buy it. "
+"Help your customers to find the right products even <span>10x faster</span>."
+msgstr ""
+"Ja lietotāji nevar atrast meklēto produktu, viņi to nevar iegādāties. "
+"Palīdziet klientiem atrast pareizos produktus pat <span> 10x ātrāk </span>."
+
+#: partials/admin/features.php:16
+msgid ""
+"Update now and boosts your sales. You will receive <b>14-day satisfaction "
+"guarantee</b>.  A return on investment will come very quickly."
+msgstr ""
+"Atjauniniet tūlīt un palielina pārdošanas apjomus. Jūs saņemsit <b> "
+"garantiju 14 dienu garumā </b>. Investīciju atdeve nāks ļoti ātri."
+
+#: partials/admin/features.php:19
+msgid ""
+"<b>New Ultra-Fast Search Engine</b> – works very fast even with 100,000+ "
+"products "
+msgstr ""
+"<b> Jauna īpaši ātra meklētājprogramma </b> - darbojas ļoti ātri pat ar "
+"vairāk nekā 100 000 produktiem"
+
+#: partials/admin/features.php:20
+msgid ""
+"Professional and fast <b>help with embedding</b> or <b>replacing</b> the "
+"search bar in your theme"
+msgstr ""
+"Profesionāla un ātra <b> palīdzība iegulšanā </b> vai <b> nomaiņa </b> "
+"meklēšanas josla jūsu tēmā"
+
+#: partials/admin/features.php:21 includes/Admin/Promo/Upgrade.php:49
+msgid "Fuzzy search"
+msgstr "Izplūdušā meklēšana"
+
+#: partials/admin/features.php:26
+msgid "Search by variation product SKU"
+msgstr "Meklēt pēc produkta varianta SKU"
+
+#: partials/admin/features.php:27
+msgid "Search in brands (WooCommerce Brands or YITH WooCommerce Brands)"
+msgstr "Meklēt zīmolos (WooCommerce Brands vai YITH WooCommerce Brands)"
+
+#: partials/admin/features.php:28
+msgid "Search for posts and pages"
+msgstr "Meklēt ziņas un lapas"
+
+#: partials/admin/features.php:30
+msgid "Individual customization of the search bar (simple CSS improvements)"
+msgstr "Individuāla meklēšanas joslas pielāgošana (vienkārši CSS uzlabojumi)"
+
+#: partials/admin/features.php:31
+msgid "And more..."
+msgstr "Un vēl..."
+
+#: partials/admin/features.php:31 includes/Admin/Promo/Upgrade.php:63
+msgid "See a comparison of all free and premium features!"
+msgstr "Skatiet visu bezmaksas un premium funkciju salīdzinājumu!"
+
+#: partials/admin/features.php:33
+msgid "Upgrade Now!"
+msgstr "Uzlabot tagad!"
+
+#: partials/admin/embedding-in-theme.php:16
+#, php-format
+msgid "child theme of <b>%s</b>"
+msgstr "<b>%s</b> bērna tēma"
+
+#: partials/admin/embedding-in-theme.php:19
+#, php-format
+msgid "You use <b>%s</b> theme %s. Fantastic!"
+msgstr "Jūs izmantojat <b>%s</b> tēmu %s. Fantastiski!"
+
+#: partials/admin/embedding-in-theme.php:20
+msgid ""
+"We support this theme and you can easily replace all default search bars."
+msgstr ""
+"Mēs atbalstām šo motīvu, un jūs varat viegli aizstāt visas noklusējuma "
+"meklēšanas joslas."
+
+#: includes/Integrations/Brands.php:165
+msgid "Search in brands"
+msgstr "Meklēt zīmolos"
+
+#: includes/Integrations/Brands.php:169 includes/Integrations/Brands.php:185
+#, php-format
+msgid "based on the plugin %s"
+msgstr "pamatojoties uz spraudni %s"
+
+#: includes/Integrations/Brands.php:181
+msgid "Show brands"
+msgstr "Rādīt zīmolus"
+
+#. Name of the plugin
+#: includes/Admin/AdminMenu.php:28
+msgid "Ajax Search for WooCommerce"
+msgstr "Ajax meklēšana vietnē WooCommerce"
+
+#: includes/Admin/AdminMenu.php:29
+msgid "AJAX search bar"
+msgstr "AJAX meklēšanas josla"
+
+#: includes/Admin/SettingsAPI.php:598
+msgid "Contact"
+msgstr "Kontaktpersona"
+
+#: includes/Admin/SettingsAPI.php:601
+msgid "Showcase"
+msgstr "Vitrīna"
+
+#: includes/Admin/SettingsAPI.php:605
+msgid "My Account"
+msgstr "Mans Konts"
+
+#: includes/Admin/Requirements.php:52
+#, php-format
+msgid "Required PHP version 5.5 or higher. You use %s"
+msgstr "Nepieciešamā PHP versija 5.5 vai jaunāka. Jūs izmantojat %s"
+
+#: includes/Admin/Requirements.php:69 includes/Admin/Requirements.php:74
+#, php-format
+msgid "Required PHP extension: %s"
+msgstr "Nepieciešamais PHP paplašinājums: %s"
+
+#: includes/Admin/Requirements.php:118
+#, php-format
+msgid ""
+"You use the %s plugin. The Ajax Search for WooCommerce PRO does not support "
+"multilingual yet."
+msgstr ""
+"Jūs izmantojat spraudni %s. Ajax Search for WooCommerce PRO pagaidām "
+"neatbalsta daudzvalodu."
+
+#: includes/Admin/Requirements.php:141
+msgid ""
+"Your WordPress use the multisite. The Ajax Search for WooCommerce PRO does "
+"not support multisite yet."
+msgstr ""
+"Jūsu WordPress izmanto daudzvietīgu vietni. Ajax Search for WooCommerce PRO "
+"pagaidām neatbalsta vairākas vietnes."
+
+#: includes/Admin/Requirements.php:157
+msgid "Attention! Read this before the upgrade."
+msgstr "Uzmanību! Izlasiet šo informāciju pirms jaunināšanas."
+
+#: includes/Admin/Requirements.php:158
+msgid ""
+"Ajax Search for WooCommerce PRO may not work properly in your environment "
+"for the following reasons:"
+msgstr ""
+"Ajax Search for WooCommerce PRO var nedarboties pareizi jūsu vidē šādu "
+"iemeslu dēļ:"
+
+#: includes/Admin/Requirements.php:168
+msgid "Ajax Search for WooCommerce PRO - Requirements"
+msgstr "Ajax meklēšana WooCommerce PRO - Prasības"
+
+#: includes/Admin/Requirements.php:169
+#, php-format
+msgid ""
+"If you have any questions, do not hesitate contact <a href=\"%s\">our "
+"support</a>."
+msgstr ""
+"Ja jums ir kādi jautājumi, nevilcinieties sazināties ar <a href=\"%s\">mūsu "
+"atbalstu</a> ."
+
+#: includes/Admin/RegenerateImages.php:95
+#, php-format
+msgid ""
+"<b>AJAX Search for WooCommerce</b>: It is recommended to generate a special "
+"small image size for existing products to ensure a better user experience. "
+"This is a one-time action. <br /><br />You can do it by clicking %s or use "
+"external plugin e.g. %s."
+msgstr ""
+"<b>AJAX meklēšana vietnē WooCommerce</b> : lai nodrošinātu labāku lietotāja "
+"pieredzi, esošajiem produktiem ieteicams ģenerēt īpašu mazu attēla izmēru. "
+"Šī ir vienreizēja darbība. <br /><br /> To var izdarīt, noklikšķinot uz %s "
+"vai izmantot ārēju spraudni, piemēram, %s."
+
+#: includes/Admin/Promo/Upgrade.php:47
+msgid "Speed up search! (even 10x faster) - users love it!"
+msgstr "Paātriniet meklēšanu! (pat 10x ātrāk) - lietotājiem tas patīk!"
+
+#: includes/Admin/Promo/Upgrade.php:48
+msgid "New modern search engine based on bm25 ranking algorithm"
+msgstr ""
+"Jauna moderna meklētājprogramma, kuras pamatā ir bm25 ranžēšanas algoritms"
+
+#: includes/Admin/Promo/Upgrade.php:50
+msgid "Search in attributes and variation products SKUs (option)"
+msgstr "Meklēt atribūtos un produktu variantos SKU (opcija)"
+
+#: includes/Admin/Promo/Upgrade.php:51
+msgid "Individual customization of the search form (simple CSS improvements)"
+msgstr "Individuāla meklēšanas formas pielāgošana (vienkārši CSS uzlabojumi)"
+
+#: includes/Admin/Promo/Upgrade.php:52
+msgid "Individual tips and support by Damian Góra - the author of the plugin"
+msgstr "Spraudņa autora Damian Góra individuāli padomi un atbalsts"
+
+#: includes/Admin/Promo/Upgrade.php:54
+msgid "Ajax Search for WooCommerce PRO - Upgrade Now"
+msgstr "Ajax meklēšana WooCommerce PRO - jauniniet tūlīt"
+
+#: includes/Admin/Promo/Upgrade.php:58
+msgid ""
+"Update now and increase your sales. You will receive 14-day satisfaction "
+"guarantee.  A return on investment will come very quickly."
+msgstr ""
+"Atjauniniet tūlīt un palieliniet pārdošanas apjomus. Jūs saņemsiet 14 dienu "
+"garantiju. Investīciju atdeve nāks ļoti ātri."
+
+#: includes/Admin/Promo/Upgrade.php:63
+msgid "and more..."
+msgstr "un vēl..."
+
+#: includes/Admin/Promo/Upgrade.php:65
+msgid "You can upgrade without leaving the admin panel by clicking below."
+msgstr ""
+"Jaunināt var, neizejot no administratora paneļa, noklikšķinot uz zemāk."
+
+#: includes/Admin/Promo/Upgrade.php:66
+msgid "Free updates and email support included."
+msgstr "Iekļauti bezmaksas atjauninājumi un e-pasta atbalsts."
+
+#: includes/Admin/Promo/Upgrade.php:67
+msgid "Upgrade Now"
+msgstr "Uzlabot tagad"
+
+#: includes/Admin/Promo/FeedbackNotice.php:73
+#, php-format
+msgid ""
+"Hey %s, it's Damian Góra from %s. You have used this free plugin for some "
+"time now, and I hope you like it!"
+msgstr ""
+"Sveiki, %s, tas ir Damian Góra no %s. Jūs jau kādu laiku izmantojāt šo "
+"bezmaksas spraudni, un es ceru, ka jums tas patiks!"
+
+#: includes/Admin/Promo/FeedbackNotice.php:78
+#, php-format
+msgid ""
+"I have spent countless hours developing it, and it would mean a lot to me if "
+"you %ssupport it with a quick review on WordPress.org.%s"
+msgstr ""
+"Esmu to pavadījis neskaitāmas stundas, lai to attīstītu, un tas man daudz "
+"nozīmētu, ja jūs %s atbalstītu to ar ātru pārskatu vietnē WordPress.org. %s"
+
+#: includes/Admin/Promo/FeedbackNotice.php:84
+#, php-format
+msgid "Review %s"
+msgstr "Pārskatiet %s"
+
+#: includes/Admin/Promo/FeedbackNotice.php:88
+msgid "No thanks"
+msgstr "Nē paldies"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Scheduler.php:256
+#, php-format
+msgid "The next index rebuild: %s"
+msgstr "Nākamā indeksa atjaunošana: %s"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:140
+msgctxt "Admin, logs"
+msgid "Indexer already running"
+msgstr "Rādītājs jau darbojas"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:154
+#, php-format
+msgctxt "Admin, logs"
+msgid "Multilingual: Yes, Provider: %s, Default: %s, Langs: %s"
+msgstr "Daudzvalodu: Jā, Sniedzējs: %s, Noklusējums: %s, Langs: %s"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:159
+msgctxt "Admin, logs"
+msgid "Indexer started"
+msgstr "Sākās indeksētājs"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:235
+msgctxt "Admin, logs"
+msgid "[Readable index] Building..."
+msgstr "[Lasāms indekss] Ēka ..."
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:243
+msgctxt "Admin, logs"
+msgid "[Searchable index] Building..."
+msgstr "[Meklējams indekss] Ēka ..."
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:430
+msgid "Wait... Indexing in progress"
+msgstr "Pagaidiet ... Notiek indeksēšana"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:431
+msgid "This process will continue in the background. You can leave this page!"
+msgstr "Šis process turpināsies fonā. Jūs varat atstāt šo lapu!"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:436
+msgid "Wait... The index build process is canceling"
+msgstr "Pagaidiet ... Indeksa veidošanas process tiek atcelts"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:437
+msgid "Canceling..."
+msgstr "Notiek atcelšana ..."
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:442
+msgid "The search index was built successfully."
+msgstr "Meklēšanas indekss tika izveidots veiksmīgi."
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:443
+msgid "Completed. Works."
+msgstr "Pabeigts. Darbojas."
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:447
+msgid "The search index could not be built."
+msgstr "Meklēšanas indeksu nevarēja izveidot."
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:448
+msgid "Errors"
+msgstr "Kļūdas"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:453
+msgid "Not exist"
+msgstr "Neeksistē"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:474
+msgid "Stop process"
+msgstr "Apturēt procesu"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:477
+msgid "Rebuild index"
+msgstr "Atjaunot indeksu"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Builder.php:480
+msgid "Try to build the index again."
+msgstr "Mēģiniet vēlreiz izveidot indeksu."
+
+#: includes/Integrations/Themes/TheGem/TheGem.php:72
+msgid "Replace a search bar in TheGem "
+msgstr "Aizvietojiet TheGem meklēšanas joslu"
+
+#: includes/Integrations/Themes/TheGem/TheGem.php:79
+msgid "TheGem Theme"
+msgstr "TheGem tēma"
+
+#: includes/Integrations/Themes/TheGem/TheGem.php:92
+#: includes/Integrations/Themes/Flatsome/Flatsome.php:56
+#: includes/Integrations/Themes/Storefront/Storefront.php:57
+#: includes/Integrations/Themes/Woodmart/Woodmart.php:74
+msgid "Replace"
+msgstr "Aizvietot"
+
+#: includes/Integrations/Themes/TheGem/TheGem.php:93
+msgid "Replace the TheGem default search"
+msgstr "Aizstāt TheGem noklusējuma meklēšanu"
+
+#: includes/Integrations/Themes/TheGem/TheGem.php:100
+#: includes/Integrations/Themes/TheGem/TheGem.php:108
+#: includes/Integrations/Themes/Impreza/Impreza.php:60
+#: includes/Integrations/Themes/Flatsome/Flatsome.php:64
+#: includes/Integrations/Themes/Storefront/Storefront.php:65
+#: includes/Integrations/Themes/Woodmart/Woodmart.php:82
+msgid "Alternative ways to embed a search bar"
+msgstr "Alternatīvi veidi, kā iegult meklēšanas joslu"
+
+#: includes/Integrations/Themes/Impreza/Impreza.php:35
+#, php-format
+msgid ""
+"Here is <a href=\"%s\" target=\"_blank\">article</a> about how to do it "
+"using Impreza child-theme."
+msgstr ""
+"Šeit ir <a href=\"%s\" target=\"_blank\">raksts</a> par to, kā to izdarīt, "
+"izmantojot Impreza bērna tēmu."
+
+#: includes/Integrations/Themes/Impreza/Impreza.php:39
+msgid "Replace Impreza search bar"
+msgstr "Aizstāt Impreza meklēšanas joslu"
+
+#: includes/Integrations/Themes/Impreza/Impreza.php:46
+msgid "Impreza Theme"
+msgstr "Impreza tēma"
+
+#: includes/Integrations/Themes/Flatsome/Flatsome.php:36
+msgid "Replace Flatsome search bar"
+msgstr "Aizstāt nevainojamu meklēšanas joslu"
+
+#: includes/Integrations/Themes/Flatsome/Flatsome.php:43
+msgid "Flatsome Theme"
+msgstr "Satriecoša tēma"
+
+#: includes/Integrations/Themes/Flatsome/Flatsome.php:57
+msgid "Replace all Flatsome search bars with the Ajax Search for WooCommerce."
+msgstr ""
+"Aizstāt visas saistošās meklēšanas joslas ar Ajax Search for WooCommerce."
+
+#: includes/Integrations/Themes/Storefront/Storefront.php:37
+msgid "Replace Storefront search bar"
+msgstr "Aizstāt veikala meklēšanas joslu"
+
+#: includes/Integrations/Themes/Storefront/Storefront.php:44
+msgid "Storefront Theme"
+msgstr "Veikalu tēma"
+
+#: includes/Integrations/Themes/Storefront/Storefront.php:58
+msgid ""
+"Replace the Storefront default product search to the Ajax Search for "
+"WooCommerce form."
+msgstr ""
+"Aizstājiet veikala noklusējuma produktu meklēšanu uz Ajax Search for "
+"WooCommerce veidlapu."
+
+#: includes/Integrations/Themes/Woodmart/Woodmart.php:54
+#, php-format
+msgid "Replace %s search bar"
+msgstr "Aizstāt meklēšanas joslu %s"
+
+#: includes/Integrations/Themes/Woodmart/Woodmart.php:61
+#, php-format
+msgid "%s Theme"
+msgstr "%s tēma"
+
+#: includes/Integrations/Themes/Woodmart/Woodmart.php:75
+#, php-format
+msgid "Replace all %s search bars with the Ajax Search for WooCommerce."
+msgstr "Aizstāt visas %s meklēšanas joslas ar Ajax Search for WooCommerce."
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Taxonomy/Indexer.php:181
+msgctxt "Admin, logs"
+msgid "[Taxonomy index] Cleared"
+msgstr "[Taksonomijas indekss] ir dzēsts"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Taxonomy/Request.php:39
+#, php-format
+msgctxt "Admin, logs"
+msgid "[Taxonomy index] Building %s..."
+msgstr "[Taksonomijas indekss] Ēka %s ..."
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Taxonomy/Request.php:52
+#, php-format
+msgctxt "Admin, logs"
+msgid "[Taxonomy index] Completed: %s, Not indexed: %s"
+msgstr "[Taksonomijas indekss] Pabeigts: %s, nav indeksēts: %s"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Searchable/Indexer.php:267
+msgctxt "Admin, logs"
+msgid "[Searchable index] Cleared"
+msgstr "[Meklējams indekss] Notīrīts"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Searchable/AsyncProcess.php:118
+#, php-format
+msgctxt "Admin, logs"
+msgid "[Searchable index] The queue <code>%s</code> was deleted "
+msgstr "[Meklējams indekss] Rinda <code>%s</code> tika izdzēsta"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Searchable/AsyncProcess.php:130
+#, php-format
+msgctxt "Admin, logs"
+msgid "[Searchable index] Schedule <code>%s</code> was created "
+msgstr "[Meklējams indekss] Tika izveidots <code> %s </code> grafiks"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Searchable/AsyncProcess.php:145
+#, php-format
+msgctxt "Admin, logs"
+msgid "[Searchable index] The queue <code>%s</code> was created"
+msgstr "[Meklējams indekss] Rinda <code> %s </code> tika izveidota"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Searchable/AsyncProcess.php:162
+msgctxt "Admin, logs"
+msgid "[Searchable index] Completed"
+msgstr "[Meklējams indekss] Pabeigts"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Variation/Indexer.php:136
+msgctxt "Admin, logs"
+msgid "[Variations index] Cleared"
+msgstr "[Variāciju indekss] ir notīrīts"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Readable/Indexer.php:223
+msgctxt "Admin, logs"
+msgid "[Readable index] Cleared"
+msgstr "[Lasāms indekss] Notīrīts"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Readable/AsyncProcess.php:112
+#, php-format
+msgctxt "Admin, logs"
+msgid "[Readable index] The queue <code>%s</code> was deleted "
+msgstr "[Lasāms indekss] Rinda <code> %s </code> tika izdzēsta"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Readable/AsyncProcess.php:124
+#, php-format
+msgctxt "Admin, logs"
+msgid "[Readable index] Schedule <code>%s</code> was created "
+msgstr "[Lasāms indekss] Tika izveidots grafiks <code> %s </code>"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Readable/AsyncProcess.php:140
+#, php-format
+msgctxt "Admin, logs"
+msgid "[Readable index] The queue <code>%s</code> was created"
+msgstr "[Lasāms indekss] Tika izveidota rinda <code> %s </code>"
+
+#: includes/Engines/TNTSearchMySQL/Indexer/Readable/AsyncProcess.php:157
+msgctxt "Admin, logs"
+msgid "[Readable index] Completed"
+msgstr "[Lasāms indekss] Pabeigts"
+
+#. Name of the plugin
+msgid "AJAX Search for WooCommerce"
+msgstr "AJAX meklēšana vietnē WooCommerce"
+
+#. Description of the plugin
+msgid ""
+"The most popular WooCommerce product search. Gives your users a well-"
+"designed advanced AJAX search bar with live search suggestions."
+msgstr ""
+"Vispopulārākā WooCommerce produktu meklēšana. Piedāvā lietotājiem labi "
+"izstrādātu uzlaboto AJAX meklēšanas joslu ar tiešās meklēšanas ieteikumiem."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid ""
+"https://ajaxsearch.pro?utm_source=wp-"
+"admin&utm_medium=referral&utm_campaign=author_uri&utm_gen=utmdc"
+msgstr ""
+"https://ajaxsearch.pro?utm_source=wp-"
+"admin&utm_medium=referral&utm_campaign=author_uri&utm_gen=utmdc"
+
+#. Author of the plugin
+msgid "Damian Góra"
+msgstr "Damian Góra"

@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Customize\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-06 21:02+0000\n"
+"PO-Revision-Date: 2020-07-06 21:02+0000\n"
+"Last-Translator: zupu\n"
+"Language-Team: \n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=n % 10 == 1 && n % 100 != 11 ? 0 : n != 0 ? "
+"1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#. Description of the plugin
+msgid ""
+"A simple and easy way to Customize woocommerce, disable unwanted checkout "
+"feelds, free checkout, chenge WooCommerce button names and change colour "
+"schemes and My Account page."
+msgstr ""
+
+#: woo-customize.php:501 woo-customize.php:512 woo-customize.php:523
+#: functions.php:25 functions.php:26 functions.php:27
+msgid "Add to Cart"
+msgstr ""
+
+#: settings-page.php:96
+msgid "Add to Cart text"
+msgstr ""
+
+#: settings-page.php:55
+msgid "Address 1"
+msgstr ""
+
+#: settings-page.php:58
+msgid "Address 2"
+msgstr ""
+
+#. ID
+#: woo-customize.php:112
+msgid "Change colour and Button text"
+msgstr ""
+
+#: settings-page.php:32
+msgid "Change Colour Scheme"
+msgstr ""
+
+#: settings-page.php:61
+msgid "City"
+msgstr ""
+
+#: woo-customize.php:64
+msgid "Colours and Button text"
+msgstr ""
+
+#: settings-page.php:52
+msgid "Company"
+msgstr ""
+
+#: settings-page.php:67
+msgid "Country"
+msgstr ""
+
+#: settings-page.php:92
+msgid "Default colour"
+msgstr ""
+
+#: settings-page.php:22
+msgid "Disable billing fields"
+msgstr ""
+
+#. ID
+#: woo-customize.php:105
+msgid "Disable billing fields for free and virtual Woocommerce products"
+msgstr ""
+
+#. ID
+#: woo-customize.php:98
+msgid "Disable billing fields for Woocommerce products"
+msgstr ""
+
+#: settings-page.php:27
+msgid "Disable fields for free products"
+msgstr ""
+
+#: settings-page.php:76
+msgid "Email"
+msgstr ""
+
+#: settings-page.php:46
+msgid "First Name"
+msgstr ""
+
+#: woo-customize.php:63
+msgid "Free & Virtual Product"
+msgstr ""
+
+#: woo-customize.php:62
+msgid "General Product"
+msgstr ""
+
+#: settings-page.php:49
+msgid "Last Name"
+msgstr ""
+
+#: settings-page.php:73
+msgid "Phone"
+msgstr ""
+
+#: settings-page.php:64
+msgid "Postcode"
+msgstr ""
+
+#: settings-page.php:82
+msgid "Remove Checkout fields for Free products"
+msgstr ""
+
+#: settings-page.php:86
+msgid "Remove Checkout fields for Virtual products"
+msgstr ""
+
+#: settings-page.php:70
+msgid "State"
+msgstr ""
+
+#. Name of the plugin
+msgid "Woo Customize"
+msgstr ""
+
+#: settings-page.php:11
+msgid "Woocommerce Customize"
+msgstr ""
+
+#: woo-customize.php:59
+msgid "Woocommerce Customize Settings"
+msgstr ""
+
+#: settings-page.php:28
+msgid ""
+"You can disable all billing fields for free products by checking the "
+"relevent field."
+msgstr ""
+
+#: settings-page.php:23
+msgid "You can disable unwanted billing fields by checking the relevent field."
+msgstr ""

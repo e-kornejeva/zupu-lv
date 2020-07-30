@@ -1,0 +1,178 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Tools\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-07 18:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: woo-tools.php:257 includes/tfwctools-template-functions.php:4
+#: admin/option-pages/wishlist-options.php:15
+msgid "Add To Wishlist"
+msgstr ""
+
+#: modules/wishlist/php/class-wishlist.php:456
+msgid "Add to Wishlist"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Advance tools for WooCommerce by ThemeFarmer, this tool can be used to add "
+"Quick View, WishList, Compare functionality in your theme without any code "
+"change."
+msgstr ""
+
+#: woo-tools.php:63
+msgid "Ajax Search"
+msgstr ""
+
+#: woo-tools.php:64
+msgid "Ajax Search for WooCommerce"
+msgstr ""
+
+#: admin/option-pages/wishlist-options.php:44
+#: admin/option-pages/compare-options.php:27
+#: admin/option-pages/quickview-options.php:26
+msgid "Button Icon"
+msgstr ""
+
+#: admin/option-pages/wishlist-options.php:40
+#: admin/option-pages/compare-options.php:23
+#: admin/option-pages/quickview-options.php:22
+msgid "Button Text"
+msgstr ""
+
+#: woo-tools.php:56 woo-tools.php:256
+#: includes/tfwctools-template-functions.php:22
+#: admin/option-pages/compare-options.php:14
+#: admin/option-pages/dashboard-options.php:20
+#: modules/compare/php/class-compare.php:300
+msgid "Compare"
+msgstr ""
+
+#: woo-tools.php:57 admin/option-pages/dashboard-options.php:21
+msgid "Compare for WooCommerce Products"
+msgstr ""
+
+#: woo-tools.php:70
+msgid "Floating Cart"
+msgstr ""
+
+#: woo-tools.php:71
+msgid "Floating Cart for WooCommerce"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.themefarmer.com/"
+msgstr ""
+
+#: templates/wishlist.php:75
+msgid "In Stock"
+msgstr ""
+
+#: modules/compare/php/class-compare.php:248
+msgid "In stock"
+msgstr ""
+
+#: templates/wishlist-mini.php:64
+msgid "No products in the wishlist"
+msgstr ""
+
+#: templates/wishlist.php:75
+msgid "Out of Stock"
+msgstr ""
+
+#: modules/compare/php/class-compare.php:250
+msgid "Out of stock"
+msgstr ""
+
+#: woo-tools.php:246
+msgctxt "page_slug"
+msgid "wishlist"
+msgstr ""
+
+#: woo-tools.php:49 woo-tools.php:258
+#: includes/tfwctools-template-functions.php:39
+#: admin/option-pages/dashboard-options.php:14
+#: admin/option-pages/quickview-options.php:14
+#: modules/quick-view/php/class-quick-view.php:89
+msgid "Quick View"
+msgstr ""
+
+#: woo-tools.php:50 admin/option-pages/dashboard-options.php:15
+msgid "Quick View for WooCommerce Products"
+msgstr ""
+
+#: modules/compare/php/class-compare.php:166
+#: modules/compare/php/class-compare.php:213
+msgid "Remove"
+msgstr ""
+
+#: admin/option-pages/wishlist-options.php:5
+#: admin/option-pages/compare-options.php:5
+#: admin/option-pages/quickview-options.php:5
+msgid "settings saved successfully"
+msgstr ""
+
+#: admin/option-pages/wishlist-options.php:54
+#: admin/option-pages/compare-options.php:38
+#: admin/option-pages/quickview-options.php:37
+msgid "Show button on product list"
+msgstr ""
+
+#: admin/option-pages/wishlist-options.php:58
+#: admin/option-pages/compare-options.php:42
+msgid "Show button on single product"
+msgstr ""
+
+#: admin/option-pages/wishlist-options.php:48
+#: admin/option-pages/compare-options.php:31
+#: admin/option-pages/quickview-options.php:30
+msgid "Show icon"
+msgstr ""
+
+#: woo-tools.php:77
+msgid "Smart Variation Swatches"
+msgstr ""
+
+#: woo-tools.php:78
+msgid "Smart Variation Swatches for WooCommerce"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeFarmer"
+msgstr ""
+
+#: woo-tools.php:42 woo-tools.php:247
+#: admin/option-pages/dashboard-options.php:8
+msgid "Wishlist"
+msgstr ""
+
+#: woo-tools.php:43 admin/option-pages/dashboard-options.php:9
+msgid "Wishlist for WooCommerce"
+msgstr ""
+
+#: templates/wishlist-empty.php:2
+msgid "Wishlist is Empty"
+msgstr ""
+
+#: admin/option-pages/wishlist-options.php:24
+msgid "Wishlist Page"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Tools"
+msgstr ""
+
+#: admin/option-pages/dashboard-options.php:28
+msgid "WooCommerce Toos Dashboard"
+msgstr ""

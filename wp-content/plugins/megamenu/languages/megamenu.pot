@@ -1,0 +1,904 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Max Mega Menu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-16 05:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: classes/widget-reusable-block.class.php:96
+#: classes/widget-elementor-template.class.php:101
+msgid "- Select -"
+msgstr ""
+
+#: classes/widget.class.php:127
+msgid "Active locations"
+msgstr ""
+
+#: classes/page.locations.class.php:285
+msgid "Add another menu location"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:656
+msgid "Add block to toggle bar"
+msgstr ""
+
+#: classes/page.locations.class.php:1025
+msgid "Add the 'Max Mega Menu' widget to a widget area."
+msgstr ""
+
+#: classes/toggle-blocks.class.php:839
+msgid "After"
+msgstr ""
+
+#. Description of the plugin
+msgid "An easy to use mega menu plugin. Written the WordPress way."
+msgstr ""
+
+#: classes/toggle-blocks.class.php:898
+msgid "Animated Menu Toggle Settings"
+msgstr ""
+
+#: classes/page.locations.class.php:263 classes/page.locations.class.php:316
+msgid "Assign a menu"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:838
+msgid "Before"
+msgstr ""
+
+#: classes/widget-reusable-block.class.php:94
+msgid "Block"
+msgstr ""
+
+#: classes/page.locations.class.php:395
+msgid "Choose a style for your mobile menu"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:797
+msgid "Choose from over 100 genericons with {link}"
+msgstr ""
+
+#: megamenu.php:1247
+msgid "clear the CSS cache"
+msgstr ""
+
+#: classes/page.locations.class.php:810 classes/nav-menus.class.php:366
+msgid "Click"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:730
+msgid ""
+"Click on a block to edit it, or drag and drop it to resposition the block "
+"within the toggle bar"
+msgstr ""
+
+#: classes/nav-menus.class.php:304
+msgid "Click {link} for instructions."
+msgstr ""
+
+#: classes/widget-manager.class.php:141 classes/widget-manager.class.php:885
+msgid "Close"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:815
+msgid "Closed Icon"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:809
+msgid "Closed Text"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:747
+msgid "Collapse sub menu"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:904
+msgid "Color"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:447
+#: classes/menu-item-manager.class.php:499
+#: classes/menu-item-manager.class.php:500
+#: classes/menu-item-manager.class.php:501
+#: classes/menu-item-manager.class.php:502
+msgid "Column"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:247
+#: classes/menu-item-manager.class.php:431 classes/widget-manager.class.php:131
+msgid "column"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:525
+msgid "Column class"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:248
+#: classes/menu-item-manager.class.php:249
+#: classes/menu-item-manager.class.php:250
+#: classes/menu-item-manager.class.php:251
+#: classes/menu-item-manager.class.php:252
+#: classes/menu-item-manager.class.php:253
+#: classes/menu-item-manager.class.php:254
+#: classes/menu-item-manager.class.php:255
+#: classes/menu-item-manager.class.php:256
+#: classes/menu-item-manager.class.php:257
+#: classes/menu-item-manager.class.php:258
+#: classes/menu-item-manager.class.php:432
+#: classes/menu-item-manager.class.php:433
+#: classes/menu-item-manager.class.php:434
+#: classes/menu-item-manager.class.php:435
+#: classes/menu-item-manager.class.php:436
+#: classes/menu-item-manager.class.php:437
+#: classes/menu-item-manager.class.php:438
+#: classes/menu-item-manager.class.php:439
+#: classes/menu-item-manager.class.php:440
+#: classes/menu-item-manager.class.php:441
+#: classes/menu-item-manager.class.php:442 classes/widget-manager.class.php:132
+#: classes/widget-manager.class.php:133 classes/widget-manager.class.php:134
+#: classes/widget-manager.class.php:135 classes/widget-manager.class.php:136
+msgid "columns"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:383
+msgid "Configure the contents of the mobile toggle bar"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:517
+#: classes/menu-item-manager.class.php:575 classes/widget-manager.class.php:950
+msgid "Contract"
+msgstr ""
+
+#: classes/nav-menus.class.php:224
+msgid "Custom CSS Classes will be prefixed with 'mega-'"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:800
+msgid "Custom Icon"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:785
+msgid "Dashicons"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:668 classes/style-manager.class.php:70
+msgid "Default"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:768 classes/toggle-blocks.class.php:842
+#: classes/toggle-blocks.class.php:918 classes/widget-manager.class.php:884
+msgid "Delete"
+msgstr ""
+
+#: classes/page.locations.class.php:641
+msgid "Delete location"
+msgstr ""
+
+#: classes/widget-manager.class.php:292
+#, php-format
+msgid "Deleted %s"
+msgstr ""
+
+#: classes/widget-manager.class.php:320
+msgid "Didn't move items"
+msgstr ""
+
+#: classes/widget-manager.class.php:353
+msgid "Didn't save"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:630
+msgid "Disable Link"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:940
+msgid "Disabled"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:540
+#: classes/menu-item-manager.class.php:578 classes/widget-manager.class.php:955
+msgid "Edit"
+msgstr ""
+
+#: classes/page.locations.class.php:375 classes/nav-menus.class.php:371
+msgid "Effect"
+msgstr ""
+
+#: classes/page.locations.class.php:394 classes/nav-menus.class.php:430
+msgid "Effect (Mobile)"
+msgstr ""
+
+#: classes/nav-menus.class.php:355
+msgid "Enable"
+msgstr ""
+
+#: classes/page.locations.class.php:352
+msgid "Enable Max Mega Menu for this menu location?"
+msgstr ""
+
+#: classes/page.locations.class.php:351
+msgid "Enabled"
+msgstr ""
+
+#: classes/page.locations.class.php:363 classes/nav-menus.class.php:361
+msgid "Event"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:519
+#: classes/menu-item-manager.class.php:577 classes/widget-manager.class.php:952
+msgid "Expand"
+msgstr ""
+
+#: classes/page.locations.class.php:842 classes/nav-menus.class.php:384
+msgid "Fade"
+msgstr ""
+
+#: classes/page.locations.class.php:846 classes/nav-menus.class.php:388
+msgid "Fade Up"
+msgstr ""
+
+#: classes/widget-manager.class.php:272
+#, php-format
+msgid "Failed to add %s to %d"
+msgstr ""
+
+#: classes/widget-manager.class.php:294
+#, php-format
+msgid "Failed to delete %s"
+msgstr ""
+
+#: classes/widget-manager.class.php:201
+#, php-format
+msgid "Failed to save %s"
+msgstr ""
+
+#: classes/widget-manager.class.php:224 classes/widget-manager.class.php:247
+#, php-format
+msgid "Failed to update %s"
+msgstr ""
+
+#: classes/page.locations.class.php:883 classes/page.locations.class.php:952
+#: classes/nav-menus.class.php:416 classes/nav-menus.class.php:471
+msgid "Fast"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:227
+msgid "Flyout Menu"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:790
+msgid "Font Awesome"
+msgstr ""
+
+#: classes/page.locations.class.php:444
+msgid "For use in a post or page."
+msgstr ""
+
+#: classes/page.locations.class.php:432
+msgid "For use in a theme template (usually header.php)"
+msgstr ""
+
+#: classes/page.locations.class.php:456
+msgid "For use in a widget area."
+msgstr ""
+
+#: classes/page.locations.class.php:347
+msgid "General Settings"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:795
+msgid "Genericons"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:792
+msgid "Get access to over 400 Font Awesome Icons with {link}"
+msgstr ""
+
+#: classes/nav-menus.class.php:300
+msgid "here"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:406
+#: classes/menu-item-manager.class.php:500
+msgid "Hidden on desktop"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:408
+#: classes/menu-item-manager.class.php:502
+msgid "Hidden on mobile"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:622
+msgid "Hide Arrow"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:646
+msgid "Hide Item on Desktop"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:638
+msgid "Hide Item on Mobile"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:725
+msgid "Hide Sub Menu on Mobile"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:614
+msgid "Hide Text"
+msgstr ""
+
+#: classes/page.locations.class.php:809 classes/nav-menus.class.php:365
+msgid "Hover"
+msgstr ""
+
+#: classes/page.locations.class.php:808 classes/nav-menus.class.php:364
+msgid "Hover Intent"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.megamenu.com"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:841
+msgid "Icon"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:830
+msgid "Icon Color"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:684 classes/toggle-blocks.class.php:837
+msgid "Icon Position"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:834
+msgid "Icon Size"
+msgstr ""
+
+#: megamenu.php:1286
+msgid ""
+"If you are trying to display Max Mega Menu here, use the 'Max Mega Menu' "
+"widget instead."
+msgstr ""
+
+#: classes/widget.class.php:137
+msgid "Inactive locations"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:673
+msgid ""
+"Item will be aligned based on the 'Menu Items Align' option set in the Theme "
+"Editor"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:916
+msgid "Label"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:911
+msgid "Large"
+msgstr ""
+
+#: classes/nav-menus.class.php:216
+msgid "Launched for Menu ID"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:667
+#: classes/menu-item-manager.class.php:688
+msgid "Left"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:711
+msgid "Left edge of Parent"
+msgstr ""
+
+#: classes/page.locations.class.php:474
+msgid "Location Description"
+msgstr ""
+
+#. Name of the plugin
+msgid "Max Mega Menu"
+msgstr ""
+
+#: megamenu.php:1250
+#, php-format
+msgid ""
+"Max Mega Menu has been updated. Please %s to ensure maximum compatibility "
+"with the latest version."
+msgstr ""
+
+#: megamenu.php:1213
+msgid ""
+"Max Mega Menu is not compatible with your version of WordPress. Please "
+"upgrade WordPress to the latest version or disable Max Mega Menu."
+msgstr ""
+
+#: classes/menu-item-manager.class.php:792
+#: classes/menu-item-manager.class.php:797
+#: classes/menu-item-manager.class.php:802
+msgid "Max Mega Menu Pro"
+msgstr ""
+
+#: classes/nav-menus.class.php:140
+msgid "Max Mega Menu Settings"
+msgstr ""
+
+#: megamenu.php:294
+msgid "Max Mega Menu Widgets"
+msgstr ""
+
+#: classes/page.locations.class.php:882 classes/page.locations.class.php:951
+#: classes/nav-menus.class.php:415 classes/nav-menus.class.php:470
+msgid "Med"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:910
+msgid "Medium"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:276 classes/nav-menus.class.php:217
+msgid "Mega Menu"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:228
+msgid "Mega Menu - Grid Layout"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:229
+msgid "Mega Menu - Standard Layout"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:220
+msgid "Mega Menus can only be created on top level menu items."
+msgstr ""
+
+#. Author of the plugin
+msgid "megamenu.com"
+msgstr ""
+
+#: classes/widget-manager.class.php:642 classes/widget-manager.class.php:686
+msgid "Menu Item"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:654
+msgid "Menu Item Align"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:808
+msgid "Menu Item Icon"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:610
+msgid "Menu Item Settings"
+msgstr ""
+
+#: classes/page.locations.class.php:760
+msgid "Menu Location Deleted"
+msgstr ""
+
+#: classes/page.locations.class.php:764
+msgid "Menu Location Saved"
+msgstr ""
+
+#: classes/widget.class.php:104
+msgid "Menu Location:"
+msgstr ""
+
+#: classes/page.locations.class.php:198 classes/page.locations.class.php:221
+msgid "Menu Locations"
+msgstr ""
+
+#: classes/page.locations.class.php:427
+msgid "Menu Output Options"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:657 classes/toggle-blocks.class.php:803
+#: classes/toggle-blocks.class.php:896
+msgid "Menu Toggle"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:658
+msgid "Menu Toggle Animated"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:805
+msgid "Menu Toggle Settings"
+msgstr ""
+
+#: megamenu.php:1287
+msgid "More information"
+msgstr ""
+
+#: classes/widget-manager.class.php:318
+#, php-format
+msgid "Moved (%s)"
+msgstr ""
+
+#: classes/page.locations.class.php:756
+msgid "New Menu Location Created"
+msgstr ""
+
+#: classes/widget-elementor-template.class.php:89
+msgid "No Elementor Templates found."
+msgstr ""
+
+#: classes/widget.class.php:148
+msgid "No menu locations found"
+msgstr ""
+
+#: classes/widget-reusable-block.class.php:84
+msgid "No reusable blocks available."
+msgstr ""
+
+#: classes/menu-item-manager.class.php:589
+msgid ""
+"No widgets found. Add a widget to this area using the Widget Selector (top "
+"right)"
+msgstr ""
+
+#: classes/page.locations.class.php:838 classes/page.locations.class.php:911
+#: classes/nav-menus.class.php:380 classes/nav-menus.class.php:439
+msgid "None"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:752
+msgid "Only applies to menu items displayed within mega sub menus."
+msgstr ""
+
+#: classes/nav-menus.class.php:222
+msgid "Oops. Something went wrong. Please reload the page."
+msgstr ""
+
+#: classes/toggle-blocks.class.php:819
+msgid "Open Icon"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:812
+msgid "Open Text"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:677
+#: classes/menu-item-manager.class.php:718
+msgid "Option only available for top level menu items"
+msgstr ""
+
+#: classes/widget.class.php:21
+msgid "Outputs a menu for a selected theme location."
+msgstr ""
+
+#: classes/widget-reusable-block.class.php:23
+msgid "Outputs a reusable block."
+msgstr ""
+
+#: classes/widget-elementor-template.class.php:21
+msgid "Outputs a saved Elementor template."
+msgstr ""
+
+#: classes/page.locations.class.php:431
+msgid "PHP Function"
+msgstr ""
+
+#: classes/nav-menus.class.php:306
+msgid ""
+"Please assign this menu to a theme location to enable the Mega Menu settings."
+msgstr ""
+
+#: classes/nav-menus.class.php:218
+msgid ""
+"Please enable Max Mega Menu using the settings on the left of this page."
+msgstr ""
+
+#: classes/nav-menus.class.php:219
+msgid "Please save the menu structure to enable this option."
+msgstr ""
+
+#: classes/page.locations.class.php:226
+msgid "Registered Menu Locations"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:669
+#: classes/menu-item-manager.class.php:690
+msgid "Right"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:715
+msgid "Right aligned flyout menus will expand to the left"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:674
+msgid ""
+"Right aligned items will appear in reverse order on the right hand side of "
+"the menu bar"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:712
+msgid "Right edge of Parent"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:330
+#: classes/menu-item-manager.class.php:405
+#: classes/menu-item-manager.class.php:406
+#: classes/menu-item-manager.class.php:407
+#: classes/menu-item-manager.class.php:408
+msgid "Row"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:425
+msgid "Row class"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:429
+msgid "Row columns"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:445
+#: classes/menu-item-manager.class.php:527
+msgid "Save"
+msgstr ""
+
+#: classes/widget-manager.class.php:179 classes/widget-manager.class.php:199
+#, php-format
+msgid "Saved %s"
+msgstr ""
+
+#: classes/widget-manager.class.php:351
+#, php-format
+msgid "Saved (%s)"
+msgstr ""
+
+#: classes/nav-menus.class.php:220
+msgid "Saving"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:823
+msgid "Search"
+msgstr ""
+
+#: classes/page.locations.class.php:414
+msgid "Select a theme to be applied to the menu"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:262
+msgid "Select a Widget to add to the panel"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:802
+msgid "Select icons from your media library with {link}"
+msgstr ""
+
+#: classes/widget.class.php:109
+msgid "Select location"
+msgstr ""
+
+#: classes/page.locations.class.php:364
+msgid "Select the event to trigger sub menus"
+msgstr ""
+
+#: classes/page.locations.class.php:376
+msgid "Select the sub menu animation type"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:766
+msgid "Settings"
+msgstr ""
+
+#: classes/page.locations.class.php:443
+msgid "Shortcode"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:908
+msgid "Size"
+msgstr ""
+
+#: classes/page.locations.class.php:850 classes/nav-menus.class.php:392
+msgid "Slide"
+msgstr ""
+
+#: classes/page.locations.class.php:915 classes/nav-menus.class.php:443
+msgid "Slide Down"
+msgstr ""
+
+#: classes/page.locations.class.php:919 classes/nav-menus.class.php:447
+msgid "Slide Left (Off Canvas)"
+msgstr ""
+
+#: classes/page.locations.class.php:923 classes/nav-menus.class.php:451
+msgid "Slide Right (Off Canvas)"
+msgstr ""
+
+#: classes/page.locations.class.php:854 classes/nav-menus.class.php:396
+msgid "Slide Up"
+msgstr ""
+
+#: classes/page.locations.class.php:881 classes/page.locations.class.php:950
+#: classes/nav-menus.class.php:414 classes/nav-menus.class.php:469
+msgid "Slow"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:909
+msgid "Small"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:659 classes/toggle-blocks.class.php:760
+msgid "Spacer"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:762
+msgid "Spacer Settings"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:219
+msgid "Sub Menu"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:705
+msgid "Sub Menu Align"
+msgstr ""
+
+#: classes/widget-manager.class.php:128
+msgid "Sub menu columns"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:232
+msgid "Sub menu display mode"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:700
+msgid "Sub Menu Settings"
+msgstr ""
+
+#: classes/widget-elementor-template.class.php:99
+msgid "Template"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:823
+msgid "Text Color"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:827
+msgid "Text Size"
+msgstr ""
+
+#: classes/page.locations.class.php:413 classes/nav-menus.class.php:485
+msgid "Theme"
+msgstr ""
+
+#: classes/nav-menus.class.php:225
+msgid ""
+"There is not enough space in this row to add a new column. Make space by "
+"reducing the width of the columns within the row or create a new row."
+msgstr ""
+
+#: classes/menu-item-manager.class.php:453
+msgid "There is not enough space on this row to add a new column."
+msgstr ""
+
+#: classes/page.locations.class.php:523
+msgid ""
+"These options are for advanced users only. Your theme should already include "
+"the code required to display this menu location on your site."
+msgstr ""
+
+#: classes/page.locations.class.php:227
+msgid "This is an overview of the menu locations supported by your theme."
+msgstr ""
+
+#: megamenu.php:295
+msgid ""
+"This is where Max Mega Menu stores widgets that you have added to sub menus "
+"using the mega menu builder. You can edit existing widgets here, but new "
+"widgets must be added through the Mega Menu interface (under Appearance > "
+"Menus)."
+msgstr ""
+
+#: classes/page.locations.class.php:262
+msgid "This location does not have a menu assigned to it."
+msgstr ""
+
+#: classes/nav-menus.class.php:302
+msgid "This theme does not register any menu locations."
+msgstr ""
+
+#: classes/widget.class.php:101
+msgid "Title:"
+msgstr ""
+
+#: classes/nav-menus.class.php:307
+msgid ""
+"To assign this menu to a theme location, scroll to the bottom of this page "
+"and tag the menu to a 'Display location'."
+msgstr ""
+
+#: classes/toggle-blocks.class.php:803 classes/toggle-blocks.class.php:896
+msgid "TOGGLE"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:382
+msgid "Toggle Bar Designer"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:689
+msgid "Top"
+msgstr ""
+
+#: classes/page.locations.class.php:475
+msgid "Update the custom location description"
+msgstr ""
+
+#: classes/widget-manager.class.php:222 classes/widget-manager.class.php:245
+#, php-format
+msgid "Updated %s (new columns: %d)"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:405
+#: classes/menu-item-manager.class.php:499
+msgid "Visible on desktop"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:407
+#: classes/menu-item-manager.class.php:501
+msgid "Visible on mobile"
+msgstr ""
+
+#: classes/style-manager.class.php:675
+msgid ""
+"Warning: CSS compilation failed. Please check your changes or revert the "
+"theme."
+msgstr ""
+
+#: classes/page.locations.class.php:455
+msgid "Widget"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:766
+msgid "Width"
+msgstr ""
+
+#: classes/toggle-blocks.class.php:912
+msgid "X Large"
+msgstr ""
+
+#: classes/menu-item-manager.class.php:450
+msgid ""
+"You should rearrange the content of this row so that all columns fit onto a "
+"single line."
+msgstr ""
+
+#: classes/nav-menus.class.php:303
+msgid ""
+"You will need to create a new menu location and use the Max Mega Menu widget "
+"or shortcode to display the menu on your site."
+msgstr ""
+
+#: classes/menu-item-manager.class.php:739 classes/widget-manager.class.php:118
+#, php-format
+msgid ""
+"Your menu CSS needs to be updated before you can use the following setting. "
+"Please go to %s and Clear the CSS Cache (you will only need to do this once)."
+msgstr ""
+
+#: classes/menu-item-manager.class.php:299
+#, php-format
+msgid ""
+"Your menu CSS needs to be updated first. Please go to %s and Clear the CSS "
+"Cache (you will only need to do this once)."
+msgstr ""
+
+#: classes/page.locations.class.php:234
+msgid ""
+"Your theme does not natively support menus, but you can add a new menu "
+"location using Max Mega Menu and display the menu using the Max Mega Menu "
+"widget or shortcode."
+msgstr ""

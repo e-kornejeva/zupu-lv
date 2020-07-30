@@ -1,0 +1,2 @@
+2020-07-30T05:06:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/loco-translate/lib/compiled/gettext.php on line 22
+

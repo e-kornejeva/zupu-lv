@@ -1,0 +1,111 @@
+07-23-2020 @ 21:38:53 - [debug] Request: POST /psp/swish/payments {
+    "payment": {
+        "operation": "Purchase",
+        "intent": "Sale",
+        "currency": "EUR",
+        "prices": [
+            {
+                "type": "Swish",
+                "amount": 1060,
+                "vatAmount": 184
+            }
+        ],
+        "description": "Order #1822",
+        "payerReference": "0acab830-c935-5e9f-a0b8-a9bec4b1dda2",
+        "userAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.102 Safari\/537.36 Edge\/18.18363",
+        "language": "en-US",
+        "urls": {
+            "completeUrl": "https:\/\/zupu.lv\/checkout\/order-received\/1822\/?key=wc_order_X0PSmrGryo4fj",
+            "cancelUrl": "https:\/\/zupu.lv\/grozs\/?cancel_order=true&order=wc_order_X0PSmrGryo4fj&order_id=1822&redirect&_wpnonce=2484114992",
+            "callbackUrl": "https:\/\/zupu.lv\/wc-api\/WC_Gateway_Swedbank_Pay_Swish\/?order_id=1822&key=wc_order_X0PSmrGryo4fj",
+            "termsOfServiceUrl": "https:\/\/zupu.lv",
+            "logoUrl": ""
+        },
+        "payeeInfo": {
+            "payeeId": "21923518",
+            "payeeName": "zupu",
+            "orderReference": 1822,
+            "payeeReference": "1822xzwtiy"
+        },
+        "riskIndicator": {
+            "deliveryTimeFrameIndicator": "04",
+            "shipIndicator": "03",
+            "giftCardPurchase": false
+        },
+        "prefillInfo": {
+            "msisdn": "+4626193190"
+        },
+        "swish": {
+            "ecomOnlyEnabled": true
+        },
+        "metadata": {
+            "order_id": 1822
+        }
+    }
+} 
+07-23-2020 @ 21:38:53 - [debug] [0.1823] Client Exception. Check debug info: 
+>>>>>>>> BEGIN PAYEX API CLIENT REQUEST DEBUG INFO >>>>>>>>
+
+Request Method: POST
+Request URL: https://api.externalintegration.payex.com/psp/swish/payments
+Request Headers: Accept: application/json
+Session-Id: 826caff2-883d-4f07-a2b3-50332843342f
+Forwarded: for=212.3.199.100; proto=https
+Authorization:  Bearer qUvdtXyfh
+Content-Type: application/json; charset=utf-8
+Content-Length: 1593
+Request Body:
+{
+    "payment": {
+        "operation": "Purchase",
+        "intent": "Sale",
+        "currency": "EUR",
+        "prices": [
+            {
+                "type": "Swish",
+                "amount": 1060,
+                "vatAmount": 184
+            }
+        ],
+        "description": "Order #1822",
+        "payerReference": "0acab830-c935-5e9f-a0b8-a9bec4b1dda2",
+        "userAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.3538.102 Safari\/537.36 Edge\/18.18363",
+        "language": "en-US",
+        "urls": {
+            "completeUrl": "https:\/\/zupu.lv\/checkout\/order-received\/1822\/?key=wc_order_X0PSmrGryo4fj",
+            "cancelUrl": "https:\/\/zupu.lv\/grozs\/?cancel_order=true&order=wc_order_X0PSmrGryo4fj&order_id=1822&redirect&_wpnonce=2484114992",
+            "callbackUrl": "https:\/\/zupu.lv\/wc-api\/WC_Gateway_Swedbank_Pay_Swish\/?order_id=1822&key=wc_order_X0PSmrGryo4fj",
+            "termsOfServiceUrl": "https:\/\/zupu.lv",
+            "logoUrl": ""
+        },
+        "payeeInfo": {
+            "payeeId": "21923518",
+            "payeeName": "zupu",
+            "orderReference": 1822,
+            "payeeReference": "1822xzwtiy"
+        },
+        "riskIndicator": {
+            "deliveryTimeFrameIndicator": "04",
+            "shipIndicator": "03",
+            "giftCardPurchase": false
+        },
+        "prefillInfo": {
+            "msisdn": "+4626193190"
+        },
+        "swish": {
+            "ecomOnlyEnabled": true
+        },
+        "metadata": {
+            "order_id": 1822
+        }
+    }
+}
+
+Response Code: 401
+Response Body:
+
+
+<<<<<<<< END PAYEX API CLIENT REQUEST DEBUG INFO <<<<<<<<
+
+ 
+07-23-2020 @ 21:38:53 - [debug] SwedbankPay\Core\Core::SwedbankPay\Core\Library\Methods\Swish::initiateSwishPayment: API Exception: API Exception. Please check logs 

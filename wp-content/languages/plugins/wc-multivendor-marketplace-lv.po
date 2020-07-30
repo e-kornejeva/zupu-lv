@@ -1,0 +1,4903 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Multivendor Marketplace\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-20 06:00+0000\n"
+"PO-Revision-Date: 2020-07-26 19:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: Latviešu valoda\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=n % 10 == 1 && n % 100 != 11 ? 0 : n != 0 ? "
+"1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: core/class-wcfmmp-admin.php:117
+msgid ""
+"<h2>\n"
+"\t\t\t\t\t\t\t\t\t\t   WCFM Marketplace: Multi Vendor Plugin Conflict "
+"Detected !!!\n"
+"\t\t\t\t\t\t\t\t\t\t </h2>"
+msgstr ""
+"<h2>\n"
+"WCFM Marketplace: Konstatēts vairāku pārdevēju spraudņu konflikts !!!\n"
+"</h2>"
+
+#: core/class-wcfmmp-admin.php:120
+#, php-format
+msgid ""
+"<p %s>WCFM - Marketplace is installed and active. But there is another multi-"
+"vendor plugin found in your site. Now this is not possible to run a site "
+"with more than one multi-vendor plugins at a time. %sDisable <b><u>%s</u></b>"
+" to make your site stable and run smoothly.</p>"
+msgstr ""
+"<p %s> WCFM - Marketplace ir uzstādīts un aktīvs. Bet jūsu vietnē ir "
+"atrodams vēl viens vairāku pārdevēju spraudnis. Tagad nav iespējams "
+"vienlaikus palaist vietni, kurā ir vairāk nekā viens vairāku pārdevēju "
+"spraudnis.  %s Atspējo <b><u>%s</u></b>, lai jūsu vietne būtu stabila un "
+"darbotos nevainojami. </p>"
+
+#: core/class-wcfmmp-admin.php:142
+msgid ""
+"<h2>\n"
+"\t\t\t\t\t\t\t\t\t\t   WCFM Marketplace Inactive: WCFM Core Missing !!!\n"
+"\t\t\t\t\t\t\t\t\t\t </h2>"
+msgstr ""
+"<h2>\n"
+"WCFM Marketplace neaktīvs: WCFM Core trūkst !!!\n"
+"</h2>"
+
+#: core/class-wcfmmp-admin.php:145
+msgid ""
+"<p>WCFM Marketplace is inactive. WooCommerce Frontend Manager (WCFM Core) "
+"must be active for the WCFM Marketplace to work. Please install & activate "
+"WooCommerce Frontend Manager.</p>"
+msgstr ""
+"<p> WCFM Marketplace ir neaktīvs. Lai darbotos WCFM Marketplace, jābūt "
+"aktīvam WooCommerce Frontend Manager (WCFM Core). Lūdzu, instalējiet un "
+"aktivizējiet WooCommerce Frontend Manager. </p>"
+
+#: core/class-wcfmmp-admin.php:150 core/class-wcfmmp-admin.php:176
+msgid "GET IT NOW"
+msgstr "IEGŪT TŪLĪT"
+
+#: core/class-wcfmmp-admin.php:168
+msgid ""
+"<h2>\n"
+"\t\t\t\t\t\t\t\t\t\t   WCFM Marketplace: Vendor Registration Disable !!!\n"
+"\t\t\t\t\t\t\t\t\t\t </h2>"
+msgstr ""
+"<h2>\n"
+"WCFM Marketplace: pārdevēju reģistrācija ir atspējota !!!\n"
+"</h2>"
+
+#: core/class-wcfmmp-admin.php:171
+msgid ""
+"<p>WCFM - Membership is essential for WCFM Marketplace to register new "
+"vendors. You may additionally setup vendor membership using this as well. "
+"Recurring subscription also possible using PayPal and Stripe.</p>"
+msgstr ""
+"<p> WCFM - dalība ir būtiska, lai WCFM Marketplace reģistrētu jaunus "
+"pārdevējus. Jūs varat papildus iestatīt pārdevēja dalību, izmantojot arī šo. "
+"Atkārtota abonēšana ir iespējama arī, izmantojot PayPal un Stripe. </p>"
+
+#: core/class-wcfmmp-admin.php:188 core/class-wcfmmp-admin.php:189
+msgid "Marketplace"
+msgstr "Tirgus laukums"
+
+#: core/class-wcfmmp-admin.php:196 core/class-wcfmmp-admin.php:334
+#: core/class-wcfmmp-admin.php:370 core/class-wcfmmp-admin.php:383
+#: core/class-wcfmmp-settings.php:72 core/class-wcfmmp-vendor.php:218
+#: core/class-wcfmmp-vendor.php:225 core/class-wcfmmp-vendor.php:1807
+#: helpers/class-wcfmmp-store-setup.php:57
+#: views/product_multivendor/wcfmmp-view-more-offers-loop.php:75
+msgid "Store"
+msgstr "Veikals"
+
+#: core/class-wcfmmp-admin.php:339
+msgid "Commission"
+msgstr "Komisija"
+
+#: core/class-wcfmmp-admin.php:401 core/class-wcfmmp-admin.php:533
+#: core/class-wcfmmp-admin.php:618 core/class-wcfmmp-admin.php:691
+#: core/class-wcfmmp-frontend.php:583 core/class-wcfmmp-product.php:133
+#: core/class-wcfmmp-product.php:198 core/class-wcfmmp-vendor.php:939
+#: core/class-wcfmmp-vendor.php:957 core/class-wcfmmp-vendor.php:982
+msgid "By Global Rule"
+msgstr "Pēc vispārējiem noteikumiem"
+
+#: core/class-wcfmmp-admin.php:427 core/class-wcfmmp-admin.php:633
+#: core/class-wcfmmp-admin.php:710 core/class-wcfmmp-frontend.php:619
+#: core/class-wcfmmp-product.php:166 core/class-wcfmmp-settings.php:507
+#: core/class-wcfmmp-vendor.php:1006
+msgid "Commission For"
+msgstr "Komisija par"
+
+#: core/class-wcfmmp-admin.php:429 core/class-wcfmmp-admin.php:635
+#: core/class-wcfmmp-admin.php:710 core/class-wcfmmp-frontend.php:619
+#: core/class-wcfmmp-product.php:166 core/class-wcfmmp-settings.php:507
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:147
+msgid "Vendor"
+msgstr "Pārdevējs"
+
+#: core/class-wcfmmp-admin.php:429 core/class-wcfmmp-admin.php:635
+#: core/class-wcfmmp-admin.php:710 core/class-wcfmmp-frontend.php:619
+#: core/class-wcfmmp-product.php:166 core/class-wcfmmp-settings.php:507
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:146
+msgid "Admin"
+msgstr "Administrators"
+
+#: core/class-wcfmmp-admin.php:431 core/class-wcfmmp-admin.php:637
+#: core/class-wcfmmp-admin.php:710 core/class-wcfmmp-frontend.php:619
+#: core/class-wcfmmp-product.php:166 core/class-wcfmmp-vendor.php:1006
+msgid "Always applicable as per global rule."
+msgstr "Vienmēr piemērojams saskaņā ar vispārējiem noteikumiem."
+
+#: core/class-wcfmmp-admin.php:434 core/class-wcfmmp-admin.php:549
+#: core/class-wcfmmp-admin.php:640 core/class-wcfmmp-admin.php:714
+#: core/class-wcfmmp-frontend.php:620 core/class-wcfmmp-product.php:167
+#: core/class-wcfmmp-product.php:205 core/class-wcfmmp-settings.php:508
+#: core/class-wcfmmp-vendor.php:1007
+msgid "Commission Mode"
+msgstr "Komisijas režīms"
+
+#: core/class-wcfmmp-admin.php:438 core/class-wcfmmp-admin.php:553
+#: core/class-wcfmmp-admin.php:644 core/class-wcfmmp-admin.php:714
+#: core/class-wcfmmp-product.php:167 core/class-wcfmmp-product.php:205
+msgid ""
+"Keep this as Global to apply commission rule as per vendor or marketplace "
+"commission setup."
+msgstr ""
+"Saglabājiet to kā globālu, lai piemērotu komisijas maksas noteikumus katram "
+"pārdevējam vai tirgotavas komisijai."
+
+#: core/class-wcfmmp-admin.php:441 core/class-wcfmmp-admin.php:563
+#: core/class-wcfmmp-admin.php:647 core/class-wcfmmp-admin.php:718
+#: core/class-wcfmmp-frontend.php:621 core/class-wcfmmp-frontend.php:627
+#: core/class-wcfmmp-frontend.php:634 core/class-wcfmmp-frontend.php:641
+#: core/class-wcfmmp-product.php:168 core/class-wcfmmp-product.php:206
+#: core/class-wcfmmp-settings.php:509 core/class-wcfmmp-settings.php:515
+#: core/class-wcfmmp-settings.php:522 core/class-wcfmmp-settings.php:529
+#: core/class-wcfmmp-vendor.php:1008 core/class-wcfmmp-vendor.php:1014
+#: core/class-wcfmmp-vendor.php:1021 core/class-wcfmmp-vendor.php:1028
+msgid "Commission Percent(%)"
+msgstr "Komisijas procents (%)"
+
+#: core/class-wcfmmp-admin.php:447 core/class-wcfmmp-admin.php:577
+#: core/class-wcfmmp-admin.php:653 core/class-wcfmmp-admin.php:722
+#: core/class-wcfmmp-frontend.php:622 core/class-wcfmmp-frontend.php:628
+#: core/class-wcfmmp-frontend.php:635 core/class-wcfmmp-frontend.php:642
+#: core/class-wcfmmp-product.php:169 core/class-wcfmmp-product.php:207
+#: core/class-wcfmmp-settings.php:510 core/class-wcfmmp-settings.php:516
+#: core/class-wcfmmp-settings.php:523 core/class-wcfmmp-settings.php:530
+#: core/class-wcfmmp-vendor.php:1009 core/class-wcfmmp-vendor.php:1015
+#: core/class-wcfmmp-vendor.php:1022 core/class-wcfmmp-vendor.php:1029
+msgid "Commission Fixed"
+msgstr "Komisija noteikta"
+
+#: core/class-wcfmmp-admin.php:453 core/class-wcfmmp-admin.php:659
+#: core/class-wcfmmp-admin.php:725 core/class-wcfmmp-frontend.php:652
+#: core/class-wcfmmp-product.php:173 core/class-wcfmmp-settings.php:540
+#: core/class-wcfmmp-vendor.php:1038
+msgid "Commission Tax Settings"
+msgstr "Komisijas nodokļu iestatījumi"
+
+#: core/class-wcfmmp-admin.php:455 core/class-wcfmmp-admin.php:661
+#: core/class-wcfmmp-admin.php:728 core/class-wcfmmp-frontend.php:653
+#: core/class-wcfmmp-product.php:174 core/class-wcfmmp-settings.php:545
+#: core/class-wcfmmp-settings.php:1073 core/class-wcfmmp-settings.php:1086
+#: core/class-wcfmmp-settings.php:1201 core/class-wcfmmp-settings.php:1324
+#: core/class-wcfmmp-settings.php:1939 core/class-wcfmmp-settings.php:1953
+#: core/class-wcfmmp-settings.php:1968 core/class-wcfmmp-vendor.php:1039
+msgid "Enable"
+msgstr "Iespējot"
+
+#: core/class-wcfmmp-admin.php:461 core/class-wcfmmp-admin.php:667
+#: core/class-wcfmmp-admin.php:732 core/class-wcfmmp-frontend.php:654
+#: core/class-wcfmmp-product.php:175 core/class-wcfmmp-settings.php:546
+#: core/class-wcfmmp-vendor.php:1041
+msgid "Tax Label"
+msgstr "Nodokļu etiķete"
+
+#: core/class-wcfmmp-admin.php:463 core/class-wcfmmp-admin.php:669
+#: core/class-wcfmmp-admin.php:732 core/class-wcfmmp-frontend.php:654
+#: core/class-wcfmmp-product.php:175 core/class-wcfmmp-settings.php:546
+#: core/class-wcfmmp-vendor.php:1041
+msgid "Tax"
+msgstr "Nodoklis"
+
+#: core/class-wcfmmp-admin.php:467 core/class-wcfmmp-admin.php:673
+#: core/class-wcfmmp-admin.php:736 core/class-wcfmmp-frontend.php:655
+#: core/class-wcfmmp-product.php:176 core/class-wcfmmp-settings.php:547
+#: core/class-wcfmmp-vendor.php:1042
+msgid "Tax Percent (%)"
+msgstr "Nodokļu procents (%)"
+
+#: core/class-wcfmmp-admin.php:631 core/class-wcfmmp-admin.php:707
+#: core/class-wcfmmp-settings.php:498
+msgid "Commission Settings"
+msgstr "Komisijas iestatījumi"
+
+#: core/class-wcfmmp-ajax.php:61
+msgid "This status not allowed, please go through Refund Request."
+msgstr "Šis statuss nav atļauts. Lūdzu, izmantojiet atmaksas pieprasījumu."
+
+#: core/class-wcfmmp-ajax.php:66
+msgid "This status not allowed, please go through Shipment Tracking."
+msgstr "Šis statuss nav atļauts. Lūdzu, skatiet sūtījumu izsekošanu."
+
+#: core/class-wcfmmp-ajax.php:109
+#, php-format
+msgid "Order item <b>%s</b> status updated to <b>%s</b> by <b>%s</b>"
+msgstr ""
+"Pasūtījuma vienības <b>%s</b> statuss ir atjaunināts uz <b>%s</b> ar <b> %s "
+"</b>"
+
+#: core/class-wcfmmp-ajax.php:117
+#, php-format
+msgid "<b>%s</b> order item <b>%s</b> status updated to <b>%s</b> by <b>%s</b>"
+msgstr ""
+"<b>%s</b> pasūtījuma vienības <b>%s</b> statuss ir atjaunināts uz <b> %s </b>"
+" ar <b>%s</b>"
+
+#: core/class-wcfmmp-ajax.php:156 core/class-wcfmmp-commission.php:880
+#, php-format
+msgid "<b>%s</b> order status updated to <b>%s</b>"
+msgstr "<b>%s</b> pasūtījuma statuss ir atjaunināts uz <b>%s</b>"
+
+#: core/class-wcfmmp-ajax.php:435
+msgid "Back to Zone List"
+msgstr "Atpakaļ zonu sarakstā"
+
+#: core/class-wcfmmp-ajax.php:441 core/class-wcfmmp-ajax.php:444
+#: views/shipping/wcfmmp-view-shipping-settings.php:178
+msgid "Zone Name"
+msgstr "Zonas nosaukums"
+
+#: core/class-wcfmmp-ajax.php:453 core/class-wcfmmp-ajax.php:457
+msgid "Zone Location"
+msgstr "Zonas atrašanās vieta"
+
+#: core/class-wcfmmp-ajax.php:490
+msgid "Limit Zone Location"
+msgstr "Limit Zone atrašanās vieta"
+
+#: core/class-wcfmmp-ajax.php:505
+msgid "Select Specific Countries"
+msgstr "Atlasiet konkrētas valstis"
+
+#: core/class-wcfmmp-ajax.php:521
+msgid "Select Specific States"
+msgstr "Atlasiet Īpašos novadus"
+
+#: core/class-wcfmmp-ajax.php:538
+msgid "Select Specific City"
+msgstr "Atlasiet konkrētu pilsētu"
+
+#: core/class-wcfmmp-ajax.php:555
+msgid "Set your postcode"
+msgstr "Iestatiet savu pasta indeksu"
+
+#: core/class-wcfmmp-ajax.php:560
+msgid ""
+"Postcodes containing wildcards (e.g. CB23*) or fully numeric ranges (e.g. "
+"90210...99000) are also supported."
+msgstr ""
+"Tiek atbalstīti arī pasta kodi, kas satur aizstājējzīmes (piemēram, CB23 *) "
+"vai pilnībā skaitliskus diapazonus (piemēram, 90210 ... 99000)."
+
+#: core/class-wcfmmp-ajax.php:573
+#: views/shipping/wcfmmp-view-shipping-settings.php:180
+msgid "Shipping Method"
+msgstr "piegādes metode"
+
+#: core/class-wcfmmp-ajax.php:577
+msgid "Add your shipping method for appropiate zone"
+msgstr "Pievienojiet savai nosūtīšanas metodei atbilstošo zonu"
+
+#: core/class-wcfmmp-ajax.php:585
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:78
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-distance.php:189
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:186
+#: views/shipping/wcfmmp-view-edit-method-popup.php:43
+#: views/shipping/wcfmmp-view-edit-method-popup.php:91
+#: views/shipping/wcfmmp-view-edit-method-popup.php:162
+msgid "Method Title"
+msgstr "Metodes nosaukums"
+
+#: core/class-wcfmmp-ajax.php:586 views/ledger/wcfmmp-view-ledger.php:107
+#: views/ledger/wcfmmp-view-ledger.php:117
+#: views/reviews/wcfmmp-view-product-reviews.php:92
+#: views/reviews/wcfmmp-view-product-reviews.php:104
+#: views/reviews/wcfmmp-view-reviews-manage.php:167
+#: views/reviews/wcfmmp-view-reviews.php:90
+#: views/reviews/wcfmmp-view-reviews.php:102
+msgid "Status"
+msgstr "Statuss"
+
+#: core/class-wcfmmp-ajax.php:587
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:137
+#: views/shipping/wcfmmp-view-edit-method-popup.php:73
+#: views/shipping/wcfmmp-view-edit-method-popup.php:144
+#: views/shipping/wcfmmp-view-edit-method-popup.php:220
+msgid "Description"
+msgstr "Apraksts"
+
+#: core/class-wcfmmp-ajax.php:595
+msgid "No shipping method found"
+msgstr "Nav atrasta nosūtīšanas metode"
+
+#: core/class-wcfmmp-ajax.php:615
+#: views/shipping/wcfmmp-view-shipping-settings.php:195
+msgid "Edit"
+msgstr "Rediģēt"
+
+#: core/class-wcfmmp-ajax.php:620
+#: controllers/media/wcfmmp-controller-media.php:149
+#: controllers/reviews/wcfmmp-controller-product-reviews.php:141
+#: controllers/reviews/wcfmmp-controller-reviews.php:132
+msgid "Delete"
+msgstr "Dzēst"
+
+#: core/class-wcfmmp-ajax.php:655
+#: views/shipping/wcfmmp-view-add-method-popup.php:37
+msgid "Add Shipping Method"
+msgstr "Pievienojiet piegādes metodi"
+
+#: core/class-wcfmmp-ajax.php:693
+msgid "Shipping method added successfully"
+msgstr "Piegādes metode ir veiksmīgi pievienota"
+
+#: core/class-wcfmmp-ajax.php:716
+msgid "Shipping method enabled successfully"
+msgstr "Piegādes metode ir veiksmīgi iespējota"
+
+#: core/class-wcfmmp-ajax.php:716
+msgid "Shipping method disabled successfully"
+msgstr "Piegādes metode ir veiksmīgi atspējota"
+
+#: core/class-wcfmmp-ajax.php:739
+msgid "Shipping method deleted"
+msgstr "Piegādes metode ir izdzēsta"
+
+#: core/class-wcfmmp-ajax.php:755
+msgid "Shipping title must be required"
+msgstr "Jānorāda sūtījuma nosaukums"
+
+#: core/class-wcfmmp-ajax.php:762
+msgid "Shipping method updated"
+msgstr "Piegādes metode ir atjaunināta"
+
+#: core/class-wcfmmp-ajax.php:812
+#, php-format
+msgid "Your Store: <b>%s</b> has been set off-line."
+msgstr "Jūsu veikals: <b>%s</b> ir iestatīts bezsaistē."
+
+#: core/class-wcfmmp-ajax.php:817
+msgid "Vendor Store Off-line."
+msgstr "Pārdevēju veikals bezsaistē."
+
+#: core/class-wcfmmp-ajax.php:835
+#, php-format
+msgid "Your Store: <b>%s</b> has been set on-line."
+msgstr "Jūsu veikals: <b>%s</b> ir iestatīts tiešsaistē."
+
+#: core/class-wcfmmp-ajax.php:840
+msgid "Vendor Store On-line."
+msgstr "Pārdevēju veikals tiešsaistē."
+
+#: core/class-wcfmmp-commission.php:499
+msgid "Split Pay for Order #"
+msgstr "Maksājums par pasūtījumu Nr."
+
+#: core/class-wcfmmp-commission.php:500
+msgid "Payment for Order #"
+msgstr "Maksājums par pasūtījumu Nr."
+
+#: core/class-wcfmmp-frontend.php:309 core/class-wcfmmp-frontend.php:393
+msgid "Delivery Location"
+msgstr "Piegādes vieta"
+
+#: core/class-wcfmmp-frontend.php:310
+msgctxt "placeholder"
+msgid "Insert your address .."
+msgstr "Ievadiet savu adresi .."
+
+#: core/class-wcfmmp-frontend.php:405 helpers/wcfmmp-core-functions.php:792
+#: helpers/wcfmmp-core-functions.php:818
+msgid "Location"
+msgstr "Atrašanās vieta"
+
+#: core/class-wcfmmp-frontend.php:526 core/class-wcfmmp-frontend.php:528
+msgid "Become a Vendor"
+msgstr "Kļūsti par pārdevēju"
+
+#: core/class-wcfmmp-frontend.php:542
+msgid "Store Manager"
+msgstr "Veikala vadītājs"
+
+#: core/class-wcfmmp-frontend.php:623 core/class-wcfmmp-settings.php:511
+#: core/class-wcfmmp-vendor.php:1010
+msgid "Commission By Sales Rule(s)"
+msgstr "Komisija pēc pārdošanas noteikumiem (-iem)"
+
+#: core/class-wcfmmp-frontend.php:623 core/class-wcfmmp-settings.php:511
+#: core/class-wcfmmp-vendor.php:1010
+#, php-format
+msgid ""
+"Commission rules depending upon vendors total sales. e.g 50&#37; commission "
+"when sales < %s1000, 75&#37; commission when sales > %s1000 but < %s2000 and "
+"so on. You may define any number of such rules. Please be sure, do not set "
+"conflicting rules."
+msgstr ""
+"Komisijas noteikumi atkarībā no pārdevēja pārdošanas apjoma. piemēram, "
+"50&#37; komisijas maksa, ja pārdošanas apjomi ir < %s1000, 75&#37; komisija, "
+"ja pārdošanas apjomi ir >%s1000, bet< %s2000 un tā tālāk. Jūs varat definēt "
+"jebkuru šādu noteikumu skaitu. Lūdzu, pārliecinieties, ka nelieciet "
+"pretrunīgus noteikumus."
+
+#: core/class-wcfmmp-frontend.php:624 core/class-wcfmmp-settings.php:512
+#: core/class-wcfmmp-vendor.php:1011
+msgid "Sales"
+msgstr "Pārdošana"
+
+#: core/class-wcfmmp-frontend.php:625 core/class-wcfmmp-frontend.php:632
+#: core/class-wcfmmp-frontend.php:639 core/class-wcfmmp-settings.php:513
+#: core/class-wcfmmp-settings.php:520 core/class-wcfmmp-settings.php:527
+#: core/class-wcfmmp-vendor.php:1012 core/class-wcfmmp-vendor.php:1019
+#: core/class-wcfmmp-vendor.php:1026
+msgid "Rule"
+msgstr "Noteikums"
+
+#: core/class-wcfmmp-frontend.php:625 core/class-wcfmmp-frontend.php:632
+#: core/class-wcfmmp-frontend.php:639 core/class-wcfmmp-settings.php:513
+#: core/class-wcfmmp-settings.php:520 core/class-wcfmmp-settings.php:527
+#: core/class-wcfmmp-vendor.php:1012 core/class-wcfmmp-vendor.php:1019
+#: core/class-wcfmmp-vendor.php:1026
+msgid "Up to"
+msgstr "Līdz"
+
+#: core/class-wcfmmp-frontend.php:625 core/class-wcfmmp-frontend.php:632
+#: core/class-wcfmmp-frontend.php:639 core/class-wcfmmp-settings.php:513
+#: core/class-wcfmmp-settings.php:520 core/class-wcfmmp-settings.php:527
+#: core/class-wcfmmp-vendor.php:1012 core/class-wcfmmp-vendor.php:1019
+#: core/class-wcfmmp-vendor.php:1026
+msgid "More than"
+msgstr "Vairāk par"
+
+#: core/class-wcfmmp-frontend.php:626 core/class-wcfmmp-frontend.php:633
+#: core/class-wcfmmp-frontend.php:640 core/class-wcfmmp-settings.php:514
+#: core/class-wcfmmp-settings.php:521 core/class-wcfmmp-settings.php:528
+#: core/class-wcfmmp-vendor.php:1013 core/class-wcfmmp-vendor.php:1020
+#: core/class-wcfmmp-vendor.php:1027
+msgid "Commission Type"
+msgstr "Komisijas veids"
+
+#: core/class-wcfmmp-frontend.php:626 core/class-wcfmmp-frontend.php:633
+#: core/class-wcfmmp-frontend.php:640 core/class-wcfmmp-settings.php:514
+#: core/class-wcfmmp-settings.php:521 core/class-wcfmmp-settings.php:528
+#: core/class-wcfmmp-settings.php:833 core/class-wcfmmp-settings.php:857
+#: core/class-wcfmmp-vendor.php:1013 core/class-wcfmmp-vendor.php:1020
+#: core/class-wcfmmp-vendor.php:1027 core/class-wcfmmp-vendor.php:1068
+#: core/class-wcfmmp-vendor.php:1108 helpers/wcfmmp-core-functions.php:412
+msgid "Percent"
+msgstr "Procenti"
+
+#: core/class-wcfmmp-frontend.php:626 core/class-wcfmmp-frontend.php:633
+#: core/class-wcfmmp-frontend.php:640 core/class-wcfmmp-settings.php:514
+#: core/class-wcfmmp-settings.php:521 core/class-wcfmmp-settings.php:528
+#: core/class-wcfmmp-settings.php:833 core/class-wcfmmp-settings.php:857
+#: core/class-wcfmmp-vendor.php:1013 core/class-wcfmmp-vendor.php:1020
+#: core/class-wcfmmp-vendor.php:1027 core/class-wcfmmp-vendor.php:1068
+#: core/class-wcfmmp-vendor.php:1108 helpers/wcfmmp-core-functions.php:413
+msgid "Fixed"
+msgstr "Fiksēts"
+
+#: core/class-wcfmmp-frontend.php:626 core/class-wcfmmp-frontend.php:633
+#: core/class-wcfmmp-frontend.php:640 core/class-wcfmmp-settings.php:514
+#: core/class-wcfmmp-settings.php:521 core/class-wcfmmp-settings.php:528
+#: core/class-wcfmmp-settings.php:833 core/class-wcfmmp-settings.php:857
+#: core/class-wcfmmp-vendor.php:1013 core/class-wcfmmp-vendor.php:1020
+#: core/class-wcfmmp-vendor.php:1027 core/class-wcfmmp-vendor.php:1068
+#: core/class-wcfmmp-vendor.php:1108 helpers/wcfmmp-core-functions.php:414
+msgid "Percent + Fixed"
+msgstr "Procenti + fiksēti"
+
+#: core/class-wcfmmp-frontend.php:630 core/class-wcfmmp-settings.php:518
+#: core/class-wcfmmp-vendor.php:1017
+msgid "Commission By Product Price"
+msgstr "Komisija pēc produkta cenas"
+
+#: core/class-wcfmmp-frontend.php:630 core/class-wcfmmp-settings.php:518
+#: core/class-wcfmmp-vendor.php:1017
+#, php-format
+msgid ""
+"Commission rules depending upon product price. e.g 80&#37; commission when "
+"product cost < %s1000, %s100 fixed commission when product cost > %s1000 and "
+"so on. You may define any number of such rules. Please be sure, do not set "
+"conflicting rules."
+msgstr ""
+"Komisijas noteikumi atkarībā no produkta cenas. piemēram, 80&#37; komisijas "
+"maksa, ja produkta izmaksas ir < %s1000, %s100 fiksēta komisija, ja produkta "
+"izmaksas ir > %s1000 un tā tālāk. Jūs varat definēt jebkuru šādu noteikumu "
+"skaitu. Lūdzu, pārliecinieties, ka nelieciet pretrunīgus noteikumus."
+
+#: core/class-wcfmmp-frontend.php:631 core/class-wcfmmp-settings.php:519
+#: core/class-wcfmmp-vendor.php:1018
+msgid "Product Cost"
+msgstr "Produkta izmaksas"
+
+#: core/class-wcfmmp-frontend.php:637 core/class-wcfmmp-settings.php:525
+#: core/class-wcfmmp-vendor.php:1024
+msgid "Commission By Purchase Quantity"
+msgstr "Komisija pēc pirkuma daudzuma"
+
+#: core/class-wcfmmp-frontend.php:637 core/class-wcfmmp-settings.php:525
+#: core/class-wcfmmp-vendor.php:1024
+msgid ""
+"Commission rules depending upon purchased product quantity. e.g 80&#37; "
+"commission when purchase quantity 2, 80&#37; commission when purchase "
+"quantity > 2 and so on. You may define any number of such rules. Please be "
+"sure, do not set conflicting rules."
+msgstr ""
+"Komisijas noteikumi atkarībā no iegādātā produkta daudzuma. piemēram, 80% "
+"komisijas maksa, pērkot daudzumu 2, 80% komisija, ja pirkuma daudzums ir "
+"lielāks par 2 un tā tālāk. Jūs varat definēt jebkuru šādu noteikumu skaitu. "
+"Lūdzu, pārliecinieties, ka nelieciet pretrunīgus noteikumus."
+
+#: core/class-wcfmmp-frontend.php:638 core/class-wcfmmp-settings.php:526
+#: core/class-wcfmmp-vendor.php:1025
+msgid "Purchase Quantity"
+msgstr "Pirkuma daudzums"
+
+#: core/class-wcfmmp-frontend.php:644 core/class-wcfmmp-settings.php:532
+#: core/class-wcfmmp-vendor.php:1031
+msgid "Shipping cost goes to vendor?"
+msgstr "Piegādes izmaksas nonāk pie pārdevēja?"
+
+#: core/class-wcfmmp-frontend.php:645 core/class-wcfmmp-settings.php:533
+#: core/class-wcfmmp-vendor.php:1032
+msgid "Tax goes to vendor?"
+msgstr "Nodoklis iet pārdevējam?"
+
+#: core/class-wcfmmp-frontend.php:646 core/class-wcfmmp-settings.php:534
+#: core/class-wcfmmp-vendor.php:1033
+msgid "Commission after consider Vendor Coupon?"
+msgstr "Komisija pēc pārdevēja kupona izskatīšanas?"
+
+#: core/class-wcfmmp-frontend.php:646 core/class-wcfmmp-settings.php:534
+#: core/class-wcfmmp-vendor.php:1033
+msgid "Generate vendor commission after deduct Vendor Coupon discounts."
+msgstr ""
+"Ģenerējiet pārdevēja komisiju pēc pārdevēja kupona atlaižu atskaitīšanas."
+
+#: core/class-wcfmmp-frontend.php:647 core/class-wcfmmp-settings.php:535
+#: core/class-wcfmmp-vendor.php:1034
+msgid "Commission after consider Admin Coupon?"
+msgstr "Komisija pēc administratora kupona izskatīšanas?"
+
+#: core/class-wcfmmp-frontend.php:647 core/class-wcfmmp-settings.php:535
+#: core/class-wcfmmp-vendor.php:1034
+msgid "Generate vendor commission after deduct Admin Coupon discounts."
+msgstr ""
+"Ģenerējiet pārdevēja komisiju pēc administratora kupona atlaižu "
+"atskaitīšanas."
+
+#: core/class-wcfmmp-frontend.php:896
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-category-filter.php:64
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:105
+msgid "Choose Category"
+msgstr "Izvēlieties kategoriju"
+
+#: core/class-wcfmmp-frontend.php:896
+msgid "Choose Location"
+msgstr "Izvēlieties atrašanās vietu"
+
+#: core/class-wcfmmp-frontend.php:896
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:94
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:100
+msgid "Choose State"
+msgstr "Izvēlieties novadu"
+
+#: core/class-wcfmmp-frontend.php:897 core/class-wcfmmp-frontend.php:909
+#: core/class-wcfmmp-frontend.php:930 core/class-wcfmmp-library.php:103
+#: helpers/class-wcfmmp-store-setup.php:199
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-radius-filter.php:65
+#: views/product-geolocate/wcfmmp-view-product-lists-search-form.php:39
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:250
+msgid "Insert your address .."
+msgstr "Ievadiet savu adresi .."
+
+#: core/class-wcfmmp-ledger.php:76 core/class-wcfmmp-ledger.php:107
+#: views/ledger/wcfmmp-view-ledger.php:34
+#: views/ledger/wcfmmp-view-ledger.php:41
+msgid "Ledger Book"
+msgstr "Grāmatu grāmata"
+
+#: core/class-wcfmmp-ledger.php:186 views/emails/store-new-order.php:74
+#: views/emails/store-new-order.php:76 views/ledger/wcfmmp-view-ledger.php:52
+#: views/reviews/wcfmmp-view-reviews-manage.php:77
+#: views/emails/plain/store-new-order.php:74
+#: views/emails/plain/store-new-order.php:76
+msgid "Order"
+msgstr "Pasūtīt"
+
+#: core/class-wcfmmp-ledger.php:187 views/ledger/wcfmmp-view-ledger.php:53
+msgid "Withdrawal"
+msgstr "Izstāšanās"
+
+#: core/class-wcfmmp-ledger.php:188 views/emails/store-new-order.php:424
+#: views/ledger/wcfmmp-view-ledger.php:47
+#: views/ledger/wcfmmp-view-ledger.php:57
+#: views/emails/plain/store-new-order.php:424
+msgid "Refunded"
+msgstr "Atmaksāts"
+
+#: core/class-wcfmmp-ledger.php:189 views/ledger/wcfmmp-view-ledger.php:58
+msgid "Partial Refunded"
+msgstr "Daļēji atmaksāts"
+
+#: core/class-wcfmmp-ledger.php:190 views/ledger/wcfmmp-view-ledger.php:59
+msgid "Charges"
+msgstr "Maksas"
+
+#: core/class-wcfmmp-ledger.php:204
+#, php-format
+msgid "Earning for %s order #%s."
+msgstr "Nopelnīt %s pasūtījumu #%s."
+
+#: core/class-wcfmmp-ledger.php:216
+msgid "Withdrawal Charges."
+msgstr "Maksa par izstāšanos."
+
+#: core/class-wcfmmp-ledger.php:222
+#, php-format
+msgid "Auto withdrawal by paymode for order #%s."
+msgstr "Automātiska maksājuma veida izņemšana no pasūtījuma #%s."
+
+#: core/class-wcfmmp-ledger.php:224
+#, php-format
+msgid "Withdrawal by Stripe Split Pay for order #%s."
+msgstr "Izņemšana ar Stripe Split Maksājiet par pasūtījumu #%s."
+
+#: core/class-wcfmmp-ledger.php:226
+#, php-format
+msgid "Withdrawal by request for order(s) %s."
+msgstr "Izņemšana pēc pasūtījuma(-u) pieprasījuma %s."
+
+#: core/class-wcfmmp-ledger.php:238
+#, php-format
+msgid "Reverse Withdrawal for order #%s."
+msgstr "Pasūtījuma #%s atsaukšana atpakaļgaitā."
+
+#: core/class-wcfmmp-ledger.php:255
+#, php-format
+msgid "Request by Vendor for order #%s."
+msgstr "Pārdevēja pieprasījums pēc pasūtījuma #%s."
+
+#: core/class-wcfmmp-ledger.php:257
+#, php-format
+msgid "Request by Admin for order #%s."
+msgstr "Administratora pieprasījums pēc pasūtījuma #%s."
+
+#: core/class-wcfmmp-ledger.php:259
+#, php-format
+msgid "Request by Customer for order #%s."
+msgstr "Klienta pieprasījums pēc pasūtījuma #%s."
+
+#: core/class-wcfmmp-media.php:70 core/class-wcfmmp-media.php:101
+#: core/class-wcfmmp.php:350
+msgid "Media"
+msgstr "Multivide"
+
+#: core/class-wcfmmp-notification-manager.php:63
+#: core/class-wcfmmp-notification-manager.php:67
+msgid "Notification Manager"
+msgstr "Paziņojumu pārvaldnieks"
+
+#: core/class-wcfmmp-notification-manager.php:72
+msgid "Notification Sound"
+msgstr "Paziņojuma skaņa"
+
+#: core/class-wcfmmp-notification-manager.php:81
+msgid "Admin Notification"
+msgstr "Administratora paziņojums"
+
+#: core/class-wcfmmp-notification-manager.php:82
+msgid "Notification"
+msgstr "Paziņojums"
+
+#: core/class-wcfmmp-notification-manager.php:85
+msgid "Notification Type"
+msgstr "Paziņojuma veids"
+
+#: core/class-wcfmmp-notification-manager.php:86
+#: core/class-wcfmmp-notification-manager.php:93
+#: core/class-wcfmmp-store.php:613
+msgid "Email"
+msgstr "E-pasts"
+
+#: core/class-wcfmmp-notification-manager.php:87
+#: core/class-wcfmmp-notification-manager.php:94
+msgid "Message"
+msgstr "Ziņa"
+
+#: core/class-wcfmmp-notification-manager.php:89
+#: core/class-wcfmmp-notification-manager.php:96
+msgid "SMS"
+msgstr "īsziņa"
+
+#: core/class-wcfmmp-product-multivendor.php:108
+msgid "Sell Items Catalog"
+msgstr "Pārdod priekšmetu katalogu"
+
+#: core/class-wcfmmp-product-multivendor.php:154
+#: core/class-wcfmmp-product-multivendor.php:307
+#: controllers/product_multivendor/wcfmmp-controller-sell-items-catalog.php:283
+msgid "Add to My Store"
+msgstr "Pievienojiet manam veikalam"
+
+#: core/class-wcfmmp-product-multivendor.php:246
+msgid "Title edit disabeled, it has other sellers!"
+msgstr "Virsraksta rediģēšana nav atļauta, tam ir citi pārdevēji!"
+
+#: core/class-wcfmmp-product.php:204
+msgid "Commission Rule"
+msgstr "Komisijas noteikums"
+
+#: core/class-wcfmmp-product.php:504
+#: views/shipping/wcfmmp-view-shipping-settings.php:54
+msgid "Processing Time"
+msgstr "Apstrādes laiks"
+
+#: core/class-wcfmmp-product.php:504
+#: views/shipping/wcfmmp-view-shipping-settings.php:54
+msgid "The time required before sending the product for delivery"
+msgstr "Laiks, kas nepieciešams pirms produkta nosūtīšanas piegādei"
+
+#: core/class-wcfmmp-product.php:519
+msgid "Override Shipping"
+msgstr "Ignorēt nosūtīšanu"
+
+#: core/class-wcfmmp-product.php:519
+msgid "Override your store's default shipping cost for this product"
+msgstr "Pārsteidziet veikala noklusējuma piegādes izmaksas par šo produktu"
+
+#: core/class-wcfmmp-product.php:520
+msgid "Additional Price"
+msgstr "Papildus cena"
+
+#: core/class-wcfmmp-product.php:520
+msgid "First product of this type will be charged with this price"
+msgstr "Par šo cenu tiks iekasēts pirmais šāda veida produkts"
+
+#: core/class-wcfmmp-product.php:521 core/class-wcfmmp-settings.php:1102
+#: views/shipping/wcfmmp-view-shipping-settings.php:82
+msgid "Per Qty Additional Price"
+msgstr "Par papildu cenu"
+
+#: core/class-wcfmmp-product.php:521 core/class-wcfmmp-settings.php:1102
+#: views/shipping/wcfmmp-view-shipping-settings.php:82
+msgid "Every second product of same type will be charged with this price"
+msgstr "Par katru otro tāda paša veida produktu tiks iekasēta šī cena"
+
+#: core/class-wcfmmp-refund.php:82
+#: views/refund/wcfmmp-view-refund-requests.php:23
+#: views/refund/wcfmmp-view-refund-requests.php:30
+msgid "Refund Requests"
+msgstr "Atmaksas pieprasījumi"
+
+#: core/class-wcfmmp-refund.php:128 core/class-wcfmmp-refund.php:337
+msgid "Refund"
+msgstr "Atmaksa"
+
+#: core/class-wcfmmp-refund.php:275
+#: views/refund/wcfmmp-view-refund-requests-popup.php:75
+msgid "Refund Request"
+msgstr "Atmaksas pieprasījums"
+
+#: core/class-wcfmmp-refund.php:681
+#, php-format
+msgid "Your Refund Request approved for Order <b>%s</b>."
+msgstr "Jūsu atmaksas pieprasījums ir apstiprināts pasūtījumam <b>%s</b>."
+
+#: core/class-wcfmmp-refund.php:683 core/class-wcfmmp-refund.php:711
+#: core/class-wcfmmp-refund.php:748 core/class-wcfmmp-refund.php:765
+#: core/class-wcfmmp-withdraw.php:497 core/class-wcfmmp-withdraw.php:536
+#: core/class-wcfmmp-withdraw.php:580 core/class-wcfmmp-withdraw.php:626
+msgid "Note"
+msgstr "Piezīme"
+
+#: core/class-wcfmmp-refund.php:709
+#, php-format
+msgid "Refund Request approved for Order <b>%s</b>."
+msgstr "Atmaksas pieprasījums ir apstiprināts pasūtījumam <b>%s</b>."
+
+#: core/class-wcfmmp-refund.php:746 core/class-wcfmmp-refund.php:810
+#, php-format
+msgid "Your Refund Request cancelled for Order <b>%s</b>."
+msgstr "Jūsu pasūtījums <b>%s</b> ir atcelts."
+
+#: core/class-wcfmmp-refund.php:763
+#, php-format
+msgid "Refund Request cancelled for Order <b>%s</b>."
+msgstr "Atmaksas pieprasījums atcelts pasūtījumam <b>%s</b>."
+
+#: core/class-wcfmmp-reviews.php:90
+#: views/reviews/wcfmmp-view-product-reviews.php:64
+msgid "Store Reviews"
+msgstr "Veikalu atsauksmes"
+
+#: core/class-wcfmmp-reviews.php:94
+#: views/reviews/wcfmmp-view-product-reviews.php:38
+#: views/reviews/wcfmmp-view-reviews.php:65
+msgid "Product Reviews"
+msgstr "Produktu atsauksmes"
+
+#: core/class-wcfmmp-reviews.php:125 core/class-wcfmmp-store.php:136
+#: core/class-wcfmmp-store.php:183 core/class-wcfmmp.php:348
+#: views/reviews/wcfmmp-view-reviews.php:38
+msgid "Reviews"
+msgstr "Atsauksmes"
+
+#: core/class-wcfmmp-reviews.php:533
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Novērtēts %s no 5"
+
+#: core/class-wcfmmp-reviews.php:536
+#, php-format
+msgid "Rated %s out of 5 based on %s review(s)"
+msgstr "Novērtēts %s no 5, pamatojoties uz %s pārskatu (s)"
+
+#: core/class-wcfmmp-reviews.php:539
+msgid "No reviews yet!"
+msgstr "Pagaidām nav nevienas atsauksmes."
+
+#: core/class-wcfmmp-reviews.php:541
+#: controllers/reviews/wcfmmp-controller-product-reviews.php:112
+#: controllers/reviews/wcfmmp-controller-reviews.php:111
+msgid "out of 5"
+msgstr "no 5"
+
+#: core/class-wcfmmp-reviews.php:716
+#: controllers/reviews/wcfmmp-controller-reviews-submit.php:137
+#, php-format
+msgid "You have received a new Review from <b>%s</b>"
+msgstr "Jūs esat saņēmis jaunu pārskatu no <b>%s</b>"
+
+#: core/class-wcfmmp-reviews.php:725
+msgid "Store Review"
+msgstr "Veikalu apskats"
+
+#: core/class-wcfmmp-settings.php:100 core/class-wcfmmp-settings.php:104
+msgid "Marketplace Settings"
+msgstr "Tirgus laukuma iestatījumi"
+
+#: core/class-wcfmmp-settings.php:109
+msgid "Product Approval"
+msgstr "Produkta apstiprināšana"
+
+#: core/class-wcfmmp-settings.php:109
+#, fuzzy, php-format
+msgid "Manager vendor capabilities from %sCapability Setting%s"
+msgstr "Pārdevēja iespējas no %sCapability Setting %s"
+
+#: core/class-wcfmmp-settings.php:111
+msgid "Store URL Base"
+msgstr "Veikala URL bāze"
+
+#: core/class-wcfmmp-settings.php:111
+#, php-format
+msgid "Define the seller store URL  (%s/[this-text]/[seller-name])"
+msgstr ""
+"Definējiet pārdevēja veikala URL (%s / [šis teksts] / [pārdevēja nosaukums])"
+
+#: core/class-wcfmmp-settings.php:112
+msgid "Visible Sold By"
+msgstr "Redzams Pārdod"
+
+#: core/class-wcfmmp-settings.php:112
+msgid "Uncheck this to disable Sold By display for products."
+msgstr ""
+"Noņemiet atzīmi no šīs izvēles, lai atspējotu produktu pārdošanu ar Pārdevējs"
+
+#: core/class-wcfmmp-settings.php:113
+msgid "Sold By Label"
+msgstr "Pārdod etiķete"
+
+#: core/class-wcfmmp-settings.php:113
+msgid "Sold By label along with store name under product archive pages."
+msgstr "Pārdots etiķete kopā ar veikala nosaukumu zem produktu arhīva lapām."
+
+#: core/class-wcfmmp-settings.php:115
+msgid "Sold By Template"
+msgstr "Pārdod veidne"
+
+#: core/class-wcfmmp-settings.php:115
+msgid "Simple"
+msgstr "Vienkārši"
+
+#: core/class-wcfmmp-settings.php:115
+msgid "Advanced"
+msgstr "Advanced"
+
+#: core/class-wcfmmp-settings.php:115
+msgid "As Tab"
+msgstr "Kā cilne"
+
+#: core/class-wcfmmp-settings.php:115
+msgid "Single product page Sold By template."
+msgstr "Atsevišķa produkta lapa, ko pārdod veidne."
+
+#: core/class-wcfmmp-settings.php:120
+msgid "Sold By Position"
+msgstr "Pārdod pozīcija"
+
+#: core/class-wcfmmp-settings.php:120
+msgid "Below Title"
+msgstr "Zem virsraksta"
+
+#: core/class-wcfmmp-settings.php:120
+msgid "Below Price"
+msgstr "Zem cena"
+
+#: core/class-wcfmmp-settings.php:120
+msgid "Below Short Description"
+msgstr "Zemāk īss apraksts"
+
+#: core/class-wcfmmp-settings.php:120
+msgid "Below Add to Cart"
+msgstr "Zemāk Pievienot grozam"
+
+#: core/class-wcfmmp-settings.php:120
+msgid "Sold by display position at Single Product Page."
+msgstr "Pārdod ar displeja pozīciju atsevišķa produkta lapā."
+
+#: core/class-wcfmmp-settings.php:121 core/class-wcfmmp-vendor.php:823
+msgid "Store Name Position"
+msgstr "Veikala nosaukuma pozīcija"
+
+#: core/class-wcfmmp-settings.php:121 core/class-wcfmmp-vendor.php:823
+msgid "On Banner"
+msgstr "Reklāmkarogā"
+
+#: core/class-wcfmmp-settings.php:121 core/class-wcfmmp-vendor.php:823
+msgid "At Header"
+msgstr "Pie galvenes"
+
+#: core/class-wcfmmp-settings.php:121
+msgid "Store name position at Vendor Store Page."
+msgstr "Veikala nosaukuma pozīcija pārdevēja veikala lapā."
+
+#: core/class-wcfmmp-settings.php:123 core/class-wcfmmp-sidebar-widgets.php:58
+msgid "Store List Sidebar"
+msgstr "Veikalu saraksta sānjosla"
+
+#: core/class-wcfmmp-settings.php:123
+msgid "Uncheck this to disable store list sidebar."
+msgstr ""
+"Noņemiet atzīmi no šīs izvēles rūtiņas, lai atspējotu veikalu saraksta "
+"sānjoslu."
+
+#: core/class-wcfmmp-settings.php:124
+msgid "Store Sidebar"
+msgstr "Veikala sānjosla"
+
+#: core/class-wcfmmp-settings.php:124
+msgid "Uncheck this to disable vendor store sidebar."
+msgstr ""
+"Noņemiet atzīmi no šīs izvēles rūtiņas, lai atspējotu pārdevēja veikala "
+"sānjoslu."
+
+#: core/class-wcfmmp-settings.php:125
+msgid "Store Sidebar Position"
+msgstr "Store Sidebar Position"
+
+#: core/class-wcfmmp-settings.php:125
+msgid "At Left"
+msgstr "Kreisajā pusē"
+
+#: core/class-wcfmmp-settings.php:125
+msgid "At Right"
+msgstr "Pa labi"
+
+#: core/class-wcfmmp-settings.php:127 core/class-wcfmmp-vendor.php:824
+msgid "Products per page"
+msgstr "Produkti vienā lappusē"
+
+#: core/class-wcfmmp-settings.php:128
+msgid "Store Related Products"
+msgstr "Saglabājiet saistītos produktus"
+
+#: core/class-wcfmmp-settings.php:128
+msgid "As per WC Default Rule"
+msgstr "Saskaņā ar WC noklusējuma noteikumu"
+
+#: core/class-wcfmmp-settings.php:128
+msgid "Only same Store Products"
+msgstr "Tikai tie paši veikala produkti"
+
+#: core/class-wcfmmp-settings.php:132
+msgid "Store Default Logo"
+msgstr "Veikala noklusējuma logotips"
+
+#: core/class-wcfmmp-settings.php:133
+msgid "Store Default Banner"
+msgstr "Veikala noklusējuma reklāmkarogs"
+
+#: core/class-wcfmmp-settings.php:134
+msgid "Store List Default Banner"
+msgstr "Veikalu saraksta noklusējuma reklāmkarogs"
+
+#: core/class-wcfmmp-settings.php:135
+msgid "Banner Dimension(s)"
+msgstr "Reklāmkaroga dimensija (-as)"
+
+#: core/class-wcfmmp-settings.php:136
+msgid "Width"
+msgstr "Platums"
+
+#: core/class-wcfmmp-settings.php:136
+msgid "Store banner preferred width in pixels."
+msgstr "Saglabājiet reklāmkarogu vēlamo platumu pikseļos."
+
+#: core/class-wcfmmp-settings.php:137
+msgid "Height"
+msgstr "Augstums"
+
+#: core/class-wcfmmp-settings.php:137
+msgid "Store banner preferred height in pixels."
+msgstr "Saglabājiet reklāmkarogu vēlamo augstumu pikseļos."
+
+#: core/class-wcfmmp-settings.php:138
+msgid "Width (Mob)"
+msgstr "Platums (Mob)"
+
+#: core/class-wcfmmp-settings.php:138
+msgid "Store banner preferred width for mobile in pixels."
+msgstr "Saglabājiet reklāmkarogam vēlamo platumu pikseļos."
+
+#: core/class-wcfmmp-settings.php:139
+msgid "Height (Mob)"
+msgstr "Augstums (Mob)"
+
+#: core/class-wcfmmp-settings.php:139
+msgid "Store banner preferred heightfor mobile in pixels."
+msgstr "Saglabājiet reklāmkarogam vēlamo mobilā tālruņa augstumu pikseļos."
+
+#: core/class-wcfmmp-settings.php:142
+msgid "Disable Store Setup Widget"
+msgstr "Atspējojiet veikala iestatīšanas logrīku"
+
+#: core/class-wcfmmp-settings.php:144
+msgid "On Uninstall"
+msgstr "Ieslēgts Atinstalēt"
+
+#: core/class-wcfmmp-settings.php:144
+msgid ""
+"Delete all marketplace data on uninstall. Be careful, there is no way to "
+"retrieve those data if once deleted!"
+msgstr ""
+"Dzēst visus tirgus datus par atinstalēšanu. Esiet piesardzīgs, ja tos "
+"izdzēsīsit, tos nevar iegūt."
+
+#: core/class-wcfmmp-settings.php:170 core/class-wcfmmp-settings.php:174
+msgid "Order Settings"
+msgstr "Pasūtījuma iestatījumi"
+
+#: core/class-wcfmmp-settings.php:178
+msgid "Disable Multivendor Checkout"
+msgstr "Atspējot Multivendor Checkout"
+
+#: core/class-wcfmmp-settings.php:178
+msgid "Enable this restrict multiple vendors product checkout at same order."
+msgstr ""
+"Iespējojiet šo ierobežojumu vairāku pārdevēju produktu norēķiniem vienā "
+"pasūtījumā."
+
+#: core/class-wcfmmp-settings.php:179
+msgid "Order Sync"
+msgstr "Pasūtījuma sinhronizācija"
+
+#: core/class-wcfmmp-settings.php:179
+msgid ""
+"Enable this to sync WC main order status when vendors update their order "
+"status."
+msgstr ""
+"Iespējojiet to, lai sinhronizētu WC galvenā pasūtījuma statusu, kad "
+"pārdevēji atjaunina pasūtījuma statusu."
+
+#: core/class-wcfmmp-settings.php:227
+msgid "GEO Location"
+msgstr "GEO atrašanās vieta"
+
+#: core/class-wcfmmp-settings.php:231
+msgid "GEO Location Settings"
+msgstr "GEO atrašanās vietas iestatījumi"
+
+#: core/class-wcfmmp-settings.php:237
+msgid "Map Library"
+msgstr "Karšu bibliotēka"
+
+#: core/class-wcfmmp-settings.php:239
+msgid "Google Map API Key"
+msgstr "Google kartes API atslēga"
+
+#: core/class-wcfmmp-settings.php:239
+#, fuzzy, php-format
+msgid "%sAPI Key%s is needed to display map on store page"
+msgstr " %sAPI atslēga %s ir nepieciešama, lai parādītu karti veikala lapā"
+
+#: core/class-wcfmmp-settings.php:241
+msgid "Store List Radius Search"
+msgstr "Veikalu saraksta rādiusa meklēšana"
+
+#: core/class-wcfmmp-settings.php:241
+msgid "Check this to enable store list radius filter by user location."
+msgstr ""
+"Atzīmējiet šo, lai iespējotu veikala saraksta rādiusa filtru pēc lietotāja "
+"atrašanās vietas."
+
+#: core/class-wcfmmp-settings.php:243
+msgid "Product List Radius Search"
+msgstr "Produktu saraksta rādiusa meklēšana"
+
+#: core/class-wcfmmp-settings.php:243
+msgid "Check this to enable product list radius filter by user location."
+msgstr ""
+"Atzīmējiet šo, lai iespējotu produktu saraksta rādiusa filtru pēc lietotāja "
+"atrašanās vietas."
+
+#: core/class-wcfmmp-settings.php:245
+msgid "Maximum Radius to Search"
+msgstr "Maksimālais rādiuss meklēšanai"
+
+#: core/class-wcfmmp-settings.php:245
+msgid "Set maximum radius allow to search."
+msgstr "Iestatiet maksimālo rādiusu, kas ļauj meklēt."
+
+#: core/class-wcfmmp-settings.php:247
+msgid "Radius Unit"
+msgstr "Rādiusa vienība"
+
+#: core/class-wcfmmp-settings.php:249
+msgid "Enable Auto Filter"
+msgstr "Iespējot automātisko filtru"
+
+#: core/class-wcfmmp-settings.php:249
+msgid "Check this to enable auto-filter by user's location."
+msgstr ""
+"Atzīmējiet šo, lai iespējotu automātisko filtrēšanu pēc lietotāja atrašanās "
+"vietas."
+
+#: core/class-wcfmmp-settings.php:251
+msgid "Show Product Location"
+msgstr "Rādīt produkta atrašanās vietu"
+
+#: core/class-wcfmmp-settings.php:251
+msgid "Check this to show product's location at single product page."
+msgstr ""
+"Atzīmējiet šo, lai parādītu produkta atrašanās vietu viena produkta lapā."
+
+#: core/class-wcfmmp-settings.php:253
+msgid "Checkout User Location"
+msgstr "Checkout lietotāja atrašanās vieta"
+
+#: core/class-wcfmmp-settings.php:253
+msgid "Check this to enable user's location input using map at checkout."
+msgstr ""
+"Atzīmējiet šo, lai iespējot lietotāja atrašanās vietas ievadīšanu, "
+"izmantojot karti norēķināšanās laikā."
+
+#: core/class-wcfmmp-settings.php:272
+msgid "Store List Page"
+msgstr "Veikalu saraksta lapa"
+
+#: core/class-wcfmmp-settings.php:278
+#, php-format
+msgid ""
+"You just have to create a page using short code – %swcfm_stores%s\n"
+"\t\t\t\t\t\t\tYou may specify “per_row” attribute to specify number of store "
+"in one row, by default it’s “2”.%s\n"
+"\t\t\t\t\t\t\tAlso specify “per_page” attribute to set how many stores you "
+"want to show in a page. Default value is 10.%s\n"
+"\t\t\t\t\t\t\tYou may also specify “excludes” attribute (comma separated "
+"store ids) to excludes some store from list."
+msgstr ""
+"Jums vienkārši jāizveido lapa, izmantojot īso kodu - %swcfm_stores%s\n"
+"\t\t\t\t\t\t\tVarat norādīt atribūtu “per_row”, lai norādītu veikala skaitu "
+"vienā rindā, pēc noklusējuma tas ir “2”. %s\n"
+"\t\t\t\t\t\t\tNorādiet arī atribūtu “per_page”, lai iestatītu, cik veikalu "
+"vēlaties parādīt lapā. Noklusējuma vērtība ir 10. %s\n"
+"\t\t\t\t\t\t\tVarat arī norādīt atribūtu “izslēdz” (ar komatu atdalītu "
+"veikalu ID), lai kādu veikalu izslēgtu no saraksta."
+
+#: core/class-wcfmmp-settings.php:502
+msgid "Marketplace Commission Settings"
+msgstr "Tirgus laukuma komisijas iestatījumi"
+
+#: core/class-wcfmmp-settings.php:677
+msgid "Withdrawal Settings"
+msgstr "Atteikšanās iestatījumi"
+
+#: core/class-wcfmmp-settings.php:681
+msgid "Marketplace Withdrawal Settings"
+msgstr "Tirgus laukuma atsaukšanas iestatījumi"
+
+#: core/class-wcfmmp-settings.php:687 core/class-wcfmmp-vendor.php:1104
+msgid "Request auto-approve?"
+msgstr "Vai pieprasāt automātisku apstiprināšanu?"
+
+#: core/class-wcfmmp-settings.php:687
+msgid ""
+"Check this to automatically disburse payments to vendors on request, no "
+"admin approval required. Auto disbursement only works for auto-payment "
+"gateways, e.g. PayPal, Stripe etc. Bank Transfer or other non-autopay mode "
+"always requires approval, as these are manual transactions."
+msgstr ""
+"Atzīmējiet šo, lai automātiski izmaksātu maksājumus pārdevējiem pēc "
+"pieprasījuma, nav nepieciešams administratora apstiprinājums. Automātiskā "
+"izmaksa darbojas tikai automātisko norēķinu vārtejām, piem. PayPal, Stripe "
+"utt. Bankas pārskaitījumam vai citam neautomātiskās maksāšanas režīmam "
+"vienmēr ir nepieciešams apstiprinājums, jo šie ir manuāli darījumi."
+
+#: core/class-wcfmmp-settings.php:689 core/class-wcfmmp-vendor.php:1103
+msgid "Withdrawal Mode"
+msgstr "Izstāšanās režīms"
+
+#: core/class-wcfmmp-settings.php:689
+msgid "Manual Withdrawal"
+msgstr "Manuāla atsaukšana"
+
+#: core/class-wcfmmp-settings.php:689
+msgid "Periodic Withdrawal"
+msgstr "Periodiska izstāšanās"
+
+#: core/class-wcfmmp-settings.php:689
+msgid "By Order Status"
+msgstr "Pēc pasūtījuma statusa"
+
+#: core/class-wcfmmp-settings.php:692
+msgid "Order Status"
+msgstr "Pasūtījuma statuss"
+
+#: core/class-wcfmmp-settings.php:692
+msgid "Order status for generate withdrawal request automatically."
+msgstr "Pasūtījuma statuss automātiskai atteikuma pieprasījuma ģenerēšanai."
+
+#: core/class-wcfmmp-settings.php:694
+msgid "Schedule Interval"
+msgstr "Grafika intervāls"
+
+#: core/class-wcfmmp-settings.php:694
+msgid "Every Day"
+msgstr "Katru dienu"
+
+#: core/class-wcfmmp-settings.php:694
+msgid "Every 7 Days (Every Week - Monday)"
+msgstr "Ik pēc 7 dienām (katru nedēļu - pirmdienu)"
+
+#: core/class-wcfmmp-settings.php:694
+msgid "Every 15 Days (Every 2 Weeks - Monday)"
+msgstr "Ik pēc 15 dienām (ik pēc 2 nedēļām - pirmdien)"
+
+#: core/class-wcfmmp-settings.php:694
+msgid "Every 30 Days (Every Month - 1st)"
+msgstr "Ik pēc 30 dienām (katru mēnesi - 1.)"
+
+#: core/class-wcfmmp-settings.php:694
+msgid "Every 60 Days (Every 2 Months - 1st)"
+msgstr "Ik pēc 60 dienām (ik pēc 2 mēnešiem - 1.)"
+
+#: core/class-wcfmmp-settings.php:694
+msgid "Every 90 Days (Every 3 Months - 1st)"
+msgstr "Ik pēc 90 dienām (ik pēc 3 mēnešiem - 1.)"
+
+#: core/class-wcfmmp-settings.php:696
+msgid "Allowed Order Status for Withdrawal"
+msgstr "Atļautais pasūtījuma statuss atsaukšanai"
+
+#: core/class-wcfmmp-settings.php:696
+msgid "Allowed order statuses for which vendor may request for withdrawal."
+msgstr ""
+"Atļautie pasūtījumu statusi, par kuriem pārdevējs var pieprasīt atsaukumu."
+
+#: core/class-wcfmmp-settings.php:700 core/class-wcfmmp-vendor.php:1106
+msgid "Minimum Withdraw Limit"
+msgstr "Minimālais izņemšanas limits"
+
+#: core/class-wcfmmp-settings.php:700 core/class-wcfmmp-vendor.php:1106
+msgid ""
+"Minimum balance required to make a withdraw request. Leave blank to set no "
+"minimum limits."
+msgstr ""
+"Minimālais atlikums, kas nepieciešams, lai atsauktu pieprasījumu. Atstājiet "
+"tukšu, lai nenoteiktu minimālās robežas."
+
+#: core/class-wcfmmp-settings.php:701 core/class-wcfmmp-vendor.php:1107
+msgid "Withdraw Threshold"
+msgstr "Atcelšanas slieksnis"
+
+#: core/class-wcfmmp-settings.php:701 core/class-wcfmmp-vendor.php:1107
+msgid ""
+"Withdraw Threshold Days, (Make order matured to make a withdraw request). "
+"Leave empty to inactive this option."
+msgstr ""
+"Atsaukt dienu slieksni (lai pasūtījums būtu nobriedis, lai iesniegtu "
+"izņemšanas pieprasījumu). Atstājiet tukšu, lai šī iespēja būtu neaktīva."
+
+#: core/class-wcfmmp-settings.php:707
+msgid "Marketplace Reverse Withdrawal Settings"
+msgstr "Tirgus laukuma atsaukšanas iestatījumi"
+
+#: core/class-wcfmmp-settings.php:713 views/ledger/wcfmmp-view-ledger.php:55
+msgid "Reverse Withdrawal"
+msgstr "Atcelšana atpakaļgaitā"
+
+#: core/class-wcfmmp-settings.php:713
+msgid ""
+"Enable this to keep track reverse withdrawals. In case vendor receive full "
+"payment (e.g. COD) from customer then they have to reverse-pay admin "
+"commission. This is only applicable for reverse-withdrawal payment methods."
+msgstr ""
+"Iespējojiet šo, lai sekotu atpakaļejošajai izņemšanai. Ja pārdevējs saņem "
+"pilnu samaksu (piemēram, COD) no klienta, viņam ir jāapmaksā administratora "
+"komisija. Tas ir piemērojams tikai apgrieztās izņemšanas maksājuma metodēm."
+
+#: core/class-wcfmmp-settings.php:714
+msgid "Reverse or No Withdrawal Payment Methods"
+msgstr "Atgriezeniskās vai nē maksājuma metodes"
+
+#: core/class-wcfmmp-settings.php:714
+msgid ""
+"Order Payment Methods which are not applicable for vendor withdrawal request."
+" e.g Order payment method COD and vendor receiving that amount directly from "
+"customers. So, no more require withdrawal request. You may also enable "
+"Reverse Withdrawal to track reverse pending payments for such payment "
+"options."
+msgstr ""
+"Pasūtījuma apmaksas metodes, kas nav piemērojamas pārdevēja atteikuma "
+"pieprasījumam. Piemēram, pasūtiet maksājuma metodi ar COD un pārdevējs saņem "
+"šo summu tieši no klientiem. Tātad vairs nav nepieciešams atsaukuma "
+"pieprasījums. Varat arī iespējot reverso izņemšanu, lai izsekotu negaidītos "
+"maksājumus šādām maksājuma iespējām."
+
+#: core/class-wcfmmp-settings.php:717
+msgid "Reverse Withdraw Limit"
+msgstr "Atpakaļgaitas ierobežojums"
+
+#: core/class-wcfmmp-settings.php:717
+msgid ""
+"Set reverse withdrawal threshold limit, if reverse-pay balance reach this "
+"limit then vendor will not allow to withdrawal anymore. Leave empty to "
+"inactive this option."
+msgstr ""
+"Iestatiet reversās izņemšanas sliekšņa robežu, ja reversās samaksas atlikums "
+"sasniedz šo robežu, pārdevējs vairs neļaus atsaukt. Atstājiet tukšu, lai šī "
+"iespēja būtu neaktīva."
+
+#: core/class-wcfmmp-settings.php:778
+msgid "Payment Settings"
+msgstr "Maksājumu iestatījumi"
+
+#: core/class-wcfmmp-settings.php:782
+msgid "Marketplace Payment Settings"
+msgstr "Tirdzniecības vietas norēķinu iestatījumi"
+
+#: core/class-wcfmmp-settings.php:788
+msgid "Withdraw Payment Methods"
+msgstr "Atcelt maksājuma metodes"
+
+#: core/class-wcfmmp-settings.php:791
+msgid "Stripe 3D Secure and SCA?"
+msgstr "Stripe 3D Secure un SCA?"
+
+#: core/class-wcfmmp-settings.php:791
+msgid ""
+"3D Secure and SCA ready transaction is only supported when both your "
+"platform and the connected account (Vendor) are in the same region: both in "
+"Europe or both in the U.S."
+msgstr ""
+"3D Secure un SCA gatavs darījums tiek atbalstīts tikai tad, ja gan jūsu "
+"platforma, gan pievienotais konts (piegādātājs) atrodas vienā reģionā: gan "
+"Eiropā, gan abos ASV."
+
+#: core/class-wcfmmp-settings.php:792
+msgid "Stripe Split Pay Mode"
+msgstr "Stripe Split Pay režīms"
+
+#: core/class-wcfmmp-settings.php:792
+msgid "Direct Charges"
+msgstr "Tiešās maksas"
+
+#: core/class-wcfmmp-settings.php:792
+msgid "Destination Charges"
+msgstr "Galamērķa maksa"
+
+#: core/class-wcfmmp-settings.php:792
+msgid "Transfer Charges"
+msgstr "Pārskaitījuma maksas"
+
+#: core/class-wcfmmp-settings.php:792
+msgid "Set your preferred Stripe Split pay mode."
+msgstr "Iestatiet vēlamo Stripe Split samaksas režīmu."
+
+#: core/class-wcfmmp-settings.php:794
+msgid "Enable Test Mode"
+msgstr "Iespējot testa režīmu"
+
+#: core/class-wcfmmp-settings.php:798 core/class-wcfmmp-settings.php:811
+msgid "PayPal Client ID"
+msgstr "PayPal klienta ID"
+
+#: core/class-wcfmmp-settings.php:799 core/class-wcfmmp-settings.php:812
+msgid "PayPal Secret Key"
+msgstr "PayPal slepenā atslēga"
+
+#: core/class-wcfmmp-settings.php:801 core/class-wcfmmp-settings.php:814
+msgid "Stripe Client ID"
+msgstr "Stripe klienta ID"
+
+#: core/class-wcfmmp-settings.php:801 core/class-wcfmmp-settings.php:814
+#, php-format
+msgid "Set redirect URL(s) to your Stripe account - <br/> %s <br />%s"
+msgstr "Iestatiet novirzīšanas URL uz Stripe kontu - <br/>  %s <br />  %s"
+
+#: core/class-wcfmmp-settings.php:802 core/class-wcfmmp-settings.php:815
+msgid "Stripe Publish Key"
+msgstr "Svītru publicēšanas atslēga"
+
+#: core/class-wcfmmp-settings.php:803 core/class-wcfmmp-settings.php:816
+msgid "Stripe Secret Key"
+msgstr "Svītru slepenā atslēga"
+
+#: core/class-wcfmmp-settings.php:805 core/class-wcfmmp-settings.php:818
+msgid "Wirecard Token"
+msgstr "Kartes marķieris"
+
+#: core/class-wcfmmp-settings.php:806 core/class-wcfmmp-settings.php:819
+msgid "Wirecard Key"
+msgstr "Kartes atslēga"
+
+#: core/class-wcfmmp-settings.php:807 core/class-wcfmmp-settings.php:820
+msgid "Wirecard Publick Key"
+msgstr "Kartes publiskā atslēga"
+
+#: core/class-wcfmmp-settings.php:827 core/class-wcfmmp-vendor.php:1061
+msgid "Transaction Charges"
+msgstr "Darījumu maksas"
+
+#: core/class-wcfmmp-settings.php:828 core/class-wcfmmp-vendor.php:1062
+#, php-format
+msgid ""
+"These charges will be deducted from vendor's total order commission "
+"depending upon %sOrder Payment Method%s."
+msgstr ""
+"Šīs maksas tiks atskaitītas no pārdevēja kopējās pasūtījumu komisijas "
+"atkarībā no %s Pasūtījuma maksājuma metodes %s."
+
+#: core/class-wcfmmp-settings.php:833 core/class-wcfmmp-settings.php:857
+#: core/class-wcfmmp-vendor.php:1068
+msgid "Charge Type"
+msgstr "Uzlādes veids"
+
+#: core/class-wcfmmp-settings.php:833 core/class-wcfmmp-settings.php:857
+#: core/class-wcfmmp-vendor.php:1068 core/class-wcfmmp-vendor.php:1108
+msgid "No Charge"
+msgstr "Bez maksas"
+
+#: core/class-wcfmmp-settings.php:837 core/class-wcfmmp-vendor.php:1072
+msgid "Charge"
+msgstr "Maksa"
+
+#: core/class-wcfmmp-settings.php:838 core/class-wcfmmp-settings.php:861
+#: core/class-wcfmmp-settings.php:866 core/class-wcfmmp-settings.php:871
+#: core/class-wcfmmp-settings.php:876 core/class-wcfmmp-vendor.php:1073
+#: core/class-wcfmmp-vendor.php:1113 core/class-wcfmmp-vendor.php:1118
+#: core/class-wcfmmp-vendor.php:1123 core/class-wcfmmp-vendor.php:1128
+msgid "Percent Charge(%)"
+msgstr "Procentuālā maksa (%)"
+
+#: core/class-wcfmmp-settings.php:839 core/class-wcfmmp-settings.php:862
+#: core/class-wcfmmp-settings.php:867 core/class-wcfmmp-settings.php:872
+#: core/class-wcfmmp-settings.php:877 core/class-wcfmmp-vendor.php:1074
+#: core/class-wcfmmp-vendor.php:1114 core/class-wcfmmp-vendor.php:1119
+#: core/class-wcfmmp-vendor.php:1124 core/class-wcfmmp-vendor.php:1129
+msgid "Fixed Charge"
+msgstr "Fiksēta maksa"
+
+#: core/class-wcfmmp-settings.php:851 core/class-wcfmmp-vendor.php:1108
+msgid "Withdrawal Charges"
+msgstr "Maksa par izstāšanos"
+
+#: core/class-wcfmmp-settings.php:852
+#, php-format
+msgid ""
+"These charges will be deducted from vendor's withdrawal amount depending "
+"upon %s Withdrawal Payment Method %s."
+msgstr ""
+"Šīs maksas tiks atskaitītas no pārdevēja izmaksas summas atkarībā no %s "
+"Izmaksas maksājuma metodes %s."
+
+#: core/class-wcfmmp-settings.php:857 core/class-wcfmmp-vendor.php:1108
+msgid "Charges applicable for each withdarwal."
+msgstr "Maksa, kas piemērojama par katru avotu."
+
+#: core/class-wcfmmp-settings.php:860 core/class-wcfmmp-vendor.php:1112
+msgid "PayPal Charge"
+msgstr "PayPal maksa"
+
+#: core/class-wcfmmp-settings.php:863 core/class-wcfmmp-settings.php:868
+#: core/class-wcfmmp-settings.php:873 core/class-wcfmmp-settings.php:878
+#: core/class-wcfmmp-vendor.php:1115 core/class-wcfmmp-vendor.php:1120
+#: core/class-wcfmmp-vendor.php:1125 core/class-wcfmmp-vendor.php:1130
+msgid "Charge Tax"
+msgstr "Iekasēt nodokli"
+
+#: core/class-wcfmmp-settings.php:863 core/class-wcfmmp-settings.php:868
+#: core/class-wcfmmp-settings.php:873 core/class-wcfmmp-settings.php:878
+#: core/class-wcfmmp-vendor.php:1115 core/class-wcfmmp-vendor.php:1120
+#: core/class-wcfmmp-vendor.php:1125 core/class-wcfmmp-vendor.php:1130
+msgid "Tax for withdrawal charge, calculate in percent."
+msgstr "Nodoklis par izņemšanas maksu, aprēķiniet procentos."
+
+#: core/class-wcfmmp-settings.php:865 core/class-wcfmmp-vendor.php:1117
+msgid "Stripe Charge"
+msgstr "Svītru maksa"
+
+#: core/class-wcfmmp-settings.php:870 core/class-wcfmmp-vendor.php:1122
+msgid "Skrill Charge"
+msgstr "Skrill maksa"
+
+#: core/class-wcfmmp-settings.php:875 core/class-wcfmmp-vendor.php:1127
+msgid "Bank Transfer Charge"
+msgstr "Maksa par bankas pārskaitījumu"
+
+#: core/class-wcfmmp-settings.php:1001
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:198
+msgid "Wirecard APP: Access Token Generate - Something went wrong Wirecard!"
+msgstr "Kartes lietotne APP: piekļuves marķiera ģenerēšana - radās kļūda."
+
+#: core/class-wcfmmp-settings.php:1051 core/class-wcfmmp-settings.php:1055
+msgid "Shipping Settings"
+msgstr "Piegādes iestatījumi"
+
+#: core/class-wcfmmp-settings.php:1061 core/class-wcfmmp-vendor.php:873
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:52
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:194
+msgid "Store Shipping"
+msgstr "Piegāde veikalā"
+
+#: core/class-wcfmmp-settings.php:1061
+msgid "Uncheck this to disable vendor wise store shipping options."
+msgstr ""
+"Noņemiet atzīmi no šīs izvēles rūtiņas, lai atspējotu pārdevēju veikalu "
+"piegādes iespējas."
+
+#: core/class-wcfmmp-settings.php:1067
+msgid "Shipping By Zone"
+msgstr "Piegāde pēc zonas"
+
+#: core/class-wcfmmp-settings.php:1073
+msgid "Uncheck this to disable zone wise shipping options."
+msgstr ""
+"Noņemiet atzīmi no šīs izvēles rūtiņas, lai atspējotu zonu gudras "
+"nosūtīšanas iespējas."
+
+#: core/class-wcfmmp-settings.php:1080
+#: views/shipping/wcfmmp-view-shipping-settings.php:71
+msgid "Shipping By Country"
+msgstr "Piegāde pa valstīm"
+
+#: core/class-wcfmmp-settings.php:1086
+msgid "Uncheck this to disable country wise shipping options."
+msgstr ""
+"Noņemiet atzīmi no šīs izvēles, lai atspējotu valstij draudzīgas piegādes "
+"iespējas."
+
+#: core/class-wcfmmp-settings.php:1100
+#: views/shipping/wcfmmp-view-shipping-settings.php:80
+msgid "Default Shipping Price"
+msgstr "Noklusējuma piegādes cena"
+
+#: core/class-wcfmmp-settings.php:1100
+#: views/shipping/wcfmmp-view-shipping-settings.php:80
+msgid ""
+"This is the base price and will be the starting shipping price for each "
+"product"
+msgstr "Šī ir bāzes cena, un tā būs sākuma cena katram produktam"
+
+#: core/class-wcfmmp-settings.php:1101
+#: views/shipping/wcfmmp-view-shipping-settings.php:81
+msgid "Per Product Additional Price"
+msgstr "Papildu cena par produktu"
+
+#: core/class-wcfmmp-settings.php:1101
+#: views/shipping/wcfmmp-view-shipping-settings.php:81
+msgid ""
+"If a customer buys more than one type product from your store, first product "
+"of the every second type will be charged with this price"
+msgstr ""
+"Ja klients no jūsu veikala iegādājas vairāk nekā viena veida preci, par šo "
+"cenu tiks iekasēts pirmais katra otrā veida produkts"
+
+#: core/class-wcfmmp-settings.php:1103 core/class-wcfmmp-settings.php:1203
+#: core/class-wcfmmp-settings.php:1328
+#: views/shipping/wcfmmp-view-shipping-settings.php:83
+#: views/shipping/wcfmmp-view-shipping-settings.php:291
+#: views/shipping/wcfmmp-view-shipping-settings.php:400
+msgid "Free Shipping Minimum Order Amount"
+msgstr "Bezmaksas piegāde Minimālā pasūtījuma summa"
+
+#: core/class-wcfmmp-settings.php:1103 core/class-wcfmmp-settings.php:1203
+#: core/class-wcfmmp-settings.php:1328
+#: views/shipping/wcfmmp-view-shipping-settings.php:83
+#: views/shipping/wcfmmp-view-shipping-settings.php:291
+#: views/shipping/wcfmmp-view-shipping-settings.php:400
+msgid "NO Free Shipping"
+msgstr "BEZMAKSAS piegāde"
+
+#: core/class-wcfmmp-settings.php:1103 core/class-wcfmmp-settings.php:1203
+#: core/class-wcfmmp-settings.php:1328
+#: views/shipping/wcfmmp-view-shipping-settings.php:83
+#: views/shipping/wcfmmp-view-shipping-settings.php:291
+#: views/shipping/wcfmmp-view-shipping-settings.php:400
+msgid ""
+"Free shipping will be available if order amount more than this. Leave empty "
+"to disable Free Shipping."
+msgstr ""
+"Bezmaksas piegāde būs pieejama, ja pasūtījuma summa būs lielāka par šo. "
+"Atstājiet tukšu, lai atspējotu bezmaksas piegādi."
+
+#: core/class-wcfmmp-settings.php:1104 core/class-wcfmmp-settings.php:1204
+#: core/class-wcfmmp-settings.php:1329
+#: views/shipping/wcfmmp-view-shipping-settings.php:84
+#: views/shipping/wcfmmp-view-shipping-settings.php:292
+#: views/shipping/wcfmmp-view-shipping-settings.php:401
+msgid "Enable Local Pickup"
+msgstr "Iespējot vietējo pikapu"
+
+#: core/class-wcfmmp-settings.php:1105 core/class-wcfmmp-settings.php:1205
+#: core/class-wcfmmp-settings.php:1330
+#: views/shipping/wcfmmp-view-shipping-settings.php:85
+#: views/shipping/wcfmmp-view-shipping-settings.php:293
+#: views/shipping/wcfmmp-view-shipping-settings.php:402
+msgid "Local Pickup Cost"
+msgstr "Vietējās pikapa izmaksas"
+
+#: core/class-wcfmmp-settings.php:1106
+#: views/shipping/wcfmmp-view-shipping-settings.php:86
+msgid "Ships from:"
+msgstr "Kuģi no:"
+
+#: core/class-wcfmmp-settings.php:1106
+#: views/shipping/wcfmmp-view-shipping-settings.php:86
+msgid ""
+"Location from where the products are shipped for delivery. Usually it is "
+"same as the store."
+msgstr ""
+"Atrašanās vieta, no kuras produkti tiek nosūtīti piegādei. Parasti tas ir "
+"tāds pats kā veikalā."
+
+#: core/class-wcfmmp-settings.php:1137
+#: views/shipping/wcfmmp-view-shipping-settings.php:117
+msgid "Shipping Rates by Country"
+msgstr "Piegādes likmes pa valstīm"
+
+#: core/class-wcfmmp-settings.php:1142
+#: views/shipping/wcfmmp-view-shipping-settings.php:121
+msgid ""
+"Add the countries you deliver your products to. You can specify states as "
+"well. If the shipping price is same except some countries, there is an "
+"option Everywhere Else, you can use that."
+msgstr ""
+"Pievienojiet valstis, kurās piegādājat savus produktus. Varat norādīt arī "
+"novadus. Ja nosūtīšanas cena ir vienāda, izņemot dažos novados, varat to "
+"izmantot."
+
+#: core/class-wcfmmp-settings.php:1146 core/class-wcfmmp-settings.php:1241
+#: views/shipping/wcfmmp-view-shipping-settings.php:124
+#: views/shipping/wcfmmp-view-shipping-settings.php:302
+msgid "Country"
+msgstr "Valsts"
+
+#: core/class-wcfmmp-settings.php:1153 core/class-wcfmmp-settings.php:1172
+#: core/class-wcfmmp-settings.php:1296 core/class-wcfmmp-settings.php:1364
+#: views/shipping/wcfmmp-view-edit-method-popup.php:106
+#: views/shipping/wcfmmp-view-edit-method-popup.php:178
+#: views/shipping/wcfmmp-view-shipping-settings.php:131
+#: views/shipping/wcfmmp-view-shipping-settings.php:151
+#: views/shipping/wcfmmp-view-shipping-settings.php:358
+#: views/shipping/wcfmmp-view-shipping-settings.php:431
+msgid "Cost"
+msgstr "Izmaksas"
+
+#: core/class-wcfmmp-settings.php:1161
+#: views/shipping/wcfmmp-view-shipping-settings.php:140
+msgid "State Shipping Rates"
+msgstr "Valsts kuģniecības likmes"
+
+#: core/class-wcfmmp-settings.php:1166
+#: views/shipping/wcfmmp-view-shipping-settings.php:145
+msgid "State"
+msgstr "Novads"
+
+#: core/class-wcfmmp-settings.php:1175 core/class-wcfmmp-settings.php:1291
+#: core/class-wcfmmp-settings.php:1298 core/class-wcfmmp-settings.php:1366
+#: helpers/wcfmmp-core-functions.php:941
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:160
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:197
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-distance.php:116
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-distance.php:152
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:112
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:149
+#: views/shipping/wcfmmp-view-shipping-settings.php:154
+#: views/shipping/wcfmmp-view-shipping-settings.php:352
+#: views/shipping/wcfmmp-view-shipping-settings.php:360
+#: views/shipping/wcfmmp-view-shipping-settings.php:433
+msgid "Free Shipping"
+msgstr "Bezmaksas sūtīšana"
+
+#: core/class-wcfmmp-settings.php:1193
+#: views/shipping/wcfmmp-view-shipping-settings.php:242
+msgid "Shipping By Weight"
+msgstr "Piegāde pēc svara"
+
+#: core/class-wcfmmp-settings.php:1201
+msgid "Uncheck this to disable weight based shipping options."
+msgstr ""
+"Noņemiet atzīmi no šīs izvēles rūtiņas, lai atspējotu sūtīšanas iespējas, "
+"pamatojoties uz svaru."
+
+#: core/class-wcfmmp-settings.php:1232
+#: views/shipping/wcfmmp-view-shipping-settings.php:295
+msgid "Country and Weight wise Shipping Rate Calculation"
+msgstr "Piegādes likmes aprēķināšana pēc valsts un svara"
+
+#: core/class-wcfmmp-settings.php:1237
+#: views/shipping/wcfmmp-view-shipping-settings.php:299
+msgid ""
+"Add the countries you deliver your products to and specify rates for weight "
+"range. If the shipping price is same except some countries/states, there is "
+"an option Everywhere Else, you can use that."
+msgstr ""
+"Pievienojiet valstīm, kurās piegādājat savus produktus, un norādiet cenas "
+"svara diapazonam. Ja nosūtīšanas cena ir vienāda, izņemot dažas valstis / "
+"štatus, pastāv opcija Visur citur, varat to izmantot."
+
+#: core/class-wcfmmp-settings.php:1248
+#: views/shipping/wcfmmp-view-shipping-settings.php:309
+msgid "Calculate cost"
+msgstr "Aprēķiniet izmaksas"
+
+#: core/class-wcfmmp-settings.php:1252
+#: views/shipping/wcfmmp-view-shipping-settings.php:313
+msgid "Based on rules"
+msgstr "Balstoties uz noteikumiem"
+
+#: core/class-wcfmmp-settings.php:1252 core/class-wcfmmp-settings.php:1255
+#: views/shipping/wcfmmp-view-shipping-settings.php:313
+#: views/shipping/wcfmmp-view-shipping-settings.php:316
+msgid "Per unit cost"
+msgstr "Par vienības cenu"
+
+#: core/class-wcfmmp-settings.php:1261
+#: views/shipping/wcfmmp-view-shipping-settings.php:322
+msgid ""
+"Shipping cost will be calculated by <b>Per unit cost x Product weight</b>"
+msgstr ""
+"Piegādes izmaksas tiks aprēķinātas pēc <b> vienības cena x izstrādājuma "
+"svars </b>"
+
+#: core/class-wcfmmp-settings.php:1265
+msgid "Default cost if no matching rule"
+msgstr "Noklusējuma maksa, ja nav atbilstošu noteikumu"
+
+#: core/class-wcfmmp-settings.php:1273
+#: views/shipping/wcfmmp-view-shipping-settings.php:334
+msgid "Weight-Cost Rules"
+msgstr "Svara izmaksu noteikumi"
+
+#: core/class-wcfmmp-settings.php:1279
+#: views/shipping/wcfmmp-view-shipping-settings.php:340
+msgid "Weight Rule"
+msgstr "Svara noteikums"
+
+#: core/class-wcfmmp-settings.php:1284
+#: views/shipping/wcfmmp-view-shipping-settings.php:345
+msgid "Weight up to"
+msgstr "Svars līdz"
+
+#: core/class-wcfmmp-settings.php:1285
+#: views/shipping/wcfmmp-view-shipping-settings.php:346
+msgid "Weight more than"
+msgstr "Svars vairāk par"
+
+#: core/class-wcfmmp-settings.php:1289
+#: views/shipping/wcfmmp-view-shipping-settings.php:350
+msgid "Weight"
+msgstr "Svars"
+
+#: core/class-wcfmmp-settings.php:1315
+#: views/shipping/wcfmmp-view-shipping-settings.php:379
+msgid "Shipping By Distance"
+msgstr "Piegāde pēc attāluma"
+
+#: core/class-wcfmmp-settings.php:1324
+msgid "Uncheck this to disable distance based shipping options."
+msgstr ""
+"Noņemiet atzīmi no šīs izvēles, lai atspējotu nosūtīšanas iespējas, kuru "
+"pamatā ir attālums."
+
+#: core/class-wcfmmp-settings.php:1326
+#: views/shipping/wcfmmp-view-shipping-settings.php:398
+msgid "Default Cost"
+msgstr "Noklusējuma izmaksas"
+
+#: core/class-wcfmmp-settings.php:1326
+#: views/shipping/wcfmmp-view-shipping-settings.php:398
+msgid ""
+"Default shipping cost, will be added with distance rule cost. Leave empty to "
+"consider default cost as `0`."
+msgstr ""
+"Noklusējuma piegādes maksa tiks pievienota ar attāluma noteikumu izmaksām. "
+"Atstājiet tukšu, lai noklusējuma izmaksas uzskatītu par “0”."
+
+#: core/class-wcfmmp-settings.php:1327
+#: views/shipping/wcfmmp-view-shipping-settings.php:399
+msgid "Max Distance"
+msgstr "Maksimālais attālums"
+
+#: core/class-wcfmmp-settings.php:1327
+#: views/shipping/wcfmmp-view-shipping-settings.php:399
+msgid "No Limit"
+msgstr "Nav ierobežojumu"
+
+#: core/class-wcfmmp-settings.php:1327
+#: views/shipping/wcfmmp-view-shipping-settings.php:399
+msgid ""
+"Upto maximum distance shipping supported. Leave empty to consider no limit."
+msgstr ""
+"Tiek atbalstīts maksimālais pārvadāšanas attālums. Atstājiet tukšu, lai "
+"neierobežotu."
+
+#: core/class-wcfmmp-settings.php:1341
+#: views/shipping/wcfmmp-view-shipping-settings.php:408
+msgid "Distance-Cost Rules"
+msgstr "Noteikumi par attālumu un izmaksām"
+
+#: core/class-wcfmmp-settings.php:1348
+#: views/shipping/wcfmmp-view-shipping-settings.php:415
+msgid "Distance Rule"
+msgstr "Attāluma noteikums"
+
+#: core/class-wcfmmp-settings.php:1353
+#: views/shipping/wcfmmp-view-shipping-settings.php:420
+msgid "Distance up to"
+msgstr "Attālums līdz"
+
+#: core/class-wcfmmp-settings.php:1354
+#: views/shipping/wcfmmp-view-shipping-settings.php:421
+msgid "Distance more than"
+msgstr "Attālums vairāk nekā"
+
+#: core/class-wcfmmp-settings.php:1358 core/class-wcfmmp-shipping.php:479
+#: views/shipping/wcfmmp-view-shipping-settings.php:425
+msgid "Distance"
+msgstr "Attālums"
+
+#: core/class-wcfmmp-settings.php:1516 core/class-wcfmmp-settings.php:1520
+msgid "Refund Settings"
+msgstr "Atmaksas iestatījumi"
+
+#: core/class-wcfmmp-settings.php:1525
+msgid "Refund auto-approve?"
+msgstr "Vai naudas atgriešana tiek apstiprināta automātiski?"
+
+#: core/class-wcfmmp-settings.php:1526
+msgid "Refund by Customer?"
+msgstr "Atmaksa no klienta puses?"
+
+#: core/class-wcfmmp-settings.php:1526
+msgid ""
+"Enable this to allow customers make refund requests. Customers refund "
+"requests never auto-approve, admin always has to manually approve this."
+msgstr ""
+"Iespējojiet to, lai klienti varētu iesniegt atmaksas pieprasījumus. Klientu "
+"atmaksas pieprasījumi nekad netiek automātiski apstiprināti, administratoram "
+"tas vienmēr ir jāapstiprina manuāli."
+
+#: core/class-wcfmmp-settings.php:1527
+msgid "Refund Threshold"
+msgstr "Atmaksas slieksnis"
+
+#: core/class-wcfmmp-settings.php:1527
+msgid ""
+"Refund Threshold Days, (Allow an order available to make a refund request). "
+"Leave empty to inactive this option."
+msgstr ""
+"Atmaksas sliekšņa dienas, (ļaujiet pasūtījumam būt pieejamam, lai veiktu "
+"atmaksas pieprasījumu). Atstājiet tukšu, lai šī iespēja būtu neaktīva."
+
+#: core/class-wcfmmp-settings.php:1567 core/class-wcfmmp-settings.php:1571
+msgid "Review Settings"
+msgstr "Pārskatiet iestatījumus"
+
+#: core/class-wcfmmp-settings.php:1576
+msgid "Review auto-approve?"
+msgstr "Vai pārskatīt automātisko apstiprināšanu?"
+
+#: core/class-wcfmmp-settings.php:1577
+msgid "Review only store users?"
+msgstr "Vai pārskatīt tikai veikala lietotājus?"
+
+#: core/class-wcfmmp-settings.php:1577
+msgid ""
+"Enable this to allow only users to review the store who already purchased "
+"something from this store."
+msgstr ""
+"Iespējojiet to, lai veikalu varētu pārskatīt tikai lietotāji, kuri jau ir "
+"iegādājušies kaut ko no šī veikala."
+
+#: core/class-wcfmmp-settings.php:1578
+msgid "Product review sync?"
+msgstr "Produktu pārskatu sinhronizācija?"
+
+#: core/class-wcfmmp-settings.php:1578
+msgid "Enable this to allow vendor's products review consider as store review."
+msgstr ""
+"Iespējojiet to, lai pārdevēju produktu pārskatīšana tiktu uzskatīta par "
+"veikalu pārskatu."
+
+#: core/class-wcfmmp-settings.php:1579
+msgid "Review Categories"
+msgstr "Pārskatiet kategorijas"
+
+#: core/class-wcfmmp-settings.php:1580
+#: views/reviews/wcfmmp-view-reviews-manage.php:86
+msgid "Category"
+msgstr "Kategorija"
+
+#: core/class-wcfmmp-settings.php:1630
+msgid "Vendor Registration"
+msgstr "Pārdevēja reģistrācija"
+
+#: core/class-wcfmmp-settings.php:1634
+msgid "Registration Settings"
+msgstr "Reģistrācijas iestatījumi"
+
+#: core/class-wcfmmp-settings.php:1639
+msgid "Hide \"Become a Vendor\"?"
+msgstr "Slēpt “Kļūt par pārdevēju”?"
+
+#: core/class-wcfmmp-settings.php:1639
+msgid "Enable this to hide `Become a Vendor` link from `My Account` page."
+msgstr ""
+"Iespējojiet to, lai paslēptu saiti “Kļūsti par pārdevēju” no lapas “Mans "
+"konts”."
+
+#: core/class-wcfmmp-settings.php:1640
+msgid "Required Approval"
+msgstr "Nepieciešamais apstiprinājums"
+
+#: core/class-wcfmmp-settings.php:1640
+msgid "Whether user required Admin Approval to become vendor or not!"
+msgstr ""
+"Neatkarīgi no tā, vai lietotājam bija nepieciešama administratora "
+"apstiprināšana, lai kļūtu par pārdevēju!"
+
+#: core/class-wcfmmp-settings.php:1641
+msgid "Email Verification"
+msgstr "E-pasta verifikācija"
+
+#: core/class-wcfmmp-settings.php:1646
+msgid "SMS (via OTP) Verification"
+msgstr "SMS (izmantojot OTP) pārbaude"
+
+#: core/class-wcfmmp-settings.php:1651
+msgid "Registration Form Fields"
+msgstr "Reģistrācijas veidlapas lauki"
+
+#: core/class-wcfmmp-settings.php:1655
+msgid "-- Choose Terms Page --"
+msgstr "- Izvēlieties noteikumu lapu -"
+
+#: core/class-wcfmmp-settings.php:1665
+msgid "User Name"
+msgstr "Lietotājvārds"
+
+#: core/class-wcfmmp-settings.php:1668
+msgid "Terms & Conditions"
+msgstr "Noteikumi"
+
+#: core/class-wcfmmp-settings.php:1669
+msgid "Terms Page"
+msgstr "Noteikumu lapa"
+
+#: core/class-wcfmmp-settings.php:1674
+msgid "Registration Form Custom Fields"
+msgstr "Reģistrācijas veidlapa Pielāgoti lauki"
+
+#: core/class-wcfmmp-settings.php:1746
+msgid "Store Name"
+msgstr "Veikala nosaukums"
+
+#: core/class-wcfmmp-settings.php:1747
+msgid "Header Background"
+msgstr "Galvenes fons"
+
+#: core/class-wcfmmp-settings.php:1748
+msgid "Header Social Background"
+msgstr "Galvenes sociālais fons"
+
+#: core/class-wcfmmp-settings.php:1749
+msgid "Header Text"
+msgstr "Galvenes teksts"
+
+#: core/class-wcfmmp-settings.php:1750
+msgid "Header Icon"
+msgstr "Galvenes ikona"
+
+#: core/class-wcfmmp-settings.php:1751
+msgid "Sidebar Background"
+msgstr "Sānjoslas fons"
+
+#: core/class-wcfmmp-settings.php:1752
+msgid "Sidebar Heading"
+msgstr "Sānjoslas virsraksts"
+
+#: core/class-wcfmmp-settings.php:1753
+msgid "Sidebar Text"
+msgstr "Sānjoslas teksts"
+
+#: core/class-wcfmmp-settings.php:1754
+msgid "Tabs Text"
+msgstr "Cilnes teksts"
+
+#: core/class-wcfmmp-settings.php:1755
+msgid "Tabs Active Text"
+msgstr "Cilnes Aktīvs teksts"
+
+#: core/class-wcfmmp-settings.php:1756
+msgid "Store Card Highlight Color"
+msgstr "Store Card Highlight Color"
+
+#: core/class-wcfmmp-settings.php:1757
+msgid "Store Card Title Color"
+msgstr "Veikala kartes nosaukuma krāsa"
+
+#: core/class-wcfmmp-settings.php:1758
+msgid "Store Card Text Color"
+msgstr "Veikala kartes teksta krāsa"
+
+#: core/class-wcfmmp-settings.php:1759
+msgid "Button Background"
+msgstr "Pogas fons"
+
+#: core/class-wcfmmp-settings.php:1760
+msgid "Button Text"
+msgstr "Pogas teksts"
+
+#: core/class-wcfmmp-settings.php:1761
+msgid "Button Hover Background"
+msgstr "Pogas kursora fons"
+
+#: core/class-wcfmmp-settings.php:1762
+msgid "Button Hover Text"
+msgstr "Pogas kursora teksts"
+
+#: core/class-wcfmmp-settings.php:1763
+msgid "Star Rating"
+msgstr "Zvaigžņu vērtējums"
+
+#: core/class-wcfmmp-settings.php:1776
+msgid "Store Style"
+msgstr "Veikala stils"
+
+#: core/class-wcfmmp-settings.php:1780
+msgid "Page Display Setting"
+msgstr "Lapas displeja iestatīšana"
+
+#: core/class-wcfmmp-settings.php:1918
+msgid "Data Cleanup"
+msgstr "Datu tīrīšana"
+
+#: core/class-wcfmmp-settings.php:1922
+msgid "Data Cleanup Settings"
+msgstr "Datu tīrīšanas iestatījumi"
+
+#: core/class-wcfmmp-settings.php:1927
+msgid "Enable Data Cleanup"
+msgstr "Iespējot datu tīrīšanu"
+
+#: core/class-wcfmmp-settings.php:1927
+msgid ""
+"Check this to enable scheduled cleanup old data. It will not possible to "
+"restore this data anymore."
+msgstr ""
+"Atzīmējiet šo, lai iespējotu plānotos vecos datus. Šos datus vairs nebūs "
+"iespējams atjaunot."
+
+#: core/class-wcfmmp-settings.php:1933
+msgid "Notification Message Cleanup"
+msgstr "Paziņojumu ziņojumu tīrīšana"
+
+#: core/class-wcfmmp-settings.php:1939 core/class-wcfmmp-settings.php:1968
+msgid "Check this to enable scheduled cleanup old notification messages."
+msgstr "Atzīmējiet šo, lai iespējotu plānoto veco paziņojumu tīrīšanu."
+
+#: core/class-wcfmmp-settings.php:1940 core/class-wcfmmp-settings.php:1954
+#: core/class-wcfmmp-settings.php:1969
+msgid "Cleanup data more than"
+msgstr "Tīrīšanas dati vairāk nekā"
+
+#: core/class-wcfmmp-settings.php:1940 core/class-wcfmmp-settings.php:1954
+#: core/class-wcfmmp-settings.php:1969
+msgid "30 days old"
+msgstr "30 dienas vecs"
+
+#: core/class-wcfmmp-settings.php:1940 core/class-wcfmmp-settings.php:1954
+#: core/class-wcfmmp-settings.php:1969
+msgid "60 days old"
+msgstr "60 dienas vecs"
+
+#: core/class-wcfmmp-settings.php:1940 core/class-wcfmmp-settings.php:1954
+#: core/class-wcfmmp-settings.php:1969
+msgid "90 days old"
+msgstr "90 dienas vecs"
+
+#: core/class-wcfmmp-settings.php:1940 core/class-wcfmmp-settings.php:1954
+#: core/class-wcfmmp-settings.php:1969
+msgid "180 days old"
+msgstr "180 dienas vecs"
+
+#: core/class-wcfmmp-settings.php:1940 core/class-wcfmmp-settings.php:1954
+#: core/class-wcfmmp-settings.php:1969
+msgid "365 days old"
+msgstr "365 dienas vecs"
+
+#: core/class-wcfmmp-settings.php:1947
+msgid "Inquiry Messages Cleanup"
+msgstr "Izmeklēšanas ziņojumu tīrīšana"
+
+#: core/class-wcfmmp-settings.php:1953
+msgid "Check this to enable scheduled cleanup old inquiry messages."
+msgstr ""
+"Atzīmējiet šo, lai iespējotu plānotos veco pieprasījuma ziņojumu tīrīšanu."
+
+#: core/class-wcfmmp-settings.php:1962
+msgid "Analytics Data Cleanup"
+msgstr "Analytics datu tīrīšana"
+
+#: core/class-wcfmmp-shipping-zone.php:95
+msgid "No shipping method found for adding"
+msgstr "Nav atrasta nosūtīšanas metode pievienošanai"
+
+#: core/class-wcfmmp-shipping-zone.php:120
+msgid "Shipping method not added successfully"
+msgstr "Piegādes metode nav veiksmīgi pievienota"
+
+#: core/class-wcfmmp-shipping-zone.php:141
+msgid "Shipping method not deleted"
+msgstr "Piegādes metode nav izdzēsta"
+
+#: core/class-wcfmmp-shipping-zone.php:165
+msgid "Lets you charge a rate for shipping"
+msgstr "Ļauj iekasēt maksu par nosūtīšanu"
+
+#: core/class-wcfmmp-shipping-zone.php:225
+msgid "Method enable or disable not working"
+msgstr "Metode iespējot vai atspējot nedarbojas"
+
+#: core/class-wcfmmp-shipping.php:400 views/emails/store-new-order.php:240
+#: views/emails/store-new-order.php:378
+#: views/emails/plain/store-new-order.php:240
+#: views/emails/plain/store-new-order.php:378
+msgid "Shipping"
+msgstr "Piegāde"
+
+#: core/class-wcfmmp-shipping.php:485
+msgid "Deliver upto"
+msgstr "Piegādāt līdz pat"
+
+#: core/class-wcfmmp-shipping.php:493
+#, fuzzy, php-format
+msgid "Shop for %s%s more to get free shipping"
+msgstr "Iegādājieties %s %s vairāk, lai saņemtu bezmaksas piegādi"
+
+#: core/class-wcfmmp-shortcode.php:905 core/class-wcfmmp-store-hours.php:78
+#: core/class-wcfmmp-store-hours.php:217 core/class-wcfmmp-vendor.php:1278
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:85
+msgid "Monday"
+msgstr "Pirmdien"
+
+#: core/class-wcfmmp-shortcode.php:905 core/class-wcfmmp-store-hours.php:78
+#: core/class-wcfmmp-store-hours.php:217 core/class-wcfmmp-vendor.php:1278
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:85
+msgid "Tuesday"
+msgstr "Otrdiena"
+
+#: core/class-wcfmmp-shortcode.php:905 core/class-wcfmmp-store-hours.php:78
+#: core/class-wcfmmp-store-hours.php:217 core/class-wcfmmp-vendor.php:1278
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:85
+msgid "Wednesday"
+msgstr "Trešdien"
+
+#: core/class-wcfmmp-shortcode.php:905 core/class-wcfmmp-store-hours.php:78
+#: core/class-wcfmmp-store-hours.php:217 core/class-wcfmmp-vendor.php:1278
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:85
+msgid "Thursday"
+msgstr "Ceturtdiena"
+
+#: core/class-wcfmmp-shortcode.php:905 core/class-wcfmmp-store-hours.php:78
+#: core/class-wcfmmp-store-hours.php:217 core/class-wcfmmp-vendor.php:1278
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:85
+msgid "Friday"
+msgstr "Piektdiena"
+
+#: core/class-wcfmmp-shortcode.php:905 core/class-wcfmmp-store-hours.php:78
+#: core/class-wcfmmp-store-hours.php:217 core/class-wcfmmp-vendor.php:1278
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:85
+msgid "Saturday"
+msgstr "Sestdien"
+
+#: core/class-wcfmmp-shortcode.php:905 core/class-wcfmmp-store-hours.php:78
+#: core/class-wcfmmp-store-hours.php:217 core/class-wcfmmp-vendor.php:1278
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:85
+msgid "Sunday"
+msgstr "Svētdien"
+
+#: core/class-wcfmmp-shortcode.php:908 core/class-wcfmmp-store-hours.php:204
+#: core/class-wcfmmp.php:349 helpers/wcfmmp-core-functions.php:569
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:17
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:136
+msgid "Store Hours"
+msgstr "Veikalu darba laiks"
+
+#: core/class-wcfmmp-sidebar-widgets.php:41
+msgid "Vendor Store Sidebar"
+msgstr "Pārdevēju veikala sānjosla"
+
+#: core/class-wcfmmp-store-hours.php:68
+msgid "Hours"
+msgstr "Stundas"
+
+#: core/class-wcfmmp-store-hours.php:73
+msgid "Default Store Hours Setting"
+msgstr "Noklusētais veikala stundu iestatījums"
+
+#: core/class-wcfmmp-store-hours.php:78 core/class-wcfmmp-vendor.php:1278
+msgid "Set Day OFF"
+msgstr "Iestatiet dienu OFF"
+
+#: core/class-wcfmmp-store-hours.php:84 core/class-wcfmmp-store-hours.php:223
+#: core/class-wcfmmp-vendor.php:1283
+msgid "Daily Basis Opening & Closing Hours"
+msgstr "Dienas bāzes darba un slēgšanas stundas"
+
+#: core/class-wcfmmp-store-hours.php:89 core/class-wcfmmp-store-hours.php:228
+#: core/class-wcfmmp-vendor.php:1288
+msgid "Monday Time Slots"
+msgstr "Pirmdienas laika nišas"
+
+#: core/class-wcfmmp-store-hours.php:90 core/class-wcfmmp-store-hours.php:95
+#: core/class-wcfmmp-store-hours.php:100 core/class-wcfmmp-store-hours.php:105
+#: core/class-wcfmmp-store-hours.php:110 core/class-wcfmmp-store-hours.php:115
+#: core/class-wcfmmp-store-hours.php:120 core/class-wcfmmp-store-hours.php:229
+#: core/class-wcfmmp-store-hours.php:234 core/class-wcfmmp-store-hours.php:239
+#: core/class-wcfmmp-store-hours.php:244 core/class-wcfmmp-store-hours.php:249
+#: core/class-wcfmmp-store-hours.php:254 core/class-wcfmmp-store-hours.php:259
+#: core/class-wcfmmp-vendor.php:1289 core/class-wcfmmp-vendor.php:1294
+#: core/class-wcfmmp-vendor.php:1299 core/class-wcfmmp-vendor.php:1304
+#: core/class-wcfmmp-vendor.php:1309 core/class-wcfmmp-vendor.php:1314
+#: core/class-wcfmmp-vendor.php:1319
+msgid "Opening"
+msgstr "Atvēršana"
+
+#: core/class-wcfmmp-store-hours.php:91 core/class-wcfmmp-store-hours.php:96
+#: core/class-wcfmmp-store-hours.php:101 core/class-wcfmmp-store-hours.php:106
+#: core/class-wcfmmp-store-hours.php:111 core/class-wcfmmp-store-hours.php:116
+#: core/class-wcfmmp-store-hours.php:121 core/class-wcfmmp-store-hours.php:230
+#: core/class-wcfmmp-store-hours.php:235 core/class-wcfmmp-store-hours.php:240
+#: core/class-wcfmmp-store-hours.php:245 core/class-wcfmmp-store-hours.php:250
+#: core/class-wcfmmp-store-hours.php:255 core/class-wcfmmp-store-hours.php:260
+#: core/class-wcfmmp-vendor.php:1290 core/class-wcfmmp-vendor.php:1295
+#: core/class-wcfmmp-vendor.php:1300 core/class-wcfmmp-vendor.php:1305
+#: core/class-wcfmmp-vendor.php:1310 core/class-wcfmmp-vendor.php:1315
+#: core/class-wcfmmp-vendor.php:1320
+msgid "Closing"
+msgstr "Noslēgums"
+
+#: core/class-wcfmmp-store-hours.php:94 core/class-wcfmmp-store-hours.php:233
+#: core/class-wcfmmp-vendor.php:1293
+msgid "Tuesday Time Slots"
+msgstr "Otrdienas laika nišas"
+
+#: core/class-wcfmmp-store-hours.php:99 core/class-wcfmmp-store-hours.php:238
+#: core/class-wcfmmp-vendor.php:1298
+msgid "Wednesday Time Slots"
+msgstr "Trešdienas laika nišas"
+
+#: core/class-wcfmmp-store-hours.php:104 core/class-wcfmmp-store-hours.php:243
+#: core/class-wcfmmp-vendor.php:1303
+msgid "Thursday Time Slots"
+msgstr "Ceturtdienas laika nišas"
+
+#: core/class-wcfmmp-store-hours.php:109 core/class-wcfmmp-store-hours.php:248
+#: core/class-wcfmmp-vendor.php:1308
+msgid "Friday Time Slots"
+msgstr "Piektdienas laika nišas"
+
+#: core/class-wcfmmp-store-hours.php:114 core/class-wcfmmp-store-hours.php:253
+#: core/class-wcfmmp-vendor.php:1313
+msgid "Saturday Time Slots"
+msgstr "Sestdienas laika nišas"
+
+#: core/class-wcfmmp-store-hours.php:119 core/class-wcfmmp-store-hours.php:258
+#: core/class-wcfmmp-vendor.php:1318
+msgid "Sunday Time Slots"
+msgstr "Svētdienas laika nišas"
+
+#: core/class-wcfmmp-store-hours.php:209 core/class-wcfmmp-vendor.php:1270
+msgid "Store Hours Setting"
+msgstr "Veikalu stundu iestatīšana"
+
+#: core/class-wcfmmp-store-hours.php:215 core/class-wcfmmp-vendor.php:1276
+msgid "Enable Store Hours"
+msgstr "Iespējot veikala darba laiku"
+
+#: core/class-wcfmmp-store-hours.php:216 core/class-wcfmmp-vendor.php:1277
+msgid "Disable Purchase During OFF Time"
+msgstr "Atspējot pirkumu izslēgšanas laikā"
+
+#: core/class-wcfmmp-store-hours.php:217
+msgid "Set Week OFF"
+msgstr "Iestatiet nedēļu OFF"
+
+#: core/class-wcfmmp-store-hours.php:320 core/class-wcfmmp-store-hours.php:372
+msgid "This store is now closed!"
+msgstr "Šis veikals tagad ir slēgts!"
+
+#: core/class-wcfmmp-store.php:132
+msgid "Products"
+msgstr "Produkti"
+
+#: core/class-wcfmmp-store.php:133
+msgid "Articles"
+msgstr "Raksti"
+
+#: core/class-wcfmmp-store.php:134
+msgid "About"
+msgstr "Par"
+
+#: core/class-wcfmmp-store.php:135 core/class-wcfmmp-vendor.php:2214
+#: helpers/class-wcfmmp-store-setup.php:67
+msgid "Policies"
+msgstr "Politikas"
+
+#: core/class-wcfmmp-store.php:137 core/class-wcfmmp-store.php:149
+msgid "Followers"
+msgstr "Sekotāji"
+
+#: core/class-wcfmmp-store.php:138 core/class-wcfmmp-store.php:155
+msgid "Followings"
+msgstr "Sekošana"
+
+#: core/class-wcfmmp-store.php:614
+msgid "Phone"
+msgstr "Tālr"
+
+#: core/class-wcfmmp-vendor.php:420 core/class-wcfmmp-vendor.php:523
+#: helpers/wcfmmp-core-functions.php:498 helpers/wcfmmp-core-functions.php:649
+msgid "Shipped"
+msgstr "Nosūtīts"
+
+#: core/class-wcfmmp-vendor.php:522 helpers/wcfmmp-core-functions.php:648
+#: views/reviews/wcfmmp-view-product-reviews.php:22
+#: views/reviews/wcfmmp-view-reviews.php:22
+msgid "Pending"
+msgstr "Gaida"
+
+#: core/class-wcfmmp-vendor.php:700
+msgid "General Setting"
+msgstr "Vispārīgais iestatījums"
+
+#: core/class-wcfmmp-vendor.php:716
+msgid "Store Brand Setup"
+msgstr "Veikala zīmola iestatīšana"
+
+#: core/class-wcfmmp-vendor.php:817
+msgid "Visibility Setup"
+msgstr "Redzamības iestatīšana"
+
+#: core/class-wcfmmp-vendor.php:957 core/class-wcfmmp-vendor.php:982
+msgid "Vendor Specific Rule"
+msgstr "Īpašs pārdevēja noteikums"
+
+#: core/class-wcfmmp-vendor.php:992
+msgid "Commission & Withdrawal"
+msgstr "Komisija un atsaukšana"
+
+#: core/class-wcfmmp-vendor.php:1039
+msgid "Enable this to deduct tax from vendor's commission."
+msgstr "Iespējojiet šo iespēju atskaitīt nodokli no pārdevēja komisijas."
+
+#: core/class-wcfmmp-vendor.php:1067
+msgid "Transactional Charge Mode"
+msgstr "Darījuma uzlādes režīms"
+
+#: core/class-wcfmmp-vendor.php:1149
+msgid "Payment Setup"
+msgstr "Maksājumu iestatīšana"
+
+#: core/class-wcfmmp-vendor.php:1430
+msgid "Store SEO & Social"
+msgstr "Veikalu SEO un sociālie tīkli"
+
+#: core/class-wcfmmp-vendor.php:1598
+msgid "Store Policies & Customer Support"
+msgstr "Veikalu politikas un klientu atbalsts"
+
+#: core/class-wcfmmp-vendor.php:1600
+msgid "Policies & Support"
+msgstr "Politika un atbalsts"
+
+#: core/class-wcfmmp-vendor.php:1706
+msgid "Store Orders"
+msgstr "Veikala pasūtījumi"
+
+#: core/class-wcfmmp-vendor.php:1893 core/class-wcfmmp-vendor.php:1899
+msgid "Additional Info"
+msgstr "Papildus informācija"
+
+#: core/class-wcfmmp-vendor.php:1971
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-meta-filter.php:98
+msgid "--Choose Option--"
+msgstr "--Izvēlēties iespēju--"
+
+#: core/class-wcfmmp-vendor.php:2307
+msgid "Off-line Vendor Store"
+msgstr "Bezsaistes pārdevēju veikals"
+
+#: core/class-wcfmmp-vendor.php:2309
+msgid "On-line Vendor Store"
+msgstr "Tiešsaistes pārdevēju veikals"
+
+#: core/class-wcfmmp-vendor.php:2563
+msgid "Add Store Logo"
+msgstr "Pievienojiet veikala logotipu"
+
+#: core/class-wcfmmp-vendor.php:2571
+msgid "Add Store Name"
+msgstr "Pievienojiet veikala nosaukumu"
+
+#: core/class-wcfmmp-vendor.php:2579
+msgid "Add Store Banner"
+msgstr "Pievienojiet veikala reklāmkarogu"
+
+#: core/class-wcfmmp-vendor.php:2587
+msgid "Add Store Phone"
+msgstr "Pievienojiet veikala tālruni"
+
+#: core/class-wcfmmp-vendor.php:2594
+msgid "Add Store Description"
+msgstr "Pievienot veikala aprakstu"
+
+#: core/class-wcfmmp-vendor.php:2601
+msgid "Add Store Address"
+msgstr "Pievienojiet veikala adresi"
+
+#: core/class-wcfmmp-vendor.php:2611
+msgid "Add Store Location"
+msgstr "Pievienojiet veikala atrašanās vietu"
+
+#: core/class-wcfmmp-vendor.php:2620
+msgid "Set your payment method"
+msgstr "Iestatiet maksājuma veidu"
+
+#: core/class-wcfmmp-vendor.php:2628
+msgid "Setup Store Policies"
+msgstr "Uzstādīšanas veikala politikas"
+
+#: core/class-wcfmmp-vendor.php:2636
+msgid "Setup Store Customer Support"
+msgstr "Setup Store klientu atbalsts"
+
+#: core/class-wcfmmp-vendor.php:2644
+msgid "Setup Store SEO"
+msgstr "Iestatīšanas veikala SEO"
+
+#: core/class-wcfmmp-vendor.php:2659
+msgid "Complete!"
+msgstr "Pabeigts!"
+
+#: core/class-wcfmmp-vendor.php:2662
+msgid "Loading"
+msgstr "Iekraušana"
+
+#: core/class-wcfmmp-vendor.php:2665
+msgid "Suggestion(s)"
+msgstr "Ieteikums (-i)"
+
+#: core/class-wcfmmp-vendor.php:3042
+msgid ""
+"Item(s) from one store already in your cart. First checkout with those and "
+"then purchase from other stores!"
+msgstr ""
+"Preces no viena veikala, kas jau atrodas jūsu grozā. Vispirms norēķinieties "
+"ar tiem un pēc tam iegādājieties no citiem veikaliem!"
+
+#: core/class-wcfmmp-withdraw.php:154
+msgid "Auto Withdrawal Request processing failed, please contact Store Admin."
+msgstr ""
+"Automātiskas atsaukšanas pieprasījuma apstrāde neizdevās, lūdzu, sazinieties "
+"ar Store Admin."
+
+#: core/class-wcfmmp-withdraw.php:159
+#, php-format
+msgid "Vendor <b>%s</b> has placed a Withdrawal Request #%s."
+msgstr "Pārdevējs <b>%s</b> ir iesniedzis atsaukuma pieprasījumu #%s."
+
+#: core/class-wcfmmp-withdraw.php:166
+msgid "Auto withdrawal request failed, please try after sometime."
+msgstr ""
+"Automātiskas izņemšanas pieprasījums neizdevās. Lūdzu, pēc kāda laika "
+"mēģiniet."
+
+#: core/class-wcfmmp-withdraw.php:217 core/class-wcfmmp-withdraw.php:232
+msgid "Cancelled due to refund!"
+msgstr "Atcelts atmaksas dēļ!"
+
+#: core/class-wcfmmp-withdraw.php:416
+msgid "Payment Processed"
+msgstr "Maksājums apstrādāts"
+
+#: core/class-wcfmmp-withdraw.php:445
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:783
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:925
+msgid "Something went wrong please try again later."
+msgstr "Kaut kas neizdevās, lūdzu, vēlāk mēģiniet vēlreiz."
+
+#: core/class-wcfmmp-withdraw.php:449
+msgid "Invalid payment method."
+msgstr "Nederīga maksājuma metode."
+
+#: core/class-wcfmmp-withdraw.php:453
+msgid "No vendor for payment processing."
+msgstr "Neviens pārdevējs neveic maksājumu apstrādi."
+
+#: core/class-wcfmmp-withdraw.php:495 core/class-wcfmmp-withdraw.php:534
+#, php-format
+msgid "Your withdrawal request #%s %s."
+msgstr "Jūsu atteikuma pieprasījums #%s %s."
+
+#: core/class-wcfmmp-withdraw.php:578 core/class-wcfmmp-withdraw.php:624
+#, php-format
+msgid "Reverse withdrawal for order #%s %s."
+msgstr "Pasūtījuma #%s %s atsaukšana atpakaļgaitā."
+
+#: core/class-wcfmmp.php:351
+msgid "Vendor Ledger"
+msgstr "Pārdevēja grāmata"
+
+#: core/class-wcfmmp.php:352
+msgid "Product Multivendor"
+msgstr "Produktu Multivendor"
+
+#: core/class-wcfmmp.php:352
+msgid ""
+"Keep this enable to allow vendors to sell other vendors' products, single "
+"product multiple seller."
+msgstr ""
+"Saglabājiet šo iespēju, lai ļautu pārdevējiem pārdot citu pārdevēju "
+"produktus, vienu produktu vairākiem pārdevējiem."
+
+#: core/class-wcfmmp.php:353
+#: views/product_multivendor/wcfmmp-view-sell-items-catalog.php:15
+#: views/product_multivendor/wcfmmp-view-sell-items-catalog.php:23
+msgid "Add to My Store Catalog"
+msgstr "Pievienot mana veikala katalogam"
+
+#: core/class-wcfmmp.php:353
+msgid ""
+"Other vendors' products catalog, vendors will able to add those directly to "
+"their store."
+msgstr ""
+"Citu pārdevēju preču katalogs, pārdevēji tos varēs pievienot tieši savam "
+"veikalam."
+
+#: helpers/class-wcfmmp-install.php:366
+msgid "Store Vendor"
+msgstr "Veikalu pārdevējs"
+
+#: helpers/class-wcfmmp-setup.php:90 helpers/class-wcfmmp-setup.php:302
+#: helpers/class-wcfmmp-setup.php:514
+msgid "WCFM Marketplace &rsaquo; Setup Wizard"
+msgstr "WCFM Marketplace ›Iestatīšanas vednis"
+
+#: helpers/class-wcfmmp-setup.php:161
+msgid "WCFM Marketplace requires WooCommerce plugin to be active!"
+msgstr "WCFM Marketplace ir nepieciešams aktīvs spraudnis WooCommerce!"
+
+#: helpers/class-wcfmmp-setup.php:163
+msgid "Install WooCommerce"
+msgstr "Instalējiet WooCommerce"
+
+#: helpers/class-wcfmmp-setup.php:257 helpers/class-wcfmmp-setup.php:469
+#: helpers/class-wcfmmp-setup.php:681
+#, php-format
+msgid ""
+"%1$s could not be installed (%2$s). <a href=\"%3$s\">Please install it "
+"manually by clicking here.</a>"
+msgstr ""
+"%1$s nevarēja instalēt (%2$s). <a href=\"%3$s\">Lūdzu, instalējiet to "
+"manuāli, noklikšķinot šeit.</a>"
+
+#: helpers/class-wcfmmp-setup.php:277 helpers/class-wcfmmp-setup.php:489
+#: helpers/class-wcfmmp-setup.php:701
+#, php-format
+msgid ""
+"%1$s was installed but could not be activated. <a href=\"%2$s\">Please "
+"activate it manually by clicking here.</a>"
+msgstr ""
+"%1$s tika instalēts, bet to nevarēja aktivizēt. <a href=\"%2$s\">Lūdzu, "
+"aktivizējiet to manuāli, noklikšķinot šeit.</a>"
+
+#: helpers/class-wcfmmp-setup.php:373
+msgid "Setup WCFM Maketplace vendor registration:"
+msgstr "Iestatīt WCFM Maketplace pārdevēja reģistrāciju:"
+
+#: helpers/class-wcfmmp-setup.php:375
+msgid "Setup Registration"
+msgstr "Iestatīšanas reģistrācija"
+
+#: helpers/class-wcfmmp-setup.php:585
+msgid "WCFM Maketplace requires WCFM Core plugin to be active!"
+msgstr "Lai WCFM Maketplace darbotos, ir nepieciešams WCFM Core spraudnis!"
+
+#: helpers/class-wcfmmp-setup.php:587
+msgid "Install WCFM Core"
+msgstr "Instalējiet WCFM Core"
+
+#: helpers/class-wcfmmp-store-setup.php:62
+msgid "Payment"
+msgstr "Maksājums"
+
+#: helpers/class-wcfmmp-store-setup.php:72
+msgid "Customer Support"
+msgstr "Klientu atbalsts"
+
+#: helpers/class-wcfmmp-store-setup.php:77
+msgid "SEO"
+msgstr "SEO"
+
+#: helpers/class-wcfmmp-store-setup.php:82
+msgid "Social"
+msgstr "Sociālais"
+
+#: helpers/class-wcfmmp-store-setup.php:273
+msgid "Vendor Store &rsaquo; Setup Wizard"
+msgstr "Pārdevēju veikals ›Iestatīšanas vednis"
+
+#: helpers/class-wcfmmp-store-setup.php:297
+msgid "Store Setup"
+msgstr "Veikala iestatīšana"
+
+#: helpers/class-wcfmmp-store-setup.php:338
+#, php-format
+msgid "Welcome to %s!"
+msgstr "Laipni lūdzam %s!"
+
+#: helpers/class-wcfmmp-store-setup.php:339
+#, php-format
+msgid ""
+"Thank you for choosing %s! This quick setup wizard will help you to "
+"configure the basic settings and you will have your store ready in no time."
+msgstr ""
+"Paldies, ka izvēlējāties %s! Šis ātras iestatīšanas vednis palīdzēs jums "
+"konfigurēt pamata iestatījumus, un jums veikals būs gatavs nekavējoties."
+
+#: helpers/class-wcfmmp-store-setup.php:340
+msgid ""
+"If you don't want to go through the wizard right now, you can skip and "
+"return to the dashboard. You may setup your store from dashboard &rsaquo; "
+"setting anytime!"
+msgstr ""
+"Ja šobrīd nevēlaties iziet vedni, varat to izlaist un atgriezties pie "
+"informācijas paneļa. Jūs varat iestatīt savu veikalu, izmantojot "
+"informācijas paneli ›iestatot to jebkurā laikā!"
+
+#: helpers/class-wcfmmp-store-setup.php:411
+msgid "Store setup"
+msgstr "Veikala iestatīšana"
+
+#: helpers/class-wcfmmp-store-setup.php:447
+msgid "Store Address 1"
+msgstr "Veikala adrese 1"
+
+#: helpers/class-wcfmmp-store-setup.php:448
+msgid "Store Address 2"
+msgstr "2. veikala adrese"
+
+#: helpers/class-wcfmmp-store-setup.php:449
+msgid "Store City/Town"
+msgstr "Veikals Pilsēta"
+
+#: helpers/class-wcfmmp-store-setup.php:450
+msgid "Store Postcode/Zip"
+msgstr "Veikals Pasta indekss / pasta indekss"
+
+#: helpers/class-wcfmmp-store-setup.php:451
+msgid "Store Country"
+msgstr "Veikala valsts"
+
+#: helpers/class-wcfmmp-store-setup.php:452
+msgid "Store State/County"
+msgstr "Novads"
+
+#: helpers/class-wcfmmp-store-setup.php:461
+#: helpers/wcfmmp-core-functions.php:565
+#: includes/store-widgets/class-wcfmmp-widget-store-location.php:17
+#: includes/store-widgets/class-wcfmmp-widget-store-location.php:117
+#: views/store/wcfmmp-view-store-sidebar.php:36
+msgid "Store Location"
+msgstr "Veikala atrašanās vieta"
+
+#: helpers/class-wcfmmp-store-setup.php:520
+msgid "Payment setup"
+msgstr "Maksājuma iestatīšana"
+
+#: helpers/class-wcfmmp-store-setup.php:715
+msgid "Policy setup"
+msgstr "Politikas iestatīšana"
+
+#: helpers/class-wcfmmp-store-setup.php:781
+msgid "Support setup"
+msgstr "Atbalsta iestatīšana"
+
+#: helpers/class-wcfmmp-store-setup.php:841
+msgid "Store SEO setup"
+msgstr "Veikala SEO iestatīšana"
+
+#: helpers/class-wcfmmp-store-setup.php:919
+msgid "Store Social setup"
+msgstr "Veikala Social setup iestatīšana"
+
+#: helpers/class-wcfmmp-store-setup.php:954
+msgid ""
+"Your store is ready. It's time to experience the things more Easily and "
+"Peacefully. Add your products and start counting sales, have fun!!"
+msgstr ""
+"Jūsu veikals ir gatavs. Ir pienācis laiks piedzīvot lietas vieglāk un "
+"mierīgāk. Pievienojiet savus produktus un sāciet skaitīt pārdošanas apjomus, "
+"izklaidējieties!"
+
+#: helpers/class-wcfmmp-store-setup.php:1180
+msgid "How to use dashboard?"
+msgstr "Kā lietot informācijas paneli?"
+
+#: helpers/wcfmmp-core-functions.php:6
+#, php-format
+msgid ""
+"%s WCFM Marketplace is inactive.%s The %sWooCommerce plugin%s must be active "
+"for the WCFM Marketplace to work. Please %sinstall & activate WooCommerce %s"
+msgstr ""
+" %s WCFM Marketplace ir neaktīvs. %s Lai WCFM Marketplace darbotos, %s "
+"WooCommerce spraudnim %s ir jābūt aktīvam. Lūdzu, %s instalējiet un "
+"aktivizējiet WooCommerce %s"
+
+#: helpers/wcfmmp-core-functions.php:16
+#, php-format
+msgid ""
+"%s WCFM Marketplace is inactive.%s The %sWooCommerce Frontend Manager%s must "
+"be active for the WCFM Marketplace to work. Please %s install & activate "
+"WooCommerce Frontend Manager%s"
+msgstr ""
+" %s WCFM Marketplace nav aktīvs. %s Lai WCFM Marketplace darbotos, %s "
+"WooCommerce Frontend Manager %s ir jābūt aktīvam. Lūdzu, %s instalējiet un "
+"aktivizējiet WooCommerce Frontend Manager %s"
+
+#: helpers/wcfmmp-core-functions.php:26
+msgid ""
+"%WCFM Marketplace - Stripe Gateway%s requires PHP 5.6 or greater. We "
+"recommend upgrading to PHP %s or greater."
+msgstr ""
+"%s WCFM Marketplace - Stripe Gateway %s nepieciešama PHP 5.6 vai jaunāka. "
+"Mēs iesakām jaunināt uz PHP %s vai augstāku."
+
+#: helpers/wcfmmp-core-functions.php:36 helpers/wcfmmp-core-functions.php:46
+#: helpers/wcfmmp-core-functions.php:56
+msgid ""
+"%WCFM Marketplace - Stripe Gateway depends on the %s PHP extension. Please "
+"enable it, or ask your hosting provider to enable it."
+msgstr ""
+"%s WCFM Marketplace - Stripe Gateway ir atkarīgs no %s PHP paplašinājuma. "
+"Lūdzu, iespējojiet to vai lūdziet savam mitināšanas pakalpojumu sniedzējam "
+"to iespējot."
+
+#: helpers/wcfmmp-core-functions.php:415
+msgid "By Vendor Sales"
+msgstr "Ar pārdevēju pārdošanu"
+
+#: helpers/wcfmmp-core-functions.php:416
+msgid "By Product Price"
+msgstr "Pēc produkta cenas"
+
+#: helpers/wcfmmp-core-functions.php:417
+msgid "By Purchase Quantity"
+msgstr "Pēc pirkuma daudzuma"
+
+#: helpers/wcfmmp-core-functions.php:427
+#: includes/payment-gateways/class-wcfmmp-gateway-skrill.php:17
+msgid "Skrill"
+msgstr "Skrill"
+
+#: helpers/wcfmmp-core-functions.php:428
+#: includes/payment-gateways/class-wcfmmp-gateway-bank_transfer.php:16
+msgid "Bank Transfer"
+msgstr "Bankas pārskaitījums"
+
+#: helpers/wcfmmp-core-functions.php:429
+#: includes/payment-gateways/class-wcfmmp-gateway-by_cash.php:16
+msgid "Cash Pay"
+msgstr "Skaidras naudas samaksa"
+
+#: helpers/wcfmmp-core-functions.php:430
+msgid "Wirecard (Moip)"
+msgstr "Kartīte (Moip)"
+
+#: helpers/wcfmmp-core-functions.php:432
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:496
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:613
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:768
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:910
+msgid "Stripe Split Pay"
+msgstr "Stripe Split Pay"
+
+#: helpers/wcfmmp-core-functions.php:552
+msgid "Feature"
+msgstr "Iezīme"
+
+#: helpers/wcfmmp-core-functions.php:553
+msgid "Varity"
+msgstr "Variācija"
+
+#: helpers/wcfmmp-core-functions.php:554
+msgid "Flexibility"
+msgstr "Elastība"
+
+#: helpers/wcfmmp-core-functions.php:555
+msgid "Delivery"
+msgstr "Piegāde"
+
+#: helpers/wcfmmp-core-functions.php:566
+#: includes/store-widgets/class-wcfmmp-widget-store-info.php:17
+msgid "Store Info"
+msgstr "Informācija par veikalu"
+
+#: helpers/wcfmmp-core-functions.php:567
+msgid "Store Category"
+msgstr "Veikala kategorija"
+
+#: helpers/wcfmmp-core-functions.php:568
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:17
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:118
+msgid "Store Taxonomies"
+msgstr "Veikalu taksonomijas"
+
+#: helpers/wcfmmp-core-functions.php:570
+#: includes/store-widgets/class-wcfmmp-widget-store-shipping-rules.php:17
+msgid "Store Shipping Rules"
+msgstr "Piegādes noteikumi veikalā"
+
+#: helpers/wcfmmp-core-functions.php:571
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:17
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:153
+msgid "Store Coupons"
+msgstr "Veikalu kuponi"
+
+#: helpers/wcfmmp-core-functions.php:572
+#: includes/store-widgets/class-wcfmmp-widget-store-product-search.php:17
+msgid "Store Product Search"
+msgstr "Veikalu produktu meklēšana"
+
+#: helpers/wcfmmp-core-functions.php:573
+msgid "Store Top Products"
+msgstr "Veikalu top produkti"
+
+#: helpers/wcfmmp-core-functions.php:574
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:17
+msgid "Store Top Rated Products"
+msgstr "Veikals Visaugstāk novērtētie produkti"
+
+#: helpers/wcfmmp-core-functions.php:575
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:17
+msgid "Store Recent Products"
+msgstr "Veikals Jaunākie produkti"
+
+#: helpers/wcfmmp-core-functions.php:576
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:17
+msgid "Store Featured Products"
+msgstr "Veikalu piedāvāto produktu glabāšana"
+
+#: helpers/wcfmmp-core-functions.php:577
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:17
+msgid "Store On Sale Products"
+msgstr "Izpārdodu preču veikals"
+
+#: helpers/wcfmmp-core-functions.php:578
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-articles.php:17
+msgid "Store Recent Articles"
+msgstr "Veikals Jaunākie raksti"
+
+#: helpers/wcfmmp-core-functions.php:580
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:17
+msgid "Store Lists Search"
+msgstr "Veikalu sarakstu meklēšana"
+
+#: helpers/wcfmmp-core-functions.php:581
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-category-filter.php:17
+msgid "Store Lists Category Filter"
+msgstr "Veikalu sarakstu kategoriju filtrs"
+
+#: helpers/wcfmmp-core-functions.php:582
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:17
+msgid "Store Lists Location Filter"
+msgstr "Veikalu sarakstu atrašanās vietas filtrs"
+
+#: helpers/wcfmmp-core-functions.php:583
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-radius-filter.php:17
+msgid "Store Lists Radius Filter"
+msgstr "Veikalu saraksti Radius Filter"
+
+#: helpers/wcfmmp-core-functions.php:584
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-meta-filter.php:17
+msgid "Store Lists Meta Filter"
+msgstr "Veikalu saraksti Meta Filter"
+
+#: helpers/wcfmmp-core-functions.php:586
+#: includes/store-widgets/class-wcfmmp-widget-products-search-by-vendors.php:79
+msgid "Search by Vendors"
+msgstr "Meklēšana pēc pārdevējiem"
+
+#: helpers/wcfmmp-core-functions.php:587
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-vendors.php:16
+msgid "Store Top Rated Vendors"
+msgstr "Veikalu visaugstāk novērtētie pārdevēji"
+
+#: helpers/wcfmmp-core-functions.php:588
+#: includes/store-widgets/class-wcfmmp-widget-store-best-selling-vendors.php:16
+msgid "Store Best Selling Vendors"
+msgstr "Veikalu vislabāk pārdotie pārdevēji"
+
+#: helpers/wcfmmp-core-functions.php:607
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:16
+msgid "Store New Order"
+msgstr "Veikals New Order"
+
+#: helpers/wcfmmp-core-functions.php:618
+msgid "Please insert your comment before submit."
+msgstr "Lūdzu, ievietojiet komentāru pirms iesniegšanas."
+
+#: helpers/wcfmmp-core-functions.php:619
+msgid "Please rate atleast one category before submit."
+msgstr "Lūdzu, pirms iesniegšanas novērtējiet vismaz vienu kategoriju."
+
+#: helpers/wcfmmp-core-functions.php:620
+msgid "Your review successfully submited, will publish after approval!"
+msgstr "Jūsu pārskats veiksmīgi iesniegts, pēc apstiprināšanas tiks publicēts!"
+
+#: helpers/wcfmmp-core-functions.php:621
+msgid "Your review successfully submited."
+msgstr "Jūsu atsauksme ir veiksmīgi iesniegta."
+
+#: helpers/wcfmmp-core-functions.php:622
+msgid "Your review response successfully submited."
+msgstr "Jūsu atsauksmes atbilde ir veiksmīgi iesniegta."
+
+#: helpers/wcfmmp-core-functions.php:623 helpers/wcfmmp-core-functions.php:638
+msgid "Your refund request failed, please try after sometime."
+msgstr "Jūsu atmaksas pieprasījums neizdevās. Lūdzu, pēc kāda laika mēģiniet."
+
+#: helpers/wcfmmp-core-functions.php:624 helpers/wcfmmp-core-functions.php:639
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:56
+msgid "Refund requests successfully approved."
+msgstr "Atmaksas pieprasījumi ir veiksmīgi apstiprināti."
+
+#: helpers/wcfmmp-core-functions.php:636
+msgid "Please insert your refund reason before submit."
+msgstr "Pirms iesniegšanas, lūdzu, ievietojiet atmaksas iemeslu."
+
+#: helpers/wcfmmp-core-functions.php:637
+msgid "Your refund request successfully sent."
+msgstr "Jūsu atmaksas pieprasījums ir veiksmīgi nosūtīts."
+
+#: helpers/wcfmmp-core-functions.php:650 views/ledger/wcfmmp-view-ledger.php:45
+msgid "Completed"
+msgstr "Pabeigts"
+
+#: helpers/wcfmmp-core-functions.php:651
+msgid "Cancelled"
+msgstr "Atcelts"
+
+#: helpers/wcfmmp-core-functions.php:652
+msgid "Requested"
+msgstr "Pieprasīts"
+
+#: helpers/wcfmmp-core-functions.php:711
+msgid "More Offers"
+msgstr "Vairāk piedāvājumu"
+
+#: helpers/wcfmmp-core-functions.php:906
+msgid "Select Shipping Type..."
+msgstr "Atlasīt piegādes veidu ..."
+
+#: helpers/wcfmmp-core-functions.php:907
+msgid "Shipping by Country"
+msgstr "Piegāde pa valstīm"
+
+#: helpers/wcfmmp-core-functions.php:908
+msgid "Shipping by Zone"
+msgstr "Piegāde pa zonām"
+
+#: helpers/wcfmmp-core-functions.php:909
+msgid "Shipping by Weight"
+msgstr "Piegāde pēc svara"
+
+#: helpers/wcfmmp-core-functions.php:910
+msgid "Shipping by Distance"
+msgstr "Piegāde pa attālumu"
+
+#: helpers/wcfmmp-core-functions.php:919
+msgid "Ready to ship in..."
+msgstr "Gatavs nosūtīšanai ..."
+
+#: helpers/wcfmmp-core-functions.php:920
+msgid "1 business day"
+msgstr "1 darba diena"
+
+#: helpers/wcfmmp-core-functions.php:921
+msgid "1-2 business days"
+msgstr "1-2 darba dienas"
+
+#: helpers/wcfmmp-core-functions.php:922
+msgid "1-3 business days"
+msgstr "1-3 darba dienas"
+
+#: helpers/wcfmmp-core-functions.php:923
+msgid "3-5 business days"
+msgstr "3-5 darba dienas"
+
+#: helpers/wcfmmp-core-functions.php:924
+msgid "1-2 weeks"
+msgstr "1-2 nedēļas"
+
+#: helpers/wcfmmp-core-functions.php:925
+msgid "2-3 weeks"
+msgstr "2-3 nedēļas"
+
+#: helpers/wcfmmp-core-functions.php:926
+msgid "3-4 weeks"
+msgstr "3-4 nedēļas"
+
+#: helpers/wcfmmp-core-functions.php:927
+msgid "4-6 weeks"
+msgstr "4-6 nedēļas"
+
+#: helpers/wcfmmp-core-functions.php:928
+msgid "6-8 weeks"
+msgstr "6-8 nedēļas"
+
+#: helpers/wcfmmp-core-functions.php:938
+msgid "-- Select a Method --"
+msgstr "- Izvēlieties metodi -"
+
+#: helpers/wcfmmp-core-functions.php:939
+msgid "Flat Rate"
+msgstr "Vienota likme"
+
+#: helpers/wcfmmp-core-functions.php:940
+msgid "Local Pickup"
+msgstr "Vietējais pikaps"
+
+#: controllers/product_multivendor/wcfmmp-controller-sell-items-catalog.php:283
+msgid "Click here add to your store"
+msgstr "Noklikšķiniet šeit, lai pievienotu savam veikalam"
+
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:34
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:100
+msgid "There has some error in submitted data."
+msgstr "Iesniegtajos datos ir zināma kļūda."
+
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:50
+msgid "Refund processing failed, please check wcfm log."
+msgstr "Atmaksas apstrāde neizdevās, lūdzu, pārbaudiet wcfm žurnālu."
+
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:58
+msgid "No refunds selected for approve"
+msgstr "Apstiprināšanai nav atlasīta atmaksa"
+
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:117
+msgid "Refund request(s) successfully rejected."
+msgstr "Atmaksas pieprasījums (-i) ir veiksmīgi noraidīts."
+
+#: controllers/refund/wcfmmp-controller-refund-requests-actions.php:119
+msgid "No refund(s) selected for approve"
+msgstr "Apstiprināšanai nav atlasīta neviena kompensācija"
+
+#: controllers/refund/wcfmmp-controller-refund-requests-form.php:113
+msgid "Refund request amount more than item value."
+msgstr "Atmaksas pieprasījuma summa pārsniedz preces vērtību."
+
+#: controllers/refund/wcfmmp-controller-refund-requests-form.php:143
+msgid "Refund request tax amount more than item actual tax value."
+msgstr ""
+"Atmaksas pieprasījuma nodokļu summa pārsniedz vienības faktisko nodokļa "
+"vērtību."
+
+#: controllers/refund/wcfmmp-controller-refund-requests-form.php:176
+#, php-format
+msgid ""
+"Refund <b>%s</b> has been processed for Order <b>%s</b> item <b>%s</b> by <b>"
+"%s</b>"
+msgstr ""
+"Atmaksa <b>%s</b> tika apstrādāta pasūtījumam <b>%s</b> vienumam <b> %s </b>,"
+" ko veica <b>%s</b>"
+
+#: controllers/refund/wcfmmp-controller-refund-requests-form.php:194
+#, php-format
+msgid "Refund Request <b>%s</b> received for Order <b>%s</b> item <b>%s</b>"
+msgstr ""
+"Atmaksas pieprasījums <b>%s</b> saņemts par pasūtījumu <b>%s</b> vienumam <b>"
+"%s</b>"
+
+#: controllers/refund/wcfmmp-controller-refund-requests-form.php:225
+msgid "No item selected for refund request."
+msgstr "Neviena prece nav atlasīta atmaksas pieprasījumam."
+
+#: controllers/refund/wcfmmp-controller-refund-requests-form.php:227
+msgid "Refund requests successfully processed."
+msgstr "Atmaksas pieprasījumi ir veiksmīgi apstrādāti."
+
+#: controllers/refund/wcfmmp-controller-refund-requests.php:90
+msgid "Refund Completed"
+msgstr "Atmaksa pabeigta"
+
+#: controllers/refund/wcfmmp-controller-refund-requests.php:92
+msgid "Refund Cancelled"
+msgstr "Atmaksa atcelta"
+
+#: controllers/refund/wcfmmp-controller-refund-requests.php:162
+#: views/refund/wcfmmp-view-refund-requests-popup.php:82
+msgid "Partial Refund"
+msgstr "Daļēja atmaksa"
+
+#: controllers/refund/wcfmmp-controller-refund-requests.php:164
+#: views/refund/wcfmmp-view-refund-requests-popup.php:82
+msgid "Full Refund"
+msgstr "Pilna kompensācija"
+
+#: controllers/reviews/wcfmmp-controller-product-reviews.php:94
+#: controllers/reviews/wcfmmp-controller-reviews.php:91
+#: views/reviews/wcfmmp-view-product-reviews.php:21
+#: views/reviews/wcfmmp-view-reviews.php:21
+msgid "Approved"
+msgstr "Apstiprināts"
+
+#: controllers/reviews/wcfmmp-controller-product-reviews.php:96
+#: controllers/reviews/wcfmmp-controller-reviews.php:93
+msgid "Waiting Approval"
+msgstr "Gaida apstiprinājumu"
+
+#: controllers/reviews/wcfmmp-controller-product-reviews.php:112
+#: controllers/reviews/wcfmmp-controller-reviews.php:111
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Novērtēts %d no 5"
+
+#: controllers/reviews/wcfmmp-controller-product-reviews.php:136
+#: controllers/reviews/wcfmmp-controller-reviews.php:127
+msgid "Unapprove"
+msgstr "Neapstiprināt"
+
+#: controllers/reviews/wcfmmp-controller-product-reviews.php:138
+#: controllers/reviews/wcfmmp-controller-reviews.php:129
+#: views/refund/wcfmmp-view-refund-requests.php:102
+msgid "Approve"
+msgstr "Apstiprināt"
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:68
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:79
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:170
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:181
+msgid "Support Ticket Reply"
+msgstr "Atbalsta biļešu atbilde"
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:68
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:75
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:170
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:177
+#: views/reviews/wcfmmp-view-reviews-manage.php:60
+msgid "Ticket"
+msgstr "Biļete"
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:69
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:171
+msgid "Hi"
+msgstr "Sveiki"
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:71
+#, php-format
+msgid ""
+"You have received reply for your \"%s\" support request. Please check below "
+"for the details: "
+msgstr ""
+"Jūs esat saņēmis atbildi uz atbalsta pieprasījumu “ %s”. Lūdzu, pārbaudiet "
+"zemāk, lai iegūtu sīkāku informāciju:"
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:75
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:177
+msgid "Check more details here"
+msgstr "Plašāku informāciju skatiet šeit"
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:76
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:178
+msgid "Thank You"
+msgstr "Paldies"
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:90
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:192
+msgid "Reply to Support Ticket"
+msgstr "Atbildēt uz atbalsta biļeti"
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:173
+msgid ""
+"You have received reply for your \"{product_title}\" support request. Please "
+"check below for the details: "
+msgstr ""
+"Jūs esat saņēmis atbildi uz atbalsta pieprasījumu “{product_title}”. Lūdzu, "
+"pārbaudiet zemāk, lai iegūtu sīkāku informāciju:"
+
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:197
+#: controllers/reviews/wcfmmp-controller-reviews-manage.php:211
+#, php-format
+msgid "You have received reply for Support Ticket <b>%s</b>"
+msgstr "Jūs esat saņēmis atbildi par atbalsta biļeti <b>%s</b>"
+
+#: controllers/reviews/wcfmmp-controller-reviews-submit.php:133
+#, php-format
+msgid "%s has received a new Review from <b>%s</b>"
+msgstr " %s ir saņēmis jaunu pārskatu no <b>%s</b>"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-bank_transfer.php:39
+#: includes/payment-gateways/class-wcfmmp-gateway-by_cash.php:33
+#: includes/payment-gateways/class-wcfmmp-gateway-paypal.php:62
+#: includes/payment-gateways/class-wcfmmp-gateway-skrill.php:36
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe.php:98
+msgid "New transaction has been initiated"
+msgstr "Ir uzsākts jauns darījums"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-paypal.php:27
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-paypal.php:74
+msgid ""
+"PayPal Payout setting is not configured properly please contact site "
+"administrator"
+msgstr ""
+"PayPal izmaksas iestatījums nav pareizi konfigurēts, lūdzu, sazinieties ar "
+"vietnes administratoru"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-paypal.php:77
+msgid "Please update your PayPal email to receive commission"
+msgstr "Lūdzu, atjauniniet savu PayPal e-pastu, lai saņemtu komisiju"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-paypal.php:105
+#, php-format
+msgid "Payment recieved from %1$s as commission at %2$s on %3$s"
+msgstr "Maksājums tika saņemts no %1$s kā komisijas maksa %2$s %3$s"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe.php:34
+msgid "Stripe connect"
+msgstr "Svītru savienojums"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe.php:110
+msgid "Please connect with Stripe account"
+msgstr "Lūdzu, izveidojiet savienojumu ar Stripe kontu"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe.php:113
+msgid ""
+"Stripe setting is not configured properly please contact site administrator"
+msgstr ""
+"Svītru iestatījums nav pareizi konfigurēts, lūdzu, sazinieties ar vietnes "
+"administratoru"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe.php:127
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe.php:130
+msgid "Payout for withdrawal ID #"
+msgstr "Izmaksa par izņemšanas ID numuru"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:44
+msgid "Marketplace Stripe Split Pay"
+msgstr "Tirgus laukuma strīpas dalītā samaksa"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:81
+msgid "Credit or Debit Card (Stripe)"
+msgstr "Kredītkarte vai debetkarte (svītra)"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:82
+msgid "Pay with your credit or debit card via Stripe."
+msgstr "Maksājiet ar savu kredītkarti vai debetkarti, izmantojot Stripe."
+
+#. link to Stripe testing page
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:249
+#, php-format
+msgid ""
+"TEST MODE ENABLED. In test mode, you can use the card number %s with any CVC "
+"and a valid expiration date or check the <a href=\"%s\" target=\"_blank\">"
+"Testing Stripe documentation</a> for more card numbers."
+msgstr ""
+"TESTA REŽĪMS IESPĒJAMS. Pārbaudes režīmā varat izmantot kartes numuru %s ar "
+"jebkuru CVC un derīgu derīguma termiņu, vai arī pārbaudiet <a href=\"%s\" "
+"target=\"_blank\">Pārbaudes joslas dokumentāciju,</a> lai uzzinātu vairāk "
+"karšu numuru."
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:266
+msgid "Card ending with"
+msgstr "Karte beidzas ar"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:269
+msgid "Use a new credit card"
+msgstr "Izmantojiet jaunu kredītkarti"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:278
+msgid "Card Number"
+msgstr "Kartes numurs"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:288
+msgid "Expiry Date"
+msgstr "Derīguma termiņš"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:296
+msgid "Card Code (CVC)"
+msgstr "Kartes kods (CVC)"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:326
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:231
+msgid ""
+"An error has occurred while processing your payment, please try again. Or "
+"contact us for assistance."
+msgstr ""
+"Apstrādājot jūsu maksājumu, radās kļūda. Lūdzu, mēģiniet vēlreiz. Vai arī "
+"sazinieties ar mums, lai saņemtu palīdzību."
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:378
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:523
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:640
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:718
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1403
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1431
+msgid "Stripe Split Pay Error: "
+msgstr "Stripe Split Pay kļūda:"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:517
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:634
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:712
+msgid "Stripe Charge Error: "
+msgstr "Svītru uzlādes kļūda:"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:544
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:661
+#, php-format
+msgid "Payment for Order #%s"
+msgstr "Maksājums par pasūtījumu #%s"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:792
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:934
+msgid "Error creating transfer record with Stripe: "
+msgstr "Kļūda, izveidojot pārsūtīšanas ierakstu, izmantojot Stripe:"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:811
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:431
+msgid "Stripe Payment Error"
+msgstr "Svītru maksājuma kļūda"
+
+#. transaction id
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:863
+#, php-format
+msgid "Stripe charge awaiting payment: %s."
+msgstr "Maksa par svītras maksu: %s."
+
+#. transaction id
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:946
+#: includes/wcfm-stripe/class-wcfm-stripe-order-handler.php:291
+#, php-format
+msgid "Stripe charge complete (Charge ID: %s)"
+msgstr "Svītru uzlāde pabeigta (uzlādes ID: %s)"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:951
+msgid "Payment processing failed. Please retry."
+msgstr "Maksājuma apstrāde neizdevās. Lūdzu, mēģiniet vēlreiz."
+
+#. transaction id
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:963
+#, php-format
+msgid ""
+"Stripe charge authorized (Charge ID: %s). Process order to take payment, or "
+"cancel to remove the pre-authorization."
+msgstr ""
+"Svītru uzlāde atļauta (uzlādes ID: %s). Apstrādājiet pasūtījumu, lai veiktu "
+"maksājumu, vai atceliet, lai noņemtu priekšautorizāciju."
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:978
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:124
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:72
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-distance.php:183
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:180
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:175
+msgid "Enable/Disable"
+msgstr "Atļaut liegt"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1037
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1045
+msgid "Customer for"
+msgstr "Lietotājs"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1074
+msgid "Error creating customer record with Stripe: "
+msgstr "Kļūda, izveidojot klienta ierakstu, izmantojot Stripe:"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1110
+msgid "Error update customer cards with Stripe: "
+msgstr "Kļūda, atjauninot klientu kartes, izmantojot Stripe:"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1230
+msgid "Split Pay Reversal"
+msgstr "Maksājuma dalīšana pa daļām"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1252
+#, php-format
+msgid "Refund Processed Via Stripe ( Refund ID: #%s )"
+msgstr "Atmaksa apstrādāta, izmantojot svītru (Atmaksas ID: #%s)"
+
+#. 1) dollar amount 2) transaction id 3) refund message
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1351
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:604
+#, php-format
+msgid "Refunded %1$s - Refund ID: %2$s - Reason: %3$s"
+msgstr "Atmaksāts %1$s - Atmaksas ID: %2$s - Iemesls: %3$s"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1351
+msgid "Pre-Authorization Released"
+msgstr "Pirmreizēja atļauja ir atbrīvota"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1369
+#: includes/wcfm-stripe/class-wcfm-stripe-intent-controller.php:58
+msgid "CSRF verification failed."
+msgstr "CSRF pārbaude neizdevās."
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1382
+#: includes/wcfm-stripe/class-wcfm-stripe-intent-controller.php:71
+msgid "Missing order ID for payment confirmation"
+msgstr "Trūkst pasūtījuma ID maksājuma apstiprināšanai"
+
+#. Error message text
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1400
+#: includes/wcfm-stripe/class-wcfm-stripe-intent-controller.php:91
+#, php-format
+msgid "Payment verification error: %s"
+msgstr "Maksājuma verifikācijas kļūda: %s"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1467
+msgid ""
+"Almost there!\n"
+"\n"
+"Your order has already been created, the only thing that still needs to be "
+"done is for you to authorize the payment with your bank."
+msgstr ""
+"Gandrīz klāt!\n"
+"\n"
+"Jūsu pasūtījums jau ir izveidots, vienīgais, kas vēl jādara, ir jums atļaut "
+"veikt maksājumu bankā."
+
+#. 1) The error message that was received from Stripe.
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1612
+#, php-format
+msgid "Stripe SCA authentication failed. Reason: %s"
+msgstr "Svītru SCA autentifikācija neizdevās. Iemesls: %s"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1613
+msgid "Stripe SCA authentication failed."
+msgstr "Svītru SCA autentifikācija neizdevās."
+
+#. 1) blog name 2) order number
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1721
+#, php-format
+msgid "%1$s - Order %2$s"
+msgstr "%1$s - pasūtiet %2$s"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1735
+msgid "customer_name"
+msgstr "Klienta vārds"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1736
+msgid "customer_email"
+msgstr "klienta e-pasts"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-stripe_split.php:1961
+#, php-format
+msgid ""
+"<strong>Stripe Gateway is disabled.</strong> Please re-check %swithdrawal "
+"setting panel %s. This occurs mostly due to absence of Stripe Secret Key"
+msgstr ""
+"<strong> Svītru vārteja ir atspējota. </strong> Lūdzu, vēlreiz pārbaudiet %s "
+"izmaksas iestatījumu panelis %s. Tas notiek galvenokārt tāpēc, ka nav svītru "
+"slepenās atslēgas"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:40
+msgid "Marketplace Wirecard"
+msgstr "Tirgus laukuma kartīte"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:41
+msgid "Have your customers pay with credit card."
+msgstr "Lieciet klientiem maksāt ar kredītkarti."
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:125
+msgid "Enable Wirecard"
+msgstr "Iespējot kartīti"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:131
+msgid "Title"
+msgstr "Nosaukums"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:133
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:80
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-distance.php:191
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:188
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:193
+msgid "This controls the title which the user sees during checkout."
+msgstr "Tas kontrolē virsrakstu, kuru lietotājs redz izrakstīšanās laikā."
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:134
+msgid "Wirecard Credit Card"
+msgstr "Kartes kredītkarte"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:139
+msgid "This controls the description which the user sees during checkout."
+msgstr "Tas kontrolē aprakstu, ko lietotājs redz izrakstīšanās laikā."
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:143
+msgid "Wirecard Fee"
+msgstr "Kartes maksa"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:149
+msgid "Select who will bear the Wirecard transection fee."
+msgstr "Atlasiet, kurš sedz Wirecard transakcijas maksu."
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:241
+msgid "Wirecard access token is not found."
+msgstr "Kartes piekļuves pilnvara nav atrasta."
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:269
+msgid "Wirecard data is not found."
+msgstr "Kartes dati nav atrasti."
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:283
+msgid "Credit card nout found."
+msgstr "Netika atrasta kredītkartes nout."
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:343
+msgid "Order #"
+msgstr "Pasūtījuma numurs"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:352
+msgid "Wirecard payment processing failed."
+msgstr "Kartes maksājuma apstrāde neizdevās."
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:370
+msgid "Wirecard order processing failed :: "
+msgstr "Kartes pasūtījuma apstrāde neizdevās:"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:406
+msgid "Wirecard Pay"
+msgstr "Kartes maksājums"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:418
+msgid "Error creating transfer record with Wirecard: "
+msgstr "Kļūda, izveidojot pārsūtīšanas ierakstu, izmantojot Wirecard:"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:488
+msgid "Error creating Customer and Holder :: "
+msgstr "Kļūda, veidojot klientu un īpašnieku ::"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:538
+#, php-format
+msgid "Refund Processed Via Wirecard ( Refund ID: #%s )"
+msgstr "Atmaksa apstrādāta, izmantojot karšu karti (atmaksas ID: #%s)"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:613
+msgid "Wirecard Refund not precessed :: "
+msgstr "Nepieciešama kartes kartes atmaksa ::"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:632
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:634
+msgid "CPF Number"
+msgstr "CPF numurs"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:660
+msgid "Card number is not valid"
+msgstr "Kartes numurs nav derīgs"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:661
+msgid "Card expriy date is not valid"
+msgstr "Kartes derīguma termiņš nav derīgs"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:662
+msgid "Card CVC number is not valid"
+msgstr "Kartes CVC numurs nav derīgs"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:682
+msgid ""
+"TEST MODE ENABLED. In test mode, you can use the card number "
+"4012001037141112 with any CVC and a valid expiration date."
+msgstr ""
+"TESTA REŽĪMS IESPĒJAMS. Pārbaudes režīmā kartes numuru 4012001037141112 "
+"varat izmantot ar jebkuru CVC un derīgu derīguma termiņu."
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:800
+msgid "Connect Wirecard Account"
+msgstr "Pievienojiet karšu kontu"
+
+#: includes/payment-gateways/class-wcfmmp-gateway-wirecard.php:824
+msgid "Disconnect Wirecard Account"
+msgstr "Atvienojiet “Wirecard” kontu"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:25
+msgid "Marketplace Shipping by Country"
+msgstr "Piegāde tirgū pa valstīm"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:26
+msgid "Enable vendors to set marketplace shipping per country"
+msgstr "Ļaujiet pārdevējiem iestatīt nosūtīšanu tirgū uz valsti"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:32
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-distance.php:32
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-distance.php:192
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:32
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:189
+msgid "Shipping Cost"
+msgstr "Pārvadājuma maksa"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:74
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-distance.php:185
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:182
+#: views/shipping/wcfmmp-view-shipping-settings.php:53
+msgid "Enable Shipping"
+msgstr "Iespējot nosūtīšanu"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:81
+msgid "Regular Shipping"
+msgstr "Regulāra pārvadāšana"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:85
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-distance.php:196
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:193
+#: views/shipping/wcfmmp-view-edit-method-popup.php:124
+#: views/shipping/wcfmmp-view-edit-method-popup.php:200
+msgid "Tax Status"
+msgstr "Nodokļu statuss"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:89
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-distance.php:200
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:197
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:203
+#: views/shipping/wcfmmp-view-edit-method-popup.php:131
+#: views/shipping/wcfmmp-view-edit-method-popup.php:207
+msgid "Taxable"
+msgstr "Ar nodokli apliekams"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:90
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-distance.php:201
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:198
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:204
+msgctxt "Tax status"
+msgid "None"
+msgstr "Nav"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-country.php:181
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-distance.php:136
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:133
+msgid "Pickup from Store"
+msgstr "Pikaps no veikala"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-distance.php:25
+msgid "Marketplace Shipping by Distance"
+msgstr "Piegāde tirgū pēc attāluma"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-distance.php:26
+msgid "Enable vendors to set marketplace shipping by distance range"
+msgstr "Ļaujiet pārdevējiem iestatīt nosūtīšanu tirgū pēc attāluma diapazona"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-distance.php:104
+msgid "Some cart item(s) are not deliverable to your location."
+msgstr "Dažas groza preces nevar piegādāt jūsu atrašanās vietai."
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:25
+msgid "Marketplace Shipping by Weight"
+msgstr "Piegāde tirgū pēc svara"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-weight.php:26
+msgid "Enable vendors to set marketplace shipping by weight range"
+msgstr "Ļaujiet pārdevējiem iestatīt piegādi tirgū pēc svara diapazona"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:30
+msgid "Cloning this class could cause catastrophic disasters!"
+msgstr "Šīs klases klonēšana var izraisīt katastrofālas katastrofas!"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:39
+msgid "Unserializing is forbidden!"
+msgstr "Seriālisma aizliegšana ir aizliegta!"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:53
+msgid "Charge varying rates based on user defined conditions"
+msgstr ""
+"Maksa mainīgas likmes, pamatojoties uz lietotāja definētiem nosacījumiem"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:191
+msgid "Method title"
+msgstr "Metodes nosaukums"
+
+#: includes/shipping-gateways/class-wcfmmp-shipping-by-zone.php:198
+msgid "Tax status"
+msgstr "Nodokļu statuss"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:17
+msgid "New order notification emails are sent when order is processing."
+msgstr ""
+"Apstrādājot pasūtījumu, tiek nosūtīti jauni e-pasta paziņojumi par "
+"pasūtījumiem."
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:37
+msgid "[{site_title}] New Store Order ({order_number}) - {order_date}"
+msgstr ""
+"[{site_title}] Jauns veikala pasūtījums ({order_number}) - {order_date}"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:47
+msgid "New Store Order"
+msgstr "Jauns veikala pasūtījums"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:177
+msgid "Enable this email notification."
+msgstr "Iespējojiet šo e-pasta paziņojumu."
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:181
+msgid "Subject"
+msgstr "Priekšmets"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:183
+#, php-format
+msgid ""
+"This controls the email subject line. Leave it blank to use the default "
+"subject: <code>%s</code>."
+msgstr ""
+"Tas kontrolē e-pasta tēmas rindu. Atstājiet to tukšu, lai izmantotu "
+"noklusējuma tēmu: <code> %s </code>."
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:188
+msgid "Email Heading"
+msgstr "E-pasta virsraksts"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:190
+#, php-format
+msgid ""
+"This controls the main heading contained within the email notification. "
+"Leave it blank to use the default heading: <code>%s</code>."
+msgstr ""
+"Tas kontrolē galveno pozīciju, kas atrodas e-pasta paziņojumā. Atstājiet to "
+"tukšu, lai izmantotu noklusējuma virsrakstu: <code> %s </code>."
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:195
+msgid "Email Type"
+msgstr "E-pasta tips"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:197
+msgid "Choose which format of email to be sent."
+msgstr "Izvēlieties nosūtāmā e-pasta formātu."
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:201
+msgid "Plain Text"
+msgstr "Vienkāršs teksts"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:202
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/store-emails/class-wcfmmp-email-store-new-order.php:203
+msgid "Multipart"
+msgstr "Vairāku daļu"
+
+#: includes/store-widgets/class-wcfmmp-widget-products-search-by-vendors.php:17
+#: includes/store-widgets/class-wcfmmp-widget-products-search-by-vendors.php:18
+msgid "Filter Products by Store"
+msgstr "Filtrējiet produktus pēc veikala"
+
+#: includes/store-widgets/class-wcfmmp-widget-products-search-by-vendors.php:85
+#: includes/store-widgets/class-wcfmmp-widget-store-best-selling-vendors.php:94
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:120
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:159
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:190
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:142
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-category-filter.php:249
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:155
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-meta-filter.php:172
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-radius-filter.php:114
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:93
+#: includes/store-widgets/class-wcfmmp-widget-store-location.php:123
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:188
+#: includes/store-widgets/class-wcfmmp-widget-store-product-search.php:106
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-articles.php:145
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:184
+#: includes/store-widgets/class-wcfmmp-widget-store-shipping-rules.php:131
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:128
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:187
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:185
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-vendors.php:97
+msgid "Title:"
+msgstr "Nosaukums:"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-best-selling-vendors.php:17
+msgid "Marketplace: Best Selling Vendors"
+msgstr "Tirgus vieta: vislabāk pārdotie pārdevēji"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-best-selling-vendors.php:86
+msgid "Best Selling Vendors"
+msgstr "Pārdotākie pārdevēji"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-best-selling-vendors.php:98
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-vendors.php:101
+msgid "Number of vendors to show:"
+msgstr "Parādāmo pārdevēju skaits:"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:17
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:112
+#: includes/store-widgets/class-wcfmmp-widget-store-info.php:88
+msgid "Store Categories"
+msgstr "Veikalu kategorijas"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:18
+msgid "Vendor Store: Category"
+msgstr "Pārdevēju veikals: kategorija"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:113
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:120
+msgid "Enable Toggle"
+msgstr "Iespējot pārslēgšanu"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-category.php:125
+msgid "Enable toggle to show child categories"
+msgstr "Iespējot pārslēgšanu, lai parādītu bērnu kategorijas"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:18
+msgid "Vendor Store: Coupons"
+msgstr "Pārdevēju veikals: Kuponi"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:113
+msgid "FREE Shipping Coupon"
+msgstr "BEZMAKSAS piegādes kupons"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:113
+#: includes/store-widgets/class-wcfmmp-widget-store-coupons.php:115
+msgid "Expiry Date: "
+msgstr "Derīguma termiņš:"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:18
+msgid "Vendor Store: Featured Products"
+msgstr "Pārdevēju veikals: piedāvātie produkti"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:180
+msgid "Featured Products"
+msgstr "Piedāvātie produkti"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:194
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:192
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:188
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:191
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:189
+msgid "Number of products to show:"
+msgstr "Parādāmo produktu skaits:"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-featured-products.php:198
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:196
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:192
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:195
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:193
+msgid "Hide Free Products:"
+msgstr "Slēpt bezmaksas produktus:"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-hours.php:18
+msgid "Vendor Store: Opening/Closing Hours"
+msgstr "Pārdevēju veikals: darba laiks / darba laiks"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-info.php:18
+msgid "Vendor Store: Info"
+msgstr "Pārdevēju veikals: informācija"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-category-filter.php:18
+msgid "Store List: Category Filter"
+msgstr "Veikalu saraksts: kategoriju filtrs"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-category-filter.php:243
+msgid "Search by Category"
+msgstr "Meklēšana pēc kategorijas"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:18
+msgid "Store List: Location Filter"
+msgstr "Veikalu saraksts: atrašanās vietas filtrs"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:106
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:273
+msgid "Search by City"
+msgstr "Meklēšana pēc pilsētas"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:110
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:277
+msgid "Search by ZIP"
+msgstr "Meklēšana pēc ZIP"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:143
+msgid "Search by Location"
+msgstr "Meklēšana pēc atrašanās vietas"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:144
+msgid "State Filter"
+msgstr "Novadu filtrs"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:145
+msgid "City Filter"
+msgstr "Pilsētas filtrs"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:146
+msgid "ZIP Code Filter"
+msgstr "Pasta indeksa filtrs"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:160
+msgid "Disable State Filter"
+msgstr "Atspējot novadu filtru"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:164
+msgid "Disable City Filter"
+msgstr "Atspējot pilsētas filtru"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-location-filter.php:168
+msgid "Disable ZIP Code Filter"
+msgstr "Atspējot pasta indeksu filtru"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-meta-filter.php:18
+msgid "Store List: Meta Filter"
+msgstr "Veikalu saraksts: Meta Filter"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-meta-filter.php:77
+msgid "Search by"
+msgstr "Meklēt pēc"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-meta-filter.php:144
+msgid "Meta Filter"
+msgstr "Meta filtrs"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-radius-filter.php:18
+msgid "Store List: Radius Filter"
+msgstr "Veikalu saraksts: rādiusa filtrs"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-radius-filter.php:108
+msgid "Search by Radius"
+msgstr "Meklēšana pēc rādiusa"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:18
+msgid "Store List: Search"
+msgstr "Veikalu saraksts: Meklēšana"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:54
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:93
+msgid "Search &hellip;"
+msgstr "Meklēt …"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:54
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:93
+msgid "Search store &hellip;"
+msgstr "Meklēt veikalā…"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-lists-search.php:87
+#: views/store/wcfmmp-view-store-sidebar.php:32
+#: views/store-lists/wcfmmp-view-store-lists-sidebar.php:34
+msgid "Search"
+msgstr "Meklēt"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-location.php:18
+msgid "Vendor Store: Location"
+msgstr "Pārdevēju veikals: Atrašanās vieta"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:18
+msgid "Vendor Store: On Sale Products"
+msgstr "Pārdevēju veikals: produkti pārdošanā"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-on-sale-products.php:178
+msgid "On Sale Products"
+msgstr "Pārdošanā produkti"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-product-search.php:18
+msgid "Vendor Store: Product Search"
+msgstr "Pārdevēju veikals: produktu meklēšana"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-product-search.php:100
+msgid "Product Search"
+msgstr "Produktu meklēšana"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-articles.php:18
+msgid "Vendor Store: Recent Articles"
+msgstr "Pārdevēju veikals: jaunākie raksti"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-articles.php:137
+msgid "Recent Articles"
+msgstr "Nesenie raksti"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-articles.php:149
+msgid "Number of articles to show:"
+msgstr "Parādāmo rakstu skaits:"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:18
+msgid "Vendor Store: Recent Products"
+msgstr "Pārdevēju veikals: jaunākie produkti"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-recent-products.php:174
+msgid "Recent Products"
+msgstr "Jaunākie produkti"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-shipping-rules.php:18
+msgid "Vendor Store: Shipping Rules"
+msgstr "Pārdevēju veikals: Piegādes noteikumi"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-shipping-rules.php:125
+msgid "Shipping Rules"
+msgstr "Piegādes noteikumi"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:18
+msgid "Vendor Store: Taxonomy"
+msgstr "Pārdevēju veikals: taksonomija"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:119
+msgid "Choose Taxonomy"
+msgstr "Izvēlieties taksonomiju"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:133
+msgid "Taxonomy:"
+msgstr "Taksonomija:"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:135
+msgid "-- Taxonomy --"
+msgstr "- Taksonomija -"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-taxonomy.php:152
+msgid "Enable toggle to show child taxonomies"
+msgstr "Iespējot pārslēgšanu, lai parādītu bērnu taksonomijas"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:17
+msgid "Store Top Selling Products"
+msgstr "Veikalu visvairāk pārdotie produkti"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:18
+msgid "Vendor Store: Top Selling Products"
+msgstr "Pārdevēju veikals: pārdotākie produkti"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-products.php:177
+msgid "Top Selling Products"
+msgstr "Pārdotākie produkti"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:18
+msgid "Vendor Store: Top Rated Products"
+msgstr "Pārdevēju veikals: visaugstāk novērtētie produkti"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-products.php:175
+msgid "Top Rated Products"
+msgstr "Visaugstāk novērtētie produkti"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-vendors.php:17
+msgid "Marketplace: Top Rated Vendors"
+msgstr "Tirgus vieta: visaugstāk novērtētie pārdevēji"
+
+#: includes/store-widgets/class-wcfmmp-widget-store-top-rated-vendors.php:89
+msgid "Top Rated Vendors"
+msgstr "Visaugstāk novērtētie pārdevēji"
+
+#: includes/wcfm-stripe/class-wcfm-stripe-api.php:139
+#: includes/wcfm-stripe/class-wcfm-stripe-api.php:173
+msgid "There was a problem connecting to the Stripe API endpoint."
+msgstr "Veidojot savienojumu ar Stripe API galapunktu, radās problēma."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-customer.php:119
+msgid "Name"
+msgstr "Vārds"
+
+#: includes/wcfm-stripe/class-wcfm-stripe-customer.php:119
+msgid "Username"
+msgstr "Lietotājvārds"
+
+#: includes/wcfm-stripe/class-wcfm-stripe-customer.php:203
+msgid "Unable to add payment source."
+msgstr "Nevar pievienot maksājuma avotu."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:209
+msgid "The card number is not a valid credit card number."
+msgstr "Kartes numurs nav derīgs kredītkartes numurs."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:210
+msgid "The card's expiration month is invalid."
+msgstr "Kartes derīguma termiņš nav derīgs."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:211
+msgid "The card's expiration year is invalid."
+msgstr "Kartes derīguma termiņš nav derīgs."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:212
+msgid "The card's security code is invalid."
+msgstr "Kartes drošības kods nav derīgs."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:213
+msgid "The card number is incorrect."
+msgstr "Kartes numurs nav pareizs."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:214
+msgid "The card number is incomplete."
+msgstr "Kartes numurs nav pilnīgs."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:215
+msgid "The card's security code is incomplete."
+msgstr "Kartes drošības kods nav pilnīgs."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:216
+msgid "The card's expiration date is incomplete."
+msgstr "Kartes derīguma termiņš ir nepilnīgs."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:217
+msgid "The card has expired."
+msgstr "Kartes derīguma termiņš ir beidzies."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:218
+msgid "The card's security code is incorrect."
+msgstr "Kartes drošības kods nav pareizs."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:219
+msgid "The card's zip code failed validation."
+msgstr "Kartes pasta indeksa validācija neizdevās."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:220
+msgid "The card's expiration year is in the past"
+msgstr "Kartes derīguma termiņš ir pagātnē"
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:221
+msgid "The card was declined."
+msgstr "Karte tika noraidīta."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:222
+msgid "There is no card on a customer that is being charged."
+msgstr "Klientam nav kartes, no kuras tiek iekasēta maksa."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:223
+msgid "An error occurred while processing the card."
+msgstr "Apstrādājot karti, radās kļūda."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:224
+#: includes/wcfm-stripe/class-wcfm-stripe-order-handler.php:114
+msgid ""
+"Unable to process this payment, please try again or use alternative method."
+msgstr ""
+"Nevar apstrādāt šo maksājumu. Lūdzu, mēģiniet vēlreiz vai izmantojiet citu "
+"metodi."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-helper.php:225
+msgid ""
+"The billing country is not accepted by SOFORT. Please try another country."
+msgstr "SOFORT nepieņem norēķinu valsti. Lūdzu, izmēģiniet citu valsti."
+
+#: includes/wcfm-stripe/class-wcfm-stripe-order-handler.php:158
+msgid "This card is no longer available and has been removed."
+msgstr "Šī karte vairs nav pieejama, un tā ir noņemta."
+
+#. error message
+#: includes/wcfm-stripe/class-wcfm-stripe-order-handler.php:189
+#, php-format
+msgid "Stripe payment failed: %s"
+msgstr "Neizdevās veikt strīpas samaksu: %s"
+
+#. error message
+#: includes/wcfm-stripe/class-wcfm-stripe-order-handler.php:240
+#: includes/wcfm-stripe/class-wcfm-stripe-order-handler.php:252
+#: includes/wcfm-stripe/class-wcfm-stripe-order-handler.php:268
+#: includes/wcfm-stripe/class-wcfm-stripe-order-handler.php:280
+#, php-format
+msgid "Unable to capture charge! %s"
+msgstr "Nevar iekasēt maksu.  %s"
+
+#: views/emails/store-new-order.php:30
+#: views/emails/plain/store-new-order.php:30
+msgid "Standard"
+msgstr "Standarta"
+
+#: views/emails/store-new-order.php:70
+#: views/emails/plain/store-new-order.php:70
+#, php-format
+msgid "A new order was received from %s. Order details is as follows:"
+msgstr ""
+"No %s tika saņemts jauns pasūtījums. Informācija par pasūtījumu ir šāda:"
+
+#: views/emails/store-new-order.php:129
+#: views/emails/plain/store-new-order.php:129
+msgid "SKU:"
+msgstr "SKU:"
+
+#: views/emails/store-new-order.php:132
+#: views/emails/plain/store-new-order.php:132
+msgid "Variation ID:"
+msgstr "Varianta ID:"
+
+#: views/emails/store-new-order.php:136
+#: views/emails/plain/store-new-order.php:136
+msgid "No longer exists"
+msgstr "Vairs nav"
+
+#: views/emails/store-new-order.php:307
+#: views/emails/plain/store-new-order.php:307
+msgid "Fee"
+msgstr "Maksa"
+
+#: views/emails/store-new-order.php:367
+#: views/emails/plain/store-new-order.php:367
+msgid "This is the total discount. Discounts are defined per line item."
+msgstr "Tā ir kopējā atlaide. Katrai rindas vienībai tiek noteiktas atlaides."
+
+#: views/emails/store-new-order.php:367
+#: views/emails/plain/store-new-order.php:367
+msgid "Discount"
+msgstr "Atlaide"
+
+#: views/emails/store-new-order.php:378
+#: views/emails/plain/store-new-order.php:378
+msgid "This is the shipping and handling total costs for the order."
+msgstr "Šīs ir pasūtījuma piegādes un apstrādes kopējās izmaksas."
+
+#: views/emails/store-new-order.php:412
+#: views/emails/plain/store-new-order.php:412
+msgid "Order Total"
+msgstr "Kopējais pasūtījums"
+
+#: views/emails/store-new-order.php:435
+#: views/emails/plain/store-new-order.php:435
+msgid "Customer Details"
+msgstr "Informācija par klientu"
+
+#: views/emails/store-new-order.php:437
+#: views/emails/plain/store-new-order.php:437
+msgid "Customer Name:"
+msgstr "Klienta vārds:"
+
+#: views/emails/store-new-order.php:438
+#: views/emails/plain/store-new-order.php:438
+msgid "Email:"
+msgstr "E-pasts:"
+
+#: views/emails/store-new-order.php:441
+#: views/emails/plain/store-new-order.php:441
+msgid "Telephone:"
+msgstr "Tālrunis:"
+
+#: views/emails/store-new-order.php:461
+#: views/emails/plain/store-new-order.php:461
+msgid "Billing address"
+msgstr "Norēķinu adrese"
+
+#: views/emails/store-new-order.php:468
+#: views/emails/plain/store-new-order.php:468
+msgid "Shipping address"
+msgstr "Piegādes adrese"
+
+#: views/ledger/wcfmmp-view-ledger.php:75
+msgid "total earning"
+msgstr "kopējais nopelnījums"
+
+#: views/ledger/wcfmmp-view-ledger.php:84
+msgid "total withdrawal"
+msgstr "pilnīga izstāšanās"
+
+#: views/ledger/wcfmmp-view-ledger.php:94
+msgid "total refund"
+msgstr "kopējā atmaksa"
+
+#: views/ledger/wcfmmp-view-ledger.php:108
+#: views/ledger/wcfmmp-view-ledger.php:118
+#: views/refund/wcfmmp-view-refund-requests.php:66
+#: views/refund/wcfmmp-view-refund-requests.php:78
+msgid "Type"
+msgstr "Veids"
+
+#: views/ledger/wcfmmp-view-ledger.php:109
+#: views/ledger/wcfmmp-view-ledger.php:119
+#: views/product_multivendor/wcfmmp-view-more-offer-single.php:62
+#: views/product_multivendor/wcfmmp-view-more-offers-loop.php:77
+msgid "Details"
+msgstr "Sīkāka informācija"
+
+#: views/ledger/wcfmmp-view-ledger.php:110
+#: views/ledger/wcfmmp-view-ledger.php:120
+msgid "Credit"
+msgstr "Kredīts"
+
+#: views/ledger/wcfmmp-view-ledger.php:111
+#: views/ledger/wcfmmp-view-ledger.php:121
+msgid "Debit"
+msgstr "Debets"
+
+#: views/ledger/wcfmmp-view-ledger.php:112
+#: views/ledger/wcfmmp-view-ledger.php:122
+#: views/reviews/wcfmmp-view-product-reviews.php:98
+#: views/reviews/wcfmmp-view-product-reviews.php:110
+#: views/reviews/wcfmmp-view-reviews.php:96
+#: views/reviews/wcfmmp-view-reviews.php:108
+msgid "Dated"
+msgstr "Datums"
+
+#: views/media/wcfmmp-view-media.php:25 views/media/wcfmmp-view-media.php:32
+msgid "Media Manager"
+msgstr "Multivides pārvaldnieks"
+
+#: views/media/wcfmmp-view-media.php:36
+msgid "Total Disk Space Usage: "
+msgstr "Kopējais diska vietas patēriņš:"
+
+#: views/media/wcfmmp-view-media.php:47
+msgid "Bulk Delete"
+msgstr "Lielapjoma dzēšana"
+
+#: views/media/wcfmmp-view-media.php:65 views/media/wcfmmp-view-media.php:78
+msgid "Select all for delete"
+msgstr "Dzēšanai atlasiet visu"
+
+#: views/media/wcfmmp-view-media.php:68 views/media/wcfmmp-view-media.php:81
+msgid "File"
+msgstr "Fails"
+
+#: views/media/wcfmmp-view-media.php:69 views/media/wcfmmp-view-media.php:82
+msgid "Associate"
+msgstr "Asociētais"
+
+#: views/media/wcfmmp-view-media.php:71 views/media/wcfmmp-view-media.php:84
+msgid "Size"
+msgstr "Izmērs"
+
+#: views/media/wcfmmp-view-media.php:72 views/media/wcfmmp-view-media.php:85
+#: views/reviews/wcfmmp-view-product-reviews.php:99
+#: views/reviews/wcfmmp-view-product-reviews.php:111
+#: views/reviews/wcfmmp-view-reviews.php:97
+#: views/reviews/wcfmmp-view-reviews.php:109
+msgid "Actions"
+msgstr "Darbības"
+
+#: views/product-geolocate/wcfmmp-view-product-lists-vendor-filter.php:37
+#: views/product-geolocate/wcfmmp-view-product-lists-vendor-filter.php:53
+msgid "Filter by"
+msgstr "Filtrēt pēc"
+
+#: views/product_multivendor/wcfmmp-view-more-offer-single.php:40
+msgid "Admin Product"
+msgstr "Administratora produkts"
+
+#: views/product_multivendor/wcfmmp-view-more-offer-single.php:60
+msgid "Add to Cart"
+msgstr "Pievienot grozam"
+
+#: views/product_multivendor/wcfmmp-view-more-offers-loop.php:76
+msgid "Price"
+msgstr "Cena"
+
+#: views/product_multivendor/wcfmmp-view-more-offers.php:28
+#: views/product_multivendor/wcfmmp-view-more-offers.php:82
+msgid "No more offers for this product!"
+msgstr "Vairs nav šo produktu piedāvājumu!"
+
+#: views/product_multivendor/wcfmmp-view-sell-items-catalog.php:38
+msgid "Bulk Add"
+msgstr "Lielapjoma pievienošana"
+
+#: views/product_multivendor/wcfmmp-view-sell-items-catalog.php:111
+#: views/product_multivendor/wcfmmp-view-sell-items-catalog.php:125
+msgid "Select multiple and add to My Store"
+msgstr "Atlasiet vairākus un pievienojiet manam veikalam"
+
+#: views/product_multivendor/wcfmmp-view-sell-items-catalog.php:145
+msgid "Bulk Add to My Store"
+msgstr "Lielapjoma pievienošana manam veikalam"
+
+#: views/refund/wcfmmp-view-refund-requests-popup.php:80
+msgid "Request Mode"
+msgstr "Pieprasījuma režīms"
+
+#: views/refund/wcfmmp-view-refund-requests-popup.php:85
+msgid "Refund by Item(s)"
+msgstr "Atmaksa pēc vienuma (-iem)"
+
+#: views/refund/wcfmmp-view-refund-requests-popup.php:178
+msgid "Refund Requests Reason"
+msgstr "Atmaksas pieprasījums ir pamatots"
+
+#: views/refund/wcfmmp-view-refund-requests-popup.php:246
+msgid "Submit"
+msgstr "Iesniegt"
+
+#: views/refund/wcfmmp-view-refund-requests-popup.php:250
+msgid "This order's item(s) are already requested for refund!"
+msgstr "Šī pasūtījuma prece (-s) jau ir pieprasīta atmaksai!"
+
+#: views/refund/wcfmmp-view-refund-requests.php:61
+#: views/refund/wcfmmp-view-refund-requests.php:73
+msgid "Requests"
+msgstr "Pieprasījumi"
+
+#: views/refund/wcfmmp-view-refund-requests.php:62
+#: views/refund/wcfmmp-view-refund-requests.php:74
+msgid "Request ID"
+msgstr "Pieprasīt ID"
+
+#: views/refund/wcfmmp-view-refund-requests.php:63
+#: views/refund/wcfmmp-view-refund-requests.php:75
+msgid "Order ID"
+msgstr "Pasūtījuma ID"
+
+#: views/refund/wcfmmp-view-refund-requests.php:65
+#: views/refund/wcfmmp-view-refund-requests.php:77
+msgid "Amount"
+msgstr "Summa"
+
+#: views/refund/wcfmmp-view-refund-requests.php:67
+#: views/refund/wcfmmp-view-refund-requests.php:79
+msgid "Reason"
+msgstr "Iemesls"
+
+#: views/refund/wcfmmp-view-refund-requests.php:68
+#: views/refund/wcfmmp-view-refund-requests.php:80
+msgid "Date"
+msgstr "Datums"
+
+#: views/reviews/wcfmmp-view-product-reviews.php:47
+msgid "All"
+msgstr "Visi"
+
+#: views/reviews/wcfmmp-view-product-reviews.php:93
+#: views/reviews/wcfmmp-view-product-reviews.php:105
+#: views/reviews/wcfmmp-view-reviews.php:92
+#: views/reviews/wcfmmp-view-reviews.php:104
+msgid "Author"
+msgstr "Autore"
+
+#: views/reviews/wcfmmp-view-product-reviews.php:94
+#: views/reviews/wcfmmp-view-product-reviews.php:106
+#: views/reviews/wcfmmp-view-reviews.php:93
+#: views/reviews/wcfmmp-view-reviews.php:105
+msgid "Comment"
+msgstr "Komentārs"
+
+#: views/reviews/wcfmmp-view-product-reviews.php:95
+#: views/reviews/wcfmmp-view-product-reviews.php:107
+#: views/reviews/wcfmmp-view-reviews.php:94
+#: views/reviews/wcfmmp-view-reviews.php:106
+msgid "Rating"
+msgstr "Vērtējums"
+
+#: views/reviews/wcfmmp-view-product-reviews.php:96
+#: views/reviews/wcfmmp-view-product-reviews.php:108
+msgid "Product"
+msgstr "Produkts"
+
+#: views/reviews/wcfmmp-view-reviews-latest-review.php:35
+msgid "rated"
+msgstr "novērtēts"
+
+#: views/reviews/wcfmmp-view-reviews-latest-review.php:44
+#: views/store/wcfmmp-view-store-reviews.php:47
+msgid "reviews"
+msgstr "atsauksmes"
+
+#: views/reviews/wcfmmp-view-reviews-latest-review.php:52
+msgid "Review via Product"
+msgstr "Pārskatīšana, izmantojot produktu"
+
+#: views/reviews/wcfmmp-view-reviews-latest-review.php:58
+msgid "Reply"
+msgstr "Atbildi"
+
+#: views/reviews/wcfmmp-view-reviews-latest-stat.php:50
+msgid "and"
+msgstr "un"
+
+#: views/reviews/wcfmmp-view-reviews-latest-stat.php:50
+msgid "others have"
+msgstr "citiem ir"
+
+#: views/reviews/wcfmmp-view-reviews-latest-stat.php:51
+msgid "No user has"
+msgstr "Nevienam lietotājam nav"
+
+#: views/reviews/wcfmmp-view-reviews-latest-stat.php:52
+msgid "has"
+msgstr "ir"
+
+#: views/reviews/wcfmmp-view-reviews-latest-stat.php:53
+msgid "reviewed this store"
+msgstr "pārskatīja šo veikalu"
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:53
+msgid "Support Ticket"
+msgstr "Atbalsta biļete"
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:64
+msgid "Support Tickets"
+msgstr "Atbalsta biļetes"
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:64
+msgid "Tickets"
+msgstr "Biļetes"
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:93
+msgid "Open"
+msgstr "Atvērt"
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:95
+msgid "Closed"
+msgstr "Slēgts"
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:111
+msgid "Replies"
+msgstr "Atbildes"
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:158
+msgid "New Reply"
+msgstr "Jauna atbilde"
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:166
+msgid "Priority"
+msgstr "Prioritāte"
+
+#: views/reviews/wcfmmp-view-reviews-manage.php:181
+msgid "Send"
+msgstr "Sūtīt"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:30
+#: views/reviews/wcfmmp-view-reviews-new.php:38
+msgid "write a review"
+msgstr "uzrakstīt atsauksmi"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:32
+msgid "your review"
+msgstr "jūsu pārskats"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:33
+msgid "Add Your Review"
+msgstr "Pievienojiet savu pārskatu"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:38
+msgid "Cancel"
+msgstr "Atcelt"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:47
+msgid "Poor"
+msgstr "Nabadzīgs"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:50
+msgid "Fair"
+msgstr "Gadatirgus"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:53
+msgid "Good"
+msgstr "Labi"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:56
+msgid "Excellent"
+msgstr "Lieliski"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:59
+msgid "WOW!!!"
+msgstr "WOW !!!"
+
+#: views/reviews/wcfmmp-view-reviews-new.php:72
+msgid "Publish Review"
+msgstr "Publicēt pārskatu"
+
+#: views/reviews/wcfmmp-view-reviews-pagination.php:24
+#: views/store-lists/wcfmmp-view-store-lists-pagination.php:24
+msgid "&laquo;"
+msgstr "«"
+
+#: views/reviews/wcfmmp-view-reviews-pagination.php:25
+#: views/store-lists/wcfmmp-view-store-lists-pagination.php:25
+msgid "&raquo;"
+msgstr "»"
+
+#: views/reviews/wcfmmp-view-reviews.php:47
+#, php-format
+msgid "All (%s)"
+msgstr "Visi (%s)"
+
+#: views/shipping/wcfmmp-view-add-method-popup.php:10
+msgid "Add Shipping Methods"
+msgstr "Pievienojiet nosūtīšanas metodes"
+
+#: views/shipping/wcfmmp-view-add-method-popup.php:15
+msgid ""
+"Choose the shipping method you wish to add. Only shipping methods which "
+"support zones are listed."
+msgstr ""
+"Izvēlieties nosūtīšanas veidu, kuru vēlaties pievienot. Ir uzskaitītas tikai "
+"tādas nosūtīšanas metodes, kuras atbalsta zonas."
+
+#: views/shipping/wcfmmp-view-add-method-popup.php:22
+msgid "Select Shipping Method"
+msgstr "Atlasiet Piegādes metode"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:9
+msgid "Edit Shipping Methods"
+msgstr "Rediģēt piegādes metodes"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:48
+#: views/shipping/wcfmmp-view-edit-method-popup.php:96
+#: views/shipping/wcfmmp-view-edit-method-popup.php:167
+msgid "Enter method title"
+msgstr "Ievadiet metodes nosaukumu"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:58
+msgid "Minimum order amount for free shipping"
+msgstr "Minimālā pasūtījuma summa par bezmaksas piegādi"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:63
+#: views/shipping/wcfmmp-view-edit-method-popup.php:111
+#: views/shipping/wcfmmp-view-edit-method-popup.php:183
+msgid "0.00"
+msgstr "0,00"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:130
+#: views/shipping/wcfmmp-view-edit-method-popup.php:206
+msgid "None"
+msgstr "Nav"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:191
+#: views/shipping/wcfmmp-view-edit-method-popup.php:261
+#: views/shipping/wcfmmp-view-edit-method-popup.php:282
+msgid "Enter a cost (excl. tax) or sum, e.g. <code>10.00 * [qty]</code>."
+msgstr ""
+"Ievadiet maksu (bez nodokļiem) vai summu, piem. <kods> 10.00 * [daudzums] "
+"</code>."
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:191
+#: views/shipping/wcfmmp-view-edit-method-popup.php:261
+#: views/shipping/wcfmmp-view-edit-method-popup.php:282
+msgid ""
+"Use <code>[qty]</code> for the number of items, <br/><code>[cost]</code> for "
+"the total cost of items, and <code>[fee percent=\"10\" min_fee=\"20\" "
+"max_fee=\"\"]</code> for percentage based fees."
+msgstr ""
+"Vienumu skaitam izmantojiet <code> [qty] </code>, <br/> <code> [izmaksas] "
+"</code> priekšmetu kopējām izmaksām un <code> [maksas procenti = \"10\" "
+"min_fee = \"20\" max_fee = \"\"] </code> procentiem balstītām maksām."
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:232
+msgid "Shipping Class Cost"
+msgstr "Piegādes klases izmaksas"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:234
+msgid ""
+"These costs can be optionally entered based on the shipping class set per "
+"product( This cost will be added with the shipping cost above)."
+msgstr ""
+"Šīs izmaksas var pēc izvēles ievadīt, pamatojoties uz nosūtīšanas klasi, kas "
+"noteikta vienam produktam (šīs izmaksas tiks pievienotas iepriekš "
+"norādītajām piegādes izmaksām)."
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:249
+msgid "Cost of Shipping Class: \""
+msgstr "Piegādes klases izmaksas: \""
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:254
+#: views/shipping/wcfmmp-view-edit-method-popup.php:275
+#: views/store-lists/wcfmmp-view-store-lists-card.php:40
+msgid "N/A"
+msgstr "Nav"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:289
+msgid "Calculation type"
+msgstr "Aprēķina tips"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:295
+msgid "Per class: Charge shipping for each shipping class individually"
+msgstr "Par klasi: maksa par piegādi katrai pārvadāšanas klasei atsevišķi"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:296
+msgid "Per order: Charge shipping for the most expensive shipping class"
+msgstr "Par pasūtījumu: maksa par piegādi dārgākajai pārvadājumu klasei"
+
+#: views/shipping/wcfmmp-view-edit-method-popup.php:314
+msgid "Save Method Settings"
+msgstr "Saglabāt metodes iestatījumus"
+
+#: views/shipping/wcfmmp-view-shipping-info.php:11
+msgid "Item will be shipped in"
+msgstr "Prece tiks piegādāta"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:53
+msgid "Check this if you want to enable shipping for your store"
+msgstr "Atzīmējiet šo, ja vēlaties iespējot sūtīšanu savam veikalam"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:56
+msgid "Shipping Type"
+msgstr "Piegādes veids"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:63
+msgid "Select shipping type for your store"
+msgstr "Izvēlieties sava veikala piegādes veidu"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:74
+msgid ""
+"Shipping By Country is disabled by Admin. Please contact admin for details"
+msgstr ""
+"Administrators ir atspējojis pārvadāšanu pa valstīm. Lūdzu, sazinieties ar "
+"administratoru, lai iegūtu sīkāku informāciju"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:179
+msgid "Region(s)"
+msgstr "Reģions (-i)"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:210
+msgid "No method found&nbsp;"
+msgstr "Netika atrasta metode"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:211
+msgid " Add Shipping Methods"
+msgstr " Pievienojiet nosūtīšanas metodes"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:215
+msgid " Edit Shipping Methods"
+msgstr " Rediģēt piegādes metodes"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:229
+msgid ""
+"No shipping zone found for configuration. Please contact with admin for "
+"manage your store shipping"
+msgstr ""
+"Konfigurācijai nav atrasta nosūtīšanas zona. Lūdzu, sazinieties ar "
+"administratoru, lai pārvaldītu veikala piegādi"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:245
+msgid ""
+"Shipping By Weight is disabled by Admin. Please contact admin for details"
+msgstr ""
+"Administrators ir atspējojis sūtīšanu pēc svara. Lūdzu, sazinieties ar "
+"administratoru, lai iegūtu sīkāku informāciju"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:326
+msgid "Country default cost if no matching rule"
+msgstr "Valsts noklusējuma izmaksas, ja nav atbilstošu noteikumu"
+
+#: views/shipping/wcfmmp-view-shipping-settings.php:382
+msgid ""
+"Shipping By Distance is disabled by Admin. Please contact admin for details"
+msgstr ""
+"Administrators ir atspējojis pārvadāšanu pa attālumu. Lūdzu, sazinieties ar "
+"administratoru, lai iegūtu sīkāku informāciju"
+
+#: views/store/wcfmmp-view-store-sidebar.php:34
+msgid "Categories"
+msgstr "Kategorijas"
+
+#: views/store-lists/wcfmmp-view-store-lists-card.php:102
+msgid "away"
+msgstr "prom"
+
+#: views/store-lists/wcfmmp-view-store-lists-card.php:129
+msgid "Visit <span>Store</span>"
+msgstr "Apmeklējiet <span> veikalu </span>"
+
+#: views/store-lists/wcfmmp-view-store-lists-loop.php:66
+msgid "No store found!"
+msgstr "Neviens veikals nav atrasts!"
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:43
+msgid "Sort by newness: old to new"
+msgstr "Kārtot pēc jaunuma: no vecās uz jauno"
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:44
+msgid "Sort by newness: new to old"
+msgstr "Kārtot pēc jaunuma: no jauna uz veco"
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:45
+msgid "Sort by average rating: low to high"
+msgstr "Kārtot pēc vidējā vērtējuma: no zemas līdz augstam"
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:46
+msgid "Sort by average rating: high to low"
+msgstr "Kārtot pēc vidējā vērtējuma: no augstākā uz zemāko"
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:47
+msgid "Sort Alphabetical: A to Z"
+msgstr "Kārtot alfabētiski: no A līdz Z"
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:48
+msgid "Sort Alphabetical: Z to A"
+msgstr "Kārtot alfabētiski: no Z līdz A"
+
+#: views/store-lists/wcfmmp-view-store-lists-orderby.php:65
+#, php-format
+msgid "Showing %s–%s of %s results"
+msgstr "Rāda %s rezultātu %s– %s"
+
+#: views/store-lists/wcfmmp-view-store-lists-search-form.php:82
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Meklēšanas rezultāti vaicājumam: %s"
+
+#: views/store-lists/wcfmmp-view-store-lists-sidebar.php:36
+msgid "Filter by Category"
+msgstr "Filtrēt pēc kategorijas"
+
+#: views/store-lists/wcfmmp-view-store-lists-sidebar.php:40
+#: views/store-lists/wcfmmp-view-store-lists-sidebar.php:42
+msgid "Filter by Location"
+msgstr "Filtrēt pēc atrašanās vietas"
+
+#: views/store/widgets/wcfmmp-view-store-category.php:23
+msgid "All Categories"
+msgstr "Visas kategorijas"
+
+#: views/store/widgets/wcfmmp-view-store-shipping-rules.php:29
+msgid "Shipping Rules:"
+msgstr "Piegādes noteikumi:"
+
+#: views/store/widgets/wcfmmp-view-store-shipping-rules.php:45
+#, fuzzy, php-format
+msgid "Available for shopping more than <b>%s%d</b>."
+msgstr "Pieejams iepirkšanās vietnei vairāk nekā <b> %s %d </b>."
+
+#: views/store/widgets/wcfmmp-view-store-shipping-rules.php:48
+msgid "Available"
+msgstr "Pieejams"
+
+#: views/store/widgets/wcfmmp-view-store-shipping-rules.php:66
+msgid "Delivery Time"
+msgstr "Piegādes laiks"
+
+#: views/store/widgets/wcfmmp-view-store-taxonomy.php:24
+msgid "Show All"
+msgstr "Parādīt visu"
+
+#. Name of the plugin
+msgid "WCFM - WooCommerce Multivendor Marketplace"
+msgstr "WCFM - WooCommerce Multivendor Marketplace"
+
+#. Description of the plugin
+msgid ""
+"Most featured and flexible marketplace solution for your e-commerce store. "
+"Simply and Smoothly."
+msgstr ""
+"Visiecienītākais un elastīgākais tirgus risinājums jūsu e-komercijas "
+"veikalam. Vienkārši un gludi."
+
+#. URI of the plugin
+msgid "https://wclovers.com/knowledgebase_category/wcfm-marketplace/"
+msgstr "https://wclovers.com/knowledgebase_category/wcfm-marketplace/"
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr "WC mīļotājiem"
+
+#. Author URI of the plugin
+msgid "https://wclovers.com"
+msgstr "https://wclovers.com"

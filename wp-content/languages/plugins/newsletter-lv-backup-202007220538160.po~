@@ -1,0 +1,2343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Newsletter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-10 10:02+0000\n"
+"PO-Revision-Date: 2020-07-10 10:07+0000\n"
+"Last-Translator: \n"
+"Language-Team: Latviešu valoda\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=n % 10 == 1 && n % 100 != 11 ? 0 : n != 0 ? "
+"1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: profile/defaults.php:6
+msgid ""
+"\n"
+"    <p>If you change your email address, a confirmation email will be sent "
+"to activate it.</p>\n"
+"    <p><a href=\"{unsubscription_confirm_url}\">Cancel your subscription</a>"
+"</p>"
+msgstr ""
+"<p> Ja mainīsit savu e-pasta adresi, tiks aktivizēts e-pasts. </p><p> <a "
+"href=\"{unsubscription_confirm_url}\">Atcelt savu abonementu</a> </p>"
+
+#: profile/index.php:111
+msgid "\"Save\" label"
+msgstr "\"Saglabāt\" etiķeti"
+
+#: subscription/profile.php:135
+msgid "\"Subscribe\" label"
+msgstr "\"Abonēt\" etiķete"
+
+#: emails/subjects.php:52
+msgid "10 <em>[something]</em> Mistakes That Make You Look Dumb"
+msgstr "10 <em> [kaut kas] </em> kļūdas, kas liek izskatīties mēmi"
+
+#: emails/subjects.php:42
+msgid "10 Lies <em>[kind of people]</em> Likes to Tell"
+msgstr "10 meliem <em> [cilvēku veidam] </em> patīk pateikt"
+
+#: emails/subjects.php:41
+msgid "10 Warning Signs That <em>[something]</em>"
+msgstr "10 brīdinājuma zīmes, ka <em> [kaut kas] </em>"
+
+#: emails/subjects.php:56
+msgid "10 Ways to <em>[something]</em>"
+msgstr "10 veidi, kā <em> [kaut kas] </em>"
+
+#: emails/subjects.php:45
+msgid "10 Ways to Simplify Your <em>[something]</em>"
+msgstr "10 veidi, kā vienkāršot <em> [kaut ko] </em>"
+
+#: main/main.php:221
+msgid "A license key is set"
+msgstr "Ir iestatīta licences atslēga"
+
+#: subscription/defaults-profile.php:34
+msgid "A mandatory field is not filled in"
+msgstr "Obligāts lauks nav aizpildīts"
+
+#: emails/edit.php:248
+msgid "A subject is required to send"
+msgstr "Priekšmets ir jānosūta"
+
+#: users/massive.php:190
+msgid "Actions"
+msgstr "Darbības"
+
+#: subscription/options.php:134
+msgid "Activation"
+msgstr "Aktivizēšana"
+
+#: subscription/options.php:226
+msgid "Activation email"
+msgstr "Aktivizēšanas e-pasts"
+
+#: users/index.php:30
+msgid "Activation email sent."
+msgstr "Nosūtīts aktivizācijas e-pasts."
+
+#: subscription/options.php:210
+msgid "Activation message"
+msgstr "Aktivizācijas ziņojums"
+
+#: main/welcome.php:156
+msgid "Add a privacy checkbox"
+msgstr "Pievienojiet konfidencialitātes izvēles rūtiņu"
+
+#: users/index.php:122
+msgid "Add a subscriber"
+msgstr "Pievienojiet abonentu"
+
+#: main/welcome.php:190
+msgid "Add Newsletter widget to sidebar"
+msgstr "Pievienojiet informatīvā izdevuma logrīku sānjoslai"
+
+#: users/massive.php:311
+msgid "Add to list"
+msgstr "Pievienot sarakstam"
+
+#: tnp-header.php:58
+msgid "Add, edit, search"
+msgstr "Pievienojiet, rediģējiet un meklējiet"
+
+#: users/massive.php:43
+msgid "added to list"
+msgstr "pievienots sarakstam"
+
+#: plugin.php:470
+msgid "Addons"
+msgstr "Papildinājumi"
+
+#: main/info.php:86
+msgid "Address"
+msgstr "Adrese"
+
+#: subscription/antibot.php:136
+msgid "Address black list"
+msgstr "Adreses melnais saraksts"
+
+#: emails/edit.php:374
+msgid "Advanced"
+msgstr "Advanced"
+
+#: main/main.php:151
+msgid "Advanced Settings"
+msgstr "Papildu iestatījumi"
+
+#: emails/edit.php:396 users/export.php:37
+msgid "All"
+msgstr "Visi"
+
+#: tnp-header.php:68
+msgid "All about your subscribers"
+msgstr "Viss par jūsu abonentiem"
+
+#: users/massive.php:299
+msgid "all subscribers in"
+msgstr "visi abonenti"
+
+#: main/index.php:262
+msgid "All Video Tutorials"
+msgstr "Visas video pamācības"
+
+#: main/main.php:275
+msgid "Allowed roles"
+msgstr "Atļautās lomas"
+
+#: emails/tnp-composer/edit.php:24
+msgid "ALT TEXT"
+msgstr "ALT TEKSTS"
+
+#: subscription/options.php:217
+msgid "Alternative activation page"
+msgstr "Alternatīva aktivizācijas lapa"
+
+#: profile/index.php:71
+msgid "Alternative profile page URL"
+msgstr "Alternatīva profila lapas vietrādis URL"
+
+#: subscription/options.php:250
+msgid "Alternative welcome page URL"
+msgstr "Alternatīvs sveiciena lapas URL"
+
+#: main/main.php:314
+msgid "Anonymize"
+msgstr "Anonimizēt"
+
+#: subscription/antibot.php:79
+msgid "Antiflood"
+msgstr "Pretplūde"
+
+#: users/statistics.php:60
+msgid "Any"
+msgstr "Jebkurš"
+
+#: emails/tnp-composer/edit.php:240
+msgid ""
+"Any prior changes to single posts will be lost when editing these settings."
+msgstr ""
+"Rediģējot šos iestatījumus, tiks zaudētas visas iepriekšējās atsevišķu ziņu "
+"izmaiņas."
+
+#: emails/tnp-composer/index-v2.php:125 emails/tnp-composer/index.php:114
+msgid "Apply"
+msgstr "Piesakies"
+
+#: users/massive.php:217
+msgid "Are you sure you want to delete ALL not confirmed subscribers?"
+msgstr "Vai tiešām vēlaties izdzēst VISUS neapstiprinātus abonentus?"
+
+#: users/massive.php:218
+msgid "Are you sure you want to mark ALL subscribers as confirmed?"
+msgstr "Vai tiešām vēlaties atzīmēt VISUS abonentus kā apstiprinātus?"
+
+#: users/massive.php:199
+msgid "Are you sure you want to remove ALL subscribers?"
+msgstr "Vai tiešām vēlaties noņemt VISUS abonentus?"
+
+#: includes/controls.php:936
+msgid "Are you sure?"
+msgstr "Vai tu esi pārliecināts?"
+
+#: main/welcome.php:149
+msgid "Ask for their name"
+msgstr "Lūdziet viņu vārdu"
+
+#: widget/standard.php:134 widget/minimal.php:88
+msgid "Automatically subscribe to"
+msgstr "Automātiski abonēt"
+
+#: includes/controls.php:856
+msgid "Back"
+msgstr "Atpakaļ"
+
+#: emails/editortinymce.php:115 emails/editorhtml.php:98 emails/composer.php:91
+msgid "Back to last save"
+msgstr "Atpakaļ uz pēdējo saglabāšanu"
+
+#: emails/new.php:120
+msgid "Back to newsletter themes"
+msgstr "Atpakaļ pie biļetenu tēmām"
+
+#: emails/tnp-composer/edit.php:88 emails/tnp-composer/edit.php:166
+#: emails/tnp-composer/edit.php:206
+msgid "Background Color"
+msgstr "Fona krāsa"
+
+#: emails/tnp-composer/index-v2.php:94
+msgid "Background color"
+msgstr "Fona krāsa"
+
+#: main/main.php:149
+msgid "Basic Settings"
+msgstr "Pamata iestatījumi"
+
+#: main/welcome.php:208
+msgid ""
+"Be always updated with the latest releases and tips from our headquarters"
+msgstr ""
+"Esiet vienmēr atjaunināts ar jaunākajām versijām un padomiem mūsu galvenajā "
+"mītnē"
+
+#: subscription/antibot.php:47
+msgid "Blacklists"
+msgstr "Melnie saraksti"
+
+#: includes/fields.php:491
+msgid "Block Background"
+msgstr "Bloķēt fonu"
+
+#: emails/tnp-composer/index-v2.php:68 emails/tnp-composer/index.php:68
+msgid "Blocks"
+msgstr "Bloki"
+
+#: tnp-footer.php:15
+msgid "Blog"
+msgstr "Emuārs"
+
+#: includes/module.php:1095
+msgid "BOUNCED"
+msgstr "PĀRKLĀTS"
+
+#: users/statistics.php:84 users/statistics.php:177 users/statistics.php:210
+#: users/statistics.php:245 users/edit.php:150 users/massive.php:235
+msgid "Bounced"
+msgstr "Atlekusi"
+
+#: users/massive.php:331
+msgid "Bounced addresses"
+msgstr "Atlecošās adreses"
+
+#: users/massive.php:181
+msgid "Bounces"
+msgstr "Atlekšanas"
+
+#: emails/blocks/hero/options.php:31
+msgid "Button"
+msgstr "Poga"
+
+#: main/index.php:325
+msgid "Buy"
+msgstr "Pērciet"
+
+#: subscription/defaults-profile.php:18
+msgid "By continuing, you accept the privacy policy"
+msgstr "Turpinot jūs piekrītat privātuma politikai"
+
+#: emails/tnp-composer/index-v2.php:124 emails/tnp-composer/edit.php:7
+#: emails/tnp-composer/index.php:113
+msgid "Cancel"
+msgstr "Atcelt"
+
+#: unsubscription/index.php:38 unsubscription/index.php:53
+msgid "Cancellation"
+msgstr "Atcelšana"
+
+#: unsubscription/index.php:60
+msgid "Cancellation message"
+msgstr "Atcelšanas ziņojums"
+
+#: unsubscription/index.php:97
+msgid "Cancellation requests via email"
+msgstr "Anulēšanas pieprasījumi pa e-pastu"
+
+#: subscription/antibot.php:101
+msgid "Captcha"
+msgstr "Captcha"
+
+#: includes/fields.php:369 emails/tnp-composer/edit.php:233
+#: emails/themes/default/theme-options.php:50
+msgid "Categories"
+msgstr "Kategorijas"
+
+#: includes/controls.php:1529
+msgid "Center"
+msgstr "Centrs"
+
+#: tnp-header.php:139
+msgid "Change the look of your service emails"
+msgstr "Mainiet pakalpojumu e-pasta ziņojumu izskatu"
+
+#: subscription/defaults.php:55
+msgid "Change your profile"
+msgstr "Mainiet savu profilu"
+
+#: main/welcome.php:179
+msgid "Check if your website can send emails correctly."
+msgstr "Pārbaudiet, vai jūsu vietne var pareizi nosūtīt e-pastus."
+
+#: main/welcome.php:44
+msgid "Check your mailbox for a test message. Check the spam folder as well."
+msgstr ""
+"Pārbaudiet, vai pastkastē nav testa ziņojuma. Pārbaudiet arī mēstuļu mapi."
+
+#: emails/emails.php:140
+msgid "Choose a preset:"
+msgstr "Izvēlieties iestatījumu:"
+
+#: main/welcome.php:146
+msgid "Choose what to ask to your subscribers in your forms."
+msgstr "Izvēlieties, ko savās veidlapās lūgt abonentiem."
+
+#: main/welcome.php:137
+msgid ""
+"Choose which name and email address you'd like to appear as the sender of "
+"your newsletters."
+msgstr ""
+"Izvēlieties vārdu un e-pasta adresi, kuru vēlaties parādīt kā savu biļetenu "
+"sūtītāju."
+
+#: statistics/view.php:55
+msgid "Clicks"
+msgstr "Klikšķi"
+
+#: emails/blocks/separator/options.php:5
+msgid "Color"
+msgstr "Krāsa"
+
+#: tnp-header.php:135 main/info.php:34
+msgid "Company Info"
+msgstr "Informācija par uzņēmumu"
+
+#: plugin.php:457
+msgid "Company info"
+msgstr "Informācija par uzņēmumu"
+
+#: main/info.php:80
+msgid "Company name"
+msgstr "Kompānijas nosaukums"
+
+#: includes/controls.php:847
+msgid "Configure"
+msgstr "Konfigurēt"
+
+#: users/massive.php:218
+msgid "Confirm all"
+msgstr "Apstipriniet visu"
+
+#: includes/module.php:1091
+msgid "CONFIRMED"
+msgstr "APSTIPRINĀTS"
+
+#: emails/edit.php:421 users/statistics.php:66 users/statistics.php:148
+#: users/statistics.php:174 users/statistics.php:207 users/statistics.php:242
+#: users/edit.php:149 users/import.php:177 users/massive.php:203
+msgid "Confirmed"
+msgstr "Apstiprināts"
+
+#: emails/edit.php:329
+msgid "Continue"
+msgstr "Turpināt"
+
+#: subscription/options.php:257
+msgid "Conversion tracking code"
+msgstr "Reklāmguvumu uzskaites kods"
+
+#: emails/edit.php:537
+msgid "Convert to HTML newsletter"
+msgstr "Konvertēt uz HTML biļetenu"
+
+#: main/info.php:92
+msgid "Copyright or legal text"
+msgstr "Autortiesības vai juridisks teksts"
+
+#: emails/new.php:119
+msgid "Create a newsletter"
+msgstr "Izveidojiet biļetenu"
+
+#: tnp-header.php:104
+msgid "Create newsletter"
+msgstr "Izveidot biļetenu"
+
+#: main/main.php:211
+msgid "Create the page"
+msgstr "Izveidojiet lapu"
+
+#: users/edit.php:224
+msgid "Created"
+msgstr "Izveidots"
+
+#: users/import.php:215
+msgid "CSV file"
+msgstr "CSV fails"
+
+#: subscription/forms.php:24
+msgid "Custom Forms"
+msgstr "Pielāgotas veidlapas"
+
+#: main/main.php:266
+msgid "Custom styles"
+msgstr "Pielāgoti stili"
+
+#: plugin.php:456 main/index.php:75
+msgid "Dashboard"
+msgstr "Mērinstrumentu panelis"
+
+#: emails/index.php:64 users/statistics-time.php:38
+msgid "Date"
+msgstr "Datums"
+
+#: emails/blocks/posts/options.php:60
+msgid "Dates and images"
+msgstr "Datumi un attēli"
+
+#: subscription/defaults-profile.php:28
+msgid "Dear"
+msgstr "dārgs"
+
+#: main/main.php:327
+msgid "Debug mode"
+msgstr "Atkļūdošanas režīms"
+
+#: main/main.php:204
+msgid "Dedicated page"
+msgstr "Veltīta lapa"
+
+#: includes/controls.php:912 includes/controls.php:917
+msgid "Delete"
+msgstr "Dzēst"
+
+#: users/massive.php:199
+msgid "Delete all"
+msgstr "Dzēst visus"
+
+#: users/massive.php:240
+msgid "Delete all bounced"
+msgstr "Dzēst visu atlecošo"
+
+#: users/massive.php:217
+msgid "Delete all not confirmed"
+msgstr "Dzēst visu, kas nav apstiprināts"
+
+#: users/massive.php:230
+msgid "Delete all unsubscribed"
+msgstr "Dzēsiet visus neparakstītos"
+
+#: users/index.php:165
+msgid "Delete selected"
+msgstr "Dzēst atlasīto"
+
+#: emails/index.php:54
+msgid "Delete selected newsletters"
+msgstr "Dzēst atlasītos biļetenus"
+
+#: users/massive.php:56
+msgid "deleted"
+msgstr "izdzēsts"
+
+#: includes/controls.php:404
+msgid "Deleted."
+msgstr "Dzēsts"
+
+#: emails/edit.php:44
+msgid "Delivery definitively cancelled"
+msgstr "Piegāde ir galīgi atcelta"
+
+#: main/main.php:150
+msgid "Delivery Speed"
+msgstr "Piegādes ātrums"
+
+#: tnp-header.php:124
+msgid "Delivery speed, sender details, ..."
+msgstr "Piegādes ātrums, informācija par sūtītāju, ..."
+
+#: subscription/antibot.php:55
+msgid "Disable antibot"
+msgstr "Atspējot antivielu"
+
+#: subscription/antibot.php:60
+msgid "Disable for ajax form submission"
+msgstr "Atspējot ajax formas iesniegšanai"
+
+#: emails/themes/default/theme-options.php:22
+#: emails/themes/blank/theme-options.php:6
+msgid "Disable social links"
+msgstr "Atspējot sociālās saites"
+
+#: main/main.php:260
+msgid "Disable standard styles"
+msgstr "Atspējot standarta stilus"
+
+#: main/main.php:304
+msgid "Disable the scheduler notice"
+msgstr "Atspējojiet plānotāja paziņojumu"
+
+#: unsubscription/index.php:106
+msgid "Disable unsubscribe headers"
+msgstr "Atspējojiet abonēšanas galvenes"
+
+#: includes/controls.php:470 subscription/antibot.php:70
+#: subscription/antibot.php:83
+msgid "Disabled"
+msgstr "Invalīds"
+
+#: emails/edit.php:440
+msgid "Do not filter by this field"
+msgstr "Nefiltrējiet pēc šī lauka"
+
+#: main/main.php:314
+msgid "Do not store"
+msgstr "Neuzglabāt"
+
+#: emails/subjects.php:51
+msgid "Do You Make These 10 <em>[something]</em> Mistakes?"
+msgstr "Vai jūs pieļaujat šīs 10 <em> [kaut kas] </em> kļūdas?"
+
+#: main/welcome.php:222 main/index.php:239
+msgid "Documentation"
+msgstr "Dokumentācija"
+
+#: emails/subjects.php:53
+msgid "Don't do These 10 Things When <em>[something]</em>"
+msgstr "Neveiciet šīs 10 lietas, kad <em> [kaut kas] </em>"
+
+#: includes/controls.php:418
+msgid "Done."
+msgstr "Gatavs."
+
+#: subscription/options.php:144
+msgid "Double Opt In"
+msgstr "Divkārša izvēles iespēja"
+
+#: includes/module.php:892
+msgid "Draft"
+msgstr "Melnraksts"
+
+#: statistics/view.php:15
+msgid "Draft newsletter, no data available"
+msgstr "Biļetenu uzmetums, dati nav pieejami"
+
+#: includes/controls.php:870 includes/controls.php:875
+msgid "Duplicate"
+msgstr "Dublikāts"
+
+#: emails/edit.php:313 emails/emails.php:482 main/index.php:369
+#: users/index.php:223
+msgid "Edit"
+msgstr "Rediģēt"
+
+#: emails/tnp-composer/edit.php:163 emails/tnp-composer/edit.php:203
+msgid "Edit Block"
+msgstr "Rediģēt bloķēt"
+
+#: emails/tnp-composer/edit.php:79
+msgid "Edit Button"
+msgstr "Rediģēšanas poga"
+
+#: emails/tnp-composer/edit.php:15
+msgid "Edit Image"
+msgstr "Rediģēt attēlu"
+
+#: emails/tnp-composer/edit.php:65
+msgid "Edit Link"
+msgstr "Rediģēt saiti"
+
+#: emails/edit.php:293
+msgid "Edit Newsletter"
+msgstr "Rediģēt biļetenu"
+
+#: emails/tnp-composer/edit.php:150
+msgid "Edit Text"
+msgstr "Rediģēt tekstu"
+
+#: emails/tnp-composer/edit.php:97
+msgid "Edit Title"
+msgstr "Rediģēt virsrakstu"
+
+#: users/edit.php:91
+msgid "Editing"
+msgstr "Rediģēšana"
+
+#: users/new.php:48 users/edit.php:123
+msgid "Email"
+msgstr "E-pasts"
+
+#: main/welcome.php:180
+msgid "Email address"
+msgstr "Epasta adrese"
+
+#: subscription/defaults-profile.php:7
+msgid "Email address is not correct"
+msgstr "E-pasta adrese nav pareiza"
+
+#: profile/index.php:90
+msgid "Email changed alert"
+msgstr "E-pasts mainīts"
+
+#: main/main.php:334
+msgid "Email encoding"
+msgstr "E-pasta kodējums"
+
+#: includes/controls.php:475 subscription/antibot.php:71
+msgid "Enabled"
+msgstr "Iespējots"
+
+#: subscription/lists.php:135
+msgid "Enforced"
+msgstr "Piespiedu kārtā"
+
+#: subscription/lists.php:139
+msgid "Enforced by language"
+msgstr "Piespiedu valoda"
+
+#: subscription/options.php:194
+msgid "Error page"
+msgstr "Kļūdas lapa"
+
+#: main/extensions.php:30
+msgid "Error while activating:"
+msgstr "Kļūda, aktivizējot:"
+
+#: users/edit.php:45
+msgid "Error. Check the log files."
+msgstr "Kļūda. Pārbaudiet žurnālfailus."
+
+#: emails/blocks/posts/options.php:57
+msgid "Excerpt font"
+msgstr "Izvilkuma fonts"
+
+#: emails/blocks/posts/options.php:55
+msgid "Excerpt words"
+msgstr "Izvilkumu vārdi"
+
+#: main/main.php:343
+msgid "Execute shortcodes on newsletters"
+msgstr "Izpildiet īsrakstus biļetenos"
+
+#: emails/index.php:109
+msgid ""
+"Expected total at the end of the delivery may differ due to "
+"subscriptions/unsubscriptions occurred meanwhile."
+msgstr ""
+"Paredzamais kopējais daudzums piegādes beigās var atšķirties, jo pa to laiku "
+"notiek abonementi / abonementi."
+
+#: tnp-header.php:63 users/export.php:17 users/export.php:42
+msgid "Export"
+msgstr "Eksportēt"
+
+#: tnp-header.php:64
+msgid "Export your subscribers list"
+msgstr "Eksportējiet abonentu sarakstu"
+
+#: emails/themes/default/theme-options.php:15
+msgid "External background color"
+msgstr "Ārējā fona krāsa"
+
+#: tnp-header.php:129
+msgid "External mail server"
+msgstr "Ārējais pasta serveris"
+
+#: users/edit.php:109
+msgid "Extra fields"
+msgstr "Papildu lauki"
+
+#: users/statistics.php:250 users/edit.php:143
+msgid "Female"
+msgstr "Sievietes"
+
+#: users/import.php:207 users/export.php:27
+msgid "Field separator"
+msgstr "Lauka atdalītājs"
+
+#: users/index.php:139
+msgid "filter by"
+msgstr "filtrēt pēc"
+
+#: emails/blocks/posts/options.php:83
+msgid "Filters"
+msgstr "Filtri"
+
+#: main/main.php:225
+#, php-format
+msgid "Find it in <a href=\"%s\" target=\"_blank\">your account</a> page"
+msgstr "Atrodiet to <a href=\"%s\" target=\"_blank\">sava konta</a> lapā"
+
+#: users/edit.php:129 subscription/profile.php:75
+msgid "First name"
+msgstr "Vārds"
+
+#: subscription/defaults-profile.php:8
+msgid "First name or full name"
+msgstr "Vārds vai pilns vārds"
+
+#: emails/tnp-composer/edit.php:168 emails/tnp-composer/edit.php:208
+msgid "Font Family"
+msgstr "Fontu saime"
+
+#: emails/tnp-composer/edit.php:105
+msgid "Font family"
+msgstr "Fontu saime"
+
+#: emails/tnp-composer/edit.php:127
+msgid "Font size"
+msgstr "Fonta izmērs"
+
+#: main/info.php:76
+msgid "Footer Settings"
+msgstr "Kājenes iestatījumi"
+
+#: tnp-footer.php:14
+msgid "Forum"
+msgstr "Forums"
+
+#: emails/edit.php:413 users/statistics.php:241 users/edit.php:141
+#: subscription/profile.php:105
+msgid "Gender"
+msgstr "Dzimums"
+
+#: main/info.php:45 users/edit.php:107 users/massive.php:179
+#: profile/index.php:51 subscription/options.php:131
+#: emails/themes/vimeo-like/theme-options.php:24
+msgid "General"
+msgstr "Vispārīgi"
+
+#: profile/index.php:100
+msgid "General error"
+msgstr "Vispārēja kļūda"
+
+#: tnp-header.php:123 main/main.php:137
+msgid "General Settings"
+msgstr "Vispārīgie iestatījumi"
+
+#: emails/editortinymce.php:107 emails/editorhtml.php:89 emails/edit.php:335
+#: emails/tnp-composer/index-v2.php:54 emails/tnp-composer/index.php:54
+msgid "Get ideas"
+msgstr "Gūstiet idejas"
+
+#: tnp-footer.php:8
+msgid "Get Premium"
+msgstr "Saņemiet Premium"
+
+#: tnp-header.php:165 tnp-header.php:175
+msgid "Get Professional Addons"
+msgstr "Iegūstiet profesionālus papildinājumus"
+
+#: emails/subjects.php:46
+msgid "Get Rid of <em>[problem]</em> Once and Forever"
+msgstr "Atbrīvojieties no <em> [problēma] </em> vienreiz un uz visiem laikiem"
+
+#: emails/subjects.php:59
+msgid "Get/Become <em>[something]</em>. 10 Ideas That Work"
+msgstr "Saņemt / kļūt par <em> [kaut ko] </em>. 10 idejas, kas darbojas"
+
+#: emails/tnp-composer/index-v2.php:69
+msgid "Global Styles"
+msgstr "Globālie stili"
+
+#: users/index.php:159
+msgid "Go"
+msgstr "Ej"
+
+#: main/welcome.php:226
+msgid "Go to your dashboard"
+msgstr "Dodieties uz savu informācijas paneli"
+
+#: unsubscription/defaults.php:21
+msgid "Goodbye"
+msgstr "Ardievu"
+
+#: unsubscription/index.php:78
+msgid "Goodbye email"
+msgstr "Ardievu e-pasts"
+
+#: unsubscription/index.php:69
+msgid "Goodbye message"
+msgstr "Ardievu ziņa"
+
+#: main/info.php:50
+msgid "Header Settings"
+msgstr "Galvenes iestatījumi"
+
+#: emails/blocks/separator/options.php:6
+msgid "Height"
+msgstr "Augstums"
+
+#: emails/new.php:12 emails/new.php:36 emails/new.php:78
+msgid "Here the email subject"
+msgstr "Šeit ir e-pasta tēma"
+
+#: emails/edit.php:467
+msgid "Hide/show from public sent newsletter list."
+msgstr "Slēpt / rādīt no publiski nosūtīto biļetenu saraksta."
+
+#: emails/subjects.php:40
+msgid "How safe is your <em>[something]</em> from <em>[danger]</em>?"
+msgstr "Cik drošs ir jūsu <em> [kaut kas] </em> no <em> [briesmām] </em>?"
+
+#: emails/subjects.php:47
+msgid "How to End [problem]"
+msgstr "Kā izbeigt [problēma]"
+
+#: tnp-header.php:92
+msgid "How to give the last goodbye (or avoid it!)"
+msgstr "Kā atvadīties (vai no tā izvairīties!)"
+
+#. Author URI of the plugin
+msgid "https://www.thenewsletterplugin.com"
+msgstr "https://www.thenewsletterplugin.com"
+
+#. URI of the plugin
+msgid "https://www.thenewsletterplugin.com/plugins/newsletter"
+msgstr "https://www.thenewsletterplugin.com/plugins/newsletter"
+
+#: subscription/defaults-profile.php:16
+msgid "I'm"
+msgstr "ES esmu"
+
+#: emails/blocks/posts/options.php:22
+msgid "If there are new posts"
+msgstr "Ja ir jaunas ziņas"
+
+#: emails/blocks/posts/options.php:32
+msgid "If there are not new posts"
+msgstr "Ja nav jaunu amatu"
+
+#: main/welcome.php:221
+msgid ""
+"If you are unsure on how to use some features of Newsletter, reach for our "
+"official documentation."
+msgstr ""
+"Ja neesat pārliecināts par to, kā izmantot dažas Newsletter funkcijas, "
+"sazinieties ar mūsu oficiālo dokumentāciju."
+
+#: subscription/lists.php:135
+msgid ""
+"If you check this box, all your new subscribers will be automatically added "
+"to this list"
+msgstr ""
+"Ja atzīmēsit šo rūtiņu, visi jaunie abonenti tiks automātiski pievienoti šim "
+"sarakstam"
+
+#: main/welcome.php:191
+msgid ""
+"If you use sidebars in your blog, it may be a good idea to add a "
+"subscription form there. Remember to come back here when you're done"
+msgstr ""
+"Ja savā emuārā izmantojat sānjoslas, tā varētu būt laba ideja pievienot "
+"abonēšanas veidlapu. Atcerieties atgriezties šeit, kad esat pabeidzis"
+
+#: emails/blocks/hero/options.php:24
+msgid "Image"
+msgstr "Attēls"
+
+#: tnp-header.php:61 users/import.php:151
+msgid "Import"
+msgstr "Importēt"
+
+#: tnp-header.php:62
+msgid "Import from external sources"
+msgstr "Imports no ārējiem avotiem"
+
+#: users/import.php:184
+msgid "Import mode"
+msgstr "Importēšanas režīms"
+
+#: users/import.php:175
+msgid "Import Subscribers As"
+msgstr "Importēt abonentus kā"
+
+#: main/welcome.php:130
+msgid ""
+"In this short tutorial we will guide you through some of the basic settings "
+"to get the most out of our plugin. "
+msgstr ""
+"Šajā īsajā pamācībā mēs sniegsim norādījumus par dažiem pamata iestatījumiem,"
+" lai pēc iespējas labāk izmantotu mūsu spraudni."
+
+#: users/massive.php:244
+msgid "Inactive since"
+msgstr "Kopš tā laika neaktīvs"
+
+#: emails/blocks/posts/options.php:24
+msgid "Include only new posts"
+msgstr "Iekļaujiet tikai jaunas ziņas"
+
+#: emails/blocks/posts/options.php:25
+msgid "Include specified max posts"
+msgstr "Iekļaujiet norādītās maksimālās ziņas"
+
+#: emails/edit.php:337
+msgid "Insert emoji"
+msgstr "Ievietojiet emocijzīmes"
+
+#: includes/controls.php:1606
+msgid "Install a multilanguage plugin."
+msgstr "Instalējiet daudzvalodu spraudni."
+
+#: includes/controls.php:1630
+msgid "Install WPML or Polylang for multilanguage support"
+msgstr "Instalējiet WPML vai Polylang daudzvalodu atbalstam"
+
+#: users/edit.php:242
+msgid "IP address"
+msgstr "IP adrese"
+
+#: main/main.php:312
+msgid "IP addresses"
+msgstr "IP adreses"
+
+#: subscription/antibot.php:126
+msgid "IP black list"
+msgstr "IP melnais saraksts"
+
+#: emails/edit.php:439
+msgid "is one of:"
+msgstr "ir viens no:"
+
+#: emails/edit.php:460
+msgid "Keep private"
+msgstr "Saglabājiet privātumu"
+
+#: profile/index.php:108
+msgid "Labels"
+msgstr "Etiķetes"
+
+#: emails/edit.php:406 includes/fields.php:422 users/edit.php:154
+msgid "Language"
+msgstr "Valoda"
+
+#: users/edit.php:230
+msgid "Last activity"
+msgstr "Pēdējā aktivitāte"
+
+#: users/edit.php:135 subscription/defaults-profile.php:12
+#: subscription/profile.php:92
+msgid "Last name"
+msgstr "Uzvārds"
+
+#: subscription/defaults-profile.php:13
+msgid "Last name is required"
+msgstr "Nepieciešams uzvārds"
+
+#: main/index.php:104
+msgid "Last Newsletter"
+msgstr "Pēdējais biļetens"
+
+#: main/index.php:351
+msgid "Last Subscribers"
+msgstr "Pēdējie abonenti"
+
+#: emails/blocks/hero/options.php:13 emails/blocks/posts/options.php:49
+msgid "Layout"
+msgstr "Izkārtojums"
+
+#: main/index.php:269
+msgid "Learn how to segment your suscribers"
+msgstr "Uzziniet, kā segmentēt savus abonentus"
+
+#: emails/edit.php:385
+msgid "Leaving all multichoice options unselected is like to select all them"
+msgstr ""
+"Ja visas daudzo iespēju iespējas netiks atlasītas, tās tiks atlasītas visas"
+
+#: includes/controls.php:1528
+msgid "Left"
+msgstr "Kreisais"
+
+#: tnp-header.php:188
+msgid "License active"
+msgstr "Licence ir aktīva"
+
+#: tnp-header.php:181
+msgid "License expired"
+msgstr "Licences derīguma termiņš beidzies"
+
+#: main/main.php:218
+msgid "License key"
+msgstr "Licences atslēga"
+
+#: tnp-header.php:169
+msgid "License not valid"
+msgstr "Licence nav derīga"
+
+#: emails/tnp-composer/edit.php:26
+msgid "LINK"
+msgstr "LINK"
+
+#: main/index.php:284 main/index.php:353 users/statistics.php:131
+#: users/export.php:35
+msgid "List"
+msgstr "Saraksts"
+
+#: tnp-header.php:74
+msgid "List Building"
+msgstr "Saraksta veidošana"
+
+#: tnp-header.php:87 emails/edit.php:389 users/edit.php:108 users/edit.php:180
+#: users/import.php:197 users/index.php:178 users/massive.php:180
+#: subscription/lists.php:117
+msgid "Lists"
+msgstr "Saraksti"
+
+#: main/main.php:295
+msgid "Log level"
+msgstr "Žurnāla līmenis"
+
+#: profile/index.php:137
+msgid "Log of sent newsletters"
+msgstr "Nosūtīto biļetenu žurnāls"
+
+#: main/info.php:55
+msgid "Logo"
+msgstr "Logotips"
+
+#: users/edit.php:112
+msgid "Logs"
+msgstr "Baļķi"
+
+#: main/test.php:85
+msgid "Mailing test"
+msgstr "Pasta pārbaude"
+
+#: tnp-header.php:65
+msgid "Maintenance"
+msgstr "Apkope"
+
+#: users/statistics.php:257 users/edit.php:143
+msgid "Male"
+msgstr "Vīrietis"
+
+#: tnp-header.php:66
+msgid "Massive actions: change list, clean up, ..."
+msgstr "Masīvas darbības: mainīt sarakstu, sakopt, ..."
+
+#: emails/edit.php:394
+msgid "Match all of"
+msgstr "Atbilst visiem"
+
+#: emails/edit.php:394
+msgid "Match at least one of"
+msgstr "Sakritiet vismaz vienam no"
+
+#: includes/module.php:1890
+msgid "Math question"
+msgstr "Matemātikas jautājums"
+
+#: main/main.php:239
+msgid "Max emails per hour"
+msgstr "Maks. E-pastu stundā"
+
+#: emails/blocks/posts/options.php:72
+#: emails/themes/default/theme-options.php:63
+msgid "Max posts"
+msgstr "Maksimālais amatu skaits"
+
+#: emails/index.php:21
+msgid "Message duplicated."
+msgstr "Ziņojums ir dublēts."
+
+#: profile/index.php:79
+msgid "Messages"
+msgstr "Ziņas"
+
+#: tnp-header.php:138
+msgid "Messages Template"
+msgstr "Ziņojumu veidne"
+
+#: subscription/template.php:87
+msgid "Messages template"
+msgstr "Ziņojumu veidne"
+
+#: subscription/antibot.php:88
+msgid "minute"
+msgstr "minūte"
+
+#: subscription/antibot.php:89 subscription/antibot.php:90
+#: subscription/antibot.php:91 subscription/antibot.php:92
+#: subscription/antibot.php:93 subscription/antibot.php:94
+msgid "minutes"
+msgstr "minūtes"
+
+#: emails/tnp-composer/index-v2.php:70 emails/tnp-composer/index.php:69
+msgid "Mobile Preview"
+msgstr "Priekšskatījums mobilajām ierīcēm"
+
+#: users/massive.php:248
+msgid "months"
+msgstr "mēneši"
+
+#: main/info.php:69
+msgid "Motto"
+msgstr "Moto"
+
+#: subscription/defaults-profile.php:27
+msgid "Mr."
+msgstr "Kungs"
+
+#: subscription/defaults-profile.php:26
+msgid "Ms."
+msgstr "Jaunkundze."
+
+#: emails/edit.php:399
+msgid "must not in one of"
+msgstr "nedrīkst būt vienā no"
+
+#: users/edit.php:194 users/index.php:175 subscription/lists.php:132
+msgid "Name"
+msgstr "Vārds"
+
+#: subscription/defaults-profile.php:9
+msgid "Name is required"
+msgstr "Nepieciešams vārds"
+
+#: includes/controls.php:1714 includes/controls.php:1725
+msgid "Need help?"
+msgstr "Vajadzīga palīdzība?"
+
+#: main/index.php:287 main/index.php:356
+msgid "New"
+msgstr "Jauns"
+
+#: emails/index.php:53
+msgid "New newsletter"
+msgstr "Jauns biļetens"
+
+#: users/new.php:37
+msgid "New Subscriber"
+msgstr "Jauns abonents"
+
+#. Name of the plugin
+msgid "Newsletter"
+msgstr "Biļetens"
+
+#. Description of the plugin
+msgid ""
+"Newsletter is a cool plugin to create your own subscriber list, to send "
+"newsletters, to build your business. <strong>Before update give a look to <a "
+"href=\"https://www.thenewsletterplugin.com/category/release\">this page</a> "
+"to know what's changed.</strong>"
+msgstr ""
+"Biļetens ir lielisks spraudnis, lai izveidotu savu abonentu sarakstu, "
+"nosūtītu jaunumus, veidotu savu biznesu. <strong>Pirms atjaunināšanas "
+"apskatiet <a href=\"https://www.thenewsletterplugin.com/category/release\">"
+"šo lapu,</a> lai uzzinātu, kas ir mainījies.</strong>"
+
+#: plugin.php:1376
+msgid "Newsletter plugin page, do not delete"
+msgstr "Newsletter spraudņa lapa, neizdzēsiet"
+
+#: emails/emails.php:938
+msgid "Newsletter should be saved before send a test"
+msgstr "Pirms testa nosūtīšanas biļetens ir jāsaglabā"
+
+#: statistics/view.php:17
+msgid "Newsletter still sending"
+msgstr "Joprojām tiek nosūtīts biļetens"
+
+#: tnp-header.php:102 tnp-header.php:106 emails/index.php:43 main/index.php:282
+#: users/edit.php:111
+msgid "Newsletters"
+msgstr "Biļeteni"
+
+#: main/main.php:319
+msgid "Newsletters tracking default"
+msgstr "Biļetenu izsekošanas noklusējums"
+
+#: emails/editortinymce.php:118 emails/editorhtml.php:101
+#: emails/composer.php:93 main/welcome.php:233
+msgid "Next"
+msgstr "Nākamais"
+
+#: includes/controls.php:449 subscription/options.php:158
+msgid "No"
+msgstr "Nē"
+
+#: statistics/index.php:55
+msgid "No newsletters have been sent till now"
+msgstr "Līdz šim nav nosūtīti biļeteni"
+
+#: includes/module.php:1118 includes/module.php:1132
+msgid "No subscriber found."
+msgstr "Netika atrasts abonents."
+
+#: subscription/template.php:36
+msgid "No test subscribers found."
+msgstr "Testa abonenti nav atrasti."
+
+#: emails/edit.php:401
+msgid "None"
+msgstr "Nav"
+
+#: includes/module.php:1089
+msgid "NOT CONFIRMED"
+msgstr "NAV APSTIPRINĀTS"
+
+#: emails/edit.php:421 users/statistics.php:72 users/statistics.php:175
+#: users/statistics.php:208 users/statistics.php:243 users/edit.php:149
+#: users/import.php:177
+msgid "Not confirmed"
+msgstr "Nav apstiprināts"
+
+#: users/statistics.php:264 users/edit.php:143
+msgid "Not specified"
+msgstr "Nav precizēts"
+
+#: subscription/lists.php:145
+msgid "Notes"
+msgstr "Piezīmes"
+
+#: subscription/options.php:164
+msgid "Notifications"
+msgstr "Paziņojumi"
+
+#: unsubscription/index.php:113
+msgid "Notify admin on unsubscription"
+msgstr "Paziņojiet administratoram par abonementa pārtraukšanu"
+
+#: emails/edit.php:253
+msgid "Now sending."
+msgstr "Tagad sūtu."
+
+#: emails/tnp-composer/edit.php:231
+msgid "Number of posts"
+msgstr "Amatu skaits"
+
+#: includes/module.php:928 includes/module.php:935 includes/module.php:937
+#: includes/module.php:972
+msgid "of"
+msgstr "no"
+
+#: unsubscription/index.php:87
+msgid "On error"
+msgstr "Kļūda"
+
+#: emails/blocks/posts/options.php:49
+msgid "One column"
+msgstr "Viena kolonna"
+
+#: emails/blocks/posts/options.php:51
+msgid "One column, big image"
+msgstr "Viena kolonna, liels attēls"
+
+#: users/massive.php:335
+msgid "One email address per line."
+msgstr "Katrā rindiņā viena e-pasta adrese."
+
+#: subscription/antibot.php:131 subscription/antibot.php:141
+msgid "One per line"
+msgstr "Viens katrā rindā"
+
+#: subscription/options.php:205
+msgid "Only for double opt-in mode."
+msgstr "Tikai divkāršas izvēles režīmā."
+
+#: emails/edit.php:426
+msgid "Only to subscribers linked to WP users"
+msgstr "Tikai abonentiem, kas saistīti ar WP lietotājiem"
+
+#: statistics/view.php:46
+msgid "Opens"
+msgstr "Atveras"
+
+#: subscription/options.php:142
+msgid "Opt In"
+msgstr "Pieteikties"
+
+#: subscription/profile.php:31
+msgid "Optional"
+msgstr "Neobligāti"
+
+#: includes/controls.php:411
+msgid "Options reset."
+msgstr "Iespējas tiek atiestatītas."
+
+#: users/edit.php:110
+msgid "Other"
+msgstr "Cits"
+
+#: main/index.php:108
+msgid "Overall"
+msgstr "Kopumā"
+
+#: statistics/index.php:66
+msgid "Overall basic statistics (last 20 newsletters)"
+msgstr "Kopējā pamata statistika (pēdējie 20 biļeteni)"
+
+#: subscription/options.php:149
+msgid "Override Opt In"
+msgstr "Ignorēt izvēli"
+
+#: users/import.php:179
+msgid "Override status of existing users"
+msgstr "Ignorēt esošo lietotāju statusu"
+
+#: includes/fields.php:498
+msgid "Padding"
+msgstr "Polsterējums"
+
+#: emails/edit.php:328
+msgid "Pause"
+msgstr "Pauze"
+
+#: emails/edit.php:328
+msgid "Pause the delivery?"
+msgstr "Vai pārtraukt piegādi?"
+
+#: includes/module.php:890
+msgid "Paused"
+msgstr "Pauzēts"
+
+#: main/welcome.php:32
+msgid "Please check the email address, it seems wrong."
+msgstr "Lūdzu, pārbaudiet e-pasta adresi, šķiet, ka tā nav pareiza."
+
+#: unsubscription/defaults.php:15
+msgid ""
+"Please confirm you want to unsubscribe <a href=\"{unsubscription_confirm_url}"
+"\">clicking here</a>."
+msgstr ""
+"Lūdzu, apstipriniet, ka vēlaties anulēt abonementu, <a "
+"href=\"{unsubscription_confirm_url}\">noklikšķinot šeit</a> ."
+
+#: subscription/defaults.php:39
+msgid "Please confirm your subscription"
+msgstr "Lūdzu, apstipriniet savu abonementu"
+
+#: subscription/defaults.php:44
+msgid ""
+"Please confirm your subscription <a href=\"{subscription_confirm_url}\">"
+"clicking here</a>"
+msgstr ""
+"Lūdzu, apstipriniet abonementu, <a href=\"{subscription_confirm_url}\">"
+"noklikšķinot šeit</a>"
+
+#: users/massive.php:159
+msgid "Please, backup before run a massive action."
+msgstr "Lūdzu, izveidojiet dublējumu, pirms veicat apjomīgu darbību."
+
+#: emails/themes/default/theme-options.php:69
+msgid "Post types"
+msgstr "Ziņu veidi"
+
+#: emails/themes/default/theme-options.php:28
+msgid "Posts"
+msgstr "Ziņas"
+
+#: emails/blocks/posts/options.php:75
+msgid "Posts offset"
+msgstr "Amati ir nobīdīti"
+
+#: main/index.php:323
+msgid "Premium"
+msgstr "Piemaksa"
+
+#: emails/edit.php:375
+msgid "Preview"
+msgstr "Priekšskatījums"
+
+#: main/welcome.php:232
+msgid "Previous"
+msgstr "Iepriekšējais"
+
+#: emails/themes/cta-2015/theme-options.php:6
+#: emails/themes/default/theme-options.php:8
+msgid "Primary color"
+msgstr "Primārā krāsa"
+
+#: profile/index.php:118
+msgid "Privacy link text"
+msgstr "Konfidencialitātes saites teksts"
+
+#: subscription/lists.php:68 subscription/profile.php:30
+msgid "Private"
+msgstr "Privāts"
+
+#: main/index.php:255
+msgid "Problem sending messages? Start here!"
+msgstr "Vai rodas problēmas ar ziņojumu sūtīšanu? Sāc šeit!"
+
+#: includes/controls.php:886
+msgid "Proceed with a test?"
+msgstr "Vai turpināt pārbaudi?"
+
+#: includes/controls.php:867
+msgid "Proceed with copy?"
+msgstr "Vai turpināt ar kopiju?"
+
+#: includes/controls.php:909
+msgid "Proceed with delete?"
+msgstr "Vai turpināt dzēst?"
+
+#: includes/controls.php:835
+msgid "Proceed?"
+msgstr "Turpināt?"
+
+#: main/index.php:372
+msgid "Profile"
+msgstr "Profils"
+
+#: emails/edit.php:436
+msgid "Profile fields"
+msgstr "Profila lauki"
+
+#: subscription/lists.php:137
+msgid "Profile form"
+msgstr "Profila forma"
+
+#: tnp-header.php:59 profile/index.php:62
+msgid "Profile page"
+msgstr "Profila lapa"
+
+#: profile/index.php:82
+msgid "Profile saved"
+msgstr "Profils ir saglabāts"
+
+#: profile/defaults.php:15
+msgid "Profile saved."
+msgstr "Profils ir saglabāts."
+
+#: tnp-header.php:88
+msgid "Profile the subscribers for a better targeting"
+msgstr "Profils abonentiem labākai mērķauditorijas atlasei"
+
+#: users/edit.php:254
+msgid "Profile URL"
+msgstr "Profila URL"
+
+#: emails/index.php:63
+msgid "Progress"
+msgstr "Progress"
+
+#: subscription/lists.php:68
+msgid "Public"
+msgstr "Publisks"
+
+#: statistics/view.php:38
+msgid "Reach"
+msgstr "Sasniedziet"
+
+#: unsubscription/index.php:124
+msgid "Reactivated message"
+msgstr "Aktivizēta ziņa"
+
+#: unsubscription/index.php:54
+msgid "Reactivation"
+msgstr "Atkārtota aktivizēšana"
+
+#: main/index.php:242
+msgid "Read all"
+msgstr "Lasīt visu"
+
+#: emails/themes/vimeo-like/theme-defaults.php:7
+msgid "Read More"
+msgstr "Lasīt vairāk"
+
+#: emails/emails.php:952 main/status.php:113 main/test.php:50 main/smtp.php:34
+#: includes/controls.php:1607 includes/controls.php:1703
+#: unsubscription/index.php:101
+msgid "Read more"
+msgstr "Lasīt vairāk"
+
+#: emails/emails.php:965 emails/emails.php:973
+msgid "Read more about delivery issues"
+msgstr "Lasiet vairāk par piegādes jautājumiem"
+
+#: emails/emails.php:972 emails/tnp-composer/index-v2.php:117
+#: emails/tnp-composer/index.php:106
+msgid "Read more about test subscribers"
+msgstr "Lasiet vairāk par testa abonentiem"
+
+#: emails/blocks/posts/block.php:22
+msgid "Read more..."
+msgstr "Lasīt vairāk..."
+
+#: profile/defaults.php:14
+msgid "Read our privacy note"
+msgstr "Izlasiet mūsu piezīmi par konfidencialitāti"
+
+#: users/statistics.php:173
+msgid "Referrer"
+msgstr "Atsaucējs"
+
+#: emails/new.php:135
+msgid "Refresh the preview"
+msgstr "Atsvaidziniet priekšskatījumu"
+
+#: users/index.php:226
+msgid "Remove"
+msgstr "Noņemt"
+
+#: users/massive.php:48
+msgid "removed from list"
+msgstr "svītrots no saraksta"
+
+#: subscription/options.php:155
+msgid "Repeated subscriptions"
+msgstr "Atkārtotas abonēšanas"
+
+#: main/main.php:194
+msgid "Reply to"
+msgstr "Atbildēt uz"
+
+#: main/main.php:39
+msgid "Reply to email is not correct."
+msgstr "Atbilde uz e-pastu nav pareiza."
+
+#: emails/edit.php:468 subscription/profile.php:31
+msgid "Required"
+msgstr "Obligāti"
+
+#: users/index.php:232
+msgid "Resend activation"
+msgstr "Atkārtoti aktivizēt"
+
+#: users/index.php:230
+msgid "Resend welcome"
+msgstr "Nosūtiet vēlreiz laipni"
+
+#: includes/controls.php:838
+msgid "Reset"
+msgstr "Atiestatīt"
+
+#: users/index.php:145
+msgid "Reset Filters"
+msgstr "Atiestatīt filtrus"
+
+#: emails/theme.php:77
+msgid "Responsive Drag & Drop Composer"
+msgstr "Atsaucīgs Drag & Drop komponists"
+
+#: main/main.php:184
+msgid "Return path"
+msgstr "Atgriešanās ceļš"
+
+#: main/main.php:32
+msgid "Return path email is not correct."
+msgstr "Atgriešanās ceļa e-pasts nav pareizs."
+
+#: includes/controls.php:1528
+msgid "Right"
+msgstr "Taisnība"
+
+#: main/test.php:174
+msgid "Run"
+msgstr "Skrien"
+
+#: includes/controls.php:889 includes/controls.php:894
+msgid "Run a test"
+msgstr "Izpildiet testu"
+
+#: emails/editortinymce.php:117 emails/editorhtml.php:100
+#: emails/composer.php:92 includes/controls.php:830 profile/defaults.php:13
+#: emails/tnp-composer/edit.php:8
+msgid "Save"
+msgstr "Saglabāt"
+
+#: plugin.php:532
+msgid "Save the newsletter to update the counter!"
+msgstr "Saglabājiet biļetenu, lai atjauninātu skaitītāju!"
+
+#: includes/controls.php:397
+msgid "Saved."
+msgstr "Saglabāts."
+
+#: main/smtp.php:21
+msgid "Saved. Remember to test your changes right now!"
+msgstr "Saglabāts. Atcerieties pārbaudīt izmaiņas tūlīt!"
+
+#: emails/edit.php:324
+msgid "Schedule"
+msgstr "Grafiks"
+
+#: emails/edit.php:324
+msgid "Schedule delivery?"
+msgstr "Ieplānot piegādi?"
+
+#: includes/module.php:886
+msgid "Scheduled"
+msgstr "Plānots"
+
+#: emails/edit.php:255
+msgid "Scheduled."
+msgstr "Plānots."
+
+#: emails/blocks/cta/options.php:7 emails/blocks/hero/options.php:16
+#: emails/blocks/heading/options.php:7
+msgid "Schema"
+msgstr "Shēma"
+
+#: users/index.php:143
+msgid "Search"
+msgstr "Meklēt"
+
+#: tnp-header.php:57
+msgid "Search And Edit"
+msgstr "Meklēšana un rediģēšana"
+
+#: users/index.php:137
+msgid "Search text"
+msgstr "Meklēt tekstu"
+
+#: subscription/antibot.php:84 subscription/antibot.php:85
+#: subscription/antibot.php:86 subscription/antibot.php:87
+msgid "seconds"
+msgstr "sekundes"
+
+#: users/edit.php:248
+msgid "Secret token"
+msgstr "Slepenais marķieris"
+
+#: emails/subjects.php:48
+msgid "Secrets of [famous people]"
+msgstr "[Slavenu cilvēku] noslēpumi"
+
+#: tnp-header.php:79 subscription/antibot.php:29 subscription/antibot.php:46
+msgid "Security"
+msgstr "Drošība"
+
+#: emails/theme.php:63
+msgid "Select a theme"
+msgstr "Atlasiet motīvu"
+
+#: profile/profile.php:255
+msgid "Select language"
+msgstr "Izvēlēties valodu"
+
+#: emails/tnp-composer/index-v2.php:114 emails/tnp-composer/index.php:103
+msgid "Send a test"
+msgstr "Nosūtiet testu"
+
+#: main/welcome.php:182
+msgid "Send a test message"
+msgstr "Nosūtiet testa ziņojumu"
+
+#: emails/edit.php:320
+msgid "Send now"
+msgstr "Sūtīt tagad"
+
+#: main/welcome.php:136
+msgid "Sender"
+msgstr "Sūtītājs"
+
+#: main/welcome.php:139
+msgid "Sender email"
+msgstr "Sūtītāja e-pasts"
+
+#: main/main.php:165
+msgid "Sender email address"
+msgstr "Sūtītāja e-pasta adrese"
+
+#: main/welcome.php:138 main/main.php:175
+msgid "Sender name"
+msgstr "Sūtītāja vārds"
+
+#: includes/module.php:884
+msgid "Sending"
+msgstr "Sūtīšana"
+
+#: emails/edit.php:373
+msgid "Sending Options"
+msgstr "Sūtīšanas iespējas"
+
+#: includes/module.php:888
+msgid "Sent"
+msgstr "Nosūtīts"
+
+#: users/massive.php:274
+msgid "Set to"
+msgstr "Iestatīts uz"
+
+#: tnp-header.php:119
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#: plugin.php:461
+msgid "Settings and More"
+msgstr "Iestatījumi un vairāk"
+
+#: emails/blocks/posts/options.php:65
+msgid "Show date"
+msgstr "Rādīt datumu"
+
+#: emails/blocks/posts/options.php:62
+msgid "Show image"
+msgstr "Rādīt attēlu"
+
+#: users/index.php:148
+msgid "Show lists"
+msgstr "Rādīt sarakstus"
+
+#: subscription/profile.php:30
+msgid "Show on profile page"
+msgstr "Rādīt profila lapā"
+
+#: subscription/profile.php:30
+msgid "Show on subscription form"
+msgstr "Rādīt abonēšanas veidlapā"
+
+#: subscription/options.php:144
+msgid "Single Opt In"
+msgstr "Viena izvēles iespēja"
+
+#: tnp-header.php:128
+msgid "SMTP"
+msgstr "SMTP"
+
+#: main/smtp.php:54
+msgid "SMTP Settings"
+msgstr "SMTP iestatījumi"
+
+#: main/info.php:46 emails/themes/vimeo-like/theme-options.php:25
+msgid "Social"
+msgstr "Sociālais"
+
+#: tnp-header.php:136
+msgid "Social, address, logo and general info"
+msgstr "Sociālā informācija, adrese, logotips un vispārīga informācija"
+
+#: emails/tnp-composer/edit.php:17
+msgid "SOURCE"
+msgstr "AVOTS"
+
+#: tnp-header.php:80
+msgid "Spam subscriptions control"
+msgstr "Surogātpastu abonēšanas kontrole"
+
+#: emails/edit.php:320
+msgid "Start real delivery?"
+msgstr "Sākt īstu piegādi?"
+
+#: tnp-header.php:105
+msgid "Start your new campaign"
+msgstr "Sāciet jauno kampaņu"
+
+#: tnp-header.php:67 tnp-header.php:109 emails/index.php:99 main/index.php:88
+#: main/index.php:90 main/index.php:310
+msgid "Statistics"
+msgstr "Statistika"
+
+#: statistics/view.php:29
+msgid "Statistics of"
+msgstr "Statistika"
+
+#: plugin.php:463 tnp-header.php:150 emails/edit.php:419 emails/index.php:62
+#: main/status.php:188 main/status.php:236 main/status.php:786
+#: main/status.php:887 main/status.php:1007 main/status.php:1110
+#: main/test.php:100 users/statistics.php:54 users/statistics.php:99
+#: users/edit.php:147 users/index.php:176 users/massive.php:188
+msgid "Status"
+msgstr "Statuss"
+
+#: tnp-footer.php:24
+msgid "Stay updated"
+msgstr "Palieciet atjaunināts"
+
+#. Author of the plugin
+msgid "Stefano Lissa & The Newsletter Team"
+msgstr "Stefano Lissa un biļetenu komanda"
+
+#: emails/edit.php:330
+msgid "Stop"
+msgstr "Pietura"
+
+#: main/main.php:314
+msgid "Store"
+msgstr "Veikals"
+
+#: emails/index.php:61
+msgid "Subject"
+msgstr "Priekšmets"
+
+#: tnp-header.php:247 main/extensions.php:162 main/welcome.php:211
+#: subscription/defaults-profile.php:24
+msgid "Subscribe"
+msgstr "Abonēt"
+
+#: main/welcome.php:163
+msgid "Subscribe button label"
+msgstr "Abonēt pogas etiķeti"
+
+#: profile/index.php:52
+msgid "Subscriber data export"
+msgstr "Abonentu datu eksports"
+
+#: unsubscription/defaults.php:16
+msgid ""
+"Subscriber not found, it probably has already been removed. No further "
+"actions are required."
+msgstr ""
+"Abonents nav atrasts, iespējams, tas jau ir noņemts. Turpmākas darbības nav "
+"vajadzīgas."
+
+#: profile/profile.php:123
+msgid "Subscriber not found."
+msgstr "Abonents nav atrasts."
+
+#: users/statistics.php:29
+msgid "Subscriber statistics"
+msgstr "Abonentu statistika"
+
+#: users/index.php:163
+msgid "subscriber(s) found"
+msgstr "atrasts abonents (-i)"
+
+#: tnp-header.php:55 users/index.php:121 subscription/lists.php:142
+msgid "Subscribers"
+msgstr "Abonenti"
+
+#: users/massive.php:23
+msgid "Subscribers bounced deleted: "
+msgstr "Abonenti atlēca dzēsti:"
+
+#: users/massive.php:33
+msgid "Subscribers changed to confirmed: "
+msgstr "Abonenti mainīti uz apstiprinātiem:"
+
+#: users/massive.php:28
+msgid "Subscribers changed to not confirmed: "
+msgstr "Abonenti mainīti uz neapstiprinātiem:"
+
+#: users/massive.php:38
+msgid "Subscribers deleted: "
+msgstr "Abonenti izdzēsti:"
+
+#: users/massive.php:158
+msgid "Subscribers Maintenance"
+msgstr "Abonentu uzturēšana"
+
+#: users/massive.php:13
+msgid "Subscribers not confirmed deleted: "
+msgstr "Abonenti nav apstiprināti izdzēsti:"
+
+#: users/massive.php:18
+msgid "Subscribers unsubscribed deleted: "
+msgstr "Abonenti, kuri abonēja abonēšanu, ir izdzēsti:"
+
+#: users/massive.php:275
+msgid "subscribers without a language"
+msgstr "abonenti bez valodas"
+
+#: users/massive.php:312
+msgid "subscribers without a list"
+msgstr "abonenti bez saraksta"
+
+#: tnp-header.php:76 subscription/options.php:132
+msgid "Subscription"
+msgstr "Abonēšana"
+
+#: main/welcome.php:172
+msgid "Subscription and Edit<br>page creation"
+msgstr "Abonēšanas un rediģēšanas lapas izveidošana"
+
+#: subscription/options.php:119
+msgid "Subscription Configuration"
+msgstr "Abonēšanas konfigurācija"
+
+#: subscription/lists.php:136
+msgid "Subscription form"
+msgstr "Abonēšanas forma"
+
+#: subscription/profile.php:40
+msgid "Subscription Form Fields and Layout"
+msgstr "Abonēšanas veidlapas lauki un izkārtojums"
+
+#: tnp-header.php:83
+msgid "Subscription Form Fields, Buttons, Labels"
+msgstr "Abonēšanas veidlapas lauki, pogas, etiķetes"
+
+#: main/welcome.php:145
+msgid "Subscription Forms"
+msgstr "Abonēšanas veidlapas"
+
+#: subscription/options.php:182
+msgid "Subscription page"
+msgstr "Abonēšanas lapa"
+
+#: main/index.php:182 main/index.php:195
+msgid "Subscriptions"
+msgstr "Abonēšana"
+
+#: users/statistics-time.php:31
+msgid "Subscriptions by day (max 90 days)"
+msgstr "Abonēšana pa dienām (ne vairāk kā 90 dienas)"
+
+#: users/statistics-time.php:7
+msgid "Subscriptions by month (max 12 months)"
+msgstr "Abonēšana pa mēnešiem (ne vairāk kā 12 mēneši)"
+
+#: main/status.php:173
+msgid "System Status"
+msgstr "Sistēmas statuss"
+
+#: emails/blocks/posts/options.php:85
+#: emails/themes/default/theme-options.php:56
+msgid "Tags"
+msgstr "Tagi"
+
+#: emails/tnp-composer/edit.php:238
+msgid "Tags (comma separated)"
+msgstr "Tagi (atdalīti ar komatu)"
+
+#: main/welcome.php:193
+msgid "Take me to my widget settings (opens in a new window)"
+msgstr "Atvērt manus logrīku iestatījumus (atveras jaunā logā)"
+
+#: emails/edit.php:361
+msgid "Targeted subscribers"
+msgstr "Mērķtiecīgi abonenti"
+
+#: subscription/template.php:106
+msgid "Template"
+msgstr "Veidne"
+
+#: includes/fields.php:392
+msgid "Terms"
+msgstr "Noteikumi"
+
+#: plugin.php:464 emails/editortinymce.php:116 emails/editorhtml.php:99
+#: emails/tnp-composer/index-v2.php:72 emails/tnp-composer/index.php:71
+msgid "Test"
+msgstr "Pārbaude"
+
+#: users/edit.php:160
+msgid "Test subscriber"
+msgstr "Pārbaudes abonents"
+
+#: emails/emails.php:961 emails/emails.php:967
+msgid "Test subscribers:"
+msgstr "Testa abonenti:"
+
+#: emails/tnp-composer/edit.php:153 emails/blocks/preheader/options.php:6
+#: emails/blocks/hero/options.php:28 emails/blocks/heading/options.php:9
+msgid "Text"
+msgstr "Teksts"
+
+#: emails/tnp-composer/edit.php:134
+msgid "Text align"
+msgstr "Teksta izlīdzināšana"
+
+#: emails/tnp-composer/edit.php:86 emails/tnp-composer/edit.php:102
+msgid "Text Color"
+msgstr "Teksta krāsa"
+
+#: emails/subjects.php:58
+msgid "The 10 Rules for <em>[something]</em>"
+msgstr "10 noteikumi par <em> [kaut ko] </em>"
+
+#: tnp-header.php:107
+msgid "The classic \"write & send\" newsletters"
+msgstr "Klasiskie biļeteni “rakstīt un sūtīt”"
+
+#: users/edit.php:25
+msgid "The email address is already in use"
+msgstr "E-pasta adrese jau tiek izmantota"
+
+#: users/index.php:152
+msgid "The list below is filtered."
+msgstr "Zemāk esošais saraksts tiek filtrēts."
+
+#: emails/edit.php:268
+msgid "The message is missing the subscriber profile or cancellation link."
+msgstr "Ziņojumā nav abonenta profila vai atcelšanas saites."
+
+#: main/main.php:26
+msgid "The sender email address is not correct."
+msgstr "Sūtītāja e-pasta adrese nav pareiza."
+
+#: tnp-header.php:60
+msgid "The subscriber personal profile editing panel"
+msgstr "Abonenta personīgā profila rediģēšanas panelis"
+
+#: profile/index.php:40
+msgid "The subscriber profile page"
+msgstr "Abonenta profila lapa"
+
+#: profile/profile.php:31
+msgid "The subscriber was not found or is not confirmed."
+msgstr "Abonents netika atrasts vai nav apstiprināts."
+
+#: tnp-header.php:77
+msgid "The subscription process in detail"
+msgstr "Abonēšanas process detalizēti"
+
+#: subscription/template.php:61
+msgid "The tag {message} is missing in your template"
+msgstr "Jūsu veidnē nav atzīmes {message}"
+
+#: emails/subjects.php:57
+msgid "The Top 10 <em>[something]</em>"
+msgstr "Top 10 <em> [kaut kas] </em>"
+
+#: emails/emails.php:950
+msgid "There are no test subscribers to send to"
+msgstr "Nav neviena testa abonenta, uz kuru sūtīt"
+
+#: main/welcome.php:50
+msgid ""
+"There was an error. Complete the setup and then use the status panel to "
+"check it out."
+msgstr ""
+"Radās kļūda. Pabeidziet iestatīšanu un pēc tam izmantojiet statusa paneli, "
+"lai to pārbaudītu."
+
+#: main/index.php:97
+msgid ""
+"These charts are only for example:<br>create and send your first newsletter "
+"to have real statistics!"
+msgstr ""
+"Šīs diagrammas ir tikai, piemēram: <br> izveidojiet un nosūtiet savu pirmo "
+"biļetenu, lai iegūtu reālu statistiku!"
+
+#: unsubscription/defaults.php:23
+msgid ""
+"This message confirms that you have unsubscribed from our newsletter. Thank "
+"you."
+msgstr ""
+"Šis ziņojums apstiprina, ka esat atteicies no mūsu informatīvā izdevuma "
+"abonēšanas. Paldies."
+
+#: subscription/defaults.php:53
+msgid "This message confirms your subscription to our newsletter. Thank you!"
+msgstr "Šis ziņojums apstiprina, ka esat abonējis mūsu biļetenu. Paldies!"
+
+#: statistics/view.php:21
+msgid ""
+"This newsletter has the tracking disabled. No statistics will be available."
+msgstr "Šim biļetenam izsekošana ir atspējota. Statistika nebūs pieejama."
+
+#: emails/edit.php:264
+msgid "This newsletter will be sent to not confirmed subscribers."
+msgstr "Šis biļetens tiks nosūtīts neapstiprinātiem abonentiem."
+
+#: users/new.php:20
+msgid "This subscriber already exists."
+msgstr "Šis abonents jau pastāv."
+
+#: emails/edit.php:330
+msgid "This totally stop the delivery, ok?"
+msgstr "Tas pilnīgi pārtrauc piegādi, labi?"
+
+#: main/welcome.php:178
+msgid "Time for some tests!"
+msgstr "Laiks dažiem testiem!"
+
+#: emails/tnp-composer/edit.php:68 emails/tnp-composer/edit.php:82
+msgid "TITLE"
+msgstr "NOSAUKUMS"
+
+#: main/info.php:63 emails/tnp-composer/edit.php:100
+#: emails/blocks/hero/options.php:20
+msgid "Title"
+msgstr "Nosaukums"
+
+#: emails/blocks/posts/options.php:53
+msgid "Title font"
+msgstr "Virsraksta fonts"
+
+#: users/massive.php:300
+msgid "to"
+msgstr "uz"
+
+#: users/statistics.php:55 users/statistics.php:100 users/statistics.php:132
+#: users/massive.php:189 users/statistics-time.php:16
+#: users/statistics-time.php:39
+msgid "Total"
+msgstr "Kopā"
+
+#: users/massive.php:194
+msgid "Total collected emails"
+msgstr "Kopā apkopotie e-pasti"
+
+#: emails/edit.php:473
+msgid "Track clicks and message opening"
+msgstr "Izsekojiet klikšķiem un ziņojumu atvēršanai"
+
+#: tnp-header.php:110
+msgid "Tracking configuration and basic data"
+msgstr "Konfigurācijas un pamatdatu izsekošana"
+
+#: emails/blocks/posts/options.php:50
+msgid "Two columns"
+msgstr "Divas kolonnas"
+
+#: subscription/lists.php:134
+msgid "Type"
+msgstr "Veids"
+
+#: users/massive.php:208
+msgid "Unconfirm all"
+msgstr "Neapstipriniet visu"
+
+#: subscription/lists.php:181
+msgid "Unlink everyone"
+msgstr "Atsaistiet visus"
+
+#: main/main.php:208
+msgid "Unstyled page"
+msgstr "Neizveidota lapa"
+
+#: includes/module.php:1093
+msgid "UNSUBSCRIBED"
+msgstr "NEPABEIGTS"
+
+#: users/statistics.php:78 users/statistics.php:176 users/statistics.php:209
+#: users/statistics.php:244 users/edit.php:150 users/massive.php:225
+msgid "Unsubscribed"
+msgstr "Neparakstīts"
+
+#: tnp-header.php:91
+msgid "Unsubscription"
+msgstr "Abonēšanas pārtraukšana"
+
+#: users/massive.php:266
+msgid "Update"
+msgstr "Atjaunināt"
+
+#: emails/tnp-composer/edit.php:70 emails/tnp-composer/edit.php:84
+msgid "URL"
+msgstr "URL"
+
+#: subscription/profile.php:161
+msgid "Use WordPress privacy URL"
+msgstr "Izmantojiet WordPress konfidencialitātes URL"
+
+#: users/import.php:191
+msgid "user data will be left untouched if already present."
+msgstr "lietotāja dati netiks atstāti neskarti, ja tādi jau būs."
+
+#: users/import.php:190
+msgid ""
+"user data will be overwritten with new informations (like name and "
+"preferences)."
+msgstr ""
+"lietotāja dati tiks pārrakstīti ar jaunu informāciju (piemēram, vārdu un "
+"preferencēm)."
+
+#: users/import.php:189
+msgid ""
+"user data will be updated, existing preferences will be left untouched and "
+"new ones will be added."
+msgstr ""
+"lietotāju dati tiks atjaunināti, esošās preferences paliks nemainīgas un "
+"tiks pievienotas jaunas."
+
+#: includes/controls.php:792
+msgid "Valid email address"
+msgstr "Nepareiza e-pasta adrese"
+
+#: users/edit.php:195
+msgid "Value"
+msgstr "Vērtība"
+
+#: emails/index.php:101
+msgid "View"
+msgstr "Skats"
+
+#: emails/blocks/preheader/options.php:7
+msgid "View online"
+msgstr "Skatīt tiešsaistē"
+
+#: users/massive.php:220
+msgid "We have some tips about global actions, read more."
+msgstr "Mums ir daži padomi par globālām darbībām, lasiet vairāk."
+
+#: main/welcome.php:173
+msgid ""
+"We've just created the page where your visitors will subscribe and where "
+"they will edit their preferences."
+msgstr ""
+"Mēs tikko esam izveidojuši lapu, kurā jūsu apmeklētāji abonēs un kur viņi "
+"rediģēs savas preferences."
+
+#: plugin.php:460 subscription/defaults.php:50 subscription/options.php:133
+msgid "Welcome"
+msgstr "Laipni lūdzam"
+
+#: subscription/options.php:267
+msgid "Welcome email"
+msgstr "Sveiciena e-pasts"
+
+#: users/index.php:36
+msgid "Welcome email sent."
+msgstr "Sveiciena e-pasts nosūtīts."
+
+#: subscription/options.php:243
+msgid "Welcome message"
+msgstr "Sveiciena ziņa"
+
+#: main/welcome.php:129
+msgid ""
+"Welcome to The Newsletter Plugin and thank your for choosing the best mail "
+"management system for Wordpress!"
+msgstr ""
+"Laipni lūdzam Newsletter spraudnī un paldies, ka esat izvēlējies vislabāko "
+"Wordpress pasta pārvaldības sistēmu!"
+
+#: tnp-header.php:84
+msgid "When and what data to collect"
+msgstr "Kad un kādus datus vākt"
+
+#: emails/tnp-composer/edit.php:22
+msgid "WIDTH"
+msgstr "PLATUMS"
+
+#: emails/blocks/cta/options.php:19
+msgid "Width"
+msgstr "Platums"
+
+#: users/statistics.php:112
+msgid "Without language"
+msgstr "Bez valodas"
+
+#: users/edit.php:236
+msgid "WP user ID"
+msgstr "WP lietotāja ID"
+
+#: users/edit.php:16
+msgid "Wrong email address"
+msgstr "Nepareiza e-pasta adrese"
+
+#: users/new.php:11
+msgid "Wrong email address."
+msgstr "Nepareiza e-pasta adrese."
+
+#: users/massive.php:249
+msgid "year"
+msgstr "gadā"
+
+#: users/statistics-time.php:15
+msgid "Year and month"
+msgstr "Gads un mēnesis"
+
+#: users/massive.php:250 users/massive.php:251 users/massive.php:252
+#: users/massive.php:253 users/massive.php:254 users/massive.php:255
+#: users/massive.php:256 users/massive.php:257 users/massive.php:258
+msgid "years"
+msgstr "gados"
+
+#: includes/controls.php:454 subscription/options.php:158
+msgid "Yes"
+msgstr "Jā"
+
+#: main/welcome.php:214
+msgid "You can also follow us through our social accounts"
+msgstr "Jūs varat mums sekot arī caur mūsu sociālajiem kontiem"
+
+#: subscription/defaults.php:28
+msgid ""
+"You cannot subscribe with the email address you entered, please contact the "
+"site administrator."
+msgstr ""
+"Jūs nevarat abonēt ievadīto e-pasta adresi. Lūdzu, sazinieties ar vietnes "
+"administratoru."
+
+#: main/welcome.php:204
+msgid "You're now ready to begin using Newsletter!"
+msgstr "Jūs tagad esat gatavs sākt lietot biļetenu!"
+
+#: tnp-footer.php:13
+msgid "Your Account"
+msgstr "Jūsu konts"
+
+#: profile/defaults.php:11
+msgid ""
+"Your email has been changed, an activation email has been sent with "
+"instructions."
+msgstr ""
+"Jūsu e-pasts ir mainīts, aktivizācijas e-pasts ir nosūtīts ar instrukcijām."
+
+#: profile/defaults.php:12
+msgid "Your email is not valid or already in use."
+msgstr "Jūsu e-pasts nav derīgs vai jau tiek izmantots."
+
+#: includes/controls.php:1637
+msgid ""
+"Your multilanguage plugin is not supported or there are no languages defined"
+msgstr ""
+"Jūsu daudzvalodu spraudnis netiek atbalstīts vai nav definētas nevienas "
+"valodas"
+
+#: main/index.php:76
+msgid "Your powerful control panel"
+msgstr "Jūsu jaudīgais vadības panelis"
+
+#: main/main.php:109
+msgid ""
+"Your Return Path domain is different from your Sender domain. Providers may "
+"require them to match."
+msgstr ""
+"Jūsu atgriešanās ceļa domēns atšķiras no jūsu sūtītāja domēna. Pakalpojumu "
+"sniedzēji var pieprasīt, lai tie sakristu."
+
+#: subscription/defaults.php:48
+msgid "Your subscription has been confirmed"
+msgstr "Jūsu abonements ir apstiprināts"
+
+#: unsubscription/defaults.php:19
+msgid ""
+"Your subscription has been deleted. If that was an error you can <a "
+"href=\"{reactivate_url}\">subscribe again here</a>."
+msgstr ""
+"Jūsu abonements ir izdzēsts. Ja tā bija kļūda, jūs varat <a "
+"href=\"{reactivate_url}\">abonēt vēlreiz šeit</a> ."
+
+#: unsubscription/defaults.php:25
+msgid "Your subscription has been reactivated."
+msgstr "Jūsu abonements ir atkārtoti aktivizēts."

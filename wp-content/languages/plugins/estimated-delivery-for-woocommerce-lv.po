@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estimated Delivery for WooCommerce\n"
+"POT-Creation-Date: 2020-06-02 00:31+0200\n"
+"PO-Revision-Date: 2020-07-26 20:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: Latviešu valoda\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=n % 10 == 1 && n % 100 != 11 ? 0 : n != 0 ? "
+"1 : 2;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: estimated-delivery-woocommerce.php:32
+msgid "Estimated Delivery"
+msgstr "Paredzamais saņemšanas laiks"
+
+#: estimated-delivery-woocommerce.php:38
+msgid "After cart button"
+msgstr "Pēc groza pogas"
+
+#: estimated-delivery-woocommerce.php:39
+msgid "Before cart button"
+msgstr "Pirms groza poga"
+
+#: estimated-delivery-woocommerce.php:40
+msgid "After product meta"
+msgstr "Pēc produkta meta"
+
+#: estimated-delivery-woocommerce.php:41
+msgid "Before product summary"
+msgstr "Pirms produkta kopsavilkuma"
+
+#: estimated-delivery-woocommerce.php:42
+msgid "After product summary"
+msgstr "Pēc produkta kopsavilkuma"
+
+#: estimated-delivery-woocommerce.php:43
+msgid "Product Thumbnail (may not work)"
+msgstr "Produkta sīktēls (var nedarboties)"
+
+#: estimated-delivery-woocommerce.php:79
+#, php-format
+msgid "Estimated delivery on %s"
+msgstr "Paredzētā piegāde% s"
+
+#: estimated-delivery-woocommerce.php:81
+#, php-format
+msgid "Guaranteed delivery on %s"
+msgstr "Garantēta piegāde% s"
+
+#: views/options.php:23
+msgid "Estimated Delivery for Woocommerce"
+msgstr "Paredzētā piegāde veikala tirdzniecībai"
+
+#: views/options.php:24
+msgid "Show the estimated or guaranteed delivery for the product"
+msgstr "Parādiet paredzamo vai garantēto produkta piegādi"
+
+#: views/options.php:32
+msgid "You buy me a coffe? Click here"
+msgstr "Jūs pērkat man kafiju? Noklikšķiniet šeit"
+
+#: views/options.php:48
+msgid "Days for Delivery"
+msgstr "Piegādes dienas"
+
+#: views/options.php:56
+msgid "Estimated or Guaranteed"
+msgstr "Paredzētais vai garantētais"
+
+#: views/options.php:57
+msgid "The message will change."
+msgstr "Ziņojums mainīsies."
+
+#: views/options.php:62
+msgid "Estimated"
+msgstr "Paredzētais"
+
+#: views/options.php:63
+msgid "Guaranteed"
+msgstr "Garantēts"
+
+#: views/options.php:69
+msgid "Days disabled"
+msgstr "Dienas atspējotas"
+
+#: views/options.php:70
+msgid "Select the days that NO shipments are made."
+msgstr "Atlasiet dienas, kurās netiek veikti sūtījumi."
+
+#: views/options.php:75
+msgid "Monday"
+msgstr "Pirmdien"
+
+#: views/options.php:80
+msgid "Tuesday"
+msgstr "Otrdiena"
+
+#: views/options.php:85
+msgid "Wednesday"
+msgstr "Trešdien"
+
+#: views/options.php:90
+msgid "Thursday"
+msgstr "Ceturtdiena"
+
+#: views/options.php:95
+msgid "Friday"
+msgstr "Piektdiena"
+
+#: views/options.php:100
+msgid "Saturday"
+msgstr "Sestdien"
+
+#: views/options.php:105
+msgid "Sunday"
+msgstr "Svētdien"
+
+#: views/options.php:110
+msgid "Position"
+msgstr "Pozīcija"
+
+#: views/options.php:124
+msgid "Save"
+msgstr "Saglabāt"
+
+#: views/options.php:126
+msgid "Need style?"
+msgstr "Nepieciešams stils?"
+
+#: views/options.php:127
+msgid "Enjoy! Paste this CSS code into your Customizer and edit as you like"
+msgstr ""
+"Izbaudi! Ielīmējiet šo CSS kodu pielāgošanas rīkā un rediģējiet, kā vēlaties"

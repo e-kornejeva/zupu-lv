@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WCFM - Elementor for WCFM Marketplace\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-15 06:01+0000\n"
+"PO-Revision-Date: 2020-07-26 07:17+0000\n"
+"Last-Translator: zupu.lv\n"
+"Language-Team: Latviešu valoda\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=n % 10 == 1 && n % 100 != 11 ? 0 : n != 0 ? "
+"1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: core/class-wcfmem.php:143 includes/Documents/StorePage.php:78
+msgid "Marketplace"
+msgstr "Tirgus laukums"
+
+#: includes/class-wcfmem-module.php:100
+msgid "WCFM"
+msgstr "WCFM"
+
+#: includes/class-wcfmem-module.php:201
+#, fuzzy
+msgid "Column Wrapper Padding"
+msgstr "Kolonnu iesaiņojuma polsterējums"
+
+#: widgets/class-wcfmem-widget-storebanner.php:25
+#: includes/Tags/StoreBanner.php:37
+#, fuzzy
+msgid "Store Banner"
+msgstr "Veikala reklāmkarogs"
+
+#: widgets/class-wcfmem-widget-storebanner.php:68
+#, fuzzy
+msgid "Banner"
+msgstr "Reklāmkarogs"
+
+#: widgets/class-wcfmem-widget-storechat.php:27 includes/Tags/StoreChat.php:35
+#, fuzzy
+msgid "Store Chat Button"
+msgstr "Veikalu tērzēšanas poga"
+
+#: widgets/class-wcfmem-widget-storefollow.php:27
+#: includes/Tags/StoreFollow.php:35
+#, fuzzy
+msgid "Store Follow Button"
+msgstr "Veikals Sekojiet pogai"
+
+#: widgets/class-wcfmem-widget-storeinfo.php:30
+#: widgets/class-wcfmem-widget-storeinfo.php:81 includes/Tags/StoreInfo.php:26
+#, fuzzy
+msgid "Store Info"
+msgstr "Informācija par veikalu"
+
+#: widgets/class-wcfmem-widget-storeinfo.php:90
+#: widgets/class-wcfmem-widget-storeinfo.php:92
+msgid "Title"
+msgstr "Nosaukums"
+
+#: widgets/class-wcfmem-widget-storeinfo.php:99
+#, fuzzy
+msgid "Content"
+msgstr "Saturs"
+
+#: widgets/class-wcfmem-widget-storeinfo.php:108
+#, fuzzy
+msgid "Icon"
+msgstr "Ikona"
+
+#: widgets/class-wcfmem-widget-storeinquiry.php:27
+#: includes/Tags/StoreInquiry.php:35
+#, fuzzy
+msgid "Store Inquiry Button"
+msgstr "Veikalu pieprasījuma poga"
+
+#: widgets/class-wcfmem-widget-storelogo.php:29
+#: widgets/class-wcfmem-widget-storelogo.php:80 includes/Tags/StoreLogo.php:37
+#, fuzzy
+msgid "Store Logo"
+msgstr "Veikala logotips"
+
+#: widgets/class-wcfmem-widget-storename.php:28 includes/Tags/StoreName.php:35
+#, fuzzy
+msgid "Store Name"
+msgstr "Veikala nosaukums"
+
+#: widgets/class-wcfmem-widget-storesocial.php:31
+#: includes/Tags/StoreSocial.php:35
+#, fuzzy
+msgid "Store Social"
+msgstr "Veikals Social"
+
+#: widgets/class-wcfmem-widget-storetabcontents.php:24
+#, fuzzy
+msgid "Store Tab Contents"
+msgstr "Veikalu cilnes saturs"
+
+#: widgets/class-wcfmem-widget-storetabs.php:24 includes/Tags/StoreTabs.php:26
+#, fuzzy
+msgid "Store Tabs"
+msgstr "Veikalu cilnes"
+
+#: includes/Conditions/Store.php:31 includes/Documents/StorePage.php:67
+#, fuzzy
+msgid "Store Page"
+msgstr "Veikala lapa"
+
+#: includes/Conditions/Store.php:40
+#, fuzzy
+msgid "All Stores"
+msgstr "Visi veikali"
+
+#: includes/Tags/StoreBanner.php:87 includes/Tags/StoreLogo.php:76
+#, fuzzy
+msgid "Fallback"
+msgstr "Atkāpties"
+
+#: includes/Tags/StoreChat.php:49
+#, fuzzy
+msgid "Chat module is not active"
+msgstr "Tērzēšanas modulis nav aktīvs"
+
+#: includes/Tags/StoreDummyProducts.php:35
+#, fuzzy
+msgid "Store Dummy Products"
+msgstr "Veikalu manekena produkti"
+
+#: includes/Tags/StoreFollow.php:49
+#, fuzzy
+msgid "Follower module is not active"
+msgstr "Sekotāju modulis nav aktīvs"
+
+#: includes/Tags/StoreInfo.php:44
+#, fuzzy
+msgid "Address"
+msgstr "Adrese"
+
+#: includes/Tags/StoreInfo.php:54
+#, fuzzy
+msgid "Email"
+msgstr "E-pasts"
+
+#: includes/Tags/StoreInfo.php:64
+#, fuzzy
+msgid "Phone No"
+msgstr "Tālruņa nr"
+
+#: includes/Tags/StoreInquiry.php:49
+#, fuzzy
+msgid "Inquiry module is not active"
+msgstr "Izmeklēšanas modulis nav aktīvs"
+
+#: includes/Tags/StoreRating.php:35
+#, fuzzy
+msgid "Store Rating"
+msgstr "Veikalu vērtējums"
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:22
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:30
+#, fuzzy
+msgid "Position"
+msgstr "Pozīcija"
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:33
+#, fuzzy
+msgid "Static"
+msgstr "Statiskā"
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:34
+#, fuzzy
+msgid "Relative"
+msgstr "Radinieks"
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:35
+#, fuzzy
+msgid "Absolute"
+msgstr "Absolūts"
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:36
+#, fuzzy
+msgid "Sticky"
+msgstr "Lipīga"
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:37
+#, fuzzy
+msgid "Fixed"
+msgstr "Fiksēts"
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:52
+#, fuzzy
+msgid "Top"
+msgstr "Tops"
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:64
+#, fuzzy
+msgid "Right"
+msgstr "Taisnība"
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:76
+#, fuzzy
+msgid "Bottom"
+msgstr "Apakšā"
+
+#: includes/Traits/WCFM_Elementor_Position_Controls.php:88
+#, fuzzy
+msgid "Left"
+msgstr "Kreisais"
+
+#: views/editor-templates/sortable-list-row.php:7
+#, fuzzy
+msgid "Drag & Drop"
+msgstr "Velciet un nometiet"
+
+#: views/editor-templates/sortable-list-row.php:26
+#, fuzzy
+msgid "Show"
+msgstr "Izrāde"
+
+#: views/editor-templates/sortable-list-row.php:27
+#, fuzzy
+msgid "Hide"
+msgstr "Paslēpties"
+
+#. Name of the plugin
+#, fuzzy
+msgid "WCFM - WooCommerce Multivendor Marketplace - Elementor"
+msgstr "WCFM - WooCommerce Multivendor Marketplace - Elementor"
+
+#. Description of the plugin
+#, fuzzy
+msgid ""
+"Create your marketplace store pages using Elementor with your own design. "
+"Easily and Beatifully."
+msgstr ""
+"Izveidojiet savas tirgus veikala lapas, izmantojot Elementor ar savu dizainu."
+" Viegli un skaisti."
+
+#. URI of the plugin
+#, fuzzy
+msgid "https://wclovers.com/"
+msgstr "https://wclovers.com/"
+
+#. Author of the plugin
+#, fuzzy
+msgid "WC Lovers"
+msgstr "WC mīļotājiem"
+
+#. Author URI of the plugin
+#, fuzzy
+msgid "https://wclovers.com"
+msgstr "https://wclovers.com"

@@ -1,0 +1,613 @@
+# Copyright (C) 2020 YITH WooCommerce Compare
+# This file is distributed under the same license as the YITH WooCommerce Compare package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Compare 2.3.18\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/init\n"
+"POT-Creation-Date: 2020-03-10 11:12:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-07-26 09:32+0300\n"
+"Last-Translator: zupu.lv\n"
+"Language-Team: Latviešu valoda\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=n % 10 == 1 && n % 100 != 11 ? 0 : n != 0 ? "
+"1 : 2;\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2\n"
+
+#: includes/class.yith-woocompare-admin.php:119
+#: includes/class.yith-woocompare-admin.php:143
+#, fuzzy
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#: includes/class.yith-woocompare-admin.php:121
+#, fuzzy
+msgid "License"
+msgstr "Licence"
+
+#: includes/class.yith-woocompare-admin.php:147
+#, fuzzy
+msgid "Premium Version"
+msgstr "Premium versija"
+
+#: includes/class.yith-woocompare-admin.php:153
+#, fuzzy
+msgctxt "Admin Plugin Name"
+msgid "WooCommerce Compare"
+msgstr "WooCommerce salīdzināt"
+
+#: includes/class.yith-woocompare-admin.php:154
+#, fuzzy
+msgctxt "Admin Plugin Name"
+msgid "Compare"
+msgstr "Salīdzināt"
+
+#: includes/class.yith-woocompare-admin.php:243
+#, fuzzy
+msgid "YITH WooCommerce Compare Activated"
+msgstr "YITH WooCommerce salīdzinājums aktivizēts"
+
+#: includes/class.yith-woocompare-admin.php:244
+#, fuzzy
+msgid ""
+"In the YIT Plugin tab you can find the YITH WooCommerce Compare options. With "
+"this menu, you can access to all the settings of our plugins that you have "
+"activated. YITH WooCommerce Compare is available in an outstanding PREMIUM "
+"version with many new options, <a href=\"%s\">discover it now</a>."
+msgstr ""
+"Cilnē YIT spraudnis ir atrodamas YITH WooCommerce salīdzināšanas iespējas. "
+"Izmantojot šo izvēlni, jūs varat piekļūt visiem mūsu aktivizēto spraudņu "
+"iestatījumiem. YITH WooCommerce Compare ir pieejama izcilā PREMIUM versijā ar "
+"daudzām jaunām iespējām, <a href=\"%s\">atklājiet to tagad</a> ."
+
+#: includes/class.yith-woocompare-admin.php:255
+#, fuzzy
+msgid "YITH WooCommerce Compare Updated"
+msgstr "YITH WooCommerce Salīdzināt Atjaunināts"
+
+#: includes/class.yith-woocompare-admin.php:256
+#, fuzzy
+msgid ""
+"From now on, you can find all the options of YITH WooCommerce Compare under "
+"YIT Plugin -> Compare instead of WooCommerce -> Settings -> Compare, as in the "
+"previous version. When one of our plugins is updated, a new voice will be "
+"added to this menu. YITH WooCommerce Compare has been updated with new "
+"available options, <a href=\"%s\">discover the PREMIUM version.</a>"
+msgstr ""
+"Turpmāk visas YITH WooCommerce salīdzināšanas iespējas atrodamas sadaļā YIT "
+"spraudnis -&gt; Salīdzināt, nevis WooCommerce -&gt; Iestatījumi -&gt; "
+"Salīdzināt, tāpat kā iepriekšējā versijā. Kad viens no mūsu spraudņiem tiks "
+"atjaunināts, šai izvēlnei tiks pievienota jauna balss. YITH WooCommerce "
+"Compare ir atjaunināts ar jaunām pieejamām opcijām, <a href=\"%s\">atklājiet "
+"PREMIUM versiju.</a>"
+
+#: includes/class.yith-woocompare-admin.php:400
+#, fuzzy
+msgid "Do you want to hard crop the image?"
+msgstr "Vai vēlaties grūti apgriezt attēlu?"
+
+#: includes/class.yith-woocompare-frontend.php:223
+#, fuzzy
+msgid "Added"
+msgstr "Pievienots"
+
+#: includes/class.yith-woocompare-frontend.php:224 templates/compare.php:50
+#, fuzzy
+msgid "Product Comparison"
+msgstr "Produktu salīdzinājums"
+
+#: includes/class.yith-woocompare-frontend.php:227
+#: includes/class.yith-woocompare-frontend.php:505
+#: plugin-options/general-options.php:40
+#: widgets/class.yith-woocompare-widget.php:51
+#, fuzzy
+msgid "Compare"
+msgstr "Salīdzināt"
+
+#: includes/class.yith-woocompare-frontend.php:229
+#, fuzzy
+msgctxt "Label for popup close icon"
+msgid "Close"
+msgstr "Aizveriet"
+
+#: includes/class.yith-woocompare-frontend.php:384
+#, fuzzy
+msgid "In stock"
+msgstr "Noliktavā"
+
+#: includes/class.yith-woocompare-frontend.php:696
+#, fuzzy
+msgid "No products to compare"
+msgstr "Nav salīdzināmu produktu"
+
+#: includes/class.yith-woocompare-frontend.php:709 templates/compare.php:119
+#, fuzzy
+msgid "Remove"
+msgstr "Noņemt"
+
+#: includes/class.yith-woocompare-helper.php:46
+#, fuzzy
+msgid "Image"
+msgstr "Attēls"
+
+#: includes/class.yith-woocompare-helper.php:47
+#: widgets/class.yith-woocompare-widget.php:68
+#, fuzzy
+msgid "Title"
+msgstr "Nosaukums"
+
+#: includes/class.yith-woocompare-helper.php:48
+#, fuzzy
+msgid "Price"
+msgstr "Cena"
+
+#: includes/class.yith-woocompare-helper.php:49
+#, fuzzy
+msgid "Add to cart"
+msgstr "Pievienot grozam"
+
+#: includes/class.yith-woocompare-helper.php:50
+#, fuzzy
+msgid "Description"
+msgstr "Apraksts"
+
+#: includes/class.yith-woocompare-helper.php:51
+#, fuzzy
+msgid "Sku"
+msgstr "Sku"
+
+#: includes/class.yith-woocompare-helper.php:52
+#, fuzzy
+msgid "Availability"
+msgstr "Pieejamība"
+
+#: includes/class.yith-woocompare-helper.php:53
+#, fuzzy
+msgid "Weight"
+msgstr "Svars"
+
+#: includes/class.yith-woocompare-helper.php:54
+#, fuzzy
+msgid "Dimensions"
+msgstr "Izmēri"
+
+#: init.php:42
+#, fuzzy
+msgid ""
+"YITH WooCommerce Compare is enabled but not effective. It requires WooCommerce "
+"in order to work."
+msgstr ""
+"YITH WooCommerce Compare ir iespējota, bet nav efektīva. Lai tas darbotos, "
+"nepieciešama WooCommerce."
+
+#: init.php:50
+#, fuzzy
+msgid ""
+"You can't activate the free version of YITH WooCommerce Compare while you are "
+"using the premium one."
+msgstr ""
+"Kamēr jūs izmantojat premium versiju, nevar aktivizēt YITH WooCommerce Compare "
+"bezmaksas versiju."
+
+#: plugin-options/general-options.php:17
+#, fuzzy
+msgid "General Settings"
+msgstr "Vispārīgie iestatījumi"
+
+#: plugin-options/general-options.php:24
+#, fuzzy
+msgid "Link or Button"
+msgstr "Saite vai poga"
+
+#: plugin-options/general-options.php:25
+#, fuzzy
+msgid "Choose if you want to use a link or a button for the comepare actions."
+msgstr "Izvēlieties, vai nākamajām darbībām vēlaties izmantot saiti vai pogu."
+
+#: plugin-options/general-options.php:31
+#, fuzzy
+msgid "Link"
+msgstr "Saite"
+
+#: plugin-options/general-options.php:32
+#, fuzzy
+msgid "Button"
+msgstr "Poga"
+
+#: plugin-options/general-options.php:37
+#, fuzzy
+msgid "Link/Button text"
+msgstr "Saites / pogas teksts"
+
+#: plugin-options/general-options.php:38
+#, fuzzy
+msgid "Type the text to use for the button or the link of the compare."
+msgstr "Ierakstiet tekstu, kas jāizmanto pogai vai salīdzināšanas saitei."
+
+#: plugin-options/general-options.php:45
+#, fuzzy
+msgid "Show button in single product page"
+msgstr "Rādīt pogu viena produkta lapā"
+
+#: plugin-options/general-options.php:46
+#, fuzzy
+msgid "Say if you want to show the button in the single product page."
+msgstr "Sakiet, vai vēlaties parādīt pogu viena produkta lapā."
+
+#: plugin-options/general-options.php:53
+#, fuzzy
+msgid "Show button in products list"
+msgstr "Rādīt pogu produktu sarakstā"
+
+#: plugin-options/general-options.php:54
+#, fuzzy
+msgid "Say if you want to show the button in the products list."
+msgstr "Sakiet, vai vēlaties parādīt pogu produktu sarakstā."
+
+#: plugin-options/general-options.php:61
+#, fuzzy
+msgid "Open automatically lightbox"
+msgstr "Automātiski atveriet gaismas lodziņu"
+
+#: plugin-options/general-options.php:62
+#, fuzzy
+msgid "Open link after click into \"Compare\" button\"."
+msgstr "Pēc noklikšķināšanas uz pogas \"Salīdzināt\" noklikšķiniet uz saites."
+
+#: plugin-options/general-options.php:74
+#, fuzzy
+msgid "Table Settings"
+msgstr "Tabulas iestatījumi"
+
+#: plugin-options/general-options.php:81
+#, fuzzy
+msgid "Table title"
+msgstr "Tabulas nosaukums"
+
+#: plugin-options/general-options.php:82
+#, fuzzy
+msgid "Type the text to use for the table title."
+msgstr "Ievadiet tabulas nosaukumam izmantojamo tekstu."
+
+#: plugin-options/general-options.php:84 templates/compare.php:22
+#, fuzzy
+msgid "Compare products"
+msgstr "Salīdziniet produktus"
+
+#: plugin-options/general-options.php:89
+#, fuzzy
+msgid "Fields to show"
+msgstr "Lauki, ko parādīt"
+
+#: plugin-options/general-options.php:90
+#, fuzzy
+msgid ""
+"Select the fields to show in the comparison table and order them by drag&drop "
+"(are included also the woocommerce attributes)"
+msgstr ""
+"Atlasiet laukus, kurus parādīt salīdzināšanas tabulā, un pasūtiet tos, velkot "
+"un nometot (ir iekļauti arī e-komercijas atribūti)"
+
+#: plugin-options/general-options.php:97
+#, fuzzy
+msgid "Repeat \"Price\" field"
+msgstr "Atkārtojiet lauku \"Cena\""
+
+#: plugin-options/general-options.php:98
+#, fuzzy
+msgid "Repeat the \"Price\" field at the end of the table"
+msgstr "Atkārtojiet tabulas beigās esošo lauku \"Cena\""
+
+#: plugin-options/general-options.php:105
+#, fuzzy
+msgid "Repeat \"Add to cart\" field"
+msgstr "Atkārtojiet lauku \"Pievienot grozam\""
+
+#: plugin-options/general-options.php:106
+#, fuzzy
+msgid "Repeat the \"Add to cart\" field at the end of the table"
+msgstr "Atkārtojiet lauku \"Pievienot grozam\" tabulas beigās"
+
+#: plugin-options/general-options.php:113
+#, fuzzy
+msgid "Image size"
+msgstr "Attēla izmērs"
+
+#: plugin-options/general-options.php:114
+#, fuzzy
+msgid "Set the size for the images"
+msgstr "Iestatiet attēlu lielumu"
+
+#: templates/admin/premium.php:242 templates/admin/premium.php:448
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Compare%2$s to "
+"benefit from all features!"
+msgstr ""
+"Jauniniet uz %1$s premium versiju %2$s no %1 s YITH WooCommerce. Salīdziniet "
+"%2$s, lai izmantotu visas funkcijas!"
+
+#: templates/admin/premium.php:245 templates/admin/premium.php:451
+#, fuzzy
+msgid "UPGRADE"
+msgstr "ATJAUNINĀJUMS"
+
+#: templates/admin/premium.php:246 templates/admin/premium.php:452
+#, fuzzy
+msgid "to the premium version"
+msgstr "uz premium versiju"
+
+#: templates/admin/premium.php:252
+#, fuzzy
+msgid "Premium Features"
+msgstr "Premium iespējas"
+
+#: templates/admin/premium.php:260
+#, fuzzy
+msgid "A DEDICATED PAGE"
+msgstr "Veltīta lapa"
+
+#: templates/admin/premium.php:263
+msgid ""
+"Don't you want to compare your products in a modal window anymore?%3$sWith the "
+"premium version of %1$sYITH WooCommerce Compare%2$s, a new page will be "
+"created automatically in your site and, adding it among the menu entries, you "
+"will be able to give to your users the chance to access it easily whenever "
+"they want."
+msgstr ""
+"Vai vairs nevēlaties salīdzināt savus produktus modālā logā? %3$s Ar %1$s YITH "
+"premium versiju WooCommerce salīdziniet %2$s, jauna lapa automātiski tiks "
+"izveidota jūsu vietnē un, pievienojot to starp izvēlnes ierakstus, jūs varēsit "
+"dot lietotājiem iespēju tam ērti piekļūt, kad vien viņi vēlas."
+
+#: templates/admin/premium.php:273
+#, fuzzy
+msgid "CATEGORY COMPARATION"
+msgstr "KATEGORIJAS SALĪDZINĀJUMS"
+
+#: templates/admin/premium.php:276
+#, fuzzy
+msgid ""
+"People are often confused by finding products of different categories in the "
+"comparison table, creating difficulties in comparing the products they are "
+"interested into.The %1$s\"Compare by category\"%2$s option exists for this "
+"need: you will be able to separate the products in the table by category "
+"affinity."
+msgstr ""
+"Cilvēkus bieži mulsina tas, ka salīdzināšanas tabulā atrodami dažādu "
+"kategoriju produkti, radot grūtības salīdzināt viņus interesējošos produktus. "
+"Šai vajadzībai pastāv opcija %1$s “Salīdzināt pēc kategorijas”: %2$s: jūs "
+"varēsit tabulā norādītos produktus atdalīt pēc kategorijām."
+
+#: templates/admin/premium.php:292
+#, fuzzy
+msgid "CATEGORY EXCLUSION "
+msgstr "KATEGORIJAS IZSLĒGŠANA "
+
+#: templates/admin/premium.php:295
+#, fuzzy
+msgid ""
+"In your shop there may be product categories you don't want to be affected by "
+"the plugin features, deleting the comparison button for them. The premium "
+"version of the plugin offers this too.%3$sAnd there's more! Activating the %1$s"
+"\"Reverse exclusion list\"%2$s option, you can also invert the behavior of the "
+"feature, allowing the comparison only to those products of the selected "
+"categories."
+msgstr ""
+"Jūsu veikalā var būt produktu kategorijas, kuras nevēlaties, lai spraudņa "
+"funkcijas ietekmētu jūs, izdzēšot to salīdzināšanas pogu. Arī spraudņa "
+"augstākā versija piedāvā to. %3$sUn tur ir vairāk! Aktivizējot opciju %1$s "
+"“Reverse izslēgšanas saraksts” %2$s, jūs varat arī apgriezt objekta darbību, "
+"ļaujot salīdzināt tikai tos produktus ar atlasītajām kategorijām."
+
+#: templates/admin/premium.php:305
+#, fuzzy
+msgid "TABLE IMAGE"
+msgstr "TABULAS ATTĒLS"
+
+#: templates/admin/premium.php:308
+msgid ""
+"Give a personal touch to the %1$scomparison table%2$s your users will see. "
+"Select an image, upload it from the option panel and show it ahead of the "
+"table to your users. "
+msgstr ""
+"Piešķiriet personisku pieskaņu %1$ salīdzināšanas tabulai %2$s, ko redzēs jūsu "
+"lietotāji. Atlasiet attēlu, augšupielādējiet to no opciju paneļa un parādiet "
+"to lietotājiem pirms tabulas."
+
+#: templates/admin/premium.php:324
+#, fuzzy
+msgid "DYNAMIC FIELDS"
+msgstr "DINAMISKĀS LAUKAS"
+
+#: templates/admin/premium.php:327
+#, fuzzy
+msgid ""
+"With this precious feature, you will be able to show in the table only the "
+"fields that have information in at least one of the selected products."
+"%3$sActivate the %1$s\"Dynamic Attribute fields\"%2$s option and there will be "
+"no more empty lines in your comparison table."
+msgstr ""
+"Izmantojot šo vērtīgo funkciju, jūs varēsit tabulā parādīt tikai tos laukus, "
+"kuriem ir informācija vismaz vienā no atlasītajiem produktiem. %3$s "
+"Aktivizējiet %1$s \"Dynamic Atribūtu lauki\"%2$s opciju un tur salīdzināšanas "
+"tabulā vairs nebūs tukšu rindu."
+
+#: templates/admin/premium.php:337
+#, fuzzy
+msgid "SOCIAL NETWORK SHARING"
+msgstr "SOCIĀLO TĪKLU DALĪBA"
+
+#: templates/admin/premium.php:340
+msgid ""
+"One of the most appealing features of the premium version of the plugin.Four "
+"social network sites for your users (Facebook, Twitter, Google + and "
+"Pinterest) and the email system %1$sto share%2$s the comparison table of the "
+"products they have selected."
+msgstr ""
+"Viena no pievilcīgākajām spraudņa premium versijas funkcijām. Četras sociālā "
+"tīkla vietnes jūsu lietotājiem (Facebook, Twitter, Google + un Pinterest) un e-"
+"pasta sistēma %1$s to share %2$s produktu salīdzināšanas tabula. viņi ir "
+"izvēlējušies."
+
+#: templates/admin/premium.php:356
+#, fuzzy
+msgid "RELATED PRODUCTS"
+msgstr "SAISTĪTIE PRODUKTI"
+
+#: templates/admin/premium.php:359
+#, fuzzy
+msgid ""
+"All the products that have common categories and/or tags with those in the "
+"comparison table will be showed in a slider, right under the comparison table."
+"%3$sA completely %1$s \"touch friendly\" %2$s slider to encourage your users "
+"to discover the shop products of the shop related to those they are interested "
+"into."
+msgstr ""
+"Visi produkti, kuriem ir kopīgas kategorijas un / vai tagi ar salīdzināšanas "
+"tabulā redzamajiem, tiks parādīti slīdnī tieši zem salīdzināšanas tabulas. "
+"%3$sPilnīgi %1$s “pieskāriena draudzīgs” %2$s slīdnis, lai mudinātu "
+"lietotājiem atklāt veikala produktus, kas saistīti ar tiem, kas viņus interesē."
+
+#: templates/admin/premium.php:369
+#, fuzzy
+msgid "CUSTOMIZABLE STYLE"
+msgstr "Pielāgojams stils"
+
+#: templates/admin/premium.php:372
+msgid ""
+"An advanced option panel that let you change all the colors of the plugin, so "
+"that you can adapt stylistically all its elements %1$s to the layout %2$s of "
+"your shop.We know it, looks also count... and we give you the right tools to "
+"get to the best result."
+msgstr ""
+"Uzlabots opciju panelis, kas ļauj mainīt visas spraudņa krāsas, lai jūs varētu "
+"stilistiski pielāgot visus tā elementus %1$s un saglabāt jūsu veikala "
+"izkārtojumu %2$s. Mēs to zinām, arī izskatās, ka ... un mēs dodiet jums "
+"pareizos rīkus, lai sasniegtu vislabāko rezultātu."
+
+#: templates/admin/premium.php:388
+#, fuzzy
+msgid "CUSTOMIZED ATTRIBUTES"
+msgstr "Pielāgotas iemaņas"
+
+#: templates/admin/premium.php:391
+msgid ""
+"Let you users compare products following every feature, and considering also "
+"all those %1$s attributes %2$s that can be manually created in within the "
+"product detail page. Every single detail will be included."
+msgstr ""
+"Ļaujiet lietotājiem salīdzināt produktus pēc katras funkcijas un ņemot vērā "
+"arī visus tos %1$s attributes %2$s, kurus var manuāli izveidot produkta "
+"detalizācijas lapā. Tiks iekļauta katra detaļa."
+
+#: templates/admin/premium.php:401
+#, fuzzy
+msgid "A TAILORED TABLE"
+msgstr "PAPILDINĀTA TABULA"
+
+#: templates/admin/premium.php:404
+msgid ""
+"Select the products you want to compare and the system will offer you the "
+"%1$sshortcode%2$s to generate a comparing table. Simple, rapid and useful."
+msgstr ""
+"Atlasiet produktus, kurus vēlaties salīdzināt, un sistēma jums piedāvās %1$s "
+"saīsinājumkodu %2$s, lai ģenerētu salīdzināšanas tabulu. Vienkārša, ātra un "
+"noderīga."
+
+#: templates/admin/premium.php:420
+#, fuzzy
+msgid "Compare list - widget"
+msgstr "Logrīku salīdzināšanas saraksts"
+
+#: templates/admin/premium.php:423
+#, fuzzy
+msgid ""
+"Thanks to YITH WooCommerce Comapre Widget users could verify at any time the "
+"complete list of products added to the compare tab and avoid to open the popup "
+"to check its existence. "
+msgstr ""
+"Pateicoties YITH WooCommerce, Comapre logrīka lietotāji jebkurā laikā varēja "
+"pārbaudīt pilnīgu produktu sarakstu, kas pievienots salīdzināšanas cilnei, un "
+"izvairīties no uznirstošā loga atvēršanas, lai pārbaudītu tā esamību."
+
+#: templates/admin/premium.php:433
+#, fuzzy
+msgid "Compare counter - widget and shortcode"
+msgstr "Salīdziniet pretinieku logrīku un īskodu"
+
+#: templates/admin/premium.php:436
+#, fuzzy
+msgid ""
+"Moreover, if you want to give your users the chance to see in a glance how "
+"many products they have added to the Compare list, feel free to use the widget "
+"or the shortcode included. And their Compare list is always no more than one "
+"click away."
+msgstr ""
+"Turklāt, ja vēlaties lietotājiem dot iespēju vienā mirklī redzēt, cik daudz "
+"produktu viņi ir pievienojuši sarakstam Salīdzināt, izmantojiet pievienoto "
+"logrīku vai īskodu. Viņu salīdzināšanas saraksts vienmēr atrodas tikai viena "
+"klikšķa attālumā."
+
+#: templates/compare.php:77
+#, fuzzy
+msgid "Close window [X]"
+msgstr "Aizvērt logu [X]"
+
+#: templates/compare.php:107
+#, fuzzy
+msgid "No products added in the compare table."
+msgstr "Salīdzināšanas tabulā nav pievienots neviens produkts."
+
+#: widgets/class.yith-woocompare-widget.php:23
+#, fuzzy
+msgid "The widget shows the list of products added in the comparison table."
+msgstr "Logrīks parāda salīdzināšanas tabulā pievienoto produktu sarakstu."
+
+#: widgets/class.yith-woocompare-widget.php:27
+#, fuzzy
+msgid "YITH WooCommerce Compare Widget"
+msgstr "YITH WooCommerce salīdzinājuma logrīks"
+
+#: widgets/class.yith-woocompare-widget.php:50
+#, fuzzy
+msgid "Clear all"
+msgstr "Nodzēst visu"
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "YITH WooCommerce Compare"
+msgstr "YITH WooCommerce Salīdzināt"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-compare/"
+msgstr "https://yithemes.com/themes/plugins/yith-woocommerce-compare/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"The <code><strong>YITH WooCommerce Compare</strong></code> plugin allow you to "
+"compare in a simple and efficient way products on sale in your shop and "
+"analyze their main features in a single table. <a href=\"https://yithemes.com/"
+"\" target=\"_blank\">Get more plugins for your e-commerce shop on "
+"<strong>YITH</strong></a>."
+msgstr ""
+"Spraudnis <code><strong>YITH WooCommerce Compare</strong></code> ļauj "
+"vienkāršā un efektīvā veidā salīdzināt jūsu veikalā <code><strong>YITH "
+"WooCommerce Compare</strong></code> produktus un analizēt to galvenās "
+"funkcijas vienā tabulā. <a href=\"https://yithemes.com/\" target=\"_blank"
+"\">Iegūstiet vairāk spraudņu savam e-komercijas veikalam vietnē <strong>YITH</"
+"strong></a> ."
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "YITH"
+msgstr "YITH"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"

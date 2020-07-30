@@ -1,0 +1,1773 @@
+# Copyright (C) 2020 YITH WooCommerce Wishlist
+# This file is distributed under the same license as the YITH WooCommerce Wishlist package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Wishlist Premium\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Latviešu valoda\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+"X-Poedit-SearchPathExcluded-1: plugin-upgrade\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+"Plural-Forms: nplurals=3; plural=n % 10 == 1 && n % 100 != 11 ? 0 : n != 0 ? "
+"1 : 2;\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-11 14:23+0000\n"
+"PO-Revision-Date: 2020-07-11 14:24+0000\n"
+"Last-Translator: zupu.lv\n"
+"Language: lv\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: ../includes/class.yith-wcwl-admin.php:126
+msgid "Wishlist Page"
+msgstr "Vēlmju lapa"
+
+#: ../includes/class.yith-wcwl-admin.php:146
+msgid "General settings"
+msgstr "Vispārīgie iestatījumi"
+
+#: ../includes/class.yith-wcwl-admin.php:147
+msgid "Add to wishlist options"
+msgstr "Pievienojiet vēlmju saraksta opcijām"
+
+#: ../includes/class.yith-wcwl-admin.php:148
+msgid "Wishlist page options"
+msgstr "Vēlmju saraksta lapas iespējas"
+
+#: ../includes/class.yith-wcwl-admin.php:149
+msgid "Premium Version"
+msgstr "Premium versija"
+
+#: ../includes/class.yith-wcwl-admin.php:235, ../init.php:3
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce vēlmju saraksts"
+
+#: ../includes/class.yith-wcwl-admin.php:236,
+#: ../includes/class.yith-wcwl-install.php:348
+msgid "Wishlist"
+msgstr "Vēlmju saraksts"
+
+#: ../includes/class.yith-wcwl-admin.php:238
+msgid ""
+"Allows your customers to create and share lists of products that they want "
+"to purchase on your e-commerce."
+msgstr ""
+"Ļauj jūsu klientiem izveidot un koplietot to produktu sarakstus, kurus viņi "
+"vēlas iegādāties jūsu e-komercijā."
+
+#: ../includes/class.yith-wcwl-ajax-handler.php:67,
+#: ../templates/add-to-wishlist-remove.php:50
+msgid "View &rsaquo;"
+msgstr "Skatīt ›"
+
+#: ../includes/class.yith-wcwl-ajax-handler.php:68,
+#: ../templates/add-to-wishlist-remove.php:49
+msgid "or"
+msgstr "vai"
+
+#: ../includes/class.yith-wcwl-ajax-handler.php:69
+msgid "Close"
+msgstr "Aizveriet"
+
+#: ../includes/class.yith-wcwl-ajax-handler.php:133,
+#: ../includes/class.yith-wcwl-ajax-handler.php:166
+msgid "Product successfully removed."
+msgstr "Produkts veiksmīgi noņemts"
+
+#: ../includes/class.yith-wcwl-form-handler.php:154
+msgid "Please, make sure to enter a valid title"
+msgstr "Lūdzu, pārliecinieties, ka esat ievadījis derīgu virsrakstu"
+
+#: ../includes/class.yith-wcwl-frontend.php:398
+msgid ""
+"We are sorry, but this feature is available only if cookies on your browser "
+"are enabled."
+msgstr ""
+"Atvainojiet, taču šī funkcija ir pieejama tikai tad, ja jūsu pārlūkprogrammā "
+"ir iespējoti sīkfaili."
+
+#: ../includes/class.yith-wcwl-frontend.php:399
+msgid "Product added to cart successfully"
+msgstr "Produkts veiksmīgi pievienots"
+
+#: ../includes/class.yith-wcwl-frontend.php:645,
+#: ../includes/class.yith-wcwl-shortcode.php:237,
+#: ../plugin-options/wishlist_page-options.php:237,
+#: ../templates/wishlist-view-footer-mobile.php:44,
+#: ../templates/wishlist-view-footer.php:44
+msgid "Add to cart"
+msgstr "Pievienot grozam"
+
+#: ../includes/class.yith-wcwl-install.php:346
+msgctxt "page_slug"
+msgid "wishlist"
+msgstr "vēlmju saraksts"
+
+#: ../includes/class.yith-wcwl-privacy.php:50
+msgid "While you visit our site, we’ll track:"
+msgstr "Kamēr jūs apmeklējat mūsu vietni, mēs izsekosim:"
+
+#: ../includes/class.yith-wcwl-privacy.php:52
+msgid ""
+"Products you’ve added to the wishlist: we’ll use this to show you and other "
+"users your favourite products, and to create targeted email campaigns."
+msgstr ""
+"Produkti, kurus esat pievienojis vēlmju sarakstam: mēs to izmantosim, lai "
+"parādītu jums un citiem lietotājiem savus iecienītos produktus un izveidotu "
+"mērķtiecīgas e-pasta kampaņas."
+
+#: ../includes/class.yith-wcwl-privacy.php:53
+msgid ""
+"Wishlists you’ve created: we’ll keep track of the wishlists you create, and "
+"make them visible to the store staff"
+msgstr ""
+"Jūsu izveidotie vēlmju saraksti: mēs sekosim līdzi jūsu izveidotajiem vēlmju "
+"sarakstiem un padarīsim tos redzamus veikala darbiniekiem"
+
+#: ../includes/class.yith-wcwl-privacy.php:55
+msgid ""
+"We’ll also use cookies to keep track of wishlist contents while you’re "
+"browsing our site."
+msgstr ""
+"Mēs izmantosim arī sīkfailus, lai sekotu vēlmju saraksta saturam, kamēr jūs "
+"pārlūkojat mūsu vietni."
+
+#: ../includes/class.yith-wcwl-privacy.php:58
+msgid ""
+"Members of our team have access to the information you provide us with. For "
+"example, both Administrators and Shop Managers can access:"
+msgstr ""
+"Mūsu komandas locekļiem ir pieeja informācijai, kuru jūs mums sniedzat. "
+"Piemēram, gan administratori, gan veikalu vadītāji var piekļūt:"
+
+#: ../includes/class.yith-wcwl-privacy.php:60
+msgid ""
+"Wishlist details, such as products added, date of addition, name and privacy "
+"settings of your wishlists"
+msgstr ""
+"Informācija par vēlmju sarakstu, piemēram, pievienotie produkti, "
+"pievienošanas datums, jūsu vēlmju sarakstu nosaukums un privātuma iestatījumi"
+
+#: ../includes/class.yith-wcwl-privacy.php:62
+msgid ""
+"Our team members have access to this information to offer you better deals "
+"for the products you love."
+msgstr ""
+"Mūsu komandas locekļiem ir pieejama šī informācija, lai piedāvātu jums "
+"labākus piedāvājumus par jūsu iecienītajiem produktiem."
+
+#: ../includes/class.yith-wcwl-privacy.php:82,
+#: ../includes/class.yith-wcwl-privacy.php:98
+msgid "Customer wishlists"
+msgstr "Klientu vēlmju saraksti"
+
+#: ../includes/class.yith-wcwl-privacy.php:133,
+#: ../plugin-options/lists-options.php:23,
+#: ../plugin-options/lists-options.php:30
+msgid "Wishlists"
+msgstr "Vēlmju saraksti"
+
+#. translators: %s Order number.
+#: ../includes/class.yith-wcwl-privacy.php:193
+msgid "Removed wishlist %s."
+msgstr "Noņemts vēlmju saraksts %s."
+
+#. translators: %s Order number.
+#: ../includes/class.yith-wcwl-privacy.php:197
+msgid "Wishlist %s has been retained."
+msgstr "Vēlmju saraksts %s ir saglabāts."
+
+#: ../includes/class.yith-wcwl-privacy.php:219
+msgid "Token"
+msgstr "Žetons"
+
+#: ../includes/class.yith-wcwl-privacy.php:220
+msgid "Wishlist URL"
+msgstr "Vēlmju saraksta URL"
+
+#: ../includes/class.yith-wcwl-privacy.php:221
+msgid "Title"
+msgstr "Nosaukums"
+
+#: ../includes/class.yith-wcwl-privacy.php:222
+msgctxt "date when wishlist was created"
+msgid "Created on"
+msgstr "Izveidots"
+
+#: ../includes/class.yith-wcwl-privacy.php:223
+msgid "Visibility"
+msgstr "Redzamība"
+
+#: ../includes/class.yith-wcwl-privacy.php:224
+msgid "Items added"
+msgstr "Pievienoti priekšmeti"
+
+#: ../includes/class.yith-wcwl-shortcode.php:52
+msgctxt "[gutenberg]: block name"
+msgid "YITH Add to wishlist"
+msgstr "YITH Pievienot vēlmju sarakstam"
+
+#: ../includes/class.yith-wcwl-shortcode.php:53
+msgctxt "[gutenberg]: block description"
+msgid "Shows Add to wishlist button"
+msgstr "Rāda pogu Pievienot vēlmju sarakstam"
+
+#: ../includes/class.yith-wcwl-shortcode.php:58
+msgid ""
+"ID of the product to add to the wishlist (leave empty to use the global "
+"product)"
+msgstr ""
+"Produkta ID, ko pievienot vēlmju sarakstam (atstājiet tukšu, lai izmantotu "
+"globālo produktu)"
+
+#: ../includes/class.yith-wcwl-shortcode.php:63
+msgid "URL of the wishlist page (leave empty to use the default settings)"
+msgstr ""
+"Vēlmju saraksta lapas URL (atstājiet tukšu, lai izmantotu noklusējuma "
+"iestatījumus)"
+
+#: ../includes/class.yith-wcwl-shortcode.php:68
+msgid "Button label (leave empty to use the default settings)"
+msgstr ""
+"Pogas etiķete (atstājiet tukšu, lai izmantotu noklusējuma iestatījumus)"
+
+#: ../includes/class.yith-wcwl-shortcode.php:73
+msgid "\"Browse wishlist\" label (leave empty to use the default settings)"
+msgstr ""
+"Apzīmējums “Pārlūkot vēlmju sarakstu” (atstājiet tukšu, lai izmantotu "
+"noklusējuma iestatījumus)"
+
+#: ../includes/class.yith-wcwl-shortcode.php:78
+msgid ""
+"\"Product already in wishlist\" label (leave empty to use the default "
+"settings)"
+msgstr ""
+"Apzīmējums “Prece jau ir vēlmju sarakstā” (atstājiet tukšu, lai izmantotu "
+"noklusējuma iestatījumus)"
+
+#: ../includes/class.yith-wcwl-shortcode.php:83
+msgid ""
+"\"Product added to wishlist\" label (leave empty to use the default settings)"
+msgstr ""
+"Etiķete “produkts pievienots vēlmju sarakstam” (atstājiet tukšu, lai "
+"izmantotu noklusējuma iestatījumus)"
+
+#: ../includes/class.yith-wcwl-shortcode.php:88
+msgid ""
+"Icon for the button (use any FontAwesome valid class, or leave empty to use "
+"the default settings)"
+msgstr ""
+"Pogas ikona (izmantojiet jebkuru derīgu FontAwesome klasi vai atstājiet "
+"tukšu, lai izmantotu noklusējuma iestatījumus)"
+
+#: ../includes/class.yith-wcwl-shortcode.php:93
+msgid ""
+"Additional CSS classes for the button (leave empty to use the default "
+"settings)"
+msgstr ""
+"Papildu pogas CSS klases (atstājiet tukšu, lai izmantotu noklusējuma "
+"iestatījumus)"
+
+#: ../includes/class.yith-wcwl-shortcode.php:101
+msgctxt "[gutenberg]: block name"
+msgid "YITH Wishlist"
+msgstr "YITH vēlmju saraksts"
+
+#: ../includes/class.yith-wcwl-shortcode.php:102
+msgctxt "[gutenberg]: block description"
+msgid "Shows a list of products in wishlist"
+msgstr "Parāda produktu sarakstu vēlmju sarakstā"
+
+#: ../includes/class.yith-wcwl-shortcode.php:107
+msgid "Choose whether to paginate items in the wishlist or show them all"
+msgstr ""
+"Izvēlieties, vai paginēt priekšmetus vēlmju sarakstā vai parādīt tos visus"
+
+#: ../includes/class.yith-wcwl-shortcode.php:110,
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-wishlist.php:113
+msgid "Paginate"
+msgstr "Paginate"
+
+#: ../includes/class.yith-wcwl-shortcode.php:111,
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-wishlist.php:114
+msgid "Do not paginate"
+msgstr "Nelietojiet paginate"
+
+#: ../includes/class.yith-wcwl-shortcode.php:116
+msgid "Number of items to show per page"
+msgstr "Parādāmo vienību skaits vienā lappusē"
+
+#: ../includes/class.yith-wcwl-shortcode.php:121
+msgid "ID of the wishlist to show (e.g. K6EOWXB888ZD)"
+msgstr "Parādāmo vēlmju saraksta ID (piemēram, K6EOWXB888ZD)"
+
+#: ../includes/class.yith-wcwl-shortcode.php:407
+msgid "Share on:"
+msgstr "Dalīties:"
+
+#: ../includes/class.yith-wcwl-shortcode.php:431,
+#: ../plugin-options/wishlist_page-options.php:136
+msgid "Share on Facebook"
+msgstr "Dalīties Facebook"
+
+#: ../includes/class.yith-wcwl-shortcode.php:448,
+#: ../plugin-options/wishlist_page-options.php:145
+msgid "Tweet on Twitter"
+msgstr "Čivināt Twitter"
+
+#: ../includes/class.yith-wcwl-shortcode.php:466,
+#: ../plugin-options/wishlist_page-options.php:154
+msgid "Pin on Pinterest"
+msgstr "Piespraudiet Pinterest"
+
+#: ../includes/class.yith-wcwl-shortcode.php:480
+msgid "Share via email"
+msgstr "Kopīgojiet pa e-pastu"
+
+#: ../includes/class.yith-wcwl-shortcode.php:493,
+#: ../includes/class.yith-wcwl-shortcode.php:495
+msgid "My wishlist on "
+msgstr "Mans vēlmju saraksts"
+
+#: ../includes/class.yith-wcwl-shortcode.php:503,
+#: ../plugin-options/wishlist_page-options.php:172
+msgid "Share on WhatsApp"
+msgstr "Kopīgojiet vietnē WhatsApp"
+
+#: ../includes/class.yith-wcwl-shortcode.php:606
+msgid "Remove from list"
+msgstr "Noņemt no saraksta"
+
+#: ../includes/class.yith-wcwl-wishlist-item.php:185
+msgid "Free!"
+msgstr "Bezmaksas!"
+
+#: ../includes/class.yith-wcwl-wishlist-item.php:416
+msgctxt ""
+"Part of the template that shows price variation since addition to list; "
+"placeholder will be replaced with a percentage"
+msgid "Price is %1$s %%"
+msgstr "Cena ir %1$s %%"
+
+#: ../includes/class.yith-wcwl-wishlist-item.php:417
+msgctxt ""
+"Part of the template that shows price variation since addition to list; "
+"placeholder will be replaced with a price"
+msgid "(Was %2$s when added  in list)"
+msgstr "(Bija %2$s, kad tika pievienots sarakstā)"
+
+#: ../includes/class.yith-wcwl.php:161
+msgid "The item cannot be added to this wishlist"
+msgstr "Vienumu nevar pievienot šim vēlmju sarakstam"
+
+#: ../includes/class.yith-wcwl.php:165, ../includes/class.yith-wcwl.php:171
+msgid "An error occurred while adding the products to the wishlist."
+msgstr "Pievienojot produktus vēlmju sarakstam, radās kļūda."
+
+#: ../includes/class.yith-wcwl.php:230, ../includes/class.yith-wcwl.php:236
+msgid "Error. Unable to remove the product from the wishlist."
+msgstr "Kļūda. Nevar noņemt produktu no vēlmju saraksta."
+
+#: ../includes/data-stores/class.yith-wcwl-wishlist-data-store.php:136,
+#: ../includes/data-stores/class.yith-wcwl-wishlist-data-store.php:158
+msgid "Invalid wishlist."
+msgstr "Nederīgs vēlmju saraksts."
+
+#: ../includes/data-stores/class.yith-wcwl-wishlist-item-data-store.php:108
+msgid "Invalid wishlist item."
+msgstr "Nederīgs vēlmju saraksts."
+
+#. translators: 1. Number of users.
+#: ../includes/functions.yith-wcwl.php:216
+msgid "%d user"
+msgid_plural "%d users"
+msgstr[0] " %d lietotājs"
+msgstr[1] " %d lietotāji"
+msgstr[2] " %d lietotāji"
+
+#: ../includes/functions.yith-wcwl.php:217
+msgid "has this item in wishlist"
+msgid_plural "have this item in wishlist"
+msgstr[0] "ir šī prece vēlmju sarakstā"
+msgstr[1] "lai šī prece būtu vēlmju sarakstā"
+msgstr[2] "lai šī prece būtu vēlmju sarakstā"
+
+#: ../includes/functions.yith-wcwl.php:219
+msgid "You're the first"
+msgstr "Tu esi pirmais"
+
+#: ../includes/functions.yith-wcwl.php:220
+msgid "to add this item in wishlist"
+msgstr "lai pievienotu šo vienumu vēlmju sarakstam"
+
+#. translators: 1. Count of users when many, or "another" when only one.
+#: ../includes/functions.yith-wcwl.php:224
+msgid "You and %s user"
+msgid_plural "You and %d users"
+msgstr[0] "Jūs un %s lietotājs"
+msgstr[1] "Jūs un %d lietotāji"
+msgstr[2] "Jūs un %d lietotāji"
+
+#: ../includes/functions.yith-wcwl.php:225
+msgid "have this item in wishlist"
+msgstr "lai šī prece būtu vēlmju sarakstā"
+
+#: ../includes/functions.yith-wcwl.php:460
+msgid "None"
+msgstr "Nav"
+
+#: ../includes/functions.yith-wcwl.php:461
+msgid "Custom"
+msgstr "Pielāgots"
+
+#: ../includes/functions.yith-wcwl.php:553
+msgid "Shared"
+msgstr "Dalīts"
+
+#: ../includes/functions.yith-wcwl.php:557
+msgid "Only people with a link to this list can see it"
+msgstr "To var redzēt tikai cilvēki ar saiti uz šo sarakstu"
+
+#: ../includes/functions.yith-wcwl.php:563
+msgid "Private"
+msgstr "Privāts"
+
+#: ../includes/functions.yith-wcwl.php:567
+msgid "Only you can see this list"
+msgstr "Tikai jūs varat redzēt šo sarakstu"
+
+#: ../includes/functions.yith-wcwl.php:573
+msgid "Public"
+msgstr "Publisks"
+
+#: ../includes/functions.yith-wcwl.php:577
+msgid "Anyone can search for and see this list"
+msgstr "Ikviens var meklēt un redzēt šo sarakstu"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:40
+msgctxt "Elementor widget name"
+msgid "YITH Wishlist Add button"
+msgstr "YITH vēlmju saraksta pievienošanas poga"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:83
+msgctxt "Elementor section title"
+msgid "Product"
+msgstr "Produkts"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:91
+msgctxt "Elementor control label"
+msgid "Product ID"
+msgstr "Produkta ID"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:103
+msgctxt "Elementor section title"
+msgid "Labels"
+msgstr "Etiķetes"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:111
+msgctxt "Elementor control label"
+msgid "Button label"
+msgstr "Pogas etiķete"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:114,
+#: ../plugin-options/add_to_wishlist-options.php:125
+msgid "Add to wishlist"
+msgstr "Pievienot vēlmju sarakstam"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:121
+msgctxt "Elementor control label"
+msgid "\"Browse wishlist\" label"
+msgstr "\"Pārlūkot vēlmju sarakstu\""
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:124,
+#: ../plugin-options/add_to_wishlist-options.php:141
+msgid "Browse wishlist"
+msgstr "Pārlūkot vēlmju sarakstu"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:131
+msgctxt "Elementor control label"
+msgid "\"Product already in wishlist\" label"
+msgstr "Uzlīme “Prece jau ir vēlmju sarakstā”"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:134
+msgid "Product already in wishlist"
+msgstr "Prece jau ir vēlmju sarakstā"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:141
+msgctxt "Elementor control label"
+msgid "\"Product added to wishlist\" label"
+msgstr "Etiķete \"produkts pievienots vēlmju sarakstam\""
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:144
+msgid "Product added to wishlist"
+msgstr "Produkts pievienots vēlmju sarakstam"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:153
+msgctxt "Elementor section title"
+msgid "Advanced"
+msgstr "Advanced"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:161
+msgctxt "Elementor control label"
+msgid "URL of the wishlist page"
+msgstr "Vēlmju saraksta lapas URL"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:171
+msgctxt "Elementor control label"
+msgid "Icon for the button"
+msgstr "Pogas ikona"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:181
+msgctxt "Elementor control label"
+msgid "Additional CSS classes for the button"
+msgstr "Papildu CSS klases pogai"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-wishlist.php:40
+msgctxt "Elementor widget name"
+msgid "YITH Wishlist"
+msgstr "YITH vēlmju saraksts"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-wishlist.php:82
+msgctxt "Elementor section title"
+msgid "Wishlist"
+msgstr "Vēlmju saraksts"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-wishlist.php:90
+msgctxt "Elementor control label"
+msgid "Wishlist ID"
+msgstr "Vēlmju saraksta ID"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-wishlist.php:102
+msgctxt "Elementor section title"
+msgid "Pagination"
+msgstr "Paginācija"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-wishlist.php:110
+msgctxt "Elementor control label"
+msgid "Paginate items"
+msgstr "Paginātu priekšmeti"
+
+#: ../includes/widgets/elementor/class.yith-wcwl-elementor-wishlist.php:123
+msgctxt "yith-woocommerce-wishlist"
+msgid "Items per page"
+msgstr "Vienumi vienā lappusē"
+
+#: ../init.php:4
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-wishlist/"
+msgstr "https://yithemes.com/themes/plugins/yith-woocommerce-wishlist/"
+
+#: ../init.php:5
+msgid ""
+"<code><strong>YITH WooCommerce Wishlist</strong></code> gives your users the "
+"possibility to create, fill, manage and share their wishlists allowing you "
+"to analyze their interests and needs to improve your marketing strategies. "
+"<a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for "
+"your e-commerce on <strong>YITH</strong></a>"
+msgstr ""
+"<code><strong>YITH WooCommerce Wishlist</strong></code> lietotājiem dod "
+"iespēju izveidot, aizpildīt, pārvaldīt un dalīties ar viņu vēlmju <code>"
+"<strong>YITH WooCommerce Wishlist</strong></code> ļaujot analizēt viņu "
+"intereses un vajadzības, lai uzlabotu mārketinga stratēģijas. <a "
+"href=\"https://yithemes.com/\" target=\"_blank\">Iegūstiet vairāk spraudņu "
+"savai e-komercijai vietnē <strong>YITH</strong></a>"
+
+#: ../init.php:7
+msgid "YITH"
+msgstr "YITH"
+
+#: ../init.php:8
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"
+
+#: ../init.php:141
+msgid "is enabled but not effective. It requires WooCommerce in order to work."
+msgstr ""
+"ir iespējots, bet nav efektīvs. Lai tas darbotos, nepieciešama WooCommerce."
+
+#: ../init.php:151
+msgid "You can't activate the free version of"
+msgstr "Jūs nevarat aktivizēt vietnes bezmaksas versiju"
+
+#: ../init.php:151
+msgid "while you are using the premium one."
+msgstr "kamēr jūs izmantojat premium."
+
+#: ../plugin-options/add_to_wishlist-options.php:18,
+#: ../plugin-options/settings-options.php:23
+msgid "General Settings"
+msgstr "Vispārīgie iestatījumi"
+
+#: ../plugin-options/add_to_wishlist-options.php:25
+msgid "After product is added to wishlist"
+msgstr "Pēc produkta pievienošanas vēlmju sarakstam"
+
+#: ../plugin-options/add_to_wishlist-options.php:26
+msgid ""
+"Choose the look of the Wishlist button when the product has already been "
+"added to a wishlist"
+msgstr ""
+"Izvēlieties produktu Wishlist izskatu, kad produkts jau ir pievienots vēlmju "
+"sarakstam"
+
+#: ../plugin-options/add_to_wishlist-options.php:30
+msgid "Show \"Add to wishilist\" button"
+msgstr "Rādīt pogu “Pievienot vēlmju sarakstam”"
+
+#: ../plugin-options/add_to_wishlist-options.php:31
+msgid "Show \"View wishlist\" link"
+msgstr "Rādīt saiti “Skatīt vēlmju sarakstu”"
+
+#: ../plugin-options/add_to_wishlist-options.php:32
+msgid "Show \"Remove from list\" link"
+msgstr "Rādīt saiti “Noņemt no saraksta”"
+
+#: ../plugin-options/add_to_wishlist-options.php:46
+msgid "Loop settings"
+msgstr "Cilpas iestatījumi"
+
+#: ../plugin-options/add_to_wishlist-options.php:48
+msgid ""
+"Loop options will be visible on Shop page, category pages, product "
+"shortcodes, products sliders, and all the other places where the WooCommerce "
+"products' loop is used"
+msgstr ""
+"Loop opcijas būs redzamas veikalu lapā, kategoriju lapās, produktu īskodos, "
+"produktu slīdņos un visās citās vietās, kur tiek izmantota WooCommerce "
+"produktu cilpa."
+
+#: ../plugin-options/add_to_wishlist-options.php:53
+msgid "Show \"Add to wishlist\" in loop"
+msgstr "Rādīt cilni “Pievienot vēlmju sarakstam”"
+
+#: ../plugin-options/add_to_wishlist-options.php:54
+msgid "Enable the \"Add to wishlist\" feature in WooCommerce products' loop"
+msgstr ""
+"Iespējojiet funkciju “Pievienot vēlmju sarakstam” WooCommerce produktu cilpā"
+
+#: ../plugin-options/add_to_wishlist-options.php:62
+msgid "Position of \"Add to wishlist\" in loop"
+msgstr "\"Pievienot vēlmju sarakstam\" pozīcija cilpā"
+
+#: ../plugin-options/add_to_wishlist-options.php:63
+msgid ""
+"Choose where to show \"Add to wishlist\" button or link in WooCommerce "
+"products' loop. <span class=\"addon\">Copy this shortcode <span "
+"class=\"code\"><code>[yith_wcwl_add_to_wishlist]</code></span> and paste it "
+"where you want to show the \"Add to wishlist\" link or button</span>"
+msgstr ""
+"Izvēlieties vietu, kur WooCommerce produktu cilpā rādīt pogu “Pievienot "
+"vēlmju sarakstam” vai saiti. <span class=\"addon\">Kopējiet šo <span "
+"class=\"code\"><code>[yith_wcwl_add_to_wishlist]</code></span> un ielīmējiet "
+"to vietā, kur vēlaties parādīt saiti vai pogu “Pievienot vēlmju "
+"sarakstam”</span>"
+
+#: ../plugin-options/add_to_wishlist-options.php:70
+msgid "On top of the image"
+msgstr "Attēla augšpusē"
+
+#: ../plugin-options/add_to_wishlist-options.php:71
+msgid "Before \"Add to cart\" button"
+msgstr "Pirms pogas \"Pievienot grozam\""
+
+#: ../plugin-options/add_to_wishlist-options.php:72
+msgid "After \"Add to cart\" button"
+msgstr "Pēc pogas “Pievienot grozam”"
+
+#: ../plugin-options/add_to_wishlist-options.php:73,
+#: ../plugin-options/add_to_wishlist-options.php:105
+msgid "Use shortcode"
+msgstr "Izmantojiet īso kodu"
+
+#: ../plugin-options/add_to_wishlist-options.php:87
+msgid "Product page settings"
+msgstr "Produktu lapas iestatījumi"
+
+#: ../plugin-options/add_to_wishlist-options.php:94
+msgid "Position of \"Add to wishlist\" on product page"
+msgstr "\"Pievienot vēlmju sarakstam\" pozīcija produkta lapā"
+
+#: ../plugin-options/add_to_wishlist-options.php:95
+msgid ""
+"Choose where to show \"Add to wishlist\" button or link on the product page. "
+"<span class=\"addon\">Copy this shortcode <span class=\"code\"><code>"
+"[yith_wcwl_add_to_wishlist]</code></span> and paste it where you want to "
+"show the \"Add to wishlist\" link or button</span>"
+msgstr ""
+"Izvēlieties, kur produkta lapā parādīt pogu “Pievienot vēlmju sarakstam” vai "
+"saiti. <span class=\"addon\">Kopējiet šo <span class=\"code\"><code>"
+"[yith_wcwl_add_to_wishlist]</code></span> un ielīmējiet to vietā, kur "
+"vēlaties parādīt saiti vai pogu “Pievienot vēlmju sarakstam”</span>"
+
+#: ../plugin-options/add_to_wishlist-options.php:102
+msgid "After \"Add to cart\""
+msgstr "Pēc \"Pievienot grozam\""
+
+#: ../plugin-options/add_to_wishlist-options.php:103
+msgid "After thumbnails"
+msgstr "Pēc sīktēliem"
+
+#: ../plugin-options/add_to_wishlist-options.php:104
+msgid "After summary"
+msgstr "Pēc kopsavilkuma"
+
+#: ../plugin-options/add_to_wishlist-options.php:115,
+#: ../plugin-options/wishlist_page-options.php:219
+msgid "Text customization"
+msgstr "Teksta pielāgošana"
+
+#: ../plugin-options/add_to_wishlist-options.php:122
+msgid "\"Add to wishlist\" text"
+msgstr "Teksts “Pievienot vēlmju sarakstam”"
+
+#: ../plugin-options/add_to_wishlist-options.php:123
+msgid "Enter a text for \"Add to wishlist\" button"
+msgstr "Ievadiet tekstu pogai “Pievienot vēlmju sarakstam”"
+
+#: ../plugin-options/add_to_wishlist-options.php:130
+msgid "\"Product added\" text"
+msgstr "Teksts “Produkts pievienots”"
+
+#: ../plugin-options/add_to_wishlist-options.php:131
+msgid ""
+"Enter the text of the message displayed when the user adds a product to the "
+"wishlist"
+msgstr ""
+"Ievadiet ziņojuma tekstu, kas tiek parādīts, kad lietotājs vēlmju sarakstā "
+"pievieno produktu"
+
+#: ../plugin-options/add_to_wishlist-options.php:133
+msgid "Product added!"
+msgstr "Produkts pievienots!"
+
+#: ../plugin-options/add_to_wishlist-options.php:138
+msgid "\"Browse wishlist\" text"
+msgstr "\"Pārlūkot vēlmju sarakstu\""
+
+#: ../plugin-options/add_to_wishlist-options.php:139
+msgid "Enter a text for the \"Browse wishlist\" link on the product page"
+msgstr "Produkta lapā ievadiet saites “Pārlūkot vēlmju sarakstu” tekstu"
+
+#: ../plugin-options/add_to_wishlist-options.php:146
+msgid "\"Product already in wishlist\" text"
+msgstr "Teksts “Prece jau ir vēlmju sarakstā”"
+
+#: ../plugin-options/add_to_wishlist-options.php:147
+msgid ""
+"Enter the text for the message displayed when the user views a product that "
+"is already in the wishlist"
+msgstr ""
+"Ievadiet ziņojuma tekstu, kas tiek parādīts, kad lietotājs apskata produktu, "
+"kas jau ir vēlmju sarakstā"
+
+#: ../plugin-options/add_to_wishlist-options.php:149
+msgid "The product is already in your wishlist!"
+msgstr "Produkts jau ir jūsu vēlmju sarakstā!"
+
+#: ../plugin-options/add_to_wishlist-options.php:159
+msgid "Style & Color customization"
+msgstr "Stila un krāsas pielāgošana"
+
+#: ../plugin-options/add_to_wishlist-options.php:166
+msgid "Style of \"Add to wishlist\""
+msgstr "\"Pievienot vēlmju sarakstam\" stils"
+
+#: ../plugin-options/add_to_wishlist-options.php:167
+msgid ""
+"Choose if you want to show a textual \"Add to wishlist\" link or a button"
+msgstr ""
+"Izvēlieties, vai vēlaties parādīt teksta saiti “Pievienot vēlmju sarakstam” "
+"vai pogu"
+
+#: ../plugin-options/add_to_wishlist-options.php:170,
+#: ../plugin-options/wishlist_page-options.php:258
+msgid "Textual (anchor)"
+msgstr "Teksta teksts (enkurs)"
+
+#: ../plugin-options/add_to_wishlist-options.php:171,
+#: ../plugin-options/wishlist_page-options.php:259
+msgid "Button with theme style"
+msgstr "Poga ar tēmas stilu"
+
+#: ../plugin-options/add_to_wishlist-options.php:172,
+#: ../plugin-options/wishlist_page-options.php:260
+msgid "Button with custom style"
+msgstr "Poga ar pielāgotu stilu"
+
+#: ../plugin-options/add_to_wishlist-options.php:180
+msgid "\"Add to wishlist\" button style"
+msgstr "Pogas \"Pievienot vēlmju sarakstam\" stils"
+
+#: ../plugin-options/add_to_wishlist-options.php:186
+msgid "Choose colors for the \"Add to wishlist\" button"
+msgstr "Noklikšķiniet uz pogas \"Pievienot vēlmju sarakstam\" krāsas"
+
+#: ../plugin-options/add_to_wishlist-options.php:188,
+#: ../plugin-options/wishlist_page-options.php:276,
+#: ../plugin-options/wishlist_page-options.php:365,
+#: ../plugin-options/wishlist_page-options.php:414,
+#: ../plugin-options/wishlist_page-options.php:462,
+#: ../plugin-options/wishlist_page-options.php:549,
+#: ../plugin-options/wishlist_page-options.php:589,
+#: ../plugin-options/wishlist_page-options.php:629,
+#: ../plugin-options/wishlist_page-options.php:669,
+#: ../plugin-options/wishlist_page-options.php:709
+msgid "Background"
+msgstr "Pamatinformācija"
+
+#: ../plugin-options/add_to_wishlist-options.php:193,
+#: ../plugin-options/wishlist_page-options.php:281,
+#: ../plugin-options/wishlist_page-options.php:370,
+#: ../plugin-options/wishlist_page-options.php:419,
+#: ../plugin-options/wishlist_page-options.php:467,
+#: ../plugin-options/wishlist_page-options.php:504
+msgid "Text"
+msgstr "Teksts"
+
+#: ../plugin-options/add_to_wishlist-options.php:198,
+#: ../plugin-options/wishlist_page-options.php:286,
+#: ../plugin-options/wishlist_page-options.php:375,
+#: ../plugin-options/wishlist_page-options.php:424,
+#: ../plugin-options/wishlist_page-options.php:472
+msgid "Border"
+msgstr "Robeža"
+
+#: ../plugin-options/add_to_wishlist-options.php:204
+msgid "Choose colors for the \"Add to wishlist\" button on hover state"
+msgstr ""
+"Noklikšķiniet uz pogas “Pievienot vēlmju sarakstam” krāsas novietošanas "
+"stāvoklī"
+
+#: ../plugin-options/add_to_wishlist-options.php:206,
+#: ../plugin-options/wishlist_page-options.php:294,
+#: ../plugin-options/wishlist_page-options.php:383,
+#: ../plugin-options/wishlist_page-options.php:432
+msgid "Background Hover"
+msgstr "Fona virziens"
+
+#: ../plugin-options/add_to_wishlist-options.php:211,
+#: ../plugin-options/wishlist_page-options.php:299,
+#: ../plugin-options/wishlist_page-options.php:388,
+#: ../plugin-options/wishlist_page-options.php:437
+msgid "Text Hover"
+msgstr "Teksta kursors"
+
+#: ../plugin-options/add_to_wishlist-options.php:216,
+#: ../plugin-options/wishlist_page-options.php:304,
+#: ../plugin-options/wishlist_page-options.php:393,
+#: ../plugin-options/wishlist_page-options.php:442
+msgid "Border Hover"
+msgstr "Border Hover"
+
+#: ../plugin-options/add_to_wishlist-options.php:229,
+#: ../plugin-options/wishlist_page-options.php:317
+msgid "Border radius"
+msgstr "Robežas rādiuss"
+
+#: ../plugin-options/add_to_wishlist-options.php:230
+msgid "Choose radius for the \"Add to wishlist\" button"
+msgstr "Izvēlieties rādiusu pogai “Pievienot vēlmju sarakstam”"
+
+#: ../plugin-options/add_to_wishlist-options.php:244
+msgid "\"Add to wishlist\" icon"
+msgstr "Ikona \"Pievienot vēlmju sarakstam\""
+
+#: ../plugin-options/add_to_wishlist-options.php:245
+msgid "Select an icon for the \"Add to wishlist\" button (optional)"
+msgstr "Pogai “Pievienot vēlmju sarakstam” atlasiet ikonu (pēc izvēles)"
+
+#: ../plugin-options/add_to_wishlist-options.php:255
+msgid "\"Add to wishlist\" custom icon"
+msgstr "Pielāgota ikona “Pievienot vēlmju sarakstam”"
+
+#: ../plugin-options/add_to_wishlist-options.php:256,
+#: ../plugin-options/add_to_wishlist-options.php:280
+msgid ""
+"Upload an icon you'd like to use for \"Add to wishlist\" button (suggested "
+"32px x 32px)"
+msgstr ""
+"Augšupielādējiet ikonu, kuru vēlaties izmantot pogai “Pievienot vēlmju "
+"sarakstam” (ieteicams 32 pikseļi x 32 pikseļi)"
+
+#: ../plugin-options/add_to_wishlist-options.php:268
+msgid "\"Added to wishlist\" icon"
+msgstr "Ikona \"Pievienota vēlmju sarakstam\""
+
+#: ../plugin-options/add_to_wishlist-options.php:269
+msgid "Select an icon for the \"Added to wishlist\" button (optional)"
+msgstr "Pogai “Pievienots vēlmju sarakstam” atlasiet ikonu (pēc izvēles)"
+
+#: ../plugin-options/add_to_wishlist-options.php:275
+msgid "Same used for Add to wishlist"
+msgstr "Tas pats, kas izmantots Pievienot vēlmju sarakstam"
+
+#: ../plugin-options/add_to_wishlist-options.php:279
+msgid "\"Added to wishlist\" custom icon"
+msgstr "Pielāgota ikona “Pievienots vēlmju sarakstam”"
+
+#: ../plugin-options/add_to_wishlist-options.php:292
+msgid "Custom CSS"
+msgstr "Pielāgota CSS"
+
+#: ../plugin-options/add_to_wishlist-options.php:293
+msgid "Enter custom CSS to be applied to Wishlist elements (optional)"
+msgstr ""
+"Ievadiet pielāgoto CSS, kas jāpiemēro vēlmju saraksta elementiem (pēc "
+"izvēles)"
+
+#: ../plugin-options/lists-options.php:32
+msgid "Search list"
+msgstr "Meklēšanas saraksts"
+
+#: ../plugin-options/settings-options.php:17
+msgid ""
+"If you want to take advantage of this feature, you could consider purchasing "
+"the %s."
+msgstr "Ja vēlaties izmantot šo funkciju, apsveriet iespēju iegādāties %s."
+
+#: ../plugin-options/settings-options.php:30
+msgid "Enable AJAX loading"
+msgstr "Iespējot AJAX ielādi"
+
+#: ../plugin-options/settings-options.php:31
+msgid "Load any cacheable wishlist item via AJAX"
+msgstr ""
+"Ielādējiet jebkuru kešatmiņā saglabājamu vēlmju sarakstu, izmantojot AJAX"
+
+#: ../plugin-options/settings-options.php:44
+msgid "YITH WooCommerce Frequently Bought Together Integration"
+msgstr "YITH WooCommerce bieži vien iegādājās integrāciju"
+
+#: ../plugin-options/settings-options.php:46
+msgid ""
+"In order to use this integration you have to install and activate YITH "
+"WooCommerce Frequently Bought Together. <a href=\"%s\">Learn more</a>"
+msgstr ""
+"Lai izmantotu šo integrāciju, jums ir jāinstalē un jāaktivizē YITH "
+"WooCommerce, ko bieži iegādājamies kopā. <a href=\"%s\">Uzzināt vairāk</a>"
+
+#: ../plugin-options/settings-options.php:51
+msgid "Enable slider in wishlist"
+msgstr "Iespējot slīdni vēlmju sarakstā"
+
+#: ../plugin-options/settings-options.php:52
+msgid ""
+"Enable the slider with linked products on the Wishlist page (<a href=\"%s\" "
+"class=\"thickbox\">Example</a>). %s"
+msgstr ""
+"Lai vēlmju sarakstā aktivizētu slīdni ar saistītajiem produktiem ( <a "
+"href=\"%s\" class=\"thickbox\">piemērs</a> ).  %s"
+
+#: ../plugin-options/wishlist_page-options.php:17
+msgid "All your wishlists"
+msgstr "Visi jūsu vēlmju saraksti"
+
+#: ../plugin-options/wishlist_page-options.php:24
+msgid "Wishlist page"
+msgstr "Vēlmju saraksta lapa"
+
+#: ../plugin-options/wishlist_page-options.php:25
+msgid ""
+"Pick a page as the main Wishlist page; make sure you add the <span "
+"class=\"code\"><code>[yith_wcwl_wishlist]</code></span> shortcode into the "
+"page content"
+msgstr ""
+"Izvēlieties lapu kā galveno vēlmju sarakstu; pārliecinieties, ka lapas "
+"saturam esat pievienojis <span class=\"code\"><code>[yith_wcwl_wishlist]"
+"</code></span>"
+
+#: ../plugin-options/wishlist_page-options.php:38
+msgid "Wishlist Detail Page"
+msgstr "Vēlmju saraksta informācijas lapa"
+
+#: ../plugin-options/wishlist_page-options.php:45,
+#: ../plugin-options/wishlist_page-options.php:54,
+#: ../plugin-options/wishlist_page-options.php:63,
+#: ../plugin-options/wishlist_page-options.php:72,
+#: ../plugin-options/wishlist_page-options.php:81,
+#: ../plugin-options/wishlist_page-options.php:90,
+#: ../plugin-options/wishlist_page-options.php:99
+msgid "In wishlist table show"
+msgstr "Vēlmju sarakstu tabulā"
+
+#: ../plugin-options/wishlist_page-options.php:46
+msgid "Product variations selected by the user (example: size or color)"
+msgstr "Lietotāja izvēlētie produktu varianti (piemērs: izmērs vai krāsa)"
+
+#: ../plugin-options/wishlist_page-options.php:55
+msgid "Product price"
+msgstr "Produkta cena"
+
+#: ../plugin-options/wishlist_page-options.php:64
+msgid "Product stock (show if the product is available or not)"
+msgstr "Produktu krājumi (parādiet, vai produkts ir pieejams vai nav)"
+
+#: ../plugin-options/wishlist_page-options.php:73
+msgid "Date on which the product was added to the wishlist"
+msgstr "Datums, kad produkts tika pievienots vēlmju sarakstam"
+
+#: ../plugin-options/wishlist_page-options.php:82
+msgid "Add to cart option for each product"
+msgstr "Katram produktam pievienojiet groza opciju"
+
+#: ../plugin-options/wishlist_page-options.php:91
+msgid ""
+"Icon to remove the product from the wishlist - to the left of the product"
+msgstr "Ikona produkta noņemšanai no vēlmju saraksta - produkta kreisajā pusē"
+
+#: ../plugin-options/wishlist_page-options.php:100
+msgid ""
+"Button to remove the product from the wishlist - to the right of the product"
+msgstr "Poga produkta noņemšanai no vēlmju saraksta - produkta labajā pusē"
+
+#: ../plugin-options/wishlist_page-options.php:108
+msgid "Redirect to cart"
+msgstr "Novirzīt uz grozu"
+
+#: ../plugin-options/wishlist_page-options.php:109
+msgid ""
+"Redirect users to the cart page when they add a product to the cart from the "
+"wishlist page"
+msgstr ""
+"Novirzīt lietotājus uz groza lapu, kad viņi vēlmju saraksta lapā pievieno "
+"produktu grozam"
+
+#: ../plugin-options/wishlist_page-options.php:117
+msgid "Remove if added to the cart"
+msgstr "Noņemt, ja pievienots grozam"
+
+#: ../plugin-options/wishlist_page-options.php:118
+msgid ""
+"Remove the product from the wishlist after it has been added to the cart"
+msgstr ""
+"Izņemiet produktu no vēlmju saraksta pēc tam, kad tas ir pievienots grozam"
+
+#: ../plugin-options/wishlist_page-options.php:126
+msgid "Share wishlist"
+msgstr "Kopīgot vēlmju sarakstu"
+
+#: ../plugin-options/wishlist_page-options.php:127
+msgid "Enable this option to let users share their wishlist on social media"
+msgstr ""
+"Iespējojiet šo opciju, lai lietotāji varētu kopīgot savu vēlmju sarakstu "
+"sociālajos medijos"
+
+#: ../plugin-options/wishlist_page-options.php:135,
+#: ../plugin-options/wishlist_page-options.php:144,
+#: ../plugin-options/wishlist_page-options.php:153,
+#: ../plugin-options/wishlist_page-options.php:162,
+#: ../plugin-options/wishlist_page-options.php:171
+msgid "Share on social media"
+msgstr "Dalieties sociālajos medijos"
+
+#: ../plugin-options/wishlist_page-options.php:163
+msgid "Share by email"
+msgstr "Koplietot pa e-pastu"
+
+#: ../plugin-options/wishlist_page-options.php:180
+msgid "Share by URL"
+msgstr "Kopīgot pēc URL"
+
+#: ../plugin-options/wishlist_page-options.php:181
+msgid "Show \"Share URL\" field on wishlist page"
+msgstr "Rādīt lauku \"Koplietot URL\" vēlmju saraksta lapā"
+
+#: ../plugin-options/wishlist_page-options.php:189
+msgid "Sharing title"
+msgstr "Kopīgs nosaukums"
+
+#: ../plugin-options/wishlist_page-options.php:190
+msgid "Wishlist title used for sharing (only used on Twitter and Pinterest)"
+msgstr ""
+"Vēlmju saraksta nosaukums, ko izmanto kopīgošanai (tiek izmantots tikai "
+"Twitter un Pinterest)"
+
+#: ../plugin-options/wishlist_page-options.php:192
+msgid "My wishlist on %s"
+msgstr "Mans vēlmju saraksts %s"
+
+#: ../plugin-options/wishlist_page-options.php:197
+msgid "Social text"
+msgstr "Sociālais teksts"
+
+#: ../plugin-options/wishlist_page-options.php:198
+msgid ""
+"Type the message you want to publish when you share your wishlist on Twitter "
+"and Pinterest"
+msgstr ""
+"Ierakstiet ziņojumu, kuru vēlaties publicēt, kad kopīgojat savu vēlmju "
+"sarakstu Twitter un Pinterest"
+
+#: ../plugin-options/wishlist_page-options.php:206
+msgid "Social image URL"
+msgstr "Sociālā attēla URL"
+
+#: ../plugin-options/wishlist_page-options.php:207
+msgid "It will be used to pin the wishlist on Pinterest."
+msgstr "Tas tiks izmantots, lai piespraustu vēlmju sarakstu Pinterest."
+
+#: ../plugin-options/wishlist_page-options.php:226
+msgid "Default wishlist name"
+msgstr "Noklusējuma vēlmju saraksta nosaukums"
+
+#: ../plugin-options/wishlist_page-options.php:227
+msgid ""
+"Enter a name for the default wishlist. This is the wishlist that will be "
+"automatically generated for all users if they do not create any custom one"
+msgstr ""
+"Ievadiet noklusējuma vēlmju saraksta nosaukumu. Šis ir vēlmju saraksts, kas "
+"automātiski tiek ģenerēts visiem lietotājiem, ja viņi neveido nevienu "
+"pielāgotu"
+
+#: ../plugin-options/wishlist_page-options.php:229
+msgid "My wishlist"
+msgstr "Mans vēlmju saraksts"
+
+#: ../plugin-options/wishlist_page-options.php:234
+msgid "\"Add to cart\" text"
+msgstr "\"Pievienot grozam\" teksts"
+
+#: ../plugin-options/wishlist_page-options.php:235
+msgid "Enter a text for the \"Add to cart\" button"
+msgstr "Ievadiet tekstu pogai “Pievienot grozam”"
+
+#: ../plugin-options/wishlist_page-options.php:247
+msgid "Style & color customization"
+msgstr "Stila un krāsas pielāgošana"
+
+#: ../plugin-options/wishlist_page-options.php:254
+msgid "Style of \"Add to cart\""
+msgstr "Stils \"Pievienot grozam\""
+
+#: ../plugin-options/wishlist_page-options.php:255
+msgid "Choose whether to show a textual \"Add to cart\" link or a button"
+msgstr "Izvēlieties, vai rādīt teksta saiti “Pievienot grozam” vai pogu"
+
+#: ../plugin-options/wishlist_page-options.php:268
+msgid "\"Add to cart\" button style"
+msgstr "Pogas stils \"Pievienot grozam\""
+
+#: ../plugin-options/wishlist_page-options.php:274
+msgid "Choose the colors for the \"Add to cart\" button"
+msgstr "Noklikšķiniet uz pogas \"Pievienot grozam\" krāsas"
+
+#: ../plugin-options/wishlist_page-options.php:292
+msgid "Choose colors for the \"Add to cart\" button on hover state"
+msgstr "Noklikšķiniet uz pogas “Pievienot grozam” krāsas, virzoties kursoru"
+
+#: ../plugin-options/wishlist_page-options.php:318
+msgid "Set the radius for the \"Add to cart\" button"
+msgstr "Iestatiet pogas \"Pievienot grozam\" rādiusu"
+
+#: ../plugin-options/wishlist_page-options.php:332
+msgid "\"Add to cart\" icon"
+msgstr "Ielikt grozā"
+
+#: ../plugin-options/wishlist_page-options.php:333
+msgid "Select an icon for the \"Add to cart\" button (optional)"
+msgstr "Pogai “Pievienot grozam” atlasiet ikonu (pēc izvēles)"
+
+#: ../plugin-options/wishlist_page-options.php:348
+msgid "\"Add to cart\" custom icon"
+msgstr "Pielāgota ikona “Pievienot grozam”"
+
+#: ../plugin-options/wishlist_page-options.php:349
+msgid ""
+"Upload an icon you'd like to use for the \"Add to cart\" button (suggested "
+"32px x 32px)"
+msgstr ""
+"Augšupielādējiet ikonu, kuru vēlaties izmantot pogai “Pievienot grozam” "
+"(ieteicams 32 pikseļi x 32 pikseļi)."
+
+#: ../plugin-options/wishlist_page-options.php:357
+msgid "Primary button style"
+msgstr "Primārā pogas stils"
+
+#: ../plugin-options/wishlist_page-options.php:363
+msgid ""
+"Choose colors for the primary button<br/><small>This style will be applied "
+"to \"Edit title\" button on Wishlist view, \"Submit Changes\" button on "
+"Manage view and \"Search wishlist\" button on Search view</small>"
+msgstr ""
+"Izvēlieties primārās pogas krāsas. <br/> <small> Šis stils tiks izmantots "
+"pogai “Rediģēt virsrakstu” vēlmju sarakstā, pogai “Iesniegt izmaiņas” "
+"pārvaldīšanas skatā un pogai “Meklēt vēlmju sarakstu” meklēšanas skatā "
+"</small>"
+
+#: ../plugin-options/wishlist_page-options.php:381
+msgid ""
+"Choose colors for the primary button on hover state<br/><small>This style "
+"will be applied to \"Edit title\" button on Wishlist view, \"Submit "
+"Changes\" button on Manage view and \"Search wishlist\" button on Search "
+"view</small>"
+msgstr ""
+"Izvēlieties primārās pogas krāsas kursoru lidmašīnas stāvoklī <br/> <small> "
+"Šis stils tiks piemērots pogai “Rediģēt virsrakstu” vēlmju sarakstā, pogai "
+"“Iesniegt izmaiņas” pārvaldīšanas skatā un pogai “Meklēt vēlmju sarakstu” "
+"meklēšanas skatā </ mazs>"
+
+#: ../plugin-options/wishlist_page-options.php:406
+msgid "Secondary button style"
+msgstr "Sekundārās pogas stils"
+
+#: ../plugin-options/wishlist_page-options.php:412,
+#: ../plugin-options/wishlist_page-options.php:430
+msgid ""
+"Choose colors of the secondary button<br/><small>This style will be applied "
+"to the buttons that allow showing and hiding the Edit title form on Wishlist "
+"view and \"Create new Wishlist\" button on Manage view</small>"
+msgstr ""
+"Izvēlieties sekundārās pogas krāsas <br/> <small> Šis stils tiks piemērots "
+"pogām, kas ļauj parādīt un paslēpt nosaukuma veidlapas rediģēšanu vēlmju "
+"sarakstā un pogas “Izveidot jaunu vēlmju sarakstu” pārvaldību skatā </small>"
+
+#: ../plugin-options/wishlist_page-options.php:455
+msgid "Wishlist table style"
+msgstr "Vēlmju saraksta tabulas stils"
+
+#: ../plugin-options/wishlist_page-options.php:456
+msgid ""
+"Choose the colors for the wishlist table (when set to \"Traditional\" layout)"
+msgstr ""
+"Izvēlieties vēlmju saraksta tabulas krāsas (ja iestatījums ir "
+"\"Tradicionāls\")"
+
+#: ../plugin-options/wishlist_page-options.php:484
+msgid "Highlight color"
+msgstr "Iezīmējiet krāsu"
+
+#: ../plugin-options/wishlist_page-options.php:485
+msgid ""
+"Choose the color for all sections with background<br/><small>This color will "
+"be used as background for the wishlist table heading and footer (when set to "
+"\"Traditional\" layout), and for various form across wishlist views</small>"
+msgstr ""
+"Izvēlieties krāsu visām sadaļām ar fonu. <br/> <small> Šī krāsa tiks "
+"izmantota kā fons vēlmju saraksta tabulas virsrakstam un kājenei (ja "
+"iestatīts uz “Tradicionāls” izkārtojums), kā arī dažādām formām visu vēlmju "
+"sarakstu skatos </small>"
+
+#: ../plugin-options/wishlist_page-options.php:497
+msgid "Share button text color"
+msgstr "Kopīgot pogas teksta krāsu"
+
+#: ../plugin-options/wishlist_page-options.php:498
+msgid "Choose colors for share buttons text"
+msgstr "Izvēlieties krāsas kopīgošanas pogu tekstam"
+
+#: ../plugin-options/wishlist_page-options.php:509
+msgid "Text hover"
+msgstr "Teksta kursors"
+
+#: ../plugin-options/wishlist_page-options.php:522
+msgid "Facebook share button icon"
+msgstr "Facebook kopīgošanas pogas ikona"
+
+#: ../plugin-options/wishlist_page-options.php:523
+msgid "Select an icon for the Facebook share button"
+msgstr "Atlasiet Facebook kopīgošanas pogas ikonu"
+
+#: ../plugin-options/wishlist_page-options.php:533
+msgid "Facebook share button custom icon"
+msgstr "Facebook kopīgošanas pogas pielāgotā ikona"
+
+#: ../plugin-options/wishlist_page-options.php:534
+msgid ""
+"Upload an icon you'd like to use for Facebook share button (suggested 32px x "
+"32px)"
+msgstr ""
+"Augšupielādējiet ikonu, kuru vēlaties izmantot Facebook kopīgošanas pogai "
+"(ieteicams 32 pikseļi x 32 pikseļi)"
+
+#: ../plugin-options/wishlist_page-options.php:542
+msgid "Facebook share button style"
+msgstr "Facebook kopīgošanas pogas stils"
+
+#: ../plugin-options/wishlist_page-options.php:543
+msgid "Choose colors for Facebook share button"
+msgstr "Izvēlieties krāsas Facebook kopīgošanas pogai"
+
+#: ../plugin-options/wishlist_page-options.php:554,
+#: ../plugin-options/wishlist_page-options.php:594,
+#: ../plugin-options/wishlist_page-options.php:634,
+#: ../plugin-options/wishlist_page-options.php:674,
+#: ../plugin-options/wishlist_page-options.php:714
+msgid "Background hover"
+msgstr "Fona kursors"
+
+#: ../plugin-options/wishlist_page-options.php:562
+msgid "Twitter share button icon"
+msgstr "Twitter kopīgošanas pogas ikona"
+
+#: ../plugin-options/wishlist_page-options.php:563
+msgid "Select an icon for the Twitter share button"
+msgstr "Atlasiet Twitter kopīgošanas pogas ikonu"
+
+#: ../plugin-options/wishlist_page-options.php:573
+msgid "Twitter share button custom icon"
+msgstr "Twitter kopīgošanas pogas pielāgotā ikona"
+
+#: ../plugin-options/wishlist_page-options.php:574
+msgid ""
+"Upload an icon you'd like to use for Twitter share button (suggested 32px x "
+"32px)"
+msgstr ""
+"Augšupielādējiet ikonu, kuru vēlaties izmantot Twitter kopīgošanas pogai "
+"(ieteicams 32 pikseļi x 32 pikseļi)"
+
+#: ../plugin-options/wishlist_page-options.php:582
+msgid "Twitter share button style"
+msgstr "Twitter kopīgošanas pogas stils"
+
+#: ../plugin-options/wishlist_page-options.php:583
+msgid "Choose colors for Twitter share button"
+msgstr "Izvēlieties krāsas kopīgošanas pogai Twitter"
+
+#: ../plugin-options/wishlist_page-options.php:602
+msgid "Pinterest share button icon"
+msgstr "Pinterest kopīgošanas pogas ikona"
+
+#: ../plugin-options/wishlist_page-options.php:603
+msgid "Select an icon for the Pinterest share button"
+msgstr "Atlasiet Pinterest kopīgošanas pogas ikonu"
+
+#: ../plugin-options/wishlist_page-options.php:613
+msgid "Pinterest share button custom icon"
+msgstr "Pinterest kopīgošanas pogas pielāgotā ikona"
+
+#: ../plugin-options/wishlist_page-options.php:614
+msgid ""
+"Upload an icon you'd like to use for Pinterest share button (suggested 32px "
+"x 32px)"
+msgstr ""
+"Augšupielādējiet ikonu, kuru vēlaties izmantot Pinterest kopīgošanas pogai "
+"(ieteicams 32 pikseļi x 32 pikseļi)"
+
+#: ../plugin-options/wishlist_page-options.php:622
+msgid "Pinterest share button style"
+msgstr "Pinterest dalīšanās pogas stils"
+
+#: ../plugin-options/wishlist_page-options.php:623
+msgid "Choose colors for Pinterest share button"
+msgstr "Izvēlieties krāsas Pinterest dalīšanas pogai"
+
+#: ../plugin-options/wishlist_page-options.php:642
+msgid "Email share button icon"
+msgstr "E-pasta kopīgošanas pogas ikona"
+
+#: ../plugin-options/wishlist_page-options.php:643
+msgid "Select an icon for the Email share button"
+msgstr "Pogas E-pasts kopīgošana atlasiet ikonu"
+
+#: ../plugin-options/wishlist_page-options.php:653
+msgid "Email share button custom icon"
+msgstr "E-pasta kopīgošanas pogas pielāgotā ikona"
+
+#: ../plugin-options/wishlist_page-options.php:654
+msgid ""
+"Upload an icon you'd like to use for the Email share button (suggested 32px "
+"x 32px)"
+msgstr ""
+"Augšupielādējiet ikonu, kuru vēlaties izmantot pogai E-pasta kopīgošana "
+"(ieteicams 32 pikseļi x 32 pikseļi)"
+
+#: ../plugin-options/wishlist_page-options.php:662
+msgid "Email share button style"
+msgstr "E-pasta kopīgošanas pogas stils"
+
+#: ../plugin-options/wishlist_page-options.php:663
+msgid "Choose colors for the Email share button"
+msgstr "Izvēlieties krāsas pogai E-pasta kopīgošana"
+
+#: ../plugin-options/wishlist_page-options.php:682
+msgid "WhatsApp share button icon"
+msgstr "WhatsApp kopīgošanas pogas ikona"
+
+#: ../plugin-options/wishlist_page-options.php:683
+msgid "Select an icon for the WhatsApp share button"
+msgstr "Pogas WhatsApp kopīgošanas ikonai atlasiet"
+
+#: ../plugin-options/wishlist_page-options.php:693
+msgid "WhatsApp share button custom icon"
+msgstr "WhatsApp kopīgošanas pogas pielāgotā ikona"
+
+#: ../plugin-options/wishlist_page-options.php:694
+msgid ""
+"Upload an icon you'd like to use for WhatsApp share button (suggested 32px x "
+"32px)"
+msgstr ""
+"Augšupielādējiet ikonu, kuru vēlaties izmantot WhatsApp kopīgošanas pogai "
+"(ieteicams 32 pikseļi x 32 pikseļi)"
+
+#: ../plugin-options/wishlist_page-options.php:702
+msgid "WhatsApp share button style"
+msgstr "WhatsApp kopīgošanas pogas stils"
+
+#: ../plugin-options/wishlist_page-options.php:703
+msgid "Choose colors for WhatsApp share button"
+msgstr "Izvēlieties krāsas WhatsApp kopīgošanas pogai"
+
+#: ../templates/admin/wishlist-panel-premium.php:168,
+#: ../templates/admin/wishlist-panel-premium.php:309
+msgid ""
+"Upgrade to the %1$spremium version %2$s %3$sof %1$sYITH WooCommerce "
+"Wishlist %2$s to benefit from all features!"
+msgstr ""
+"Jauniniet uz %1$s premium versiju %2$s %3$s no %1$s YITH WooCommerce Wishlist "
+"%2$s, lai izmantotu visas funkcijas!"
+
+#: ../templates/admin/wishlist-panel-premium.php:170,
+#: ../templates/admin/wishlist-panel-premium.php:311
+msgid "Upgrade"
+msgstr "Jaunināt"
+
+#: ../templates/admin/wishlist-panel-premium.php:176
+msgid "Premium Features"
+msgstr "Premium iespējas"
+
+#: ../templates/admin/wishlist-panel-premium.php:180
+msgid "Allow your customers to create multiple wishlists"
+msgstr "Ļaujiet klientiem izveidot vairākus vēlmju sarakstus"
+
+#: ../templates/admin/wishlist-panel-premium.php:182
+msgid ""
+"Christmas, Birthday... users will be able to create and manage multiple "
+"wishlists, in case they prefer to keep the products sorted by category or "
+"other parameters."
+msgstr ""
+"Ziemassvētki, dzimšanas diena ... lietotāji varēs izveidot un pārvaldīt "
+"vairākus vēlmju sarakstus, ja viņi labprātāk produktus sakārtotu pēc "
+"kategorijas vai citiem parametriem."
+
+#: ../templates/admin/wishlist-panel-premium.php:185
+msgid "Multiple Wishlist"
+msgstr "Vairāki vēlmju saraksti"
+
+#: ../templates/admin/wishlist-panel-premium.php:192
+msgid "Wishlist Private"
+msgstr "Vēlmju saraksts privāts"
+
+#: ../templates/admin/wishlist-panel-premium.php:196
+msgid "A transparent privacy management"
+msgstr "Pārredzama privātuma pārvaldība"
+
+#: ../templates/admin/wishlist-panel-premium.php:198
+msgid ""
+"Your customers can set a privacy option for each wishlist and choose whether "
+"sharing the wishlist or making it private."
+msgstr ""
+"Jūsu klienti var iestatīt katra vēlmju saraksta privātuma iespēju un "
+"izvēlēties, vai dalīties ar vēlmju sarakstu vai padarīt to privātu."
+
+#: ../templates/admin/wishlist-panel-premium.php:206
+msgid ""
+"Allow your customers to ask for an estimate, directly from their wishlist "
+"page"
+msgstr "Ļaujiet klientiem lūgt tāmi tieši no viņu vēlmju saraksta"
+
+#: ../templates/admin/wishlist-panel-premium.php:208
+msgid ""
+"And give only registered users the privilege to use the wishlist "
+"functionalities."
+msgstr ""
+"Un tikai reģistrētiem lietotājiem dodiet iespēju izmantot vēlmju saraksta "
+"funkcijas."
+
+#: ../templates/admin/wishlist-panel-premium.php:211
+msgid "Estimate Cost"
+msgstr "Paredzamās izmaksas"
+
+#: ../templates/admin/wishlist-panel-premium.php:218
+msgid "Admin Panel"
+msgstr "Administratora panelis"
+
+#: ../templates/admin/wishlist-panel-premium.php:222
+msgid "An advanced and more versatile management of the wishlist"
+msgstr "Uzlabota un daudzpusīga vēlmju saraksta pārvaldība"
+
+#: ../templates/admin/wishlist-panel-premium.php:224
+msgid ""
+"Your customers can sort the products in the wishlist thanks to the drag&drop "
+"option, move products from one wishlist to another, manage product quantity, "
+"download the wishlist content to a .pdf file, share the wishlist on their "
+"social networks, and much more!"
+msgstr ""
+"Jūsu klienti var kārtot produktus vēlmju sarakstā, pateicoties vilkšanas un "
+"nomešanas opcijai, pārvietot produktus no viena vēlmju saraksta uz citu, "
+"pārvaldīt produktu daudzumu, lejupielādēt vēlmju saraksta saturu .pdf failā, "
+"dalīties ar vēlmju sarakstu savos sociālajos tīklos un vēl daudz vairāk!"
+
+#: ../templates/admin/wishlist-panel-premium.php:232
+msgid "Monitor your customers’ wishlists and the popular products"
+msgstr "Pārraugiet klientu vēlmju sarakstus un populāros produktus"
+
+#: ../templates/admin/wishlist-panel-premium.php:234
+msgid ""
+"You can see your customers’ wishlists, gain insight into the products they "
+"are more interested in and plan targeted marketing strategies."
+msgstr ""
+"Jūs varat redzēt savu klientu vēlmju sarakstus, gūt ieskatu produktos, kas "
+"viņus vairāk interesē, un plānot mērķtiecīgas mārketinga stratēģijas."
+
+#: ../templates/admin/wishlist-panel-premium.php:237
+msgid "Search Wishlists"
+msgstr "Meklēt vēlmju sarakstos"
+
+#: ../templates/admin/wishlist-panel-premium.php:244
+msgid "'ADD TO CART'"
+msgstr "'PIEVIENOT GROZAM'"
+
+#: ../templates/admin/wishlist-panel-premium.php:248
+msgid ""
+"Send promotional emails for products in wishlists to push customers to buy"
+msgstr ""
+"Nosūtiet reklāmas e-pastus par produktiem vēlmju sarakstos, lai mudinātu "
+"klientus pirkt"
+
+#: ../templates/admin/wishlist-panel-premium.php:250
+msgid ""
+"Just three clicks to send promotional emails with discount coupons to "
+"customers who have added specific products to their wishlist and push them "
+"to buy."
+msgstr ""
+"Tikai trīs klikšķi, lai nosūtītu reklāmas e-pastus ar atlaižu kuponiem "
+"klientiem, kuri vēlmju sarakstam ir pievienojuši noteiktus produktus un "
+"piespiež tos pirkt."
+
+#: ../templates/admin/wishlist-panel-premium.php:258
+msgid "Let users buy the product right from the wishlist page"
+msgstr "Ļaujiet lietotājiem iegādāties produktu tieši vēlmju saraksta lapā"
+
+#: ../templates/admin/wishlist-panel-premium.php:260
+msgid ""
+"Let them move products from one wishlist to the cart in one click, keeping "
+"also the information about the size, colour or quantity selected when added "
+"to the wishlist."
+msgstr ""
+"Ļaujiet viņiem ar vienu klikšķi pārvietot produktus no viena vēlmju saraksta "
+"uz grozu, saglabājot arī informāciju par izvēlēto izmēru, krāsu vai daudzumu,"
+" kad tas tiek pievienots vēlmju sarakstam."
+
+#: ../templates/admin/wishlist-panel-premium.php:263
+msgid "DISABLE WISHLIST"
+msgstr "DISPLAY WISHLIST"
+
+#: ../templates/admin/wishlist-panel-premium.php:271
+msgid "Choose a charming layout for your wishlist page"
+msgstr "Savam vēlmju sarakstam izvēlieties burvīgu izkārtojumu"
+
+#: ../templates/admin/wishlist-panel-premium.php:273
+msgid ""
+"The wishlist is one of the most used functionalities in an ecommerce store "
+"but often the page layout is not enhanced enough and looks unattractive to "
+"the user. With our plugin, you can choose among some alternative layouts and "
+"offer an even more interesting experience to users who creates a wishlist on "
+"your website."
+msgstr ""
+"Vēlmju saraksts ir viena no e-komercijas veikalā visbiežāk izmantotajām "
+"funkcijām, taču bieži lapas izkārtojums nav pietiekami uzlabots un "
+"lietotājam tas šķiet nepievilcīgs. Izmantojot mūsu spraudni, jūs varat "
+"izvēlēties starp dažiem alternatīviem izkārtojumiem un piedāvāt vēl "
+"interesantāku pieredzi lietotājiem, kuri jūsu vietnē izveido vēlmju sarakstu."
+
+#: ../templates/admin/wishlist-panel-premium.php:276
+msgid "UNLOGGED USERS"
+msgstr "NEIZLIEGTI LIETOTĀJI"
+
+#: ../templates/admin/wishlist-panel-premium.php:284
+msgid "Wishlist widgets for the header and sidebars"
+msgstr "Wishlist logrīki galvenes un sānjoslām"
+
+#: ../templates/admin/wishlist-panel-premium.php:286
+msgid ""
+"Increase the wishlist visibility through our modern widgets that you can use "
+"in the header, in the sidebars, wherever you want."
+msgstr ""
+"Palieliniet vēlmju saraksta redzamību, izmantojot mūsu modernos logrīkus, "
+"kurus varat izmantot galvenē, sānjoslās, kur vien vēlaties."
+
+#: ../templates/admin/wishlist-panel-premium.php:289
+msgid "POPULAR TABLE"
+msgstr "POPULĀRĀ TABULA"
+
+#: ../templates/admin/wishlist-panel-premium.php:296
+msgid "FUNCTIONALITIES"
+msgstr "FUNKCIONALITĀTES"
+
+#: ../templates/admin/wishlist-panel-premium.php:300
+msgid "Allow users to monitor the price of the products in their wishlist"
+msgstr ""
+"Ļaujiet lietotājiem uzraudzīt to produktu cenu, kas atrodas viņu vēlmju "
+"sarakstā"
+
+#: ../templates/admin/wishlist-panel-premium.php:302
+msgid ""
+"We took inspiration from one of the most interesting features of Amazon "
+"product pages: from now on, users can realise what’s the best time to buy a "
+"product and how much they can save when there’s a promotion running or a "
+"discount on the product they’ve added to the wishlist."
+msgstr ""
+"Mēs iedvesmojāmies no vienas no Amazon produktu lapu interesantākajām "
+"funkcijām: no šī brīža lietotāji var saprast, kurš ir labākais laiks "
+"produkta iegādei un cik daudz viņi var ietaupīt, ja notiek reklāmas "
+"piedāvājums vai atlaide savam produktam pievienots vēlmju sarakstam."
+
+#: ../templates/share.php:45, ../templates/share.php:46
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../templates/share.php:53, ../templates/share.php:54
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../templates/share.php:61, ../templates/share.php:62
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../templates/share.php:69, ../templates/share.php:70
+msgid "Email"
+msgstr "E-pasts"
+
+#: ../templates/share.php:78
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: ../templates/share.php:79
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: ../templates/share.php:89
+msgid "(Now"
+msgstr "(Tagad"
+
+#: ../templates/share.php:89
+msgid "copy"
+msgstr "kopija"
+
+#: ../templates/share.php:89
+msgid "this wishlist link and share it anywhere)"
+msgstr "šo vēlmju saraksta saiti un koplietot to jebkur)"
+
+#: ../templates/wishlist-view-footer-mobile.php:42,
+#: ../templates/wishlist-view-footer.php:42
+msgid "Apply this action to all the selected items:"
+msgstr "Veiciet šo darbību visiem atlasītajiem vienumiem:"
+
+#: ../templates/wishlist-view-footer-mobile.php:47,
+#: ../templates/wishlist-view-footer.php:47
+msgid "Remove from wishlist"
+msgstr "Noņemt no vēlmju saraksta"
+
+#. translators: 1. Wishlist formatted name.
+#: ../templates/wishlist-view-footer-mobile.php:60,
+#: ../templates/wishlist-view-footer.php:63
+msgid "Move to %s"
+msgstr "Pārvietot uz %s"
+
+#: ../templates/wishlist-view-footer-mobile.php:64,
+#: ../templates/wishlist-view-footer.php:69
+msgid "Apply"
+msgstr "Piesakies"
+
+#: ../templates/wishlist-view-footer-mobile.php:72,
+#: ../templates/wishlist-view-footer.php:77
+msgid "Update"
+msgstr "Atjaunināt"
+
+#: ../templates/wishlist-view-footer-mobile.php:78,
+#: ../templates/wishlist-view-footer.php:99
+msgid "Add all to cart"
+msgstr "Pievienot visu grozam"
+
+#: ../templates/wishlist-view-header.php:41
+msgid "Edit title"
+msgstr "Rediģēt virsrakstu"
+
+#: ../templates/wishlist-view-header.php:48
+msgid "Save"
+msgstr "Saglabāt"
+
+#: ../templates/wishlist-view-header.php:51
+msgid "Cancel"
+msgstr "Atcelt"
+
+#: ../templates/wishlist-view-mobile.php:126
+msgid "Added on:"
+msgstr "Pievienots:"
+
+#: ../templates/wishlist-view-mobile.php:137
+msgid "Price:"
+msgstr "Cena:"
+
+#: ../templates/wishlist-view-mobile.php:164
+msgid "Quantity:"
+msgstr "Daudzums:"
+
+#: ../templates/wishlist-view-mobile.php:179
+msgid "Stock:"
+msgstr "Krājums:"
+
+#: ../templates/wishlist-view-mobile.php:182,
+#: ../templates/wishlist-view.php:224
+msgid "Out of stock"
+msgstr "Nav veikalā"
+
+#: ../templates/wishlist-view-mobile.php:182,
+#: ../templates/wishlist-view.php:224
+msgid "In Stock"
+msgstr "Noliktavā"
+
+#: ../templates/wishlist-view-mobile.php:201,
+#: ../templates/wishlist-view.php:257
+msgid "Move"
+msgstr "Kustēties"
+
+#: ../templates/wishlist-view-mobile.php:220,
+#: ../templates/wishlist-view.php:277
+msgid "Move to another list &rsaquo;"
+msgstr "Pārvietot uz citu sarakstu ›"
+
+#: ../templates/wishlist-view-mobile.php:228,
+#: ../templates/wishlist-view.php:155, ../templates/wishlist-view.php:287
+msgid "Remove this product"
+msgstr "Noņemiet šo produktu"
+
+#: ../templates/wishlist-view-mobile.php:238,
+#: ../templates/wishlist-view.php:307
+msgid "No products added to the wishlist"
+msgstr "Neviens produkts nav pievienots vēlmju sarakstam"
+
+#: ../templates/wishlist-view.php:78
+msgid "Product name"
+msgstr "Nosaukums"
+
+#: ../templates/wishlist-view.php:86
+msgid "Unit price"
+msgstr "Cena par vienību"
+
+#: ../templates/wishlist-view.php:95
+msgid "Quantity"
+msgstr "Daudzums"
+
+#: ../templates/wishlist-view.php:104
+msgid "Stock status"
+msgstr "Krājumu statuss"
+
+#: ../templates/wishlist-view.php:122
+msgid "Arrange"
+msgstr "Sakārtojiet"
+
+#. translators: date added label: 1 date added.
+#: ../templates/wishlist-view.php:238
+msgid "Added on: %s"
+msgstr "Pievienots: %s"
+
+#: ../templates/wishlist-view.php:287
+msgid "Remove"
+msgstr "Noņemt"

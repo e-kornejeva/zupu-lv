@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Customize\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-06 21:02+0000\n"
+"PO-Revision-Date: 2020-07-07 15:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: Latviešu valoda\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=n % 10 == 1 && n % 100 != 11 ? 0 : n != 0 ? "
+"1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#. Description of the plugin
+msgid ""
+"A simple and easy way to Customize woocommerce, disable unwanted checkout "
+"feelds, free checkout, chenge WooCommerce button names and change colour "
+"schemes and My Account page."
+msgstr ""
+"Vienkāršs un ērts veids, kā pielāgot e-komerciju, atspējot nevēlamus "
+"izrakstīšanās gadījumus, bezmaksas izrakstīšanos, sašifrēt WooCommerce pogu "
+"nosaukumus un mainīt krāsu shēmas un lapu Mans konts."
+
+#: woo-customize.php:501 woo-customize.php:512 woo-customize.php:523
+#: functions.php:25 functions.php:26 functions.php:27
+msgid "Add to Cart"
+msgstr "Pievienot grozam"
+
+#: settings-page.php:96
+msgid "Add to Cart text"
+msgstr "Pievienot groza tekstu"
+
+#: settings-page.php:55
+msgid "Address 1"
+msgstr "Adrese 1"
+
+#: settings-page.php:58
+msgid "Address 2"
+msgstr "adrese 2"
+
+#. ID
+#: woo-customize.php:112
+msgid "Change colour and Button text"
+msgstr "Mainiet krāsu un pogas tekstu"
+
+#: settings-page.php:32
+msgid "Change Colour Scheme"
+msgstr "Mainīt krāsu shēmu"
+
+#: settings-page.php:61
+msgid "City"
+msgstr "Pilsēta"
+
+#: woo-customize.php:64
+msgid "Colours and Button text"
+msgstr "Krāsu un pogas teksts"
+
+#: settings-page.php:52
+msgid "Company"
+msgstr "Uzņēmums"
+
+#: settings-page.php:67
+msgid "Country"
+msgstr "Valsts"
+
+#: settings-page.php:92
+msgid "Default colour"
+msgstr "Noklusējuma krāsa"
+
+#: settings-page.php:22
+msgid "Disable billing fields"
+msgstr "Atspējot norēķinu laukus"
+
+#. ID
+#: woo-customize.php:105
+msgid "Disable billing fields for free and virtual Woocommerce products"
+msgstr ""
+"Atspējojiet norēķinu laukus bezmaksas un virtuāliem Woocommerce produktiem"
+
+#. ID
+#: woo-customize.php:98
+msgid "Disable billing fields for Woocommerce products"
+msgstr "Atspējot norēķinu laukus Woocommerce produktiem"
+
+#: settings-page.php:27
+msgid "Disable fields for free products"
+msgstr "Atspējot bezmaksas produktu laukus"
+
+#: settings-page.php:76
+msgid "Email"
+msgstr "E-pasts"
+
+#: settings-page.php:46
+msgid "First Name"
+msgstr "Vārds"
+
+#: woo-customize.php:63
+msgid "Free & Virtual Product"
+msgstr "Bezmaksas un virtuāls produkts"
+
+#: woo-customize.php:62
+msgid "General Product"
+msgstr "Vispārīgs produkts"
+
+#: settings-page.php:49
+msgid "Last Name"
+msgstr "Uzvārds"
+
+#: settings-page.php:73
+msgid "Phone"
+msgstr "Tālr"
+
+#: settings-page.php:64
+msgid "Postcode"
+msgstr "Pasta indekss"
+
+#: settings-page.php:82
+msgid "Remove Checkout fields for Free products"
+msgstr "Noņemiet Checkout laukus bezmaksas produktiem"
+
+#: settings-page.php:86
+msgid "Remove Checkout fields for Virtual products"
+msgstr "Noņemiet virtuālo produktu Checkout laukus"
+
+#: settings-page.php:70
+msgid "State"
+msgstr "Valsts"
+
+#. Name of the plugin
+msgid "Woo Customize"
+msgstr "Woo Pielāgot"
+
+#: settings-page.php:11
+msgid "Woocommerce Customize"
+msgstr "Woocommerce pielāgot"
+
+#: woo-customize.php:59
+msgid "Woocommerce Customize Settings"
+msgstr "Woocommerce pielāgojiet iestatījumus"
+
+#: settings-page.php:28
+msgid ""
+"You can disable all billing fields for free products by checking the "
+"relevent field."
+msgstr ""
+"Varat atspējot visus bezmaksas produktu norēķinu laukus, pārbaudot "
+"atbilstošo lauku."
+
+#: settings-page.php:23
+msgid "You can disable unwanted billing fields by checking the relevent field."
+msgstr "Varat atspējot nevēlamus norēķinu laukus, pārbaudot atbilstošo lauku."

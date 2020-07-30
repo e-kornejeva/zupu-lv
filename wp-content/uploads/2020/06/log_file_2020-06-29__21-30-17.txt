@@ -1,0 +1,50 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Norādītais fails neizturēja augšupielādes pārbaudi.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://34.91.107.155
+Data file = /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/06/post-pages.xml
+Widget file = /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/06/widgets.wie
+Customizer file = /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/06/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Home Page Header Widgets : 
+
+Teksta redaktors - No Title - Imported
+
+Main Sidebar : 
+
+Meklēt - No Title - Widget already exists
+Jaunākās ziņas - No Title - Widget already exists
+Jaunākie komentāri - No Title - Widget already exists
+Arhīvi - No Title - Widget already exists
+Kategorijas - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Produktu meklēšana - No Title - Widget already exists
+Filtrēt produktus pēc cenas - No Title - Widget already exists
+Produktu kategorijas - No Title - Widget already exists
+Filtrēt produktus pēc cenas - Filter by price - Widget already exists
+Filtrēt produktus pēc atribūtiem - Filter by - Widget already exists
+Aktīvie produktu filtri - Active filters - Widget already exists
+Grozs - Cart - Imported
+Meklēt - Search Products - Widget already exists
+Produkti - Products - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

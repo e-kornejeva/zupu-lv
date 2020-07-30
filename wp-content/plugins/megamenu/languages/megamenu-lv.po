@@ -1,0 +1,1133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Max Mega Menu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-16 05:21+0000\n"
+"PO-Revision-Date: 2020-07-16 05:21+0000\n"
+"Last-Translator: zupu.lv\n"
+"Language-Team: Latviešu valoda\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=n % 10 == 1 && n % 100 != 11 ? 0 : n != 0 ? "
+"1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: classes/widget-reusable-block.class.php:96
+#: classes/widget-elementor-template.class.php:101
+#, fuzzy
+msgid "- Select -"
+msgstr "- Atlasīt -"
+
+#: classes/widget.class.php:127
+#, fuzzy
+msgid "Active locations"
+msgstr "Aktīvās atrašanās vietas"
+
+#: classes/page.locations.class.php:285
+#, fuzzy
+msgid "Add another menu location"
+msgstr "Pievienojiet citu izvēlnes vietu"
+
+#: classes/toggle-blocks.class.php:656
+#, fuzzy
+msgid "Add block to toggle bar"
+msgstr "Pievienojiet bloķēšanas taustiņu pārslēgšanai"
+
+#: classes/page.locations.class.php:1025
+#, fuzzy
+msgid "Add the 'Max Mega Menu' widget to a widget area."
+msgstr "Logrīku apgabalā pievienojiet logrīku “Max Mega Menu”."
+
+#: classes/toggle-blocks.class.php:839
+#, fuzzy
+msgid "After"
+msgstr "Pēc"
+
+#. Description of the plugin
+#, fuzzy
+msgid "An easy to use mega menu plugin. Written the WordPress way."
+msgstr "Viegli lietojams mega izvēlnes spraudnis. Uzrakstīja WordPress ceļu."
+
+#: classes/toggle-blocks.class.php:898
+#, fuzzy
+msgid "Animated Menu Toggle Settings"
+msgstr "Animācijas izvēlne / Pārslēgt iestatījumus"
+
+#: classes/page.locations.class.php:263 classes/page.locations.class.php:316
+#, fuzzy
+msgid "Assign a menu"
+msgstr "Piešķiriet izvēlnei"
+
+#: classes/toggle-blocks.class.php:838
+#, fuzzy
+msgid "Before"
+msgstr "Iepriekš"
+
+#: classes/widget-reusable-block.class.php:94
+#, fuzzy
+msgid "Block"
+msgstr "Bloķēt"
+
+#: classes/page.locations.class.php:395
+#, fuzzy
+msgid "Choose a style for your mobile menu"
+msgstr "Izvēlieties sava mobilās izvēlnes stilu"
+
+#: classes/menu-item-manager.class.php:797
+#, fuzzy
+msgid "Choose from over 100 genericons with {link}"
+msgstr "Izvēlieties no vairāk nekā 100 genericiem ar {link}"
+
+#: megamenu.php:1247
+#, fuzzy
+msgid "clear the CSS cache"
+msgstr "notīriet CSS kešatmiņu"
+
+#: classes/page.locations.class.php:810 classes/nav-menus.class.php:366
+#, fuzzy
+msgid "Click"
+msgstr "Klikšķis"
+
+#: classes/toggle-blocks.class.php:730
+#, fuzzy
+msgid ""
+"Click on a block to edit it, or drag and drop it to resposition the block "
+"within the toggle bar"
+msgstr ""
+"Noklikšķiniet uz bloka, lai to rediģētu, vai velciet un nometiet to, lai "
+"bloku mainītu pārslēgšanas joslā"
+
+#: classes/nav-menus.class.php:304
+#, fuzzy
+msgid "Click {link} for instructions."
+msgstr "Noklikšķiniet uz {link}, lai iegūtu instrukcijas."
+
+#: classes/widget-manager.class.php:141 classes/widget-manager.class.php:885
+#, fuzzy
+msgid "Close"
+msgstr "Aizveriet"
+
+#: classes/toggle-blocks.class.php:815
+#, fuzzy
+msgid "Closed Icon"
+msgstr "Slēgta ikona"
+
+#: classes/toggle-blocks.class.php:809
+#, fuzzy
+msgid "Closed Text"
+msgstr "Slēgts teksts"
+
+#: classes/menu-item-manager.class.php:747
+#, fuzzy
+msgid "Collapse sub menu"
+msgstr "Sakļaut apakšizvēlni"
+
+#: classes/toggle-blocks.class.php:904
+#, fuzzy
+msgid "Color"
+msgstr "Krāsa"
+
+#: classes/menu-item-manager.class.php:447
+#: classes/menu-item-manager.class.php:499
+#: classes/menu-item-manager.class.php:500
+#: classes/menu-item-manager.class.php:501
+#: classes/menu-item-manager.class.php:502
+#, fuzzy
+msgid "Column"
+msgstr "Kolonna"
+
+#: classes/menu-item-manager.class.php:247
+#: classes/menu-item-manager.class.php:431 classes/widget-manager.class.php:131
+#, fuzzy
+msgid "column"
+msgstr "kolonna"
+
+#: classes/menu-item-manager.class.php:525
+#, fuzzy
+msgid "Column class"
+msgstr "Kolonnu klase"
+
+#: classes/menu-item-manager.class.php:248
+#: classes/menu-item-manager.class.php:249
+#: classes/menu-item-manager.class.php:250
+#: classes/menu-item-manager.class.php:251
+#: classes/menu-item-manager.class.php:252
+#: classes/menu-item-manager.class.php:253
+#: classes/menu-item-manager.class.php:254
+#: classes/menu-item-manager.class.php:255
+#: classes/menu-item-manager.class.php:256
+#: classes/menu-item-manager.class.php:257
+#: classes/menu-item-manager.class.php:258
+#: classes/menu-item-manager.class.php:432
+#: classes/menu-item-manager.class.php:433
+#: classes/menu-item-manager.class.php:434
+#: classes/menu-item-manager.class.php:435
+#: classes/menu-item-manager.class.php:436
+#: classes/menu-item-manager.class.php:437
+#: classes/menu-item-manager.class.php:438
+#: classes/menu-item-manager.class.php:439
+#: classes/menu-item-manager.class.php:440
+#: classes/menu-item-manager.class.php:441
+#: classes/menu-item-manager.class.php:442 classes/widget-manager.class.php:132
+#: classes/widget-manager.class.php:133 classes/widget-manager.class.php:134
+#: classes/widget-manager.class.php:135 classes/widget-manager.class.php:136
+#, fuzzy
+msgid "columns"
+msgstr "kolonnas"
+
+#: classes/toggle-blocks.class.php:383
+#, fuzzy
+msgid "Configure the contents of the mobile toggle bar"
+msgstr "Konfigurējiet mobilās pārslēgšanas joslas saturu"
+
+#: classes/menu-item-manager.class.php:517
+#: classes/menu-item-manager.class.php:575 classes/widget-manager.class.php:950
+#, fuzzy
+msgid "Contract"
+msgstr "Līgums"
+
+#: classes/nav-menus.class.php:224
+#, fuzzy
+msgid "Custom CSS Classes will be prefixed with 'mega-'"
+msgstr "Pielāgotajām CSS klasēm būs prefikss ar “mega-”"
+
+#: classes/menu-item-manager.class.php:800
+#, fuzzy
+msgid "Custom Icon"
+msgstr "Pielāgota ikona"
+
+#: classes/menu-item-manager.class.php:785
+#, fuzzy
+msgid "Dashicons"
+msgstr "Dašikoni"
+
+#: classes/menu-item-manager.class.php:668 classes/style-manager.class.php:70
+#, fuzzy
+msgid "Default"
+msgstr "Noklusējums"
+
+#: classes/toggle-blocks.class.php:768 classes/toggle-blocks.class.php:842
+#: classes/toggle-blocks.class.php:918 classes/widget-manager.class.php:884
+#, fuzzy
+msgid "Delete"
+msgstr "Dzēst"
+
+#: classes/page.locations.class.php:641
+#, fuzzy
+msgid "Delete location"
+msgstr "Dzēst atrašanās vietu"
+
+#: classes/widget-manager.class.php:292
+#, fuzzy, php-format
+msgid "Deleted %s"
+msgstr "Izdzēsts %s"
+
+#: classes/widget-manager.class.php:320
+#, fuzzy
+msgid "Didn't move items"
+msgstr "Nepārvietoja preces"
+
+#: classes/widget-manager.class.php:353
+#, fuzzy
+msgid "Didn't save"
+msgstr "Netaupīja"
+
+#: classes/menu-item-manager.class.php:630
+#, fuzzy
+msgid "Disable Link"
+msgstr "Atspējot saiti"
+
+#: classes/toggle-blocks.class.php:940
+#, fuzzy
+msgid "Disabled"
+msgstr "Invalīds"
+
+#: classes/menu-item-manager.class.php:540
+#: classes/menu-item-manager.class.php:578 classes/widget-manager.class.php:955
+#, fuzzy
+msgid "Edit"
+msgstr "Rediģēt"
+
+#: classes/page.locations.class.php:375 classes/nav-menus.class.php:371
+#, fuzzy
+msgid "Effect"
+msgstr "Efekts"
+
+#: classes/page.locations.class.php:394 classes/nav-menus.class.php:430
+#, fuzzy
+msgid "Effect (Mobile)"
+msgstr "Efekts (mobilais)"
+
+#: classes/nav-menus.class.php:355
+#, fuzzy
+msgid "Enable"
+msgstr "Iespējot"
+
+#: classes/page.locations.class.php:352
+#, fuzzy
+msgid "Enable Max Mega Menu for this menu location?"
+msgstr "Vai šajā izvēlnes vietā iespējot izvēlni Max Mega?"
+
+#: classes/page.locations.class.php:351
+#, fuzzy
+msgid "Enabled"
+msgstr "Iespējots"
+
+#: classes/page.locations.class.php:363 classes/nav-menus.class.php:361
+#, fuzzy
+msgid "Event"
+msgstr "Pasākums"
+
+#: classes/menu-item-manager.class.php:519
+#: classes/menu-item-manager.class.php:577 classes/widget-manager.class.php:952
+#, fuzzy
+msgid "Expand"
+msgstr "Izvērsiet"
+
+#: classes/page.locations.class.php:842 classes/nav-menus.class.php:384
+#, fuzzy
+msgid "Fade"
+msgstr "Izbalināt"
+
+#: classes/page.locations.class.php:846 classes/nav-menus.class.php:388
+#, fuzzy
+msgid "Fade Up"
+msgstr "Pazust"
+
+#: classes/widget-manager.class.php:272
+#, fuzzy, php-format
+msgid "Failed to add %s to %d"
+msgstr "Neizdevās pievienot %s mapei %d"
+
+#: classes/widget-manager.class.php:294
+#, fuzzy, php-format
+msgid "Failed to delete %s"
+msgstr "Neizdevās izdzēst %s"
+
+#: classes/widget-manager.class.php:201
+#, fuzzy, php-format
+msgid "Failed to save %s"
+msgstr "Neizdevās saglabāt %s"
+
+#: classes/widget-manager.class.php:224 classes/widget-manager.class.php:247
+#, fuzzy, php-format
+msgid "Failed to update %s"
+msgstr "Neizdevās atjaunināt %s"
+
+#: classes/page.locations.class.php:883 classes/page.locations.class.php:952
+#: classes/nav-menus.class.php:416 classes/nav-menus.class.php:471
+#, fuzzy
+msgid "Fast"
+msgstr "Ātri"
+
+#: classes/menu-item-manager.class.php:227
+#, fuzzy
+msgid "Flyout Menu"
+msgstr "Flyout izvēlne"
+
+#: classes/menu-item-manager.class.php:790
+#, fuzzy
+msgid "Font Awesome"
+msgstr "Fonts satriecošs"
+
+#: classes/page.locations.class.php:444
+#, fuzzy
+msgid "For use in a post or page."
+msgstr "Izmantošanai ziņojumā vai lapā."
+
+#: classes/page.locations.class.php:432
+#, fuzzy
+msgid "For use in a theme template (usually header.php)"
+msgstr "Izmantošanai motīvu veidnē (parasti header.php)"
+
+#: classes/page.locations.class.php:456
+#, fuzzy
+msgid "For use in a widget area."
+msgstr "Izmantošanai logrīku apgabalā."
+
+#: classes/page.locations.class.php:347
+#, fuzzy
+msgid "General Settings"
+msgstr "Vispārīgie iestatījumi"
+
+#: classes/menu-item-manager.class.php:795
+#, fuzzy
+msgid "Genericons"
+msgstr "Generikoni"
+
+#: classes/menu-item-manager.class.php:792
+#, fuzzy
+msgid "Get access to over 400 Font Awesome Icons with {link}"
+msgstr ""
+"Piekļūstiet vairāk nekā 400 fantastisku fontu ikonām, izmantojot {link}"
+
+#: classes/nav-menus.class.php:300
+#, fuzzy
+msgid "here"
+msgstr "šeit"
+
+#: classes/menu-item-manager.class.php:406
+#: classes/menu-item-manager.class.php:500
+#, fuzzy
+msgid "Hidden on desktop"
+msgstr "Paslēpts uz darbvirsmas"
+
+#: classes/menu-item-manager.class.php:408
+#: classes/menu-item-manager.class.php:502
+#, fuzzy
+msgid "Hidden on mobile"
+msgstr "Slēpts mobilajā ierīcē"
+
+#: classes/menu-item-manager.class.php:622
+#, fuzzy
+msgid "Hide Arrow"
+msgstr "Paslēpt bultiņu"
+
+#: classes/menu-item-manager.class.php:646
+#, fuzzy
+msgid "Hide Item on Desktop"
+msgstr "Slēpt vienumu darbvirsmā"
+
+#: classes/menu-item-manager.class.php:638
+#, fuzzy
+msgid "Hide Item on Mobile"
+msgstr "Slēpt vienumu mobilajā ierīcē"
+
+#: classes/menu-item-manager.class.php:725
+#, fuzzy
+msgid "Hide Sub Menu on Mobile"
+msgstr "Slēpt apakšizvēlni mobilajā ierīcē"
+
+#: classes/menu-item-manager.class.php:614
+#, fuzzy
+msgid "Hide Text"
+msgstr "Slēpt tekstu"
+
+#: classes/page.locations.class.php:809 classes/nav-menus.class.php:365
+#, fuzzy
+msgid "Hover"
+msgstr "Novietojiet kursoru"
+
+#: classes/page.locations.class.php:808 classes/nav-menus.class.php:364
+#, fuzzy
+msgid "Hover Intent"
+msgstr "Virziet nodomu"
+
+#. URI of the plugin
+#. Author URI of the plugin
+#, fuzzy
+msgid "https://www.megamenu.com"
+msgstr "https://www.megamenu.com"
+
+#: classes/menu-item-manager.class.php:841
+#, fuzzy
+msgid "Icon"
+msgstr "Ikona"
+
+#: classes/toggle-blocks.class.php:830
+#, fuzzy
+msgid "Icon Color"
+msgstr "Ikonas krāsa"
+
+#: classes/menu-item-manager.class.php:684 classes/toggle-blocks.class.php:837
+#, fuzzy
+msgid "Icon Position"
+msgstr "Ikonas pozīcija"
+
+#: classes/toggle-blocks.class.php:834
+#, fuzzy
+msgid "Icon Size"
+msgstr "Ikonas lielums"
+
+#: megamenu.php:1286
+#, fuzzy
+msgid ""
+"If you are trying to display Max Mega Menu here, use the 'Max Mega Menu' "
+"widget instead."
+msgstr ""
+"Ja jūs mēģināt šeit parādīt izvēlni Max Mega, tā vietā izmantojiet logrīku "
+"Max Max Mega."
+
+#: classes/widget.class.php:137
+#, fuzzy
+msgid "Inactive locations"
+msgstr "Neaktīvas vietas"
+
+#: classes/menu-item-manager.class.php:673
+#, fuzzy
+msgid ""
+"Item will be aligned based on the 'Menu Items Align' option set in the Theme "
+"Editor"
+msgstr ""
+"Vienums tiks izlīdzināts, pamatojoties uz motīvu redaktorā iestatīto opciju "
+"“Izvēlnes vienumu līdzināšana”"
+
+#: classes/toggle-blocks.class.php:916
+#, fuzzy
+msgid "Label"
+msgstr "Etiķete"
+
+#: classes/toggle-blocks.class.php:911
+#, fuzzy
+msgid "Large"
+msgstr "Liela"
+
+#: classes/nav-menus.class.php:216
+#, fuzzy
+msgid "Launched for Menu ID"
+msgstr "Tiek palaista izvēlnes ID"
+
+#: classes/menu-item-manager.class.php:667
+#: classes/menu-item-manager.class.php:688
+#, fuzzy
+msgid "Left"
+msgstr "Kreisais"
+
+#: classes/menu-item-manager.class.php:711
+#, fuzzy
+msgid "Left edge of Parent"
+msgstr "Vecāku kreisā mala"
+
+#: classes/page.locations.class.php:474
+#, fuzzy
+msgid "Location Description"
+msgstr "Atrašanās vietas apraksts"
+
+#. Name of the plugin
+#, fuzzy
+msgid "Max Mega Menu"
+msgstr "Izvēlne Max Mega"
+
+#: megamenu.php:1250
+#, fuzzy, php-format
+msgid ""
+"Max Mega Menu has been updated. Please %s to ensure maximum compatibility "
+"with the latest version."
+msgstr ""
+"Max Mega izvēlne ir atjaunināta. Lūdzu, %s, lai nodrošinātu maksimālu "
+"saderību ar jaunāko versiju."
+
+#: megamenu.php:1213
+#, fuzzy
+msgid ""
+"Max Mega Menu is not compatible with your version of WordPress. Please "
+"upgrade WordPress to the latest version or disable Max Mega Menu."
+msgstr ""
+"Max Mega izvēlne nav savietojama ar jūsu WordPress versiju. Lūdzu, jauniniet "
+"WordPress uz jaunāko versiju vai atspējojiet izvēlni Max Mega."
+
+#: classes/menu-item-manager.class.php:792
+#: classes/menu-item-manager.class.php:797
+#: classes/menu-item-manager.class.php:802
+#, fuzzy
+msgid "Max Mega Menu Pro"
+msgstr "Max Mega Menu Pro"
+
+#: classes/nav-menus.class.php:140
+#, fuzzy
+msgid "Max Mega Menu Settings"
+msgstr "Max Mega izvēlnes iestatījumi"
+
+#: megamenu.php:294
+#, fuzzy
+msgid "Max Mega Menu Widgets"
+msgstr "Max Mega izvēlnes logrīki"
+
+#: classes/page.locations.class.php:882 classes/page.locations.class.php:951
+#: classes/nav-menus.class.php:415 classes/nav-menus.class.php:470
+#, fuzzy
+msgid "Med"
+msgstr "Med"
+
+#: classes/toggle-blocks.class.php:910
+#, fuzzy
+msgid "Medium"
+msgstr "Vidēja"
+
+#: classes/menu-item-manager.class.php:276 classes/nav-menus.class.php:217
+#, fuzzy
+msgid "Mega Menu"
+msgstr "Mega izvēlne"
+
+#: classes/menu-item-manager.class.php:228
+#, fuzzy
+msgid "Mega Menu - Grid Layout"
+msgstr "Mega izvēlne - režģa izkārtojums"
+
+#: classes/menu-item-manager.class.php:229
+#, fuzzy
+msgid "Mega Menu - Standard Layout"
+msgstr "Mega izvēlne - standarta izkārtojums"
+
+#: classes/menu-item-manager.class.php:220
+#, fuzzy
+msgid "Mega Menus can only be created on top level menu items."
+msgstr "Mega izvēlnes var izveidot tikai augšējā līmeņa izvēlnes vienumos."
+
+#. Author of the plugin
+#, fuzzy
+msgid "megamenu.com"
+msgstr "megamenu.com"
+
+#: classes/widget-manager.class.php:642 classes/widget-manager.class.php:686
+#, fuzzy
+msgid "Menu Item"
+msgstr "Izvēlnes vienums"
+
+#: classes/menu-item-manager.class.php:654
+#, fuzzy
+msgid "Menu Item Align"
+msgstr "Izvēlnes vienums Align"
+
+#: classes/menu-item-manager.class.php:808
+#, fuzzy
+msgid "Menu Item Icon"
+msgstr "Izvēlnes vienības ikona"
+
+#: classes/menu-item-manager.class.php:610
+#, fuzzy
+msgid "Menu Item Settings"
+msgstr "Izvēlnes vienuma iestatījumi"
+
+#: classes/page.locations.class.php:760
+#, fuzzy
+msgid "Menu Location Deleted"
+msgstr "Izvēlnes atrašanās vieta ir izdzēsta"
+
+#: classes/page.locations.class.php:764
+#, fuzzy
+msgid "Menu Location Saved"
+msgstr "Izvēlnes atrašanās vieta ir saglabāta"
+
+#: classes/widget.class.php:104
+#, fuzzy
+msgid "Menu Location:"
+msgstr "Izvēlnes atrašanās vieta:"
+
+#: classes/page.locations.class.php:198 classes/page.locations.class.php:221
+#, fuzzy
+msgid "Menu Locations"
+msgstr "Izvēlnes atrašanās vietas"
+
+#: classes/page.locations.class.php:427
+#, fuzzy
+msgid "Menu Output Options"
+msgstr "Izvēlnes izvades opcijas"
+
+#: classes/toggle-blocks.class.php:657 classes/toggle-blocks.class.php:803
+#: classes/toggle-blocks.class.php:896
+#, fuzzy
+msgid "Menu Toggle"
+msgstr "Izvēlne Pārslēgt"
+
+#: classes/toggle-blocks.class.php:658
+#, fuzzy
+msgid "Menu Toggle Animated"
+msgstr "Izvēlne Pārslēgt animētu"
+
+#: classes/toggle-blocks.class.php:805
+#, fuzzy
+msgid "Menu Toggle Settings"
+msgstr "Izvēlne Pārslēdz iestatījumus"
+
+#: megamenu.php:1287
+#, fuzzy
+msgid "More information"
+msgstr "Vairāk informācijas"
+
+#: classes/widget-manager.class.php:318
+#, fuzzy, php-format
+msgid "Moved (%s)"
+msgstr "Pārvietots ( %s)"
+
+#: classes/page.locations.class.php:756
+#, fuzzy
+msgid "New Menu Location Created"
+msgstr "Izveidota jauna izvēlnes atrašanās vieta"
+
+#: classes/widget-elementor-template.class.php:89
+#, fuzzy
+msgid "No Elementor Templates found."
+msgstr "Nav atrasta neviena Elementor veidne."
+
+#: classes/widget.class.php:148
+#, fuzzy
+msgid "No menu locations found"
+msgstr "Nav atrasta neviena izvēlnes vieta"
+
+#: classes/widget-reusable-block.class.php:84
+#, fuzzy
+msgid "No reusable blocks available."
+msgstr "Nav pieejami atkārtoti lietojami bloki."
+
+#: classes/menu-item-manager.class.php:589
+#, fuzzy
+msgid ""
+"No widgets found. Add a widget to this area using the Widget Selector (top "
+"right)"
+msgstr ""
+"Nav atrasti logrīki. Pievienojiet logrīku šajā apgabalā, izmantojot logrīku "
+"atlasītāju (augšējā labajā stūrī)"
+
+#: classes/page.locations.class.php:838 classes/page.locations.class.php:911
+#: classes/nav-menus.class.php:380 classes/nav-menus.class.php:439
+#, fuzzy
+msgid "None"
+msgstr "Nav"
+
+#: classes/menu-item-manager.class.php:752
+#, fuzzy
+msgid "Only applies to menu items displayed within mega sub menus."
+msgstr ""
+"Attiecas tikai uz izvēlnes elementiem, kas tiek parādīti mega apakšizvēlnēs."
+
+#: classes/nav-menus.class.php:222
+#, fuzzy
+msgid "Oops. Something went wrong. Please reload the page."
+msgstr "Hmm ... Kaut kas nogāja greizi. Lūdzu, atkārtoti ielādējiet lapu."
+
+#: classes/toggle-blocks.class.php:819
+#, fuzzy
+msgid "Open Icon"
+msgstr "Atveriet ikonu"
+
+#: classes/toggle-blocks.class.php:812
+#, fuzzy
+msgid "Open Text"
+msgstr "Atvērt tekstu"
+
+#: classes/menu-item-manager.class.php:677
+#: classes/menu-item-manager.class.php:718
+#, fuzzy
+msgid "Option only available for top level menu items"
+msgstr "Opcija ir pieejama tikai augstākā līmeņa izvēlnes vienumiem"
+
+#: classes/widget.class.php:21
+#, fuzzy
+msgid "Outputs a menu for a selected theme location."
+msgstr "Izvada izvēlni izvēlētajai motīva vietai."
+
+#: classes/widget-reusable-block.class.php:23
+#, fuzzy
+msgid "Outputs a reusable block."
+msgstr "Izej atkārtoti lietojamu bloku."
+
+#: classes/widget-elementor-template.class.php:21
+#, fuzzy
+msgid "Outputs a saved Elementor template."
+msgstr "Izej saglabātu Elementor veidni."
+
+#: classes/page.locations.class.php:431
+#, fuzzy
+msgid "PHP Function"
+msgstr "PHP funkcija"
+
+#: classes/nav-menus.class.php:306
+#, fuzzy
+msgid ""
+"Please assign this menu to a theme location to enable the Mega Menu settings."
+msgstr ""
+"Lūdzu, piešķiriet šai izvēlnei motīva vietu, lai iespējotu Mega Menu "
+"iestatījumus."
+
+#: classes/nav-menus.class.php:218
+#, fuzzy
+msgid ""
+"Please enable Max Mega Menu using the settings on the left of this page."
+msgstr ""
+"Lūdzu, iespējojiet izvēlni Max Mega, izmantojot iestatījumus šīs lapas "
+"kreisajā pusē."
+
+#: classes/nav-menus.class.php:219
+#, fuzzy
+msgid "Please save the menu structure to enable this option."
+msgstr "Lūdzu, saglabājiet izvēlnes struktūru, lai iespējotu šo opciju."
+
+#: classes/page.locations.class.php:226
+#, fuzzy
+msgid "Registered Menu Locations"
+msgstr "Reģistrētās izvēlņu vietas"
+
+#: classes/menu-item-manager.class.php:669
+#: classes/menu-item-manager.class.php:690
+#, fuzzy
+msgid "Right"
+msgstr "Taisnība"
+
+#: classes/menu-item-manager.class.php:715
+#, fuzzy
+msgid "Right aligned flyout menus will expand to the left"
+msgstr "Labajā pusē izlīdzinātās izvēlnes izvērsīsies pa kreisi"
+
+#: classes/menu-item-manager.class.php:674
+#, fuzzy
+msgid ""
+"Right aligned items will appear in reverse order on the right hand side of "
+"the menu bar"
+msgstr ""
+"Pa labi izlīdzinātie vienumi parādīsies apgrieztā secībā izvēlnes joslas "
+"labajā pusē"
+
+#: classes/menu-item-manager.class.php:712
+#, fuzzy
+msgid "Right edge of Parent"
+msgstr "Vecāku labā mala"
+
+#: classes/menu-item-manager.class.php:330
+#: classes/menu-item-manager.class.php:405
+#: classes/menu-item-manager.class.php:406
+#: classes/menu-item-manager.class.php:407
+#: classes/menu-item-manager.class.php:408
+#, fuzzy
+msgid "Row"
+msgstr "Rinda"
+
+#: classes/menu-item-manager.class.php:425
+#, fuzzy
+msgid "Row class"
+msgstr "Rindu klase"
+
+#: classes/menu-item-manager.class.php:429
+#, fuzzy
+msgid "Row columns"
+msgstr "Rindu kolonnas"
+
+#: classes/menu-item-manager.class.php:445
+#: classes/menu-item-manager.class.php:527
+#, fuzzy
+msgid "Save"
+msgstr "Saglabāt"
+
+#: classes/widget-manager.class.php:179 classes/widget-manager.class.php:199
+#, fuzzy, php-format
+msgid "Saved %s"
+msgstr "Saglabāts %s"
+
+#: classes/widget-manager.class.php:351
+#, fuzzy, php-format
+msgid "Saved (%s)"
+msgstr "Saglabāts ( %s)"
+
+#: classes/nav-menus.class.php:220
+#, fuzzy
+msgid "Saving"
+msgstr "Ietaupot"
+
+#: classes/menu-item-manager.class.php:823
+#, fuzzy
+msgid "Search"
+msgstr "Meklēt"
+
+#: classes/page.locations.class.php:414
+#, fuzzy
+msgid "Select a theme to be applied to the menu"
+msgstr "Atlasiet izvēlnei piemērojamo motīvu"
+
+#: classes/menu-item-manager.class.php:262
+#, fuzzy
+msgid "Select a Widget to add to the panel"
+msgstr "Atlasiet logrīku, ko pievienot panelim"
+
+#: classes/menu-item-manager.class.php:802
+#, fuzzy
+msgid "Select icons from your media library with {link}"
+msgstr "Atlasiet savas multivides bibliotēkas ikonas, izmantojot {link}"
+
+#: classes/widget.class.php:109
+#, fuzzy
+msgid "Select location"
+msgstr "Atlasiet atrašanās vietu"
+
+#: classes/page.locations.class.php:364
+#, fuzzy
+msgid "Select the event to trigger sub menus"
+msgstr "Atlasiet notikumu, lai aktivizētu apakšizvēlnes"
+
+#: classes/page.locations.class.php:376
+#, fuzzy
+msgid "Select the sub menu animation type"
+msgstr "Atlasiet apakšizvēlnes animācijas veidu"
+
+#: classes/menu-item-manager.class.php:766
+#, fuzzy
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#: classes/page.locations.class.php:443
+#, fuzzy
+msgid "Shortcode"
+msgstr "Īsais kods"
+
+#: classes/toggle-blocks.class.php:908
+#, fuzzy
+msgid "Size"
+msgstr "Izmērs"
+
+#: classes/page.locations.class.php:850 classes/nav-menus.class.php:392
+#, fuzzy
+msgid "Slide"
+msgstr "Slidkalniņš"
+
+#: classes/page.locations.class.php:915 classes/nav-menus.class.php:443
+#, fuzzy
+msgid "Slide Down"
+msgstr "Bīdiet uz leju"
+
+#: classes/page.locations.class.php:919 classes/nav-menus.class.php:447
+#, fuzzy
+msgid "Slide Left (Off Canvas)"
+msgstr "Slaids pa kreisi (bez audekla)"
+
+#: classes/page.locations.class.php:923 classes/nav-menus.class.php:451
+#, fuzzy
+msgid "Slide Right (Off Canvas)"
+msgstr "Slīdēt pa labi (bez audekla)"
+
+#: classes/page.locations.class.php:854 classes/nav-menus.class.php:396
+#, fuzzy
+msgid "Slide Up"
+msgstr "Bīdiet uz augšu"
+
+#: classes/page.locations.class.php:881 classes/page.locations.class.php:950
+#: classes/nav-menus.class.php:414 classes/nav-menus.class.php:469
+#, fuzzy
+msgid "Slow"
+msgstr "Lēns"
+
+#: classes/toggle-blocks.class.php:909
+#, fuzzy
+msgid "Small"
+msgstr "Maza"
+
+#: classes/toggle-blocks.class.php:659 classes/toggle-blocks.class.php:760
+#, fuzzy
+msgid "Spacer"
+msgstr "Starplikas"
+
+#: classes/toggle-blocks.class.php:762
+#, fuzzy
+msgid "Spacer Settings"
+msgstr "Starpliku iestatījumi"
+
+#: classes/menu-item-manager.class.php:219
+#, fuzzy
+msgid "Sub Menu"
+msgstr "Apakšizvēlne"
+
+#: classes/menu-item-manager.class.php:705
+#, fuzzy
+msgid "Sub Menu Align"
+msgstr "Apakšizvēlne Align"
+
+#: classes/widget-manager.class.php:128
+#, fuzzy
+msgid "Sub menu columns"
+msgstr "Apakšizvēlnes kolonnas"
+
+#: classes/menu-item-manager.class.php:232
+#, fuzzy
+msgid "Sub menu display mode"
+msgstr "Apakšizvēlnes displeja režīms"
+
+#: classes/menu-item-manager.class.php:700
+#, fuzzy
+msgid "Sub Menu Settings"
+msgstr "Apakšizvēlnes iestatījumi"
+
+#: classes/widget-elementor-template.class.php:99
+#, fuzzy
+msgid "Template"
+msgstr "Veidne"
+
+#: classes/toggle-blocks.class.php:823
+#, fuzzy
+msgid "Text Color"
+msgstr "Teksta krāsa"
+
+#: classes/toggle-blocks.class.php:827
+#, fuzzy
+msgid "Text Size"
+msgstr "Teksta lielums"
+
+#: classes/page.locations.class.php:413 classes/nav-menus.class.php:485
+#, fuzzy
+msgid "Theme"
+msgstr "Tēma"
+
+#: classes/nav-menus.class.php:225
+#, fuzzy
+msgid ""
+"There is not enough space in this row to add a new column. Make space by "
+"reducing the width of the columns within the row or create a new row."
+msgstr ""
+"Šajā rindā nav pietiekami daudz vietas, lai pievienotu jaunu kolonnu. "
+"Atbrīvojiet vietu, samazinot kolonnu platumu rindā vai izveidojiet jaunu "
+"rindu."
+
+#: classes/menu-item-manager.class.php:453
+#, fuzzy
+msgid "There is not enough space on this row to add a new column."
+msgstr "Šajā rindā nav pietiekami daudz vietas, lai pievienotu jaunu kolonnu."
+
+#: classes/page.locations.class.php:523
+#, fuzzy
+msgid ""
+"These options are for advanced users only. Your theme should already include "
+"the code required to display this menu location on your site."
+msgstr ""
+"Šīs opcijas ir paredzētas tikai pieredzējušiem lietotājiem. Motīvā jau ir "
+"jāiekļauj kods, kas nepieciešams, lai jūsu vietnē parādītu šo izvēlnes "
+"atrašanās vietu."
+
+#: classes/page.locations.class.php:227
+#, fuzzy
+msgid "This is an overview of the menu locations supported by your theme."
+msgstr "Šis ir pārskats par izvēlnes vietām, kuras atbalsta jūsu motīvs."
+
+#: megamenu.php:295
+#, fuzzy
+msgid ""
+"This is where Max Mega Menu stores widgets that you have added to sub menus "
+"using the mega menu builder. You can edit existing widgets here, but new "
+"widgets must be added through the Mega Menu interface (under Appearance > "
+"Menus)."
+msgstr ""
+"Šeit Max Mega Menu saglabā logrīkus, kurus esat pievienojis apakšizvēlnēm, "
+"izmantojot mega izvēlnes veidotāju. Šeit var rediģēt esošos logrīkus, taču, "
+"izmantojot Mega izvēlnes saskarni (sadaļā Izskats> Izvēlnes), jāpievieno "
+"jauni logrīki."
+
+#: classes/page.locations.class.php:262
+#, fuzzy
+msgid "This location does not have a menu assigned to it."
+msgstr "Šai atrašanās vietai nav piešķirta izvēlne."
+
+#: classes/nav-menus.class.php:302
+#, fuzzy
+msgid "This theme does not register any menu locations."
+msgstr "Šajā tēmā nav reģistrētas nevienas izvēlnes vietas."
+
+#: classes/widget.class.php:101
+#, fuzzy
+msgid "Title:"
+msgstr "Nosaukums:"
+
+#: classes/nav-menus.class.php:307
+#, fuzzy
+msgid ""
+"To assign this menu to a theme location, scroll to the bottom of this page "
+"and tag the menu to a 'Display location'."
+msgstr ""
+"Lai šo izvēlni piešķirtu motīva atrašanās vietai, ritiniet līdz šīs lapas "
+"apakšai un atzīmējiet izvēlni ar 'Display location'."
+
+#: classes/toggle-blocks.class.php:803 classes/toggle-blocks.class.php:896
+#, fuzzy
+msgid "TOGGLE"
+msgstr "PĀRKLĀJS"
+
+#: classes/toggle-blocks.class.php:382
+#, fuzzy
+msgid "Toggle Bar Designer"
+msgstr "Toggle Bar Designer"
+
+#: classes/menu-item-manager.class.php:689
+#, fuzzy
+msgid "Top"
+msgstr "Tops"
+
+#: classes/page.locations.class.php:475
+#, fuzzy
+msgid "Update the custom location description"
+msgstr "Atjauniniet pielāgotā atrašanās vietas aprakstu"
+
+#: classes/widget-manager.class.php:222 classes/widget-manager.class.php:245
+#, fuzzy, php-format
+msgid "Updated %s (new columns: %d)"
+msgstr "Atjaunināts %s (jaunas slejas: %d)"
+
+#: classes/menu-item-manager.class.php:405
+#: classes/menu-item-manager.class.php:499
+#, fuzzy
+msgid "Visible on desktop"
+msgstr "Redzams uz darbvirsmas"
+
+#: classes/menu-item-manager.class.php:407
+#: classes/menu-item-manager.class.php:501
+#, fuzzy
+msgid "Visible on mobile"
+msgstr "Redzams mobilajā ierīcē"
+
+#: classes/style-manager.class.php:675
+#, fuzzy
+msgid ""
+"Warning: CSS compilation failed. Please check your changes or revert the "
+"theme."
+msgstr ""
+"Brīdinājums: CSS apkopošana neizdevās. Lūdzu, pārbaudiet izmaiņas vai "
+"mainiet motīvu."
+
+#: classes/page.locations.class.php:455
+#, fuzzy
+msgid "Widget"
+msgstr "Logrīks"
+
+#: classes/toggle-blocks.class.php:766
+#, fuzzy
+msgid "Width"
+msgstr "Platums"
+
+#: classes/toggle-blocks.class.php:912
+#, fuzzy
+msgid "X Large"
+msgstr "X liels"
+
+#: classes/menu-item-manager.class.php:450
+#, fuzzy
+msgid ""
+"You should rearrange the content of this row so that all columns fit onto a "
+"single line."
+msgstr ""
+"Šīs rindas saturs jāpārkārto tā, lai visas kolonnas ietilptu vienā rindā."
+
+#: classes/nav-menus.class.php:303
+#, fuzzy
+msgid ""
+"You will need to create a new menu location and use the Max Mega Menu widget "
+"or shortcode to display the menu on your site."
+msgstr ""
+"Jums būs jāizveido jauna izvēlnes atrašanās vieta un jāizmanto logrīks Max "
+"Mega Menu vai īskods, lai jūsu vietnē parādītu izvēlni."
+
+#: classes/menu-item-manager.class.php:739 classes/widget-manager.class.php:118
+#, fuzzy, php-format
+msgid ""
+"Your menu CSS needs to be updated before you can use the following setting. "
+"Please go to %s and Clear the CSS Cache (you will only need to do this once)."
+msgstr ""
+"Lai varētu izmantot šo iestatījumu, ir jāatjaunina jūsu izvēlnes CSS. Lūdzu, "
+"dodieties uz vietni %s un notīriet CSS kešatmiņu (jums tas būs jādara tikai "
+"vienreiz)."
+
+#: classes/menu-item-manager.class.php:299
+#, fuzzy, php-format
+msgid ""
+"Your menu CSS needs to be updated first. Please go to %s and Clear the CSS "
+"Cache (you will only need to do this once)."
+msgstr ""
+"Vispirms ir jāatjaunina jūsu izvēlnes CSS. Lūdzu, dodieties uz vietni %s un "
+"notīriet CSS kešatmiņu (jums tas būs jādara tikai vienreiz)."
+
+#: classes/page.locations.class.php:234
+#, fuzzy
+msgid ""
+"Your theme does not natively support menus, but you can add a new menu "
+"location using Max Mega Menu and display the menu using the Max Mega Menu "
+"widget or shortcode."
+msgstr ""
+"Jūsu motīvs neatbalsta izvēlnes, taču varat pievienot jaunu izvēlnes "
+"atrašanās vietu, izmantojot izvēlni Max Mega, un parādīt izvēlni, izmantojot "
+"logrīku Max Mega izvēlne vai īskods."

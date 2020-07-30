@@ -1,0 +1,3227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Mail SMTP 2.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-mail-smtp\n"
+"Last-Translator: zupu.lv\n"
+"Language-Team: Latviešu valoda\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-07-09T12:48:03+03:00\n"
+"PO-Revision-Date: 2020-07-26 09:29+0300\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Domain: wp-mail-smtp\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=n % 10 == 1 && n % 100 != 11 ? 0 : n != 0 ? "
+"1 : 2;\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2\n"
+
+#. Plugin Name of the plugin
+#, fuzzy
+msgid "WP Mail SMTP Pro"
+msgstr "WP Mail SMTP Pro"
+
+#. Plugin URI of the plugin
+#, fuzzy
+msgid "https://wpmailsmtp.com/"
+msgstr "https://wpmailsmtp.com/"
+
+#. Description of the plugin
+#, fuzzy
+msgid ""
+"Reconfigures the <code>wp_mail()</code> function to use Gmail/Mailgun/"
+"SendGrid/SMTP instead of the default <code>mail()</code> and creates an "
+"options page to manage the settings."
+msgstr ""
+"Rekonfigurē funkciju <code> wp_mail () </code>, lai noklusējuma <code> mail "
+"() </code> vietā izmantotu Gmail / Mailgun / SendGrid / SMTP, un izveido "
+"opciju lapu iestatījumu pārvaldīšanai."
+
+#. Author of the plugin
+#, fuzzy
+msgid "WPForms"
+msgstr "WPForms"
+
+#. Author URI of the plugin
+#, fuzzy
+msgid "https://wpforms.com/"
+msgstr "https://wpforms.com/"
+
+#. translators: %s - error code, returned by Google API.
+#: src/Admin/Area.php:125
+#, fuzzy
+msgid ""
+"There was an error while processing the authentication request: %s. Please "
+"try again."
+msgstr ""
+"Apstrādājot autentifikācijas pieprasījumu, radās kļūda: %s. Lūdzu mēģiniet "
+"vēlreiz."
+
+#: src/Admin/Area.php:133
+#, fuzzy
+msgid ""
+"There was an error while processing the authentication request. Please try "
+"again."
+msgstr ""
+"Apstrādājot autentifikācijas pieprasījumu, radās kļūda. Lūdzu mēģiniet "
+"vēlreiz."
+
+#: src/Admin/Area.php:140
+#, fuzzy
+msgid ""
+"There was an error while processing the authentication request. Please make "
+"sure that you have Client ID and Client Secret both valid and saved."
+msgstr ""
+"Apstrādājot autentifikācijas pieprasījumu, radās kļūda. Lūdzu, "
+"pārliecinieties, vai klienta ID un klienta noslēpums ir derīgi un saglabāti."
+
+#: src/Admin/Area.php:149
+#, fuzzy
+msgid ""
+"You have successfully linked the current site with your Google API project. "
+"Now you can start sending emails through Gmail."
+msgstr ""
+"Jūs esat veiksmīgi saistījis pašreizējo vietni ar savu Google API projektu. "
+"Tagad varat sākt sūtīt e-pastus, izmantojot Gmail."
+
+#: src/Admin/Area.php:155
+#, fuzzy
+msgid ""
+"You have successfully linked the current site with your Microsoft API "
+"project. Now you can start sending emails through Outlook."
+msgstr ""
+"Jūs esat veiksmīgi saistījis pašreizējo vietni ar savu Microsoft API "
+"projektu. Tagad varat sākt sūtīt e-pastus, izmantojot programmu Outlook."
+
+#. translators: %s - Mailer anchor link.
+#: src/Admin/Area.php:186
+#, fuzzy
+msgid ""
+"Thanks for using WP Mail SMTP! To complete the plugin setup and start "
+"sending emails, <strong>please select and configure your <a href=\"%s"
+"\">Mailer</a></strong>."
+msgstr ""
+"Paldies, ka izmantojāt WP Mail SMTP! Lai pabeigtu spraudņa iestatīšanu un "
+"sāktu sūtīt e-pastus, <strong>lūdzu, atlasiet un konfigurējiet savu <a href="
+"\"%s\">Mailer</a></strong> ."
+
+#: src/Admin/Area.php:209 src/Admin/Area.php:210 src/SiteHealth.php:40
+#, fuzzy
+msgid "WP Mail SMTP"
+msgstr "WP pasta SMTP"
+
+#: src/Admin/Area.php:220 src/Admin/Area.php:221 src/Admin/Area.php:862
+#, fuzzy
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#: src/Admin/Area.php:228 src/Admin/Area.php:229 src/Admin/Pages/About.php:651
+#: src/Admin/Pages/Logs.php:48 src/Admin/Pages/LogsTab.php:30
+#, fuzzy
+msgid "Email Log"
+msgstr "E-pasta žurnāls"
+
+#: src/Admin/Area.php:238 src/Admin/Area.php:239 src/Admin/Pages/About.php:106
+#, fuzzy
+msgid "About Us"
+msgstr "Par mums"
+
+#: src/Admin/Area.php:302
+#, fuzzy
+msgid ""
+"Are you sure you want to reset the current provider connection? You will "
+"need to immediately create a new one to be able to send emails."
+msgstr ""
+"Vai tiešām vēlaties atiestatīt pašreizējo pakalpojumu sniedzēja savienojumu? "
+"Jums būs nekavējoties jāizveido jauns, lai varētu sūtīt e-pastus."
+
+#: src/Admin/Area.php:303
+#, fuzzy
+msgid "Changes that you made to the settings are not saved!"
+msgstr "Iestatījumos veiktās izmaiņas netiek saglabātas!"
+
+#: src/Admin/Area.php:305
+#, fuzzy
+msgid "Heads up!"
+msgstr "Galvas augšā!"
+
+#: src/Admin/Area.php:307
+#, fuzzy
+msgid ""
+"<p>The Default (PHP) mailer is currently selected, but is not recommended "
+"because in most cases it does not resolve email delivery issues.</"
+"p><p>Please consider selecting and configuring one of the other mailers.</p>"
+msgstr ""
+"<p> Pašlaik ir atlasīts noklusējuma (PHP) sūtītājs, taču tas nav ieteicams, "
+"jo vairumā gadījumu tas neatrisina e-pasta piegādes problēmas. </p> <p> "
+"Lūdzu, apsveriet iespēju atlasīt un konfigurēt vienu no citiem sūtītājiem. "
+"</ p >"
+
+#: src/Admin/Area.php:310 src/Admin/PageAbstract.php:83
+#, fuzzy
+msgid "Save Settings"
+msgstr "Saglabāt iestatījumus"
+
+#: src/Admin/Area.php:311
+#, fuzzy
+msgid "Cancel"
+msgstr "Atcelt"
+
+#: src/Admin/Area.php:312
+#, fuzzy
+msgid "Warning icon"
+msgstr "Brīdinājuma ikona"
+
+#: src/Admin/Area.php:317
+#, fuzzy
+#| msgid "%name% is a PRO Feature"
+msgid "%name% is a PRO Feature"
+msgstr "%name% ir PRO iezīme"
+
+#: src/Admin/Area.php:318
+#, fuzzy
+msgid "Upgrade to Pro"
+msgstr "Jaunināt uz Pro"
+
+#: src/Admin/Area.php:322
+#, fuzzy
+msgid ""
+"<strong>Bonus:</strong> WP Mail SMTP users get <span>$50 off</span> regular "
+"price,<br>applied at checkout."
+msgstr ""
+"<strong> Bonuss: </strong> WP Mail SMTP lietotāji saņem <span> 50 USD "
+"atlaidi </span> parasto cenu, <br> piemērojot norēķiniem."
+
+#: src/Admin/Area.php:331
+#, fuzzy
+msgid "Already purchased?"
+msgstr "Jau nopirkts?"
+
+#: src/Admin/Area.php:398 src/Admin/Area.php:405 src/Admin/Pages/About.php:332
+#, fuzzy
+msgid "Activate"
+msgstr "Aktivizēt"
+
+#: src/Admin/Area.php:399 src/Admin/Pages/About.php:324
+#, fuzzy
+msgid "Activated"
+msgstr "Aktivizēts"
+
+#: src/Admin/Area.php:400 src/Admin/Pages/About.php:321
+#, fuzzy
+msgid "Active"
+msgstr "Aktīvs"
+
+#: src/Admin/Area.php:401 src/Admin/Pages/About.php:329
+#, fuzzy
+msgid "Inactive"
+msgstr "Neaktīvs"
+
+#: src/Admin/Area.php:402
+#, fuzzy
+msgid "Processing..."
+msgstr "Notiek apstrāde ..."
+
+#: src/Admin/Area.php:403
+#, fuzzy
+msgid ""
+"Could not install a plugin. Please download from WordPress.org and install "
+"manually."
+msgstr ""
+"Nevarēja instalēt spraudni. Lūdzu, lejupielādējiet no WordPress.org un "
+"instalējiet manuāli."
+
+#: src/Admin/Area.php:404
+#, fuzzy
+msgid "Install and Activate"
+msgstr "Instalējiet un aktivizējiet"
+
+#: src/Admin/Area.php:406
+#, fuzzy
+msgid "Download"
+msgstr "Lejupielādēt"
+
+#. translators: %1$s - WP.org link; %2$s - same WP.org link.
+#: src/Admin/Area.php:466
+#, fuzzy
+msgid ""
+"Please rate <strong>WP Mail SMTP</strong> <a href=\"%1$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a "
+"href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</"
+"a> to help us spread the word. Thank you from the WP Mail SMTP team!"
+msgstr ""
+"Lūdzu, novērtējiet <strong>WP Mail SMTP</strong> <a href=\"%1$s\" target="
+"\"_blank\" rel=\"noopener noreferrer\">★★★★★</a> vietnē <a href=\"%2$s\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org,</a> lai "
+"palīdzētu mums izplatīt šo vārdu. Paldies no WP Mail SMTP komandas!"
+
+#: src/Admin/Area.php:803
+#, fuzzy
+msgid "WP Mail SMTP Pro related message was successfully dismissed."
+msgstr "Ar WP Mail SMTP Pro saistītais ziņojums tika veiksmīgi noraidīts."
+
+#: src/Admin/Area.php:822
+#, fuzzy
+msgid "Educational notice for this mailer was successfully dismissed."
+msgstr "Izglītības paziņojums par šo sūtījumu tika veiksmīgi noraidīts."
+
+#: src/Admin/Area.php:861
+#, fuzzy
+msgid "Go to WP Mail SMTP Settings page"
+msgstr "Dodieties uz WP Mail SMTP iestatījumu lapu"
+
+#: src/Admin/Area.php:868
+#, fuzzy
+msgid "Go to WP Mail SMTP Lite vs Pro comparison page"
+msgstr "Dodieties uz WP Mail SMTP Lite vs Pro salīdzināšanas lapu"
+
+#: src/Admin/Area.php:869
+#, fuzzy
+msgid "Premium Support"
+msgstr "Premium atbalsts"
+
+#. translators: %s - plugin current license type.
+#: src/Admin/Pages/About.php:99 src/Admin/Pages/About.php:550
+#, fuzzy
+msgid "%s vs Pro"
+msgstr " %s pret Pro"
+
+#: src/Admin/Pages/About.php:171
+#, fuzzy
+msgid ""
+"Hello and welcome to WP Mail SMTP, the easiest and most popular WordPress "
+"SMTP plugin. We build software that helps your site reliably deliver emails "
+"every time."
+msgstr ""
+"Sveicināti un laipni gaidīti WP Mail SMTP, kas ir vienkāršākais un "
+"populārākais WordPress SMTP spraudnis. Mēs veidojam programmatūru, kas "
+"palīdz jūsu vietnei katru reizi droši piegādāt e-pastus."
+
+#: src/Admin/Pages/About.php:175
+#, fuzzy
+msgid ""
+"Email deliverability has been a well-documented problem for all WordPress "
+"websites. However as WPForms grew, we became more aware of this painful "
+"issue that affects our users and the larger WordPress community. So we "
+"decided to solve this problem and make a solution that's beginner friendly."
+msgstr ""
+"E-pasta piegāde ir bijusi labi dokumentēta problēma visās WordPress vietnēs. "
+"Tomēr, tā kā WPForms pieauga, mēs arvien vairāk apzinājāmies šo sāpīgo "
+"problēmu, kas ietekmē mūsu lietotājus un plašāku WordPress kopienu. Tāpēc "
+"mēs nolēmām šo problēmu atrisināt un izveidot draudzīgu iesācējiem."
+
+#: src/Admin/Pages/About.php:178
+#, fuzzy
+msgid "Our goal is to make reliable email deliverability easy for WordPress."
+msgstr "Mūsu mērķis ir padarīt WordPress ērtu e-pasta piegādi."
+
+#. translators: %1$s - WPForms URL, %2$s - WPBeginner URL, %3$s - OptinMonster URL, %4$s - MonsterInsights URL, %5$s - RafflePress URL
+#: src/Admin/Pages/About.php:185
+#, fuzzy
+msgid ""
+"WP Mail SMTP is brought to you by the same team that's behind the most user "
+"friendly WordPress forms, <a href=\"%1$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">WPForms</a>, the largest WordPress resource site, <a href=\"%2$s"
+"\" target=\"_blank\" rel=\"noopener noreferrer\">WPBeginner</a>, the most "
+"popular lead-generation software, <a href=\"%3$s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">OptinMonster</a>, the best WordPress analytics "
+"plugin, <a href=\"%4$s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">MonsterInsights</a>, and the most powerful WordPress contest plugin, <a "
+"href=\"%5$s\" target=\"_blank\" rel=\"noopener noreferrer\">RafflePress</a>."
+msgstr ""
+"WP Mail SMTP jums <a href=\"%1$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">piegādā</a> tā pati komanda, kas atrodas aiz lietotājam "
+"draudzīgākajām WordPress formām, <a href=\"%1$s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">WPForms</a> , lielākās WordPress resursu vietnes, <a "
+"href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">WPBeginner</a> , "
+"vispopulārākās svina paaudzes programmatūras, <a href=\"%3$s\" target="
+"\"_blank\" rel=\"noopener noreferrer\">OptinMonster</a> , labākā WordPress "
+"analītikas spraudņa, <a href=\"%4$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">MonsterInsights</a> un visspēcīgākais WordPress konkursa "
+"spraudnis, <a href=\"%5$s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">RafflePress</a> ."
+
+#: src/Admin/Pages/About.php:203
+#, fuzzy
+msgid ""
+"Yup, we know a thing or two about building awesome products that customers "
+"love."
+msgstr ""
+"Jā, mēs zinām kaut ko vai divas par to, kā veidot satriecošus produktus, "
+"kurus klienti mīl."
+
+#: src/Admin/Pages/About.php:209
+#, fuzzy
+msgid "The WPForms Team photo"
+msgstr "WPForms komandas foto"
+
+#: src/Admin/Pages/About.php:211
+#, fuzzy
+msgid "The WPForms Team"
+msgstr "WPForms komanda"
+
+#: src/Admin/Pages/About.php:260
+#, fuzzy
+msgid "Plugin icon"
+msgstr "Spraudņa ikona"
+
+#. translators: %s - status HTML text.
+#: src/Admin/Pages/About.php:274
+#, fuzzy
+msgid "Status: %s"
+msgstr "Statuss: %s"
+
+#: src/Admin/Pages/About.php:340
+#, fuzzy
+msgid "Not Installed"
+msgstr "Nav ieinstalets"
+
+#: src/Admin/Pages/About.php:343
+#, fuzzy
+msgid "Install Plugin"
+msgstr "Instalējiet spraudni"
+
+#: src/Admin/Pages/About.php:364
+#, fuzzy
+msgid "MonsterInsights"
+msgstr "MonsterInsights"
+
+#: src/Admin/Pages/About.php:365 src/Admin/Pages/About.php:371
+#, fuzzy
+msgid ""
+"MonsterInsights makes it “effortless” to properly connect your WordPress "
+"site with Google Analytics, so you can start making data-driven decisions to "
+"grow your business."
+msgstr ""
+"MonsterInsights padara “piepūles”, lai pareizi savienotu savu WordPress "
+"vietni ar Google Analytics, lai jūs varētu sākt pieņemt uz datiem balstītus "
+"lēmumus sava biznesa izaugsmei."
+
+#: src/Admin/Pages/About.php:370
+#, fuzzy
+msgid "MonsterInsights Pro"
+msgstr "MonsterInsights Pro"
+
+#: src/Admin/Pages/About.php:378
+#, fuzzy
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#: src/Admin/Pages/About.php:379
+#, fuzzy
+msgid ""
+"Our high-converting optin forms like Exit-Intent® popups, Fullscreen Welcome "
+"Mats, and Scroll boxes help you dramatically boost conversions and get more "
+"email subscribers."
+msgstr ""
+"Mūsu optiņas ar augstu reklāmguvumu līmeni, piemēram, Exit-Intent® "
+"uznirstošie logi, Pilnekrāna sveiciena paklāji un Ritināšanas lodziņi, "
+"palīdz dramatiski palielināt reklāmguvumus un iegūt vairāk e-pasta abonentu."
+
+#: src/Admin/Pages/About.php:385
+#, fuzzy
+msgid "Contact Forms by WPForms"
+msgstr "WPForms sazinieties ar veidlapām"
+
+#: src/Admin/Pages/About.php:386 src/Admin/Pages/About.php:392
+#, fuzzy
+msgid ""
+"The best WordPress contact form plugin. Drag & Drop online form builder that "
+"helps you create beautiful contact forms with just a few clicks."
+msgstr ""
+"Labākais WordPress kontaktformas spraudnis. Drag & Drop tiešsaistes veidlapu "
+"veidotājs, kas ar dažiem klikšķiem palīdz jums izveidot skaistas kontaktu "
+"formas."
+
+#: src/Admin/Pages/About.php:391
+#, fuzzy
+msgid "WPForms Pro"
+msgstr "WPForms Pro"
+
+#: src/Admin/Pages/About.php:399
+#, fuzzy
+msgid "RafflePress"
+msgstr "RafflePress"
+
+#: src/Admin/Pages/About.php:400 src/Admin/Pages/About.php:406
+#, fuzzy
+msgid ""
+"Turn your visitors into brand ambassadors! Easily grow your email list, "
+"website traffic, and social media followers with powerful viral giveaways & "
+"contests."
+msgstr ""
+"Pārvērtiet savus apmeklētājus par zīmolu vēstniekiem! Ērti papildiniet savu "
+"e-pasta sarakstu, vietņu trafiku un sociālo mediju sekotājus, izmantojot "
+"spēcīgus vīrusu dāvanas un konkursus."
+
+#: src/Admin/Pages/About.php:405
+#, fuzzy
+msgid "RafflePress Pro"
+msgstr "RafflePress Pro"
+
+#: src/Admin/Pages/About.php:425
+#, fuzzy
+msgid ""
+"Could not activate the plugin. Please activate it from the Plugins page."
+msgstr "Nevarēja aktivizēt spraudni. Lūdzu, aktivizējiet to spraudņu lapā."
+
+#: src/Admin/Pages/About.php:437
+#, fuzzy
+msgid "Plugin activated."
+msgstr "Spraudnis ir aktivizēts."
+
+#: src/Admin/Pages/About.php:454
+#, fuzzy
+msgid "Could not install the plugin."
+msgstr "Nevarēja instalēt spraudni."
+
+#: src/Admin/Pages/About.php:515
+#, fuzzy
+msgid "Plugin installed & activated."
+msgstr "Spraudnis ir instalēts un aktivizēts."
+
+#: src/Admin/Pages/About.php:523
+#, fuzzy
+msgid "Plugin installed."
+msgstr "Spraudnis ir instalēts."
+
+#: src/Admin/Pages/About.php:558
+#, fuzzy
+msgid ""
+"Get the most out of WP Mail SMTP by upgrading to Pro and unlocking all of "
+"the powerful features."
+msgstr ""
+"Izmantojiet visas WP Mail SMTP iespējas, jauninot uz Pro un atbloķējot visas "
+"jaudīgās funkcijas."
+
+#: src/Admin/Pages/About.php:567
+#, fuzzy
+msgid "Feature"
+msgstr "Iezīme"
+
+#: src/Admin/Pages/About.php:577
+#, fuzzy
+msgid "Pro"
+msgstr "Pro"
+
+#: src/Admin/Pages/About.php:618
+#, fuzzy
+msgid "Get WP Mail SMTP Pro Today and Unlock all of these Powerful Features"
+msgstr ""
+"Iegūstiet WP Mail SMTP Pro šodien un atbloķējiet visas šīs jaudīgās funkcijas"
+
+#: src/Admin/Pages/About.php:625
+#, fuzzy
+msgid ""
+"Bonus: WP Mail SMTP Lite users get <span class=\"price-off\">$50 off regular "
+"price</span>, automatically applied at checkout."
+msgstr ""
+"Bonuss: WP Mail SMTP Lite lietotāji saņem <span class=\"price-off\">50 USD "
+"atlaidi no parastās cenas</span> , kas automātiski tiek piemērota "
+"norēķinoties."
+
+#: src/Admin/Pages/About.php:652 src/Admin/Pages/ControlTab.php:27
+#, fuzzy
+msgid "Email Controls"
+msgstr "E-pasta vadīklas"
+
+#: src/Admin/Pages/About.php:653
+#, fuzzy
+msgid "Additional Mailers"
+msgstr "Papildu sūtītāji"
+
+#: src/Admin/Pages/About.php:654
+#, fuzzy
+msgid "Customer Support"
+msgstr "Klientu atbalsts"
+
+#: src/Admin/Pages/About.php:675
+#, fuzzy
+msgid "Emails are not logged"
+msgstr "E-pasti netiek reģistrēti"
+
+#: src/Admin/Pages/About.php:681
+#, fuzzy
+msgid "Complete Email Log management inside WordPress"
+msgstr "Pilnīga e-pasta žurnāla pārvaldība WordPress iekšienē"
+
+#: src/Admin/Pages/About.php:689
+#, fuzzy
+msgid "No controls over whether default WordPress emails are sent"
+msgstr ""
+"Nekādas kontroles par to, vai tiek nosūtīti noklusējuma WordPress e-pasti"
+
+#: src/Admin/Pages/About.php:695
+#, fuzzy
+msgid "Complete Email Controls management for most default WordPress emails"
+msgstr ""
+"Pilnīga e-pasta kontroles pārvaldība lielākajai daļai noklusēto WordPress e-"
+"pasta ziņojumu"
+
+#: src/Admin/Pages/About.php:703
+#, fuzzy
+msgid "Only default list of mailers"
+msgstr "Tikai noklusējuma sūtītāju saraksts"
+
+#: src/Admin/Pages/About.php:709
+#, fuzzy
+msgid ""
+"Additional mailers: Microsoft Outlook (with Office365 support) and Amazon SES"
+msgstr ""
+"Papildu sūtītāji: Microsoft Outlook (ar Office365 atbalstu) un Amazon SES"
+
+#: src/Admin/Pages/About.php:717
+#, fuzzy
+msgid "Limited Support"
+msgstr "Ierobežots atbalsts"
+
+#: src/Admin/Pages/About.php:723
+#, fuzzy
+msgid "Priority Support"
+msgstr "Prioritārs atbalsts"
+
+#: src/Admin/Pages/ControlTab.php:48
+#, fuzzy
+msgid "Comment Notifications"
+msgstr "Komentāru paziņojumi"
+
+#: src/Admin/Pages/ControlTab.php:49
+#, fuzzy
+msgid "Manage emails sent when comments are published or awaiting moderation."
+msgstr ""
+"Pārvaldiet e-pastus, kas tiek nosūtīti, kad komentāri tiek publicēti vai "
+"gaida regulēšanu."
+
+#: src/Admin/Pages/ControlTab.php:53
+#, fuzzy
+msgid "Site Admin Email Change Notifications"
+msgstr "Vietnes administratora e-pasta paziņojumu maiņas paziņojumi"
+
+#: src/Admin/Pages/ControlTab.php:54
+#, fuzzy
+msgid "Manage emails sent when site admin's account has been changed."
+msgstr ""
+"Pārvaldiet e-pastus, kas nosūtīti, kad ir mainīts vietnes administratora "
+"konts."
+
+#: src/Admin/Pages/ControlTab.php:58
+#, fuzzy
+msgid "User Change Notifications"
+msgstr "Paziņojumi par lietotāja maiņu"
+
+#: src/Admin/Pages/ControlTab.php:59
+#, fuzzy
+msgid ""
+"Limit emails triggered by password changed/reset, email changed, and more."
+msgstr ""
+"Ierobežojiet e-pasta ziņojumus, ko izraisa paroles maiņa / atiestatīšana, e-"
+"pasta maiņa utt."
+
+#: src/Admin/Pages/ControlTab.php:63
+#, fuzzy
+msgid "Personal Data Requests Notifications"
+msgstr "Personas datu pieprasījumu paziņojumi"
+
+#: src/Admin/Pages/ControlTab.php:64
+#, fuzzy
+msgid "Control emails for data requests and data removal actions."
+msgstr "Kontrolējiet datu pieprasījumu e-pastus un datu noņemšanas darbības."
+
+#: src/Admin/Pages/ControlTab.php:68
+#, fuzzy
+msgid "Automatic Update Notifications"
+msgstr "Automātiskās atjaunināšanas paziņojumi"
+
+#: src/Admin/Pages/ControlTab.php:69
+#, fuzzy
+msgid "Manage emails sent by the core automatic update process."
+msgstr "Pārvaldiet e-pastus, kas nosūtīti automātiskā atjaunināšanas procesā."
+
+#: src/Admin/Pages/ControlTab.php:73
+#, fuzzy
+msgid "New User Notifications"
+msgstr "Jaunu lietotāju paziņojumi"
+
+#: src/Admin/Pages/ControlTab.php:74
+#, fuzzy
+msgid ""
+"Toggle emails sent to both user and site administrator about new user "
+"accounts."
+msgstr ""
+"Pārslēdziet e-pastus, kas tiek nosūtīti gan lietotājiem, gan vietnes "
+"administratoram par jauniem lietotāju kontiem."
+
+#: src/Admin/Pages/ControlTab.php:92
+#, fuzzy
+msgid "Unlock Email Controls"
+msgstr "Atbloķējiet e-pasta vadīklas"
+
+#: src/Admin/Pages/ControlTab.php:95
+msgid ""
+"Email Controls allows you to granularly manage emails sent by WordPress.\n"
+msgstr "E-pasta vadība ļauj granulēti pārvaldīt WordPress sūtītos e-pastus.\n"
+
+#: src/Admin/Pages/ControlTab.php:119 src/Admin/Pages/LogsTab.php:67
+#, fuzzy
+msgid "Upgrade to WP Mail SMTP Pro"
+msgstr "Jauniniet uz WP Mail SMTP Pro"
+
+#: src/Admin/Pages/LogsTab.php:53
+#, fuzzy
+msgid "Unlock Email Logging"
+msgstr "Atbloķējiet e-pasta reģistrēšanu"
+
+#: src/Admin/Pages/LogsTab.php:56
+msgid ""
+"Keep track of every email sent from your WordPress site with email logging.\n"
+msgstr ""
+"Sekojiet līdzi katram e-pastam, kas nosūtīts no jūsu WordPress vietnes, ar e-"
+"pasta reģistrēšanu.\n"
+
+#: src/Admin/Pages/LogsTab.php:57
+#, fuzzy
+msgid "Troubleshoot sending issues, recover lost emails, and more!"
+msgstr ""
+"Novērsiet sūtīšanas problēmu novēršanu, zaudēto e-pasta ziņojumu atgūšanu un "
+"daudz ko citu!"
+
+#: src/Admin/Pages/LogsTab.php:61
+#, fuzzy
+msgid "Logs Archive Page Screenshot"
+msgstr "Žurnālu arhīva lapas ekrānuzņēmums"
+
+#: src/Admin/Pages/LogsTab.php:62
+#, fuzzy
+msgid "Logs Single Page Screenshot"
+msgstr "Žurnāli Ekrānuzņēmums vienā lappusē"
+
+#: src/Admin/Pages/MiscTab.php:24
+#, fuzzy
+msgid "Misc"
+msgstr "Dažādi"
+
+#: src/Admin/Pages/MiscTab.php:56
+#, fuzzy
+msgid "Do Not Send"
+msgstr "Nesūtiet"
+
+#: src/Admin/Pages/MiscTab.php:65
+#, fuzzy
+msgid "Check this if you would like to stop sending all emails."
+msgstr "Atzīmējiet šo, ja vēlaties pārtraukt visu e-pasta ziņojumu sūtīšanu."
+
+#: src/Admin/Pages/MiscTab.php:71
+#, fuzzy
+msgid ""
+"Some plugins, like BuddyPress and Events Manager, are using their own email "
+"delivery solutions. By default, this option does not block their emails, as "
+"those plugins do not use default <code>wp_mail()</code> function to send "
+"emails."
+msgstr ""
+"Daži spraudņi, piemēram, BuddyPress un Events Manager, izmanto savus e-pasta "
+"piegādes risinājumus. Pēc noklusējuma šī opcija nebloķē viņu e-pastus, jo "
+"šie spraudņi e-pastu sūtīšanai neizmanto noklusējuma funkciju <code> wp_mail "
+"() </code>."
+
+#: src/Admin/Pages/MiscTab.php:79
+#, fuzzy
+msgid ""
+"You will need to consult with their documentation to switch them to use "
+"default WordPress email delivery."
+msgstr ""
+"Jums vajadzēs iepazīties ar viņu dokumentāciju, lai pārslēgtu viņus uz "
+"noklusējuma WordPress e-pasta piegādi."
+
+#: src/Admin/Pages/MiscTab.php:81
+#, fuzzy
+msgid "Test emails are allowed to be sent, regardless of this option."
+msgstr "Pārbaudes e-pastus ir atļauts sūtīt neatkarīgi no šīs iespējas."
+
+#. translators: %1$s - constant that was used; %2$s - file where it was used.
+#: src/Admin/Pages/MiscTab.php:86 src/Providers/OptionsAbstract.php:468
+#, fuzzy
+msgid ""
+"The value of this field was set using a constant %1$s most likely inside "
+"%2$s of your WordPress installation."
+msgstr ""
+"Šī lauka vērtība tika iestatīta, izmantojot nemainīgu %1$s, visticamāk, jūsu "
+"WordPress instalācijas %2$s."
+
+#. translators: %s - The URL to the constants support article.
+#: src/Admin/Pages/MiscTab.php:93
+#, fuzzy
+msgid ""
+"Please read this <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">support article</a> if you want to enable this option using constants."
+msgstr ""
+"Lūdzu, izlasiet šo <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">atbalsta rakstu,</a> ja vēlaties iespējot šo opciju, izmantojot "
+"konstantes."
+
+#: src/Admin/Pages/MiscTab.php:114
+#, fuzzy
+msgid "Hide Announcements"
+msgstr "Slēpt paziņojumus"
+
+#: src/Admin/Pages/MiscTab.php:123
+#, fuzzy
+msgid ""
+"Check this if you would like to hide plugin announcements and update details."
+msgstr ""
+"Atzīmējiet šo, ja vēlaties paslēpt paziņojumus par spraudņiem un atjaunināt "
+"informāciju."
+
+#: src/Admin/Pages/MiscTab.php:133
+#, fuzzy
+msgid "Hide Email Delivery Errors"
+msgstr "Slēpt e-pasta piegādes kļūdas"
+
+#: src/Admin/Pages/MiscTab.php:149
+#, fuzzy
+msgid ""
+"Check this if you would like to hide warnings alerting of email delivery "
+"errors."
+msgstr ""
+"Atzīmējiet šo, ja vēlaties paslēpt brīdinājumus par e-pasta piegādes kļūdām."
+
+#. translators: %s - filter that was used to disabled.
+#: src/Admin/Pages/MiscTab.php:156
+#, fuzzy
+msgid "Email Delivery Errors were disabled using a %s filter."
+msgstr "E-pasta piegādes kļūdas tika atspējotas, izmantojot %s filtru."
+
+#: src/Admin/Pages/MiscTab.php:165
+#, fuzzy
+msgid ""
+"<strong>This is not recommended</strong> and should only be done for staging "
+"or development sites."
+msgstr ""
+"<strong> Tas nav ieteicams </strong>, un tas jādara tikai vietņu "
+"inscenēšanai vai izstrādei."
+
+#: src/Admin/Pages/MiscTab.php:180
+#, fuzzy
+msgid "Uninstall WP Mail SMTP"
+msgstr "Atinstalējiet WP Mail SMTP"
+
+#: src/Admin/Pages/MiscTab.php:188
+#, fuzzy
+msgid ""
+"Check this if you would like to remove ALL WP Mail SMTP data upon plugin "
+"deletion. All settings will be unrecoverable."
+msgstr ""
+"Atzīmējiet šo, ja pēc spraudņa izdzēšanas vēlaties noņemt VISUS WP Mail SMTP "
+"datus. Visi iestatījumi netiks atjaunoti."
+
+#: src/Admin/Pages/MiscTab.php:234 src/Admin/Pages/SettingsTab.php:583
+#, fuzzy
+msgid "Settings were successfully saved."
+msgstr "Iestatījumi tika veiksmīgi saglabāti."
+
+#: src/Admin/Pages/SettingsTab.php:37
+#, fuzzy
+msgid "General"
+msgstr "Vispārīgi"
+
+#: src/Admin/Pages/SettingsTab.php:67
+#, fuzzy
+msgid "License"
+msgstr "Licence"
+
+#: src/Admin/Pages/SettingsTab.php:70
+#, fuzzy
+msgid "Your license key provides access to updates and support."
+msgstr "Jūsu licences atslēga nodrošina piekļuvi atjauninājumiem un atbalstam."
+
+#: src/Admin/Pages/SettingsTab.php:78
+#, fuzzy
+msgid "License Key"
+msgstr "Licences atslēga"
+
+#: src/Admin/Pages/SettingsTab.php:88
+#, fuzzy
+msgid "Mail"
+msgstr "Pasts"
+
+#: src/Admin/Pages/SettingsTab.php:95
+#, fuzzy
+msgid "From Email"
+msgstr "No e-pasta"
+
+#: src/Admin/Pages/SettingsTab.php:113
+#, fuzzy
+msgid "Please first authorize the Gmail mailer below"
+msgstr "Lūdzu, vispirms autorizējiet zemāk esošo Gmail pastu"
+
+#: src/Admin/Pages/SettingsTab.php:127
+#, fuzzy
+msgid "The email address which emails are sent from."
+msgstr "E-pasta adrese, no kuras tiek sūtīti e-pasti."
+
+#: src/Admin/Pages/SettingsTab.php:128
+#, fuzzy
+msgid ""
+"If you're using an email provider (Yahoo, Outlook.com, etc) this should be "
+"your email address for that account."
+msgstr ""
+"Ja izmantojat e-pasta pakalpojumu sniedzēju (Yahoo, Outlook.com utt.), Šai "
+"konta e-pasta adresei vajadzētu būt."
+
+#: src/Admin/Pages/SettingsTab.php:131
+#, fuzzy
+msgid ""
+"Please note that other plugins can change this, to prevent this use the "
+"setting below."
+msgstr ""
+"Lūdzu, ņemiet vērā, ka citi spraudņi to var mainīt, lai to novērstu, "
+"izmantojiet zemāk esošo iestatījumu."
+
+#: src/Admin/Pages/SettingsTab.php:149
+#, fuzzy
+msgid "Force From Email"
+msgstr "Spēks no e-pasta"
+
+#: src/Admin/Pages/SettingsTab.php:156
+#, fuzzy
+msgid ""
+"Current provider will automatically force From Email to be the email address "
+"that you use to set up the connection below."
+msgstr ""
+"Pašreizējais pakalpojumu sniedzējs automātiski piespiedīs No e-pasta adresi "
+"e-pasta adresi, kuru izmantojat, lai izveidotu zemāk esošo savienojumu."
+
+#: src/Admin/Pages/SettingsTab.php:158
+#, fuzzy
+msgid ""
+"Gmail mailer will automatically force From Email to be the email address "
+"that you selected above."
+msgstr ""
+"Gmail mailer automātiski piespiedīs no e-pasta izmantot iepriekš atlasīto e-"
+"pasta adresi."
+
+#: src/Admin/Pages/SettingsTab.php:164
+#, fuzzy
+msgid ""
+"If checked, the From Email setting above will be used for all emails, "
+"ignoring values set by other plugins."
+msgstr ""
+"Ja tas ir atzīmēts, iepriekš norādītais iestatījums No e-pasta tiks "
+"izmantots visiem e-pasta ziņojumiem, ignorējot citu spraudņu iestatītās "
+"vērtības."
+
+#: src/Admin/Pages/SettingsTab.php:174
+#, fuzzy
+msgid "From Name"
+msgstr "No vārda"
+
+#: src/Admin/Pages/SettingsTab.php:185
+#, fuzzy
+msgid "The name which emails are sent from."
+msgstr "Vārds, no kura tiek sūtīti e-pasta ziņojumi."
+
+#: src/Admin/Pages/SettingsTab.php:197
+#, fuzzy
+msgid "Force From Name"
+msgstr "Spēks no vārda"
+
+#: src/Admin/Pages/SettingsTab.php:202
+#, fuzzy
+msgid ""
+"Current provider doesn't support setting and forcing From Name. Emails will "
+"be sent on behalf of the account name used to setup the connection below."
+msgstr ""
+"Pašreizējais pakalpojumu sniedzējs neatbalsta iestatīšanu un piespiešanu no "
+"vārda. E-pasti tiks nosūtīti tā konta nosaukuma vārdā, kurš tika izmantots, "
+"lai izveidotu savienojumu zemāk."
+
+#: src/Admin/Pages/SettingsTab.php:206
+#, fuzzy
+msgid ""
+"If checked, the From Name setting above will be used for all emails, "
+"ignoring values set by other plugins."
+msgstr ""
+"Ja tas ir atzīmēts, iepriekš norādītais iestatījums No nosaukuma tiks "
+"izmantots visiem e-pastiem, ignorējot citu spraudņu iestatītās vērtības."
+
+#: src/Admin/Pages/SettingsTab.php:215
+#, fuzzy
+msgid "Return Path"
+msgstr "Atgriešanās ceļš"
+
+#: src/Admin/Pages/SettingsTab.php:224
+#, fuzzy
+msgid "Set the return-path to match the From Email"
+msgstr "Iestatiet atgriešanās ceļu, lai tas sakristu ar sūtītāja e-pastu"
+
+#: src/Admin/Pages/SettingsTab.php:228
+#, fuzzy
+msgid ""
+"Return Path indicates where non-delivery receipts - or bounce messages - are "
+"to be sent."
+msgstr ""
+"Atgriešanās ceļš norāda, kur jānosūta nepiegādes kvītis - vai atlēcošie "
+"ziņojumi."
+
+#: src/Admin/Pages/SettingsTab.php:229
+#, fuzzy
+msgid ""
+"If unchecked, bounce messages may be lost. Some providers may ignore this "
+"option."
+msgstr ""
+"Ja tas nav atzīmēts, atlēcošie ziņojumi var tikt zaudēti. Daži pakalpojumu "
+"sniedzēji var ignorēt šo iespēju."
+
+#: src/Admin/Pages/SettingsTab.php:237
+#, fuzzy
+msgid "Mailer"
+msgstr "Mailers"
+
+#: src/Admin/Pages/SettingsTab.php:278
+#, fuzzy
+msgid "Don't see what you're looking for?"
+msgstr "Vai neredzat to, ko meklējat?"
+
+#: src/Admin/Pages/SettingsTab.php:280
+#, fuzzy
+msgid "Suggest a Mailer"
+msgstr "Ieteikt Mailer"
+
+#: src/Admin/Pages/SettingsTab.php:308
+#, fuzzy
+msgid "Dismiss this notice"
+msgstr "Noraidīt šo paziņojumu"
+
+#: src/Admin/Pages/SettingsTab.php:355
+#, fuzzy
+msgid "You're using WP Mail SMTP Lite - no license needed. Enjoy!"
+msgstr "Jūs izmantojat WP Mail SMTP Lite - nav nepieciešama licence. Izbaudi!"
+
+#. translators: %s - WPMailSMTP.com upgrade URL.
+#: src/Admin/Pages/SettingsTab.php:361
+#, fuzzy
+msgid ""
+"To unlock more features consider <strong><a href=\"%s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\" class=\"wp-mail-smtp-upgrade-modal\">upgrading "
+"to PRO</a></strong>."
+msgstr ""
+"Lai atbloķētu citas funkcijas, apsveriet <strong><a href=\"%s\" target="
+"\"_blank\" rel=\"noopener noreferrer\" class=\"wp-mail-smtp-upgrade-modal"
+"\">jaunināšanu uz PRO</a></strong> ."
+
+#: src/Admin/Pages/SettingsTab.php:380
+#, fuzzy
+msgid ""
+"As a valued WP Mail SMTP Lite user you receive <strong>$50 off</strong>, "
+"automatically applied at checkout!"
+msgstr ""
+"Kā novērtēts WP Mail SMTP Lite lietotājs jūs saņemat <strong> USD 50 off </"
+"strong>, kas automātiski tiek piemērots norēķiniem!"
+
+#: src/Admin/Pages/SettingsTab.php:441
+#, fuzzy
+msgid "Get WP Mail SMTP Pro and Unlock all the Powerful Features"
+msgstr "Iegūstiet WP Mail SMTP Pro un atbloķējiet visas jaudīgās funkcijas"
+
+#: src/Admin/Pages/SettingsTab.php:445
+#, fuzzy
+msgid ""
+"Thanks for being a loyal WP Mail SMTP user. Upgrade to WP Mail SMTP Pro to "
+"unlock more awesome features and experience why WP Mail SMTP is the most "
+"popular SMTP plugin."
+msgstr ""
+"Paldies, ka esat lojāls WP Mail SMTP lietotājs. Jauniniet uz WP Mail SMTP "
+"Pro, lai atbloķētu vairāk satriecošu funkciju un izjustu, kāpēc WP Mail SMTP "
+"ir vispopulārākais SMTP spraudnis."
+
+#: src/Admin/Pages/SettingsTab.php:449
+#, fuzzy
+msgid ""
+"We know that you will truly love WP Mail SMTP. It's used by over 1,000,000 "
+"websites."
+msgstr ""
+"Mēs zinām, ka jums patiesi patiks WP Mail SMTP. To izmanto vairāk nekā 1 000 "
+"000 vietņu."
+
+#: src/Admin/Pages/SettingsTab.php:452
+#, fuzzy
+msgid "Pro Features:"
+msgstr "Pro funkcijas:"
+
+#: src/Admin/Pages/SettingsTab.php:456
+#, fuzzy
+msgid "Manage Notifications - control which emails your site sends"
+msgstr "Pārvaldīt paziņojumus - kontrolējiet, kurus e-pastus sūta jūsu vietne"
+
+#: src/Admin/Pages/SettingsTab.php:457
+#, fuzzy
+msgid "Email Logging - keep track of every email sent from your site"
+msgstr ""
+"E-pasta reģistrēšana - sekojiet katram e-pastam, kas nosūtīts no jūsu vietnes"
+
+#: src/Admin/Pages/SettingsTab.php:458
+#, fuzzy
+msgid "Office 365 - send emails using your Office 365 account"
+msgstr "Office 365 - sūtiet e-pastus, izmantojot savu Office 365 kontu"
+
+#: src/Admin/Pages/SettingsTab.php:459
+#, fuzzy
+msgid "Amazon SES - harness the power of AWS"
+msgstr "Amazon SES - izmantojiet AWS jaudu"
+
+#: src/Admin/Pages/SettingsTab.php:460
+#, fuzzy
+msgid "Outlook.com - send emails using your Outlook.com account"
+msgstr "Outlook.com - sūtīt e-pastus, izmantojot savu Outlook.com kontu"
+
+#: src/Admin/Pages/SettingsTab.php:461
+#, fuzzy
+msgid "Access to our world class support team"
+msgstr "Pieeja mūsu pasaules klases atbalsta komandai"
+
+#: src/Admin/Pages/SettingsTab.php:464
+#, fuzzy
+msgid ""
+"White Glove Setup - sit back and relax while we handle everything for you"
+msgstr ""
+"Balto cimdu iestatīšana - sēdiet un atpūtieties, kamēr mēs visu apstrādājam "
+"jūsu vietā"
+
+#: src/Admin/Pages/SettingsTab.php:465
+#, fuzzy
+msgid "Install WP Mail SMTP Pro plugin"
+msgstr "Instalējiet spraudni WP Mail SMTP Pro"
+
+#: src/Admin/Pages/SettingsTab.php:466
+#, fuzzy
+msgid "Set up domain name verification (DNS)"
+msgstr "Iestatīt domēna vārda verifikāciju (DNS)"
+
+#: src/Admin/Pages/SettingsTab.php:467
+#, fuzzy
+msgid "Configure Mailgun service"
+msgstr "Konfigurējiet Mailgun pakalpojumu"
+
+#: src/Admin/Pages/SettingsTab.php:468
+#, fuzzy
+msgid "Set up WP Mail SMTP Pro plugin"
+msgstr "Iestatiet WP Mail SMTP Pro spraudni"
+
+#: src/Admin/Pages/SettingsTab.php:469
+#, fuzzy
+msgid "Test and verify email delivery"
+msgstr "Pārbaudiet un pārbaudiet e-pasta piegādi"
+
+#. translators: %s - WPMailSMTP.com URL.
+#: src/Admin/Pages/SettingsTab.php:477
+#, fuzzy
+msgid ""
+"<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Get WP Mail "
+"SMTP Pro Today and Unlock all the Powerful Features &raquo;</a>"
+msgstr ""
+"<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Saņemiet WP "
+"Mail SMTP Pro šodien un atbloķējiet visas jaudīgās funkcijas »</a>"
+
+#: src/Admin/Pages/SettingsTab.php:495
+#, fuzzy
+msgid ""
+"<strong>Bonus:</strong> WP Mail SMTP users get <span class=\"price-off\">$50 "
+"off regular price</span>, automatically applied at checkout."
+msgstr ""
+"<strong>Bonuss:</strong> WP Mail SMTP lietotāji saņem <span class=\"price-off"
+"\">50 USD atlaidi no parastās cenas</span> , kas automātiski tiek piemērota "
+"norēķinoties."
+
+#: src/Admin/Pages/TestTab.php:37
+#, fuzzy
+msgid "Email Test"
+msgstr "E-pasta pārbaude"
+
+#: src/Admin/Pages/TestTab.php:59
+#, fuzzy
+msgid "Send a Test Email"
+msgstr "Nosūtiet testa e-pastu"
+
+#: src/Admin/Pages/TestTab.php:66
+#, fuzzy
+msgid "Send To"
+msgstr "Nosūtīt"
+
+#: src/Admin/Pages/TestTab.php:72
+#, fuzzy
+msgid "Enter email address where test email will be sent."
+msgstr "Ievadiet e-pasta adresi, uz kuru tiks nosūtīts testa e-pasts."
+
+#: src/Admin/Pages/TestTab.php:80
+#, fuzzy
+msgid "HTML"
+msgstr "HTML"
+
+#: src/Admin/Pages/TestTab.php:86 src/Providers/OptionsAbstract.php:264
+#: src/Providers/OptionsAbstract.php:286
+#, fuzzy
+msgid "On"
+msgstr "Ieslēgts"
+
+#: src/Admin/Pages/TestTab.php:87 src/Providers/OptionsAbstract.php:265
+#: src/Providers/OptionsAbstract.php:287
+#, fuzzy
+msgid "Off"
+msgstr "Izslēgts"
+
+#: src/Admin/Pages/TestTab.php:90
+#, fuzzy
+msgid "Send this email in HTML or in plain text format."
+msgstr "Nosūtiet šo e-pastu HTML vai vienkārša teksta formātā."
+
+#: src/Admin/Pages/TestTab.php:110
+#, fuzzy
+msgid ""
+"You cannot send an email. Mailer is not properly configured. Please check "
+"your settings."
+msgstr ""
+"Jūs nevarat nosūtīt e-pastu. Mailer nav pareizi konfigurēts. Lūdzu, "
+"pārbaudiet iestatījumus."
+
+#: src/Admin/Pages/TestTab.php:114
+#, fuzzy
+msgid "Send Email"
+msgstr "Sūtīt e-pastu"
+
+#: src/Admin/Pages/TestTab.php:142
+#, fuzzy
+msgid ""
+"Test failed. Please use a valid email address and try to resend the test "
+"email."
+msgstr ""
+"Pārbaude neizdevās. Lūdzu, izmantojiet derīgu e-pasta adresi un mēģiniet "
+"vēlreiz nosūtīt testa e-pastu."
+
+#. translators: %s - email address a test email will be sent to.
+#: src/Admin/Pages/TestTab.php:154 src/Admin/Pages/TestTab.php:160
+#, fuzzy
+msgid "Test email to %s"
+msgstr "Pārbaudiet e-pastu %s"
+
+#: src/Admin/Pages/TestTab.php:186
+#, fuzzy
+msgid "Test plain text email was sent successfully!"
+msgstr "Testa vienkāršā teksta e-pasts tika nosūtīts veiksmīgi."
+
+#. translators: %s - "HTML" in bold.
+#: src/Admin/Pages/TestTab.php:190
+#, fuzzy
+msgid ""
+"Test %s email was sent successfully! Please check your inbox to make sure it "
+"is delivered."
+msgstr ""
+"Pārbaudes %s e-pasts tika nosūtīts veiksmīgi! Lūdzu, pārbaudiet iesūtni, lai "
+"pārliecinātos, ka tā ir piegādāta."
+
+#: src/Admin/Pages/TestTab.php:510
+#, fuzzy
+msgid "SSL certificate issue."
+msgstr "SSL sertifikāta izsniegšana."
+
+#: src/Admin/Pages/TestTab.php:511
+#, fuzzy
+msgid ""
+"This means your web server cannot reliably make secure connections (make "
+"requests to HTTPS sites)."
+msgstr ""
+"Tas nozīmē, ka jūsu tīmekļa serveris nevar droši izveidot drošus "
+"savienojumus (iesniegt pieprasījumus HTTPS vietnēm)."
+
+#: src/Admin/Pages/TestTab.php:512 src/Admin/Pages/TestTab.php:560
+#, fuzzy
+msgid ""
+"Typically this error is returned when web server is not configured properly."
+msgstr ""
+"Parasti šī kļūda tiek atgriezta, ja tīmekļa serveris nav pareizi konfigurēts."
+
+#: src/Admin/Pages/TestTab.php:515
+#, fuzzy
+msgid ""
+"Contact your web hosting provider and inform them your site has an issue "
+"with SSL certificates."
+msgstr ""
+"Sazinieties ar savu tīmekļa mitināšanas pakalpojumu sniedzēju un informējiet "
+"viņus, ka jūsu vietnei ir problēmas ar SSL sertifikātiem."
+
+#: src/Admin/Pages/TestTab.php:516 src/Admin/Pages/TestTab.php:564
+#, fuzzy
+msgid ""
+"The exact error you can provide them is in the Error log, available at the "
+"bottom of this page."
+msgstr ""
+"Precīza kļūda, kuru varat tām sniegt, ir kļūdu žurnālā, kas pieejams šīs "
+"lapas apakšā."
+
+#: src/Admin/Pages/TestTab.php:517 src/Admin/Pages/TestTab.php:565
+#, fuzzy
+msgid "Ask them to resolve the issue then try again."
+msgstr "Palūdziet viņiem atrisināt problēmu, pēc tam mēģiniet vēlreiz."
+
+#: src/Admin/Pages/TestTab.php:528
+#, fuzzy
+msgid "Could not connect to host."
+msgstr "Nevarēja izveidot savienojumu ar resursdatoru."
+
+#. translators: %s - SMTP host address.
+#: src/Admin/Pages/TestTab.php:531 src/Admin/Pages/TestTab.php:556
+#: src/Admin/Pages/TestTab.php:658
+#, fuzzy
+msgid "This means your web server was unable to connect to %s."
+msgstr ""
+"Tas nozīmē, ka jūsu tīmekļa serveris nevarēja izveidot savienojumu ar %s."
+
+#: src/Admin/Pages/TestTab.php:534 src/Admin/Pages/TestTab.php:559
+#: src/Admin/Pages/TestTab.php:661
+#, fuzzy
+msgid "This means your web server was unable to connect to the host server."
+msgstr ""
+"Tas nozīmē, ka jūsu tīmekļa serveris nevarēja izveidot savienojumu ar "
+"resursdatora serveri."
+
+#: src/Admin/Pages/TestTab.php:535
+#, fuzzy
+msgid ""
+"Typically this error is returned your web server is blocking the connections "
+"or the SMTP host denying the request."
+msgstr ""
+"Parasti šī kļūda tiek atgriezta, jūsu tīmekļa serveris bloķē savienojumus "
+"vai SMTP resursdators liedz pieprasījumu."
+
+#. translators: %s - SMTP host address.
+#: src/Admin/Pages/TestTab.php:539
+#, fuzzy
+msgid ""
+"Contact your web hosting provider and ask them to verify your server can "
+"connect to %s. Additionally, ask them if a firewall or security policy may "
+"be preventing the connection."
+msgstr ""
+"Sazinieties ar savu tīmekļa mitināšanas pakalpojumu sniedzēju un palūdziet, "
+"lai viņš pārbaudītu, vai jūsu serveris var izveidot savienojumu ar %s. "
+"Papildus jautājiet viņiem, vai ugunsmūris vai drošības politika var kavēt "
+"savienojumu."
+
+#: src/Admin/Pages/TestTab.php:542
+#, fuzzy
+msgid ""
+"If using \"Other SMTP\" Mailer, triple check your SMTP settings including "
+"host address, email, and password."
+msgstr ""
+"Ja izmantojat “Cits SMTP” Mailer, trīsreiz pārbaudiet savus SMTP "
+"iestatījumus, ieskaitot resursdatora adresi, e-pastu un paroli."
+
+#: src/Admin/Pages/TestTab.php:543
+#, fuzzy
+msgid ""
+"If using \"Other SMTP\" Mailer, contact your SMTP host to confirm they are "
+"accepting outside connections with the settings you have configured "
+"(address, username, port, security, etc)."
+msgstr ""
+"Ja izmantojat “Citu SMTP” Mailer, sazinieties ar savu SMTP resursdatoru, lai "
+"pārliecinātos, ka viņš pieņem ārējos savienojumus ar jūsu konfigurētajiem "
+"iestatījumiem (adrese, lietotājvārds, ports, drošība utt.)."
+
+#: src/Admin/Pages/TestTab.php:553
+#, fuzzy
+msgid "Could not connect to your host."
+msgstr "Nevarēja izveidot savienojumu ar jūsu resursdatoru."
+
+#: src/Admin/Pages/TestTab.php:563
+#, fuzzy
+msgid ""
+"Contact your web hosting provider and inform them you are having issues "
+"making outbound connections."
+msgstr ""
+"Sazinieties ar savu tīmekļa mitināšanas pakalpojumu sniedzēju un informējiet "
+"viņu, ka rodas problēmas ar izejošo savienojumu izveidi."
+
+#: src/Admin/Pages/TestTab.php:575
+#, fuzzy
+msgid "Could not authenticate your SMTP account."
+msgstr "Nevarēja autentificēt jūsu SMTP kontu."
+
+#: src/Admin/Pages/TestTab.php:576
+#, fuzzy
+msgid ""
+"This means we were able to connect to your SMTP host, but were not able to "
+"proceed using the email/password in the settings."
+msgstr ""
+"Tas nozīmē, ka mēs varējām izveidot savienojumu ar jūsu SMTP resursdatoru, "
+"taču nevarējām turpināt, izmantojot iestatījumos norādīto e-pastu / paroli."
+
+#: src/Admin/Pages/TestTab.php:577
+#, fuzzy
+msgid ""
+"Typically this error is returned when the email or password is not correct "
+"or is not what the SMTP host is expecting."
+msgstr ""
+"Parasti šī kļūda tiek atgriezta, ja e-pasta adrese vai parole nav pareiza "
+"vai arī tā nav tā, ko sagaida SMTP resursdators."
+
+#: src/Admin/Pages/TestTab.php:580
+#, fuzzy
+msgid ""
+"Triple check your SMTP settings including host address, email, and password. "
+"If you have recently reset your password you will need to update the "
+"settings."
+msgstr ""
+"Trīs reizes pārbaudiet savus SMTP iestatījumus, ieskaitot resursdatora "
+"adresi, e-pastu un paroli. Ja nesen esat atiestatījis paroli, jums būs "
+"jāatjaunina iestatījumi."
+
+#: src/Admin/Pages/TestTab.php:581 src/Admin/Pages/TestTab.php:686
+#, fuzzy
+msgid ""
+"Contact your SMTP host to confirm you are using the correct username and "
+"password."
+msgstr ""
+"Sazinieties ar savu SMTP resursdatoru, lai pārliecinātos, ka izmantojat "
+"pareizu lietotājvārdu un paroli."
+
+#: src/Admin/Pages/TestTab.php:582 src/Admin/Pages/TestTab.php:687
+#, fuzzy
+msgid ""
+"Verify with your SMTP host that your account has permissions to send emails "
+"using outside connections."
+msgstr ""
+"Sazinieties ar savu SMTP resursdatoru, vai jūsu kontam ir atļaujas sūtīt e-"
+"pastus, izmantojot ārējos savienojumus."
+
+#: src/Admin/Pages/TestTab.php:592
+#, fuzzy
+msgid "Error due to unsolicited and/or bulk e-mail."
+msgstr "Kļūda nevēlamu un / vai masveida e-pastu dēļ."
+
+#: src/Admin/Pages/TestTab.php:593
+#, fuzzy
+msgid ""
+"This means the connection to your SMTP host was made successfully, but the "
+"host rejected the email."
+msgstr ""
+"Tas nozīmē, ka savienojums ar jūsu SMTP resursdatoru tika izveidots "
+"veiksmīgi, taču resursdators noraidīja e-pastu."
+
+#: src/Admin/Pages/TestTab.php:594
+#, fuzzy
+msgid ""
+"Typically this error is returned when you are sending too many e-mails or e-"
+"mails that have been identified as spam."
+msgstr ""
+"Parasti šī kļūda tiek atgriezta, ja sūtāt pārāk daudz e-pastu vai e-pastus, "
+"kas identificēti kā surogātpasts."
+
+#: src/Admin/Pages/TestTab.php:597
+#, fuzzy
+msgid ""
+"Check the emails that are sending are sending individually. Example: email "
+"is not sending to 30 recipients. You can install any WordPress e-mail "
+"logging plugin to do that."
+msgstr ""
+"Pārbaudiet, kādus e-pasta ziņojumus sūtāt. Piemērs: e-pasts netiek nosūtīts "
+"30 adresātiem. Lai to izdarītu, varat instalēt jebkuru WordPress e-pasta "
+"reģistrēšanas spraudni."
+
+#: src/Admin/Pages/TestTab.php:598
+#, fuzzy
+msgid "Contact your SMTP host to ask about sending/rate limits."
+msgstr ""
+"Sazinieties ar savu SMTP resursdatoru, lai jautātu par sūtīšanas / tarifu "
+"ierobežojumiem."
+
+#: src/Admin/Pages/TestTab.php:599
+#, fuzzy
+msgid ""
+"Verify with them your SMTP account is in good standing and your account has "
+"not been flagged."
+msgstr ""
+"Pārbaudiet kopā ar viņiem, ka jūsu SMTP konts ir labā stāvoklī, un jūsu "
+"konts nav atzīmēts kā nepiemērots."
+
+#: src/Admin/Pages/TestTab.php:609
+#, fuzzy
+msgid "Unauthenticated senders are not allowed."
+msgstr "Neautentificēti sūtītāji nav atļauti."
+
+#: src/Admin/Pages/TestTab.php:610
+#, fuzzy
+msgid ""
+"This means the connection to your SMTP host was made successfully, but you "
+"should enable Authentication and provide correct Username and Password."
+msgstr ""
+"Tas nozīmē, ka savienojums ar jūsu SMTP resursdatoru tika izveidots "
+"veiksmīgi, taču jums vajadzētu iespējot autentifikāciju un norādīt pareizu "
+"lietotājvārdu un paroli."
+
+#: src/Admin/Pages/TestTab.php:613
+#, fuzzy
+msgid "Go to WP Mail SMTP plugin Settings page."
+msgstr "Dodieties uz WP Mail SMTP spraudņa iestatījumu lapu."
+
+#: src/Admin/Pages/TestTab.php:614
+#, fuzzy
+msgid "Enable Authentication"
+msgstr "Iespējot autentifikāciju"
+
+#: src/Admin/Pages/TestTab.php:615
+#, fuzzy
+msgid ""
+"Enter correct SMTP Username (usually this is an email address) and Password "
+"in the appropriate fields."
+msgstr ""
+"Atbilstošajos laukos ievadiet pareizu SMTP lietotājvārdu (parasti tā ir e-"
+"pasta adrese) un paroli."
+
+#: src/Admin/Pages/TestTab.php:627
+#, fuzzy
+msgid "Misconfigured server certificate."
+msgstr "Nepareizi konfigurēts servera sertifikāts."
+
+#: src/Admin/Pages/TestTab.php:628
+#, fuzzy
+msgid ""
+"This means OpenSSL on your server isn't able to verify the host certificate."
+msgstr ""
+"Tas nozīmē, ka jūsu servera OpenSSL nespēj verificēt resursdatora "
+"sertifikātu."
+
+#: src/Admin/Pages/TestTab.php:629
+#, fuzzy
+msgid ""
+"There are a few reasons why this is happening. It could be that the host "
+"certificate is misconfigured, or this server's OpenSSL is using an outdated "
+"CA bundle."
+msgstr ""
+"Ir daži iemesli, kāpēc tas notiek. Var būt, ka resursdatora sertifikāts ir "
+"nepareizi konfigurēts vai šī servera OpenSSL izmanto novecojušu CA paketi."
+
+#: src/Admin/Pages/TestTab.php:632
+#, fuzzy
+msgid "Verify that the host's SSL certificate is valid."
+msgstr "Pārbaudiet, vai resursdatora SSL sertifikāts ir derīgs."
+
+#. translators: %s - URL to the PHP openssl manual
+#: src/Admin/Pages/TestTab.php:635
+#, fuzzy
+msgid ""
+"Contact your hosting support, show them the \"full Error Log for debugging\" "
+"below and share this <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">link</a> with them."
+msgstr ""
+"Sazinieties ar savu mitināšanas atbalstu, parādiet viņiem zemāk redzamo "
+"“pilnīgu atkļūdošanas kļūdu žurnālu” un kopīgojiet šo <a href=\"%s\" target="
+"\"_blank\" rel=\"noopener noreferrer\">saiti</a> ar viņiem."
+
+#: src/Admin/Pages/TestTab.php:655
+#, fuzzy
+msgid "Could not connect to the SMTP host."
+msgstr "Nevarēja izveidot savienojumu ar SMTP resursdatoru."
+
+#: src/Admin/Pages/TestTab.php:662 src/Admin/Pages/TestTab.php:1048
+#, fuzzy
+msgid "Typically this error is returned for one of the following reasons:"
+msgstr "Parasti šī kļūda tiek atgriezta šādu iemeslu dēļ:"
+
+#: src/Admin/Pages/TestTab.php:663
+#, fuzzy
+msgid ""
+"SMTP settings are incorrect (wrong port, security setting, incorrect host)."
+msgstr ""
+"SMTP iestatījumi nav pareizi (nepareizs ports, drošības iestatījums, "
+"nepareizs resursdators)."
+
+#: src/Admin/Pages/TestTab.php:664 src/Admin/Pages/TestTab.php:1050
+#, fuzzy
+msgid "Your web server is blocking the connection."
+msgstr "Jūsu tīmekļa serveris bloķē savienojumu."
+
+#: src/Admin/Pages/TestTab.php:665
+#, fuzzy
+msgid "Your SMTP host is rejecting the connection."
+msgstr "Jūsu SMTP resursdators noraida savienojumu."
+
+#: src/Admin/Pages/TestTab.php:668
+#, fuzzy
+msgid ""
+"Triple check your SMTP settings including host address, email, and password, "
+"port, and security."
+msgstr ""
+"Trīs reizes pārbaudiet savus SMTP iestatījumus, ieskaitot resursdatora "
+"adresi, e-pastu un paroli, portu un drošību."
+
+#. translators: %1$s - SMTP host address, %2$s - SMTP port, %3$s - SMTP encryption.
+#: src/Admin/Pages/TestTab.php:671
+#, fuzzy
+msgid ""
+"Contact your web hosting provider and ask them to verify your server can "
+"connect to %1$s on port %2$s using %3$s encryption. Additionally, ask them "
+"if a firewall or security policy may be preventing the connection - many "
+"shared hosts block certain ports.<br><strong>Note: this is the most common "
+"cause of this issue.</strong>"
+msgstr ""
+"Sazinieties ar savu tīmekļa mitināšanas pakalpojumu sniedzēju un palūdziet, "
+"lai viņš pārbaudītu, vai jūsu serveris var izveidot savienojumu ar %1$s os$1 "
+"$22$s, izmantojot %3$s šifrēšanu. Turklāt pajautājiet viņiem, vai "
+"savienojumu var novērst ugunsmūris vai drošības politika. Daudzi koplietotie "
+"resursdatori bloķē noteiktas ostas. <br> <strong> Piezīme: tas ir "
+"visizplatītākais šīs problēmas cēlonis. </strong>"
+
+#: src/Admin/Pages/TestTab.php:684
+#, fuzzy
+msgid "no"
+msgstr "Nē"
+
+#: src/Admin/Pages/TestTab.php:697 src/Admin/Pages/TestTab.php:712
+#: src/Admin/Pages/TestTab.php:728
+#, fuzzy
+msgid "Mailgun failed."
+msgstr "Mailguns neizdevās."
+
+#: src/Admin/Pages/TestTab.php:698
+#, fuzzy
+msgid "It seems that you forgot to activate your Mailgun account."
+msgstr "Liekas, ka esat aizmirsis aktivizēt savu Mailgun kontu."
+
+#: src/Admin/Pages/TestTab.php:701
+#, fuzzy
+msgid ""
+"Check your inbox you used to create a Mailgun account. Click the activation "
+"link in an email from Mailgun."
+msgstr ""
+"Pārbaudiet iesūtni, kuru izmantojāt, lai izveidotu Mailgun kontu. Mailgun e-"
+"pastā noklikšķiniet uz aktivizācijas saites."
+
+#: src/Admin/Pages/TestTab.php:702
+#, fuzzy
+msgid ""
+"If you do not see activation email, go to your Mailgun control panel and "
+"resend the activation email."
+msgstr ""
+"Ja neredzat aktivizācijas e-pastu, dodieties uz savu Mailgun vadības paneli "
+"un atkārtoti nosūtiet aktivizācijas e-pastu."
+
+#: src/Admin/Pages/TestTab.php:713
+#, fuzzy
+msgid ""
+"Typically this error is because there is an issue with your Mailgun "
+"settings, in many cases the API key."
+msgstr ""
+"Parasti šī kļūda rodas tāpēc, ka ir problēma ar jūsu Mailgun iestatījumiem, "
+"daudzos gadījumos ar API atslēgu."
+
+#: src/Admin/Pages/TestTab.php:716
+#, fuzzy
+msgid "Verify your API key is correct."
+msgstr "Pārbaudiet, vai jūsu API atslēga ir pareiza."
+
+#: src/Admin/Pages/TestTab.php:717
+#, fuzzy
+msgid "Go to your Mailgun account and view your API key."
+msgstr "Dodieties uz savu Mailgun kontu un apskatiet savu API atslēgu."
+
+#: src/Admin/Pages/TestTab.php:718
+#, fuzzy
+msgid ""
+"Note that the API key includes the \"key\" prefix, so make sure that it is "
+"in the WP Mail SMTP Mailgun API setting."
+msgstr ""
+"Ņemiet vērā, ka API atslēgā ir ietverts prefikss “key”, tāpēc "
+"pārliecinieties, vai tas atrodas WP Mail SMTP Mailgun API iestatījumā."
+
+#: src/Admin/Pages/TestTab.php:729
+#, fuzzy
+msgid "Your Mailgun account does not have access to send emails."
+msgstr "Jūsu Mailgun kontam nav piekļuves sūtīt e-pastus."
+
+#: src/Admin/Pages/TestTab.php:730
+#, fuzzy
+msgid ""
+"Typically this error is because you have not set up and/or complete domain "
+"name verification for your Mailgun account."
+msgstr ""
+"Parasti šī kļūda rodas tāpēc, ka neesat iestatījis un / vai pabeidzis domēna "
+"vārda verifikāciju savam Mailgun kontam."
+
+#. translators: %s - Mailgun documentation URL.
+#: src/Admin/Pages/TestTab.php:735
+#, fuzzy
+msgid ""
+"Go to our how-to guide for setting up <a href=\"%s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Mailgun with WP Mail SMTP</a>."
+msgstr ""
+"Dodieties uz mūsu ceļvedi, kā iestatīt <a href=\"%s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Mailgun ar WP Mail SMTP</a> ."
+
+#: src/Admin/Pages/TestTab.php:746
+#, fuzzy
+msgid "Complete the steps in section \"2. Verify Your Domain\"."
+msgstr "Veiciet darbības sadaļā \"2. Verificējiet savu domēnu\"."
+
+#: src/Admin/Pages/TestTab.php:756 src/Admin/Pages/TestTab.php:805
+#: src/Admin/Pages/TestTab.php:825 src/Admin/Pages/TestTab.php:851
+#: src/Admin/Pages/TestTab.php:867 src/Admin/Pages/TestTab.php:919
+#: src/Admin/Pages/TestTab.php:945
+#, fuzzy
+msgid "Google API Error."
+msgstr "Google API kļūda."
+
+#: src/Admin/Pages/TestTab.php:757
+#, fuzzy
+msgid "You have not properly configured Gmail mailer."
+msgstr "Jūs neesat pareizi konfigurējis Gmail sūtītāju."
+
+#: src/Admin/Pages/TestTab.php:758
+#, fuzzy
+msgid ""
+"Make sure that you have clicked the \"Allow plugin to send emails using your "
+"Google account\" button under Gmail settings."
+msgstr ""
+"Pārliecinieties, vai Gmail iestatījumos esat noklikšķinājis uz pogas “Atļaut "
+"spraudnim sūtīt e-pastus, izmantojot savu Google kontu”."
+
+#: src/Admin/Pages/TestTab.php:761
+#, fuzzy
+msgid ""
+"Go to plugin Settings page and click the \"Allow plugin to send emails using "
+"your Google account\" button."
+msgstr ""
+"Dodieties uz spraudņa iestatījumu lapu un noklikšķiniet uz pogas “Atļaut "
+"spraudnim sūtīt e-pastus, izmantojot jūsu Google kontu”."
+
+#: src/Admin/Pages/TestTab.php:762
+#, fuzzy
+msgid ""
+"After the click you should be redirected to a Gmail authorization screen, "
+"where you will be asked a permission to send emails on your behalf."
+msgstr ""
+"Pēc klikšķa jūs jānovirza uz Gmail autorizācijas ekrānu, kur jums lūgs "
+"atļauju sūtīt e-pastus jūsu vārdā."
+
+#: src/Admin/Pages/TestTab.php:763
+#, fuzzy
+msgid ""
+"Please click \"Agree\", if you see that button. If not - you will need to "
+"enable less secure apps first:"
+msgstr ""
+"Lūdzu, noklikšķiniet uz “Piekrītu”, ja redzat šo pogu. Ja nē - vispirms būs "
+"jāiespējo mazāk drošas lietotnes:"
+
+#. translators: %s - Google support article URL.
+#: src/Admin/Pages/TestTab.php:768
+#, fuzzy
+msgid ""
+"if you are using regular Gmail account, please <a href=\"%s\" target=\"_blank"
+"\" rel=\"noopener noreferrer\">read this article</a> to proceed."
+msgstr ""
+"ja jūs izmantojat parastu Gmail kontu, lūdzu, <a href=\"%s\" target=\"_blank"
+"\" rel=\"noopener noreferrer\">izlasiet šo rakstu,</a> lai turpinātu."
+
+#. translators: %s - Google support article URL.
+#: src/Admin/Pages/TestTab.php:783
+#, fuzzy
+msgid ""
+"if you are using G Suite, please <a href=\"%s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">read this article</a> to proceed."
+msgstr ""
+"ja jūs izmantojat G Suite, lūdzu, <a href=\"%s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">izlasiet šo rakstu,</a> lai turpinātu."
+
+#: src/Admin/Pages/TestTab.php:806
+#, fuzzy
+msgid ""
+"Typically this error is because address the email was sent to is invalid or "
+"was empty."
+msgstr ""
+"Parasti šī kļūda rodas tāpēc, ka adrese, uz kuru tika nosūtīts e-pasts, nav "
+"derīga vai bija tukša."
+
+#: src/Admin/Pages/TestTab.php:809
+#, fuzzy
+msgid ""
+"Check the \"Send To\" email address used and confirm it is a valid email and "
+"was not empty."
+msgstr ""
+"Pārbaudiet izmantoto e-pasta adresi “Sūtīt uz” un pārliecinieties, vai tā ir "
+"derīga un nebija tukša."
+
+#. translators: 1 - correct email address example. 2 - incorrect email address example.
+#: src/Admin/Pages/TestTab.php:811
+#, fuzzy
+msgid ""
+"It should be something like this: %1$s. These are incorrect values: %2$s."
+msgstr ""
+"Tam vajadzētu būt kaut kam līdzīgam: %1$s. Šīs ir nepareizas vērtības: %2$s."
+
+#: src/Admin/Pages/TestTab.php:815
+#, fuzzy
+msgid ""
+"Make sure that the generated email has a TO header, useful when you are "
+"responsible for email creation."
+msgstr ""
+"Pārliecinieties, vai ģenerētajam e-pastam ir TO galvene, kas ir noderīga, ja "
+"esat atbildīgs par e-pasta izveidi."
+
+#: src/Admin/Pages/TestTab.php:826
+#, fuzzy
+msgid "Unfortunately, this error can be due to many different reasons."
+msgstr "Diemžēl šo kļūdu var izraisīt daudz dažādu iemeslu dēļ."
+
+#. translators: %s - Blog article URL.
+#: src/Admin/Pages/TestTab.php:831
+#, fuzzy
+msgid ""
+"Please <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">read "
+"this article</a> to learn more about what can cause this error and how it "
+"can be resolved."
+msgstr ""
+"Lūdzu, <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">izlasiet "
+"šo rakstu,</a> lai uzzinātu vairāk par to, kas var izraisīt šo kļūdu un kā "
+"to novērst."
+
+#: src/Admin/Pages/TestTab.php:852
+#, fuzzy
+msgid ""
+"Authentication code that Google returned to you has already been used on "
+"your previous auth attempt."
+msgstr ""
+"Autentifikācijas kods, kuru Google jums atdeva, jau ir izmantots jūsu "
+"iepriekšējā autentificēšanas mēģinājumā."
+
+#: src/Admin/Pages/TestTab.php:855
+#, fuzzy
+msgid ""
+"Make sure that you are not trying to manually clean up the plugin options to "
+"retry the \"Allow...\" step."
+msgstr ""
+"Pārliecinieties, vai nemēģināt manuāli iztīrīt spraudņa opcijas, lai vēlreiz "
+"mēģinātu veikt soli “Atļaut ...”."
+
+#: src/Admin/Pages/TestTab.php:856
+#, fuzzy
+msgid ""
+"Reinstall the plugin with clean plugin data turned on on Misc page. This "
+"will remove all the plugin options and you will be safe to retry."
+msgstr ""
+"Pārinstalējiet spraudni ar tīru spraudņa datiem, kas ieslēgti lapā Dažādi. "
+"Tādējādi tiks noņemtas visas spraudņa iespējas, un jūs varēsit droši mēģināt "
+"vēlreiz."
+
+#: src/Admin/Pages/TestTab.php:857
+#, fuzzy
+msgid ""
+"Make sure there is no aggressive caching on site admin area pages or try to "
+"clean cache between attempts."
+msgstr ""
+"Pārliecinieties, ka vietnes admin apgabala lapās nav agresīvas kešatmiņas, "
+"vai arī mēģiniet iztīrīt kešatmiņu starp mēģinājumiem."
+
+#: src/Admin/Pages/TestTab.php:868
+#, fuzzy
+msgid "There are various reasons for that, please review the steps below."
+msgstr "Tam ir dažādi iemesli, lūdzu, pārskatiet tālāk norādītās darbības."
+
+#. translators: %s - Google G Suite Admin area URL.
+#: src/Admin/Pages/TestTab.php:873
+#, fuzzy
+msgid ""
+"Make sure that your G Suite trial period has not expired. You can check the "
+"status <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>."
+msgstr ""
+"Pārliecinieties, vai jūsu G Suite izmēģinājuma periods nav beidzies. Jūs "
+"varat pārbaudīt statusu <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">šeit</a> ."
+
+#. translators: %s - Google G Suite Admin area URL.
+#: src/Admin/Pages/TestTab.php:886
+#, fuzzy
+msgid ""
+"Make sure that Gmail app in your G Suite is actually enabled. You can check "
+"that in Apps list in <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">G Suite Admin</a> area."
+msgstr ""
+"Pārliecinieties, vai jūsu G Suite lietotne Gmail ir faktiski iespējota. "
+"Varat to pārbaudīt lietotņu sarakstā apgabalā <a href=\"%s\" target=\"_blank"
+"\" rel=\"noopener noreferrer\">G Suite Admin</a> ."
+
+#. translators: %s - Google Developers Console URL.
+#: src/Admin/Pages/TestTab.php:899
+#, fuzzy
+msgid ""
+"Make sure that you have Gmail API enabled, and you can do that <a href=\"%s"
+"\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>."
+msgstr ""
+"Pārliecinieties, vai esat iespējojis Gmail API, un to varat izdarīt <a href="
+"\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">šeit</a> ."
+
+#: src/Admin/Pages/TestTab.php:922 src/Admin/Pages/TestTab.php:949
+#, fuzzy
+msgid ""
+"Make sure that the used Client ID/Secret correspond to a proper project that "
+"has Gmail API enabled."
+msgstr ""
+"Pārliecinieties, ka izmantotais klienta ID / slepenais atbilst pareizam "
+"projektam, kurā ir iespējota Gmail API."
+
+#. translators: %s - Gmail documentation URL.
+#: src/Admin/Pages/TestTab.php:925
+#, fuzzy
+msgid ""
+"Please follow our <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">Gmail tutorial</a> to be sure that all the correct project and data is "
+"applied."
+msgstr ""
+"Lūdzu, sekojiet mūsu <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Gmail apmācībai,</a> lai pārliecinātos, ka ir piemērots viss "
+"pareizais projekts un dati."
+
+#: src/Admin/Pages/TestTab.php:946
+#, fuzzy
+msgid "You may have added a new API to a project"
+msgstr "Iespējams, ka projektam esat pievienojis jaunu API"
+
+#: src/Admin/Pages/TestTab.php:950
+#, fuzzy
+msgid ""
+"Try to use a separate project for your emails, so the project has only 1 "
+"Gmail API in it enabled. You will need to remove the old project and create "
+"a new one from scratch."
+msgstr ""
+"Mēģiniet e-pastiem izmantot atsevišķu projektu, tāpēc projektā ir iespējota "
+"tikai 1 Gmail API. Jums būs jānoņem vecais projekts un jāizveido jauns no "
+"nulles."
+
+#: src/Admin/Pages/TestTab.php:960
+#, fuzzy
+msgid "SMTP.com API Error."
+msgstr "SMTP.com API kļūda."
+
+#: src/Admin/Pages/TestTab.php:961
+#, fuzzy
+msgid "Your Sender Name option is incorrect."
+msgstr "Sūtītāja vārda opcija nav pareiza."
+
+#: src/Admin/Pages/TestTab.php:964
+#, fuzzy
+msgid ""
+"Please make sure you entered an accurate Sender Name in WP Mail SMTP plugin "
+"settings."
+msgstr ""
+"Lūdzu, pārliecinieties, ka WP Mail SMTP spraudņa iestatījumos esat ievadījis "
+"precīzu sūtītāja vārdu."
+
+#: src/Admin/Pages/TestTab.php:974
+#, fuzzy
+msgid "GuzzleHttp requirements."
+msgstr "GuzzleHttp prasības."
+
+#: src/Admin/Pages/TestTab.php:975
+#, fuzzy
+msgid ""
+"GuzzleHttp requires cURL, the allow_url_fopen ini setting, or a custom HTTP "
+"handler."
+msgstr ""
+"GuzzleHttp ir nepieciešams cURL, in_ iestatījums allow_url_fopen vai "
+"pielāgots HTTP apstrādātājs."
+
+#: src/Admin/Pages/TestTab.php:978
+#, fuzzy
+msgid "Edit your php.ini file on your hosting server."
+msgstr "Rediģējiet php.ini failu savā mitināšanas serverī."
+
+#: src/Admin/Pages/TestTab.php:979
+#, fuzzy
+msgid ""
+"(Recommended) Enable PHP extension: cURL, by adding \"extension=curl\" to "
+"the php.ini file (without the quotation marks) OR"
+msgstr ""
+"(Ieteicamais) Iespējot PHP paplašinājumu: cURL, pievienojot php.ini failam "
+"“extension = curl” (bez pēdiņām) VAI"
+
+#: src/Admin/Pages/TestTab.php:980
+#, fuzzy
+msgid ""
+"(If cURL can't be enabled on your hosting server) Enable PHP setting: "
+"allow_url_fopen, by adding \"allow_url_fopen = On\" to the php.ini file "
+"(without the quotation marks)"
+msgstr ""
+"(Ja jūsu hostinga serverī nevar iespējot cURL) Iespējot PHP iestatījumu: "
+"atļaut_url_fopen, pievienojot php.ini failam “luba_url_fopen = "
+"Ieslēgts” (bez pēdiņām)"
+
+#: src/Admin/Pages/TestTab.php:981
+#, fuzzy
+msgid ""
+"If you don't know how to do the above we strongly suggest contacting your "
+"hosting support and provide them the \"full Error Log for debugging\" below "
+"and these steps. They should be able to fix this issue for you."
+msgstr ""
+"Ja jūs nezināt, kā rīkoties iepriekš, mēs ļoti iesakām sazināties ar savu "
+"mitināšanas atbalsta dienestu un sniegt viņiem tālāk norādīto \"pilnu kļūdu "
+"žurnālu atkļūdošanai\". Viņiem vajadzētu būt iespējai labot šo problēmu jūsu "
+"vietā."
+
+#: src/Admin/Pages/TestTab.php:1003
+#, fuzzy
+msgid "PCRE library issue"
+msgstr "PCRE bibliotēkas izdevums"
+
+#: src/Admin/Pages/TestTab.php:1004
+#, fuzzy
+msgid ""
+"It looks like your server is running PHP version 7.4.x with an outdated PCRE "
+"library (libpcre2) that has a known issue with email address validation."
+msgstr ""
+"Izskatās, ka jūsu serverī darbojas PHP 7.4.x versija ar novecojušu PCRE "
+"bibliotēku (libpcre2), kurai ir zināma problēma ar e-pasta adreses "
+"validāciju."
+
+#: src/Admin/Pages/TestTab.php:1005
+#, fuzzy
+msgid ""
+"There is a known issue with PHP version 7.4.x, when using libpcre2 library "
+"version lower than 10.33."
+msgstr ""
+"Lietojot libpcre2 bibliotēkas versiju, kas zemāka par 10.33, pastāv zināma "
+"problēma ar PHP versiju 7.4.x."
+
+#: src/Admin/Pages/TestTab.php:1008
+#, fuzzy
+msgid ""
+"Contact your web hosting provider and inform them you are having issues with "
+"libpcre2 library on PHP 7.4."
+msgstr ""
+"Sazinieties ar savu tīmekļa mitināšanas pakalpojumu sniedzēju un informējiet "
+"viņus, ka jums rodas problēmas ar libpcre2 bibliotēku PHP 7.4."
+
+#: src/Admin/Pages/TestTab.php:1009
+#, fuzzy
+msgid "They should be able to resolve this issue for you."
+msgstr "Viņiem vajadzētu spēt atrisināt šo problēmu jūsu vietā."
+
+#: src/Admin/Pages/TestTab.php:1010
+#, fuzzy
+msgid ""
+"For a quick fix, until your web hosting resolves this, you can downgrade to "
+"PHP version 7.3 on your server."
+msgstr ""
+"Ātram labojumam, kamēr jūsu tīmekļa mitināšana to neatrisina, varat "
+"pazemināt uz servera PHP versiju 7.3."
+
+#: src/Admin/Pages/TestTab.php:1046
+#, fuzzy
+msgid "An issue was detected."
+msgstr "Tika atklāta problēma."
+
+#: src/Admin/Pages/TestTab.php:1047
+#, fuzzy
+msgid "This means your test email was unable to be sent."
+msgstr "Tas nozīmē, ka testa e-pastu nevarēja nosūtīt."
+
+#: src/Admin/Pages/TestTab.php:1049
+#, fuzzy
+msgid ""
+"Plugin settings are incorrect (wrong SMTP settings, invalid Mailer "
+"configuration, etc)."
+msgstr ""
+"Spraudņa iestatījumi nav pareizi (nepareizi SMTP iestatījumi, nederīga "
+"Mailer konfigurācija utt.)."
+
+#: src/Admin/Pages/TestTab.php:1051
+#, fuzzy
+msgid "Your host is rejecting the connection."
+msgstr "Jūsu resursdators noraida savienojumu."
+
+#: src/Admin/Pages/TestTab.php:1054
+#, fuzzy
+msgid ""
+"Triple check the plugin settings, consider reconfiguring to make sure "
+"everything is correct (eg bad copy and paste)."
+msgstr ""
+"Trīsreiz pārbaudiet spraudņa iestatījumus, apsveriet atkārtotu "
+"konfigurēšanu, lai pārliecinātos, ka viss ir pareizi (piemēram, slikta "
+"kopēšana un ielīmēšana)."
+
+#: src/Admin/Pages/TestTab.php:1056
+#, fuzzy
+msgid ""
+"Contact your web hosting provider and ask them to verify your server can "
+"make outside connections. Additionally, ask them if a firewall or security "
+"policy may be preventing the connection - many shared hosts block certain "
+"ports.<br><strong>Note: this is the most common cause of this issue.</strong>"
+msgstr ""
+"Sazinieties ar savu tīmekļa mitināšanas pakalpojumu sniedzēju un palūdziet, "
+"lai viņš pārbaudītu, vai jūsu serveris var izveidot ārējos savienojumus. "
+"Turklāt pajautājiet viņiem, vai savienojumu var novērst ugunsmūris vai "
+"drošības politika. Daudzi koplietotie resursdatori bloķē noteiktas ostas. "
+"<br> <strong> Piezīme: tas ir visizplatītākais šīs problēmas cēlonis. </"
+"strong>"
+
+#: src/Admin/Pages/TestTab.php:1062
+#, fuzzy
+msgid "Try using a different mailer."
+msgstr "Mēģiniet izmantot citu sūtījumu."
+
+#: src/Admin/Pages/TestTab.php:1081
+#, fuzzy
+msgid "There was a problem while sending the test email."
+msgstr "Nosūtot testa e-pastu, radās problēma."
+
+#: src/Admin/Pages/TestTab.php:1091
+#, fuzzy
+msgid "Recommended next steps:"
+msgstr "Ieteicamās nākamās darbības:"
+
+#: src/Admin/Pages/TestTab.php:1101
+#, fuzzy
+msgid "Need support?"
+msgstr "Nepieciešams atbalsts?"
+
+#. translators: %s - WPMailSMTP.com account area link.
+#: src/Admin/Pages/TestTab.php:1109
+#, fuzzy
+msgid ""
+"As a WP Mail SMTP Pro user you have access to WP Mail SMTP priority support. "
+"Please log in to your WPMailSMTP.com account and <a href=\"%s\" target="
+"\"_blank\" rel=\"noopener noreferrer\">submit a support ticket</a>."
+msgstr ""
+"Kā WP Mail SMTP Pro lietotājam jums ir pieejams WP Mail SMTP prioritātes "
+"atbalsts. Lūdzu, ienāciet savā WPMailSMTP.com kontā un <a href=\"%s\" target="
+"\"_blank\" rel=\"noopener noreferrer\">iesniedziet atbalsta biļeti</a> ."
+
+#: src/Admin/Pages/TestTab.php:1126
+#, fuzzy
+msgid ""
+"WP Mail SMTP is a free plugin, and the team behind WPForms maintains it to "
+"give back to the WordPress community."
+msgstr ""
+"WP Mail SMTP ir bezmaksas spraudnis, un komanda, kas atrodas aiz WPForms, "
+"uztur to, lai atdotu WordPress kopienai."
+
+#. translators: %s - WPMailSMTP.com URL.
+#: src/Admin/Pages/TestTab.php:1133
+#, fuzzy
+msgid ""
+"To access our world class support, please <a href=\"%s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">upgrade to WP Mail SMTP Pro</a>. Along with "
+"getting expert support, you will also get Notification controls, Email "
+"Logging, and integrations for Amazon SES, Office 365, and Outlook.com."
+msgstr ""
+"Lai piekļūtu mūsu pasaules klases atbalstam, lūdzu, <a href=\"%s\" target="
+"\"_blank\" rel=\"noopener noreferrer\">jauniniet uz WP Mail SMTP Pro</a> . "
+"Vienlaikus ar ekspertu atbalsta iegūšanu jūs iegūsit arī paziņojumu "
+"vadīklas, e-pasta reģistrēšanu un Amazon SES, Office 365 un Outlook.com "
+"integrācijas."
+
+#: src/Admin/Pages/TestTab.php:1148
+#, fuzzy
+msgid ""
+"Additionally, you can take advantage of our White Glove Setup. Sit back and "
+"relax while we handle everything for you! If you simply don't have time or "
+"maybe you feel a bit in over your head - we got you covered."
+msgstr ""
+"Turklāt jūs varat izmantot mūsu Balto cimdu iestatīšanas priekšrocības. "
+"Apsēdieties un atpūtieties, kamēr mēs visu apstrādājam jūsu labā! Ja jums "
+"vienkārši nav laika vai varbūt jūs mazliet jūtaties pār galvu - mēs jūs "
+"aizklājām."
+
+#: src/Admin/Pages/TestTab.php:1154
+#, fuzzy
+msgid ""
+"As a valued WP Mail SMTP user, you will get <span class=\"price-off\">$50 "
+"off regular pricing</span>, automatically applied at checkout!"
+msgstr ""
+"Kā novērtēts WP Mail SMTP lietotājs, jūs saņemsiet <span class=\"price-off"
+"\">50 USD no parastās cenas</span> , kas automātiski tiks piemērota "
+"norēķinoties!"
+
+#. translators: %1$s - WP Mail SMTP support policy URL, %2$s - WP Mail SMTP support forum URL, %3$s - WPMailSMTP.com URL.
+#: src/Admin/Pages/TestTab.php:1168
+#, fuzzy
+msgid ""
+"Alternatively, we also offer <a href=\"%1$s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">limited support</a> on the WordPress.org support "
+"forums. You can <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">create a support thread</a> there, but please understand that free "
+"support is not guaranteed and is limited to simple issues. If you have an "
+"urgent or complex issue, then please consider <a href=\"%3$s\" target="
+"\"_blank\" rel=\"noopener noreferrer\">upgrading to WP Mail SMTP Pro</a> to "
+"access our priority support ticket system."
+msgstr ""
+"Alternatīvi, mēs piedāvājam arī <a href=\"%1$s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">ierobežotu atbalstu</a> WordPress.org atbalsta "
+"forumos. Tur varat <a href=\"%2$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">izveidot atbalsta pavedienu</a> , taču, lūdzu, saprotiet, ka "
+"bezmaksas atbalsts netiek garantēts un aprobežojas ar vienkāršām problēmām. "
+"Ja jums ir steidzama vai sarežģīta problēma, lūdzu, apsveriet iespēju <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">jaunināt uz WP "
+"Mail SMTP Pro,</a> lai piekļūtu mūsu prioritāro atbalsta biļešu sistēmai."
+
+#: src/Admin/Pages/TestTab.php:1189
+#, fuzzy
+msgid "Click here to view the full Error Log for debugging"
+msgstr "Noklikšķiniet šeit, lai skatītu pilnu atkļūdošanas kļūdu žurnālu"
+
+#: src/Admin/Pages/TestTab.php:1198
+#, fuzzy
+msgid ""
+"Please copy only the content of the error debug message above, identified "
+"with an orange left border, into the support forum topic if you experience "
+"any issues."
+msgstr ""
+"Lūdzu, nokopējiet atbalsta foruma tēmā tikai iepriekš redzamā kļūdas "
+"atkļūdošanas ziņojuma saturu, kas apzīmēts ar oranžu kreiso malu, ja rodas "
+"kādas problēmas."
+
+#: src/Admin/Review.php:119
+#, fuzzy
+msgid "Are you enjoying WP Mail SMTP?"
+msgstr "Vai jums patīk WP Mail SMTP?"
+
+#: src/Admin/Review.php:121
+#, fuzzy
+msgid "Yes"
+msgstr "Jā"
+
+#: src/Admin/Review.php:122
+#, fuzzy
+msgid "Not Really"
+msgstr "Ne īsti"
+
+#: src/Admin/Review.php:126
+#, fuzzy
+msgid ""
+"We're sorry to hear you aren't enjoying WP Mail SMTP. We would love a chance "
+"to improve. Could you take a minute and let us know what we can do better?"
+msgstr ""
+"Mēs atvainojamies, dzirdot, ka jums nepatīk WP Mail SMTP. Mēs labprāt "
+"vēlētos uzlabot. Vai jūs varētu veltīt minūti un paziņot mums, ko mēs varam "
+"darīt labāk?"
+
+#: src/Admin/Review.php:129
+#, fuzzy
+msgid "Give Feedback"
+msgstr "Dot atsauksmes"
+
+#: src/Admin/Review.php:132
+#, fuzzy
+msgid "No thanks"
+msgstr "Nē paldies"
+
+#: src/Admin/Review.php:137
+#, fuzzy
+msgid ""
+"That’s awesome! Could you please do me a BIG favor and give it a 5-star "
+"rating on WordPress to help us spread the word and boost our motivation?"
+msgstr ""
+"Tas ir lieliski! Vai jūs varētu, lūdzu, izdarīt man lielu atbalstu un "
+"piešķirt tam 5 zvaigžņu novērtējumu vietnē WordPress, lai palīdzētu mums "
+"izplatīt šo vārdu un vairot mūsu motivāciju?"
+
+#: src/Admin/Review.php:138
+#, fuzzy
+msgid "~ Jared Atchison<br>Lead Developer, WP Mail SMTP"
+msgstr "~ Jared Atchison, vadošais izstrādātājs, WP Mail SMTP"
+
+#: src/Admin/Review.php:141
+#, fuzzy
+msgid "Ok, you deserve it"
+msgstr "Ok, jūs to esat pelnījuši"
+
+#: src/Admin/Review.php:143
+#, fuzzy
+msgid "Nope, maybe later"
+msgstr "Nē, varbūt vēlāk"
+
+#: src/Admin/Review.php:144
+#, fuzzy
+msgid "I already did"
+msgstr "Es jau to izdarīju"
+
+#. translators: %1$s - Plugin name causing conflict; %2$s - Plugin name causing conflict.
+#: src/Conflicts.php:159
+#, fuzzy
+msgid ""
+"Heads up! WP Mail SMTP has detected %1$s is activated. Please deactivate "
+"%2$s to prevent conflicts."
+msgstr ""
+"Galvas augšā! WP Mail SMTP ir konstatēts, ka %1$s ir aktivizēts. Lūdzu, "
+"deaktivizējiet %2$s, lai novērstu konfliktus."
+
+#. translators: %1$s - WP Mail SMTP plugin name; %2$s - WPMailSMTP.com URL to a related doc.
+#: src/Core.php:381
+#, fuzzy
+msgid ""
+"Your site is running an outdated version of PHP that is no longer supported "
+"and may cause issues with %1$s. <a href=\"%2$s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Read more</a> for additional information."
+msgstr ""
+"Jūsu vietnē darbojas novecojusi PHP versija, kas vairs netiek atbalstīta, un "
+"tā var izraisīt problēmas ar %1$s. Papildinformāciju <a href=\"%2$s\" target="
+"\"_blank\" rel=\"noopener noreferrer\">lasiet vairāk</a> ."
+
+#: src/Core.php:395
+#, fuzzy
+msgid ""
+"<strong>Please Note:</strong> Support for PHP 5.5 will be discontinued in "
+"2020. After this, if no further action is taken, WP Mail SMTP functionality "
+"will be disabled."
+msgstr ""
+"<strong> Lūdzu, ņemiet vērā: </strong> PHP 5.5 atbalsts tiks pārtraukts "
+"2020. gadā. Pēc tam, ja netiks veiktas nekādas citas darbības, WP Mail SMTP "
+"funkcionalitāte tiks atspējota."
+
+#. translators: %s - plugin name and its version.
+#: src/Core.php:429
+#, fuzzy
+msgid ""
+"<strong>EMAILING DISABLED:</strong> The %s is currently blocking all emails "
+"from being sent."
+msgstr ""
+"<strong> EMAILING DISABLED: </strong> Pašlaik %s bloķē visu e-pasta ziņojumu "
+"sūtīšanu."
+
+#. translators: %1$s - constant name; %2$s - constant value.
+#: src/Core.php:440
+#, fuzzy
+msgid "To send emails, change the value of the %1$s constant to %2$s."
+msgstr "Lai nosūtītu e-pastus, mainiet %1$s konstantes vērtību uz %2$s."
+
+#. translators: %s - plugin Misc settings page URL.
+#: src/Core.php:451
+#, fuzzy
+msgid ""
+"To send emails, go to plugin <a href=\"%s\">Misc settings</a> and disable "
+"the \"Do Not Send\" option."
+msgstr ""
+"Lai nosūtītu e-pastus, dodieties uz spraudņa <a href=\"%s\">Dažādi "
+"iestatījumi</a> un atspējojiet opciju Nesūtīt."
+
+#. translators: %s - plugin name and its version.
+#: src/Core.php:482
+#, fuzzy
+msgid ""
+"<strong>EMAIL DELIVERY ERROR:</strong> the plugin %s logged this error "
+"during the last time it tried to send an email:"
+msgstr ""
+"<strong> EMAIL PIEGĀDES KĻŪDA: </strong> spraudnis %s reģistrēja šo kļūdu "
+"pēdējā laikā, kad tas mēģināja nosūtīt e-pastu:"
+
+#: src/Core.php:512
+#, fuzzy
+msgid "Consider running an email test after fixing it."
+msgstr "Apsveriet e-pasta testa veikšanu pēc tā labošanas."
+
+#. translators: %1$s - WP Mail SMTP, %2$s - error message.
+#: src/Migration.php:137
+#, fuzzy
+msgid ""
+"There was an error while upgrading the database. Please contact %1$s support "
+"with this information: %2$s."
+msgstr ""
+"Jauninot datu bāzi, radās kļūda. Lūdzu, sazinieties ar %1$s atbalstu ar šo "
+"informāciju: %2$s."
+
+#: src/Pro/Providers/Providers.php:158
+#, fuzzy
+msgid "OK"
+msgstr "labi"
+
+#: src/Pro/SiteHealth.php:58
+#, fuzzy
+msgid "Is wpmailsmtp.com reachable?"
+msgstr "Vai vietne wpmailsmtp.com ir pieejama?"
+
+#: src/Providers/AmazonSES/Options.php:25
+#, fuzzy
+msgid "Amazon SES"
+msgstr "Amazones SES"
+
+#: src/Providers/AmazonSES/Options.php:39
+#, fuzzy
+msgid ""
+"We're sorry, the Amazon SES mailer is not available on your plan. Please "
+"upgrade to the PRO plan to unlock all these awesome features."
+msgstr ""
+"Atvainojiet, Amazon SES sūtītājs jūsu plānā nav pieejams. Lūdzu, jauniniet "
+"uz PRO plānu, lai atbloķētu visas šīs lieliskās funkcijas."
+
+#: src/Providers/Gmail/Auth.php:182
+#, fuzzy
+msgid ""
+"There was an error while processing the Google authentication request. "
+"Please make sure that you have Client ID and Client Secret both valid and "
+"saved."
+msgstr ""
+"Apstrādājot Google autentifikācijas pieprasījumu, radās kļūda. Lūdzu, "
+"pārliecinieties, vai klienta ID un klienta noslēpums ir derīgi un saglabāti."
+
+#: src/Providers/Gmail/Mailer.php:255
+#, fuzzy
+msgid "Please re-grant Google app permissions!"
+msgstr "Lūdzu, atkārtoti piešķiriet Google lietotņu atļaujas!"
+
+#: src/Providers/Gmail/Mailer.php:256
+#, fuzzy
+msgid ""
+"Go to WP Mail SMTP plugin settings page. Click the “Remove Connection” "
+"button."
+msgstr ""
+"Dodieties uz WP Mail SMTP spraudņa iestatījumu lapu. Noklikšķiniet uz pogas "
+"“Noņemt savienojumu”."
+
+#: src/Providers/Gmail/Mailer.php:257
+#, fuzzy
+msgid ""
+"Then click the “Allow plugin to send emails using your Google account” "
+"button and re-enable access."
+msgstr ""
+"Pēc tam noklikšķiniet uz pogas “Atļaut spraudnim sūtīt e-pastus, izmantojot "
+"jūsu Google kontu” un atkārtoti iespējojiet piekļuvi."
+
+#: src/Providers/Gmail/Options.php:32
+#, fuzzy
+msgid "Gmail"
+msgstr "Gmail"
+
+#. translators: %s - URL to our Gmail doc.
+#: src/Providers/Gmail/Options.php:35
+#, fuzzy
+msgid ""
+"Send emails using your Gmail or G Suite (formerly Google Apps) account, all "
+"while keeping your login credentials safe. Other Google SMTP methods require "
+"enabling less secure apps in your account and entering your password. "
+"However, this integration uses the Google API to improve email delivery "
+"issues while keeping your site secure.<br><br>Read our <a href=\"%s\" target="
+"\"_blank\" rel=\"noopener noreferrer\">Gmail documentation</a> to learn how "
+"to configure Gmail or G Suite."
+msgstr ""
+"Nosūtiet e-pastus, izmantojot savu Gmail vai G Suite (iepriekš Google Apps) "
+"kontu, vienlaikus saglabājot drošus pieteikšanās akreditācijas datus. Citas "
+"Google SMTP metodes pieprasa savā kontā iespējot mazāk drošas lietotnes un "
+"ievadīt paroli. Tomēr šī integrācija izmanto Google API, lai uzlabotu e-"
+"pasta piegādes problēmas, vienlaikus saglabājot jūsu vietni drošu. <br><br> "
+"Izlasiet mūsu <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">Gmail dokumentāciju,</a> lai uzzinātu, kā konfigurēt Gmail vai G Suite."
+
+#: src/Providers/Gmail/Options.php:48
+#, fuzzy
+msgid ""
+"The Gmail mailer works well for sites that send low numbers of emails. "
+"However, Gmail's API has rate limitations and a number of additional "
+"restrictions that can lead to challenges during setup. If you expect to send "
+"a high volume of emails, or if you find that your web host is not compatible "
+"with the Gmail API restrictions, then we recommend considering a different "
+"mailer option."
+msgstr ""
+"Gmail sūtītājs labi darbojas vietnēs, kas sūta nelielu skaitu e-pastu. Tomēr "
+"Gmail API ir tarifu ierobežojumi un virkne papildu ierobežojumu, kas "
+"iestatīšanas laikā var radīt problēmas. Ja paredzat, ka sūtāt daudz e-pasta "
+"ziņojumu vai ja konstatējat, ka jūsu tīmekļa resursdators nav saderīgs ar "
+"Gmail API ierobežojumiem, ieteicams izmantot citu pasta sūtītāja opciju."
+
+#: src/Providers/Gmail/Options.php:72
+#, fuzzy
+msgid "Client ID"
+msgstr "Klienta ID"
+
+#: src/Providers/Gmail/Options.php:87
+#, fuzzy
+msgid "Client Secret"
+msgstr "Klienta noslēpums"
+
+#: src/Providers/Gmail/Options.php:109
+#, fuzzy
+msgid "Authorized redirect URI"
+msgstr "Autorizēts novirzīšanas URI"
+
+#: src/Providers/Gmail/Options.php:117
+#, fuzzy
+msgid "Copy URL to clipboard"
+msgstr "Kopēt URL starpliktuvē"
+
+#: src/Providers/Gmail/Options.php:122
+#, fuzzy
+msgid ""
+"Please copy this URL into the \"Authorized redirect URIs\" field of your "
+"Google web application."
+msgstr ""
+"Lūdzu, nokopējiet šo URL savas Google tīmekļa lietojumprogrammas laukā "
+"“Autorizētie novirzīšanas URI”."
+
+#: src/Providers/Gmail/Options.php:131
+#, fuzzy
+msgid "Authorization"
+msgstr "Pilnvarojums"
+
+#: src/Providers/Gmail/Options.php:159
+#, fuzzy
+msgid "Allow plugin to send emails using your Google account"
+msgstr "Ļaut spraudnim sūtīt e-pastus, izmantojot jūsu Google kontu"
+
+#: src/Providers/Gmail/Options.php:162
+#, fuzzy
+msgid "Click the button above to confirm authorization."
+msgstr "Noklikšķiniet uz pogas iepriekš, lai apstiprinātu autorizāciju."
+
+#: src/Providers/Gmail/Options.php:168
+#, fuzzy
+msgid "Remove Connection"
+msgstr "Noņemt savienojumu"
+
+#. translators: %s - email address, as received from Google API.
+#: src/Providers/Gmail/Options.php:177
+#, fuzzy
+msgid "Connected as %s"
+msgstr "Pievienots kā %s"
+
+#. translators: %s - URL to Google Gmail alias documentation page.
+#: src/Providers/Gmail/Options.php:187
+#, fuzzy
+msgid ""
+"If you want to use a different From Email address you can set-up a Google "
+"email alias. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">Follow these instructions</a> and then select the From Email at the top "
+"of this page."
+msgstr ""
+"Ja vēlaties izmantot citu No e-pasta adresi, varat iestatīt Google e-pasta "
+"aizstājvārdu. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">Izpildiet šos norādījumus</a> un pēc tam šīs lapas augšpusē atlasiet No e-"
+"pasta."
+
+#: src/Providers/Gmail/Options.php:201
+#, fuzzy
+msgid ""
+"Removing the connection will give you an ability to redo the connection or "
+"link to another Google account."
+msgstr ""
+"Ja noņemsit savienojumu, varēsit pārtaisīt savienojumu vai izveidot saiti ar "
+"citu Google kontu."
+
+#: src/Providers/Gmail/Options.php:209
+#, fuzzy
+msgid ""
+"You need to save settings with Client ID and Client Secret before you can "
+"proceed."
+msgstr ""
+"Lai varētu turpināt, jums ir jāsaglabā iestatījumi ar klienta ID un klienta "
+"noslēpumu."
+
+#: src/Providers/Mail/Options.php:25
+#, fuzzy
+msgid "Default (none)"
+msgstr "Noklusējums (nav)"
+
+#: src/Providers/Mail/Options.php:37
+#, fuzzy
+msgid ""
+"You currently have the native WordPress option selected. Please select any "
+"other Mailer option above to continue the setup."
+msgstr ""
+"Pašlaik ir atlasīta vietējā WordPress opcija. Lūdzu, atlasiet jebkuru citu "
+"Mailer opciju, lai turpinātu iestatīšanu."
+
+#: src/Providers/Mailgun/Mailer.php:392
+#, fuzzy
+msgid ""
+"Mailgun API request was successful, but it could not queue the email for "
+"delivery."
+msgstr ""
+"Mailgun API pieprasījums bija veiksmīgs, taču piegādes e-pastu nevarēja "
+"rindot."
+
+#: src/Providers/Mailgun/Mailer.php:393
+#, fuzzy
+msgid "This could point to an incorrect Domain Name in the plugin settings."
+msgstr "Tas spraudņa iestatījumos var norādīt uz nepareizu domēna vārdu."
+
+#: src/Providers/Mailgun/Mailer.php:394
+#, fuzzy
+msgid ""
+"Please check the WP Mail SMTP plugin settings and make sure the Mailgun "
+"Domain Name setting is correct."
+msgstr ""
+"Lūdzu, pārbaudiet WP Mail SMTP spraudņa iestatījumus un pārliecinieties, vai "
+"Mailgun domēna vārda iestatījums ir pareizs."
+
+#: src/Providers/Mailgun/Options.php:25
+#, fuzzy
+msgid "Mailgun"
+msgstr "Pasta pistole"
+
+#. translators: %1$s - opening link tag; %2$s - closing link tag; %3$s - opening link tag; %4$s - closing link tag.
+#: src/Providers/Mailgun/Options.php:29
+msgid ""
+"%1$sMailgun%2$s is one of the leading transactional email services trusted "
+"by over 150,000+ businesses. They provide 5,000 free emails per month for 3 "
+"months.<br><br>Read our %3$sMailgun documentation%4$s to learn how to "
+"configure Mailgun and improve your email deliverability."
+msgstr ""
+"%1$s Mailgun %2$s ir viens no vadošajiem darījumu e-pasta pakalpojumiem, kam "
+"uztic vairāk nekā 150 000 uzņēmumu. Tie nodrošina 5000 bezmaksas e-pastus "
+"mēnesī 3 mēnešus. <br><br> Izlasiet mūsu %3$s Mailgun dokumentāciju %4$s, "
+"lai uzzinātu, kā konfigurēt Mailgun un uzlabot e-pasta piegādi."
+
+#: src/Providers/Mailgun/Options.php:57
+#, fuzzy
+msgid "Private API Key"
+msgstr "Privātā API atslēga"
+
+#. translators: %s - API key link.
+#: src/Providers/Mailgun/Options.php:76
+#, fuzzy
+msgid "Follow this link to get an API Key from Mailgun: %s."
+msgstr "Lai iegūtu API atslēgu no Mailgun, izmantojiet šo saiti: %s."
+
+#: src/Providers/Mailgun/Options.php:78
+#, fuzzy
+msgid "Get a Private API Key"
+msgstr "Iegūstiet privātu API atslēgu"
+
+#: src/Providers/Mailgun/Options.php:89
+#, fuzzy
+msgid "Domain Name"
+msgstr "Domēna vārds"
+
+#. translators: %s - Domain Name link.
+#: src/Providers/Mailgun/Options.php:101
+#, fuzzy
+msgid "Follow this link to get a Domain Name from Mailgun: %s."
+msgstr "Lai iegūtu domēna vārdu no Mailgun, izmantojiet šo saiti: %s."
+
+#: src/Providers/Mailgun/Options.php:103
+#, fuzzy
+msgid "Get a Domain Name"
+msgstr "Iegūstiet domēna vārdu"
+
+#: src/Providers/Mailgun/Options.php:114
+#, fuzzy
+msgid "Region"
+msgstr "Novads"
+
+#: src/Providers/Mailgun/Options.php:124
+#, fuzzy
+msgid "US"
+msgstr "ASV"
+
+#: src/Providers/Mailgun/Options.php:133
+#, fuzzy
+msgid "EU"
+msgstr "ES"
+
+#: src/Providers/Mailgun/Options.php:137
+#, fuzzy
+msgid "Define which endpoint you want to use for sending messages."
+msgstr "Definējiet, kuru parametru vēlaties izmantot ziņojumu sūtīšanai."
+
+#: src/Providers/Mailgun/Options.php:138
+#, fuzzy
+msgid ""
+"If you are operating under EU laws, you may be required to use EU region."
+msgstr ""
+"Ja jūs darbojaties saskaņā ar ES likumiem, jums, iespējams, būs jāizmanto ES "
+"reģions."
+
+#. translators: %s - URL to Mailgun.com page.
+#: src/Providers/Mailgun/Options.php:143
+#, fuzzy
+msgid ""
+"<a href=\"%s\" rel=\"\" target=\"_blank\">More information</a> on Mailgun."
+"com."
+msgstr ""
+"<a href=\"%s\" rel=\"\" target=\"_blank\">Vairāk informācijas</a> vietnē "
+"Mailgun.com."
+
+#: src/Providers/OptionsAbstract.php:186
+#, fuzzy
+msgid "SMTP Host"
+msgstr "SMTP resursdators"
+
+#: src/Providers/OptionsAbstract.php:200
+#, fuzzy
+msgid "Encryption"
+msgstr "Šifrēšana"
+
+#: src/Providers/OptionsAbstract.php:210
+#, fuzzy
+msgid "None"
+msgstr "Nav"
+
+#: src/Providers/OptionsAbstract.php:219
+#, fuzzy
+msgid "SSL"
+msgstr "SSL"
+
+#: src/Providers/OptionsAbstract.php:228
+#, fuzzy
+msgid "TLS"
+msgstr "TLS"
+
+#: src/Providers/OptionsAbstract.php:232
+#, fuzzy
+msgid ""
+"For most servers TLS is the recommended option. If your SMTP provider offers "
+"both SSL and TLS options, we recommend using TLS."
+msgstr ""
+"Lielākajai daļai serveru ieteicamā ir TLS. Ja jūsu SMTP pakalpojumu "
+"sniedzējs piedāvā gan SSL, gan TLS opcijas, ieteicams izmantot TLS."
+
+#: src/Providers/OptionsAbstract.php:240
+#, fuzzy
+msgid "SMTP Port"
+msgstr "SMTP ports"
+
+#: src/Providers/OptionsAbstract.php:254
+#, fuzzy
+msgid "Auto TLS"
+msgstr "Automātiska TLS"
+
+#: src/Providers/OptionsAbstract.php:268
+#, fuzzy
+msgid ""
+"By default TLS encryption is automatically used if the server supports it, "
+"which is recommended. In some cases, due to server misconfigurations, this "
+"can cause issues and may need to be disabled."
+msgstr ""
+"Pēc noklusējuma TLS šifrēšana tiek izmantota automātiski, ja serveris to "
+"atbalsta, kas ir ieteicams. Dažos gadījumos serveru nepareizas "
+"konfigurācijas dēļ tas var izraisīt problēmas, un, iespējams, tas būs "
+"jāatspējo."
+
+#: src/Providers/OptionsAbstract.php:276
+#, fuzzy
+msgid "Authentication"
+msgstr "Autentifikācija"
+
+#: src/Providers/OptionsAbstract.php:295
+#, fuzzy
+msgid "SMTP Username"
+msgstr "SMTP lietotājvārds"
+
+#: src/Providers/OptionsAbstract.php:309
+#, fuzzy
+msgid "SMTP Password"
+msgstr "SMTP parole"
+
+#. translators: %s - constant name: WPMS_SMTP_PASS.
+#: src/Providers/OptionsAbstract.php:321
+#, fuzzy
+msgid ""
+"To change the password you need to change the value of the constant there: %s"
+msgstr "Lai mainītu paroli, jums jāmaina pastāvīgās vērtības vērtība: %s"
+
+#. translators: %1$s - wp-config.php file, %2$s - WPMS_ON constant name.
+#: src/Providers/OptionsAbstract.php:329
+#, fuzzy
+msgid ""
+"If you want to disable the use of constants, find in %1$s file the constant "
+"%2$s and turn if off:"
+msgstr ""
+"Ja vēlaties atspējot konstanšu izmantošanu, atrodiet failā %1$s nemainīgu "
+"%2$s un izslēdziet, ja tas ir izslēgts:"
+
+#: src/Providers/OptionsAbstract.php:339
+#, fuzzy
+msgid ""
+"All the defined constants will stop working and you will be able to change "
+"all the values on this page."
+msgstr ""
+"Visas definētās konstantes vairs nedarbosies, un jūs varēsit mainīt visas "
+"vērtības šajā lapā."
+
+#: src/Providers/OptionsAbstract.php:347
+#, fuzzy
+msgid ""
+"The password will be stored in plain text. For improved security, we highly "
+"recommend using your site's WordPress configuration file to set your "
+"password."
+msgstr ""
+"Parole tiks saglabāta vienkāršā tekstā. Lai uzlabotu drošību, mēs ļoti "
+"iesakām paroles iestatīšanai izmantot vietnes WordPress konfigurācijas failu."
+
+#: src/Providers/OptionsAbstract.php:350
+#, fuzzy
+msgid "Learn More"
+msgstr "Uzzināt vairāk"
+
+#. translators: %1$s - Provider name; %2$s - PHP version required by Provider; %3$s - current PHP version.
+#: src/Providers/OptionsAbstract.php:410
+#, fuzzy
+msgid ""
+"%1$s requires PHP %2$s to work and does not support your current PHP version "
+"%3$s. Please contact your host and request a PHP upgrade to the latest one."
+msgstr ""
+"%1$s darbībai nepieciešama PHP %2$s, un tas neatbalsta jūsu pašreizējo PHP "
+"versiju %3$s. Lūdzu, sazinieties ar savu resursdatoru un pieprasiet PHP "
+"jaunināšanu uz jaunāko."
+
+#: src/Providers/OptionsAbstract.php:417
+#, fuzzy
+msgid "Meanwhile you can switch to some other mailers."
+msgstr "Tikmēr jūs varat pāriet uz citiem sūtītājiem."
+
+#. translators: %s - Provider name
+#: src/Providers/OptionsAbstract.php:436
+#, fuzzy
+msgid ""
+"%s requires an SSL certificate, and so is not currently compatible with your "
+"site. Please contact your host to request a SSL certificate, or check out <a "
+"href=\"https://www.wpbeginner.com/wp-tutorials/how-to-add-ssl-and-https-in-"
+"wordpress/\" target=\"_blank\">WPBeginner's tutorial on how to set up SSL</"
+"a>."
+msgstr ""
+" %s ir nepieciešams SSL sertifikāts, tāpēc tas pašlaik nav saderīgs ar jūsu "
+"vietni. Lūdzu, sazinieties ar savu saimnieku, lai pieprasītu SSL "
+"sertifikātu, vai arī apskatiet <a href=\"https://www.wpbeginner.com/wp-"
+"tutorials/how-to-add-ssl-and-https-in-wordpress/\" target=\"_blank"
+"\">WPBeginner apmācību par SSL iestatīšanu</a> ."
+
+#: src/Providers/OptionsAbstract.php:449
+#, fuzzy
+msgid ""
+"If you'd prefer not to set up SSL, or need an SMTP solution in the meantime, "
+"please select a different mailer option."
+msgstr ""
+"Ja nevēlaties iestatīt SSL vai ja jums pa to laiku ir nepieciešams SMTP "
+"risinājums, lūdzu, atlasiet citu sūtītāja opciju."
+
+#: src/Providers/Outlook/Options.php:25
+#, fuzzy
+msgid "Outlook"
+msgstr "Outlook"
+
+#: src/Providers/Outlook/Options.php:39
+#, fuzzy
+msgid ""
+"We're sorry, the Microsoft Outlook mailer is not available on your plan. "
+"Please upgrade to the PRO plan to unlock all these awesome features."
+msgstr ""
+"Atvainojiet, Microsoft Outlook mailer nav pieejams jūsu plānā. Lūdzu, "
+"jauniniet uz PRO plānu, lai atbloķētu visas šīs lieliskās funkcijas."
+
+#: src/Providers/Pepipost/Options.php:25
+#, fuzzy
+msgid "Pepipost SMTP"
+msgstr "Pepipost SMTP"
+
+#: src/Providers/PepipostAPI/Mailer.php:339
+#, fuzzy
+msgid "General error"
+msgstr "Vispārēja kļūda"
+
+#: src/Providers/PepipostAPI/Mailer.php:340
+#, fuzzy
+msgid "Error"
+msgstr "Kļūda"
+
+#. translators: %1$s - URL to pepipost.com site.
+#: src/Providers/PepipostAPI/Options.php:31
+#, fuzzy
+msgid ""
+"<strong><a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">Pepipost</a> is a recommended transactional email service.</strong> Every "
+"month Pepipost delivers over 8 billion emails from 20,000+ customers. Their "
+"mission is to reliably send emails in the most efficient way and at the most "
+"disruptive pricing ever.  Pepipost provides users 30,000 free emails the "
+"first 30 days."
+msgstr ""
+"<strong><a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">Pepipost</a> ir ieteicams darījuma e-pasta pakalpojums.</strong> Katru "
+"mēnesi Pepipost piegādā vairāk nekā 8 miljardus e-pastu no 20 000 un vairāk "
+"klientiem. Viņu misija ir uzticami sūtīt e-pastus visefektīvākajā veidā un "
+"par visu laiku graujošākajām cenām. Pepipost pirmo 30 dienu laikā "
+"lietotājiem nodrošina 30 000 bezmaksas e-pasta ziņojumu."
+
+#. translators: %1$s - URL to wpmailsmtp.com doc.
+#: src/Providers/PepipostAPI/Options.php:34
+#, fuzzy
+msgid ""
+"Read our <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">Pepipost documentation</a> to learn how to configure Pepipost and improve "
+"your email deliverability."
+msgstr ""
+"Izlasiet mūsu <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">Pepipost dokumentāciju,</a> lai uzzinātu, kā konfigurēt Pepipost un "
+"uzlabot e-pasta piegādi."
+
+#: src/Providers/PepipostAPI/Options.php:53
+#, fuzzy
+msgid "Get Started with Pepipost"
+msgstr "Sāciet darbu ar Pepipost"
+
+#: src/Providers/PepipostAPI/Options.php:61
+#, fuzzy
+msgid "Pepipost"
+msgstr "Pepipost"
+
+#: src/Providers/PepipostAPI/Options.php:88
+#: src/Providers/Sendgrid/Options.php:57
+#: src/Providers/Sendinblue/Options.php:76 src/Providers/SMTPcom/Options.php:83
+#, fuzzy
+msgid "API Key"
+msgstr "API atslēga"
+
+#. translators: %s - link to get an API Key.
+#: src/Providers/PepipostAPI/Options.php:107
+#: src/Providers/Sendinblue/Options.php:95
+#, fuzzy
+msgid "Follow this link to get an API Key: %s."
+msgstr "Lai iegūtu API atslēgu, izmantojiet šo saiti: %s."
+
+#: src/Providers/PepipostAPI/Options.php:109
+#, fuzzy
+msgid "Get the API Key"
+msgstr "Iegūstiet API atslēgu"
+
+#: src/Providers/Sendgrid/Options.php:25
+#, fuzzy
+msgid "SendGrid"
+msgstr "SendGrid"
+
+#. translators: %1$s - opening link tag; %2$s - closing link tag; %3$s - opening link tag; %4$s - closing link tag.
+#: src/Providers/Sendgrid/Options.php:29
+msgid ""
+"%1$sSendGrid%2$s is one of the leading transactional email services, sending "
+"over 35 billion emails every month. They provide users 100 free emails per "
+"day.<br><br>Read our %3$sSendGrid documentation%4$s to learn how to set up "
+"SendGrid and improve your email deliverability."
+msgstr ""
+"%1$s SendGrid %2$s ir viens no vadošajiem darījumu e-pasta pakalpojumiem, "
+"katru mēnesi nosūtot vairāk nekā 35 miljardus e-pastu. Tie lietotājiem "
+"nodrošina 100 bezmaksas e-pastus dienā. <br><br> Izlasiet mūsu %3$s SendGrid "
+"dokumentāciju %4$s, lai uzzinātu, kā iestatīt SendGrid un uzlabotu jūsu e-"
+"pasta piegādes iespējas."
+
+#. translators: %s - API key link.
+#: src/Providers/Sendgrid/Options.php:76
+#, fuzzy
+msgid "Follow this link to get an API Key from SendGrid: %s."
+msgstr "Lai iegūtu API atslēgu no SendGrid, izmantojiet šo saiti: %s."
+
+#: src/Providers/Sendgrid/Options.php:78
+#, fuzzy
+msgid "Create API Key"
+msgstr "Izveidot API atslēgu"
+
+#. translators: %s - SendGrid access level.
+#: src/Providers/Sendgrid/Options.php:86
+#, fuzzy
+msgid "To send emails you will need only a %s access level for this API key."
+msgstr ""
+"Lai nosūtītu e-pastus, jums būs nepieciešams tikai %s piekļuves līmenis šai "
+"API atslēgai."
+
+#: src/Providers/Sendinblue/Options.php:33
+#, fuzzy
+msgid "Sendinblue"
+msgstr "Sendinblue"
+
+#. translators: %1$s - URL to sendinblue.com site.
+#: src/Providers/Sendinblue/Options.php:37
+#, fuzzy
+msgid ""
+"<a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">Sendinblue</"
+"a> serves 80,000+ growing companies around the world and sends over 30 "
+"million emails each day. They provide users 300 free emails per day."
+msgstr ""
+"<a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">Sendinblue</"
+"a> apkalpo 80 000 un vairāk augošu uzņēmumu visā pasaulē un katru dienu sūta "
+"vairāk nekā 30 miljonus e-pastu. Tie lietotājiem nodrošina 300 bezmaksas e-"
+"pastus dienā."
+
+#. translators: %2$s - URL to wpmailsmtp.com doc.
+#: src/Providers/Sendinblue/Options.php:40
+#, fuzzy
+msgid ""
+"Read our <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">Sendinblue documentation</a> to learn how to configure Sendinblue and "
+"improve your email deliverability."
+msgstr ""
+"Izlasiet mūsu <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">Sendinblue dokumentāciju,</a> lai uzzinātu, kā konfigurēt Sendinblue un "
+"uzlabotu e-pasta piegādi."
+
+#: src/Providers/Sendinblue/Options.php:97
+#, fuzzy
+msgid "Get v3 API Key"
+msgstr "Iegūstiet v3 API atslēgu"
+
+#: src/Providers/SMTP/Options.php:25
+#, fuzzy
+msgid "Other SMTP"
+msgstr "Cits SMTP"
+
+#. translators: %s - URL to SMTP documentation.
+#: src/Providers/SMTP/Options.php:29
+#, fuzzy
+msgid ""
+"Use the SMTP details provided by your hosting provider or email service."
+"<br><br>To see recommended settings for the popular services as well as "
+"troubleshooting tips, check out our <a href=\"%s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">SMTP documentation</a>."
+msgstr ""
+"Izmantojiet SMTP informāciju, ko nodrošina jūsu mitināšanas pakalpojumu "
+"sniedzējs vai e-pasta pakalpojums. <br><br> Lai skatītu ieteiktos populāro "
+"pakalpojumu iestatījumus, kā arī padomus par problēmu novēršanu, "
+"iepazīstieties ar mūsu <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">SMTP dokumentāciju</a> ."
+
+#: src/Providers/SMTPcom/Mailer.php:434
+#, fuzzy
+msgid "Api Key:"
+msgstr "Api taustiņš:"
+
+#: src/Providers/SMTPcom/Mailer.php:436
+#, fuzzy
+msgid "Channel:"
+msgstr "Kanāls:"
+
+#. translators: %s - URL to smtp.com site.
+#: src/Providers/SMTPcom/Options.php:41
+#, fuzzy
+msgid ""
+"<strong><a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">SMTP."
+"com</a> is a recommended transactional email service.</strong> With a 22 "
+"years of track record of reliable email delivery, SMTP.com is a premiere "
+"solution for WordPress developers and website owners. SMTP.com has been "
+"around for almost as long as email itself. Their super simple integration "
+"interface makes it easy to get started while a powerful API and robust "
+"documentation make it a preferred choice among developers. Start a 30-day "
+"free trial with 50,000 emails."
+msgstr ""
+"<strong><a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">SMTP."
+"com</a> ir ieteicams e-pasta pakalpojums ar darījumu starpniecību.</strong> "
+"SMTP.com ar 22 gadu pieredzi uzticamas e-pasta piegādes jomā ir pirmizrādes "
+"risinājums WordPress izstrādātājiem un vietņu īpašniekiem. SMTP.com darbojas "
+"gandrīz tikpat ilgi kā pats e-pasts. Viņu īpaši vienkāršā integrācijas "
+"saskarne ļauj ērti sākt darbu, savukārt jaudīgais API un robustā "
+"dokumentācija padara to par izvēli izstrādātāju vidū. Sāciet 30 dienu "
+"bezmaksas izmēģinājumu, izmantojot 50 000 e-pasta ziņojumu."
+
+#. translators: %s - URL to wpmailsmtp.com doc page for stmp.com.
+#: src/Providers/SMTPcom/Options.php:49
+#, fuzzy
+msgid ""
+"Read our <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">SMTP."
+"com documentation</a> to learn how to configure SMTP.com and improve your "
+"email deliverability."
+msgstr ""
+"Izlasiet mūsu <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer"
+"\">SMTP.com dokumentāciju,</a> lai uzzinātu, kā konfigurēt SMTP.com un "
+"uzlabot e-pasta piegādes iespējas."
+
+#: src/Providers/SMTPcom/Options.php:59
+#, fuzzy
+msgid "Get Started with SMTP.com"
+msgstr "Sāciet darbu ar SMTP.com"
+
+#: src/Providers/SMTPcom/Options.php:67
+#, fuzzy
+msgid "SMTP.com"
+msgstr "SMTP.com"
+
+#. translators: %s - API key link.
+#: src/Providers/SMTPcom/Options.php:101
+#, fuzzy
+msgid "Follow this link to get an API Key from SMTP.com: %s."
+msgstr "Lai iegūtu API atslēgu no SMTP.com, izmantojiet šo saiti: %s."
+
+#: src/Providers/SMTPcom/Options.php:103
+#, fuzzy
+msgid "Get API Key"
+msgstr "Iegūstiet API atslēgu"
+
+#: src/Providers/SMTPcom/Options.php:114
+#, fuzzy
+msgid "Sender Name"
+msgstr "Sūtītāja vārds"
+
+#. translators: %s - Channel/Sender Name link for smtp.com documentation.
+#: src/Providers/SMTPcom/Options.php:130
+#, fuzzy
+msgid "Follow this link to get a Sender Name from SMTP.com: %s."
+msgstr "Lai iegūtu no SMTP.com sūtītāja vārdu, izmantojiet šo saiti: %s."
+
+#: src/Providers/SMTPcom/Options.php:132
+#, fuzzy
+msgid "Get Sender Name"
+msgstr "Saņemt sūtītāja vārdu"
+
+#: src/SiteHealth.php:67
+#, fuzzy
+msgid "Is WP Mail SMTP mailer setup complete?"
+msgstr "Vai WP Mail SMTP sūtītāja iestatīšana ir pabeigta?"
+
+#: src/SiteHealth.php:72
+#, fuzzy
+msgid "Do WP Mail SMTP DB tables exist?"
+msgstr "Vai pastāv WP Mail SMTP DB tabulas?"
+
+#: src/SiteHealth.php:98
+#, fuzzy
+msgid "Version"
+msgstr "Versija"
+
+#: src/SiteHealth.php:102
+#, fuzzy
+msgid "License key type"
+msgstr "Licences atslēgas tips"
+
+#: src/SiteHealth.php:106
+#, fuzzy
+msgid "Debug"
+msgstr "Atkļūdošana"
+
+#: src/SiteHealth.php:107
+#, fuzzy
+msgid "No debug notices found."
+msgstr "Netika atrasti atkļūdošanas paziņojumi."
+
+#: src/SiteHealth.php:110
+#, fuzzy
+msgid "DB tables"
+msgstr "DB tabulas"
+
+#: src/SiteHealth.php:112
+#, fuzzy
+msgid "No DB tables found."
+msgstr "Neviena DB tabula nav atrasta."
+
+#: src/SiteHealth.php:142
+#, fuzzy
+msgid "Current mailer"
+msgstr "Pašreizējais maileris"
+
+#: src/SiteHealth.php:147
+#, fuzzy
+msgid "WP Mail SMTP mailer setup is complete"
+msgstr "WP Mail SMTP sūtītāja iestatīšana ir pabeigta"
+
+#: src/SiteHealth.php:156
+#, fuzzy
+msgid ""
+"The WP Mail SMTP plugin mailer setup is complete. You can send a test email, "
+"to make sure it's working properly."
+msgstr ""
+"WP Mail SMTP spraudņa pasta sūtītāja iestatīšana ir pabeigta. Varat nosūtīt "
+"testa e-pastu, lai pārliecinātos, ka tas darbojas pareizi."
+
+#: src/SiteHealth.php:161
+#, fuzzy
+msgid "Test email sending"
+msgstr "Pārbaudiet e-pasta sūtīšanu"
+
+#: src/SiteHealth.php:169
+#, fuzzy
+msgid ""
+"You currently have the default mailer selected, which means that you haven’t "
+"set up SMTP yet."
+msgstr ""
+"Pašlaik jums ir atlasīts noklusējuma sūtītājs, kas nozīmē, ka vēl neesat "
+"iestatījis SMTP."
+
+#: src/SiteHealth.php:174
+#, fuzzy
+msgid "WP Mail SMTP mailer setup is incomplete"
+msgstr "WP Mail SMTP sūtītāja iestatīšana nav pabeigta"
+
+#: src/SiteHealth.php:180
+#, fuzzy
+msgid ""
+"The WP Mail SMTP plugin mailer setup is incomplete. Please click on the link "
+"below to access plugin settings and configure the mailer."
+msgstr ""
+"WP Mail SMTP spraudņa sūtītāja iestatīšana nav pabeigta. Lūdzu, "
+"noklikšķiniet uz zemāk esošās saites, lai piekļūtu spraudņa iestatījumiem un "
+"konfigurētu sūtītāju."
+
+#: src/SiteHealth.php:185
+#, fuzzy
+msgid "Configure mailer"
+msgstr "Konfigurējiet sūtītāju"
+
+#: src/SiteHealth.php:202
+#, fuzzy
+msgid "WP Mail SMTP DB tables are created"
+msgstr "Tiek izveidotas WP Mail SMTP DB tabulas"
+
+#: src/SiteHealth.php:208
+#, fuzzy
+msgid ""
+"WP Mail SMTP is using custom database tables for some of its features. In "
+"order to work properly, the custom tables should be created, and it looks "
+"like they exist in your database."
+msgstr ""
+"Dažām tās funkcijām WP Mail SMTP izmanto pielāgotas datu bāzes tabulas. Lai "
+"pareizi darbotos, jāizveido pielāgotas tabulas, un izskatās, ka tās pastāv "
+"jūsu datu bāzē."
+
+#: src/SiteHealth.php:216
+#, fuzzy
+msgid "WP Mail SMTP DB tables check has failed"
+msgstr "WP Mail SMTP DB tabulu pārbaude nav izdevusies"
+
+#. translators: %s - the list of missing tables separated by comma.
+#: src/SiteHealth.php:222
+#, fuzzy
+msgid "Missing table: %s"
+msgid_plural "Missing tables: %s"
+msgstr[0] "Trūkst tabulas: %s"
+msgstr[1] "Trūkst tabulas: %s"
+msgstr[2] ""
+
+#: src/SiteHealth.php:225
+#, fuzzy
+msgid ""
+"WP Mail SMTP is using custom database tables for some of its features. In "
+"order to work properly, the custom tables should be created, and it seems "
+"they are missing. Please try to re-install the WP Mail SMTP plugin. If this "
+"issue persists, please contact our support."
+msgstr ""
+"Dažām tās funkcijām WP Mail SMTP izmanto pielāgotas datu bāzes tabulas. Lai "
+"pareizi darbotos, ir jāizveido pielāgotas tabulas, un šķiet, ka to trūkst. "
+"Lūdzu, mēģiniet atkārtoti instalēt WP Mail SMTP spraudni. Ja šī problēma "
+"joprojām pastāv, lūdzu, sazinieties ar mūsu atbalsta dienestu."
+
+#. translators: %1$s - date, \a\t - specially escaped "at", %2$s - time.
+#: src/WP.php:190
+#, fuzzy
+msgid "%1$s \\a\\t %2$s"
+msgstr "%1$s \\ a \\ t %2$s"
+
+#: wp_mail_smtp.php:135
+#, fuzzy
+msgid ""
+"Please deactivate the free version of the WP Mail SMTP plugin before "
+"activating WP Mail SMTP Pro."
+msgstr ""
+"Pirms WP Mail SMTP Pro aktivizēšanas, lūdzu, deaktivizējiet WP Mail SMTP "
+"spraudņa bezmaksas versiju."
+
+#. translators: %1$s - WPBeginner URL for recommended WordPress hosting.
+#: wp_mail_smtp.php:163
+#, fuzzy
+msgid ""
+"Your site is running an <strong>insecure version</strong> of PHP that is no "
+"longer supported. Please contact your web hosting provider to update your "
+"PHP version or switch to a <a href=\"%1$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">recommended WordPress hosting company</a>."
+msgstr ""
+"Jūsu vietnē darbojas <strong>nedroša</strong> PHP <strong>versija</strong> , "
+"kas vairs netiek atbalstīta. Lūdzu, sazinieties ar savu tīmekļa mitināšanas "
+"pakalpojumu sniedzēju, lai atjauninātu savu PHP versiju vai pārslēgtos uz <a "
+"href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">ieteikto "
+"WordPress mitināšanas uzņēmumu</a> ."
+
+#. translators: %s - WPMailSMTP.com docs URL with more details.
+#: wp_mail_smtp.php:180
+#, fuzzy
+msgid ""
+"<strong>WP Mail SMTP plugin is disabled</strong> on your site until you fix "
+"the issue. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Read "
+"more for additional information.</a>"
+msgstr ""
+"<strong>WP Mail SMTP spraudnis</strong> jūsu vietnē <strong>ir atspējots</"
+"strong> , līdz problēma tiek novērsta. <a href=\"%s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Papildinformāciju lasiet vairāk.</a>"

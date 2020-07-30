@@ -1,0 +1,788 @@
+# Copyright (C) 2020 advanced-product-fields-for-woocommerce
+# This file is distributed under the same license as the advanced-product-fields-for-woocommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: advanced-product-fields-for-woocommerce\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=n % 10 == 1 && n % 100 != 11 ? 0 : n != 0 ? "
+"1 : 2;\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-07 18:11+0000\n"
+"PO-Revision-Date: 2020-07-07 18:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: Latviešu valoda\n"
+"Language: lv\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: dist/class-wapf.php:80,
+#: dist/includes/controllers/class-admin-controller.php:586
+msgid "Product Field Groups"
+msgstr "Produktu lauku grupas"
+
+#: dist/class-wapf.php:81
+msgid "Field Group"
+msgstr "Lauku grupa"
+
+#: dist/class-wapf.php:82, dist/views/admin/cpt-list-table.php:14
+msgid "Add New"
+msgstr "Pievieno jaunu"
+
+#: dist/class-wapf.php:83
+msgid "Add New Product Field Group"
+msgstr "Pievienojiet jaunu produktu lauku grupu"
+
+#: dist/class-wapf.php:84
+msgid "Edit Product Field Group"
+msgstr "Rediģēt produktu lauku grupu"
+
+#: dist/class-wapf.php:85
+msgid "New Field Group"
+msgstr "Jauna lauka grupa"
+
+#: dist/class-wapf.php:86
+msgid "View Field Group"
+msgstr "Skatīt lauka grupu"
+
+#: dist/class-wapf.php:87
+msgid "Search Field Groups"
+msgstr "Meklēšanas lauku grupas"
+
+#: dist/class-wapf.php:88
+msgid "No Field Groups found"
+msgstr "Nav atrasta neviena lauka grupa"
+
+#: dist/class-wapf.php:89
+msgid "No Field Groups found in Trash"
+msgstr "Netika atrasta neviena lauka grupa"
+
+#: dist/includes/classes/class-conditions.php:17,
+#: dist/includes/classes/class-conditions.php:27,
+#: dist/includes/classes/class-conditions.php:37,
+#: dist/includes/classes/class-conditions.php:47,
+#: dist/includes/classes/class-conditions.php:59,
+#: dist/includes/classes/class-conditions.php:74,
+#: dist/includes/classes/class-conditions.php:82,
+#: dist/includes/classes/class-conditions.php:90
+msgid "Value is empty"
+msgstr "Vērtība ir tukša"
+
+#: dist/includes/classes/class-conditions.php:18,
+#: dist/includes/classes/class-conditions.php:28,
+#: dist/includes/classes/class-conditions.php:38,
+#: dist/includes/classes/class-conditions.php:48,
+#: dist/includes/classes/class-conditions.php:60,
+#: dist/includes/classes/class-conditions.php:75,
+#: dist/includes/classes/class-conditions.php:83,
+#: dist/includes/classes/class-conditions.php:91
+msgid "Value is any value"
+msgstr "Vērtība ir jebkura vērtība"
+
+#: dist/includes/classes/class-conditions.php:19,
+#: dist/includes/classes/class-conditions.php:29,
+#: dist/includes/classes/class-conditions.php:39,
+#: dist/includes/classes/class-conditions.php:49,
+#: dist/includes/classes/class-conditions.php:61,
+#: dist/includes/classes/class-conditions.php:76,
+#: dist/includes/classes/class-conditions.php:84,
+#: dist/includes/classes/class-conditions.php:92
+msgid "Value is equal to"
+msgstr "Vērtība ir vienāda ar"
+
+#: dist/includes/classes/class-conditions.php:20,
+#: dist/includes/classes/class-conditions.php:30,
+#: dist/includes/classes/class-conditions.php:40,
+#: dist/includes/classes/class-conditions.php:50,
+#: dist/includes/classes/class-conditions.php:62,
+#: dist/includes/classes/class-conditions.php:77,
+#: dist/includes/classes/class-conditions.php:85,
+#: dist/includes/classes/class-conditions.php:93
+msgid "Value is not equal to"
+msgstr "Vērtība nav vienāda ar"
+
+#: dist/includes/classes/class-conditions.php:21,
+#: dist/includes/classes/class-conditions.php:31,
+#: dist/includes/classes/class-conditions.php:41,
+#: dist/includes/classes/class-conditions.php:53,
+#: dist/includes/classes/class-conditions.php:63
+msgid "Value contains (Pro only)"
+msgstr "Vērtība satur (tikai Pro)"
+
+#: dist/includes/classes/class-conditions.php:51
+msgid "Value is greater than"
+msgstr "Vērtība ir lielāka par"
+
+#: dist/includes/classes/class-conditions.php:52
+msgid "Value is lesser than"
+msgstr "Vērtība ir mazāka par"
+
+#: dist/includes/classes/class-conditions.php:68
+msgid "Is checked"
+msgstr "Ir pārbaudīts"
+
+#: dist/includes/classes/class-conditions.php:69
+msgid "Is not checked"
+msgstr "Nav pārbaudīts"
+
+#: dist/includes/classes/class-conditions.php:107
+msgid "User"
+msgstr "Lietotājs"
+
+#: dist/includes/classes/class-conditions.php:111
+msgid "Authentication"
+msgstr "Autentifikācija"
+
+#: dist/includes/classes/class-conditions.php:115
+msgid "Logged in"
+msgstr "Pieteicies"
+
+#: dist/includes/classes/class-conditions.php:119
+msgid "Not logged in"
+msgstr "Nav pieteicies"
+
+#: dist/includes/classes/class-conditions.php:125
+msgid "User role"
+msgstr "Lietotāja loma"
+
+#: dist/includes/classes/class-conditions.php:133,
+#: dist/includes/classes/class-conditions.php:137,
+#: dist/includes/classes/class-helper.php:19
+msgid "Product"
+msgstr "Produkts"
+
+#: dist/includes/classes/class-conditions.php:141
+msgid "Is equal to"
+msgstr "Ir vienāds ar"
+
+#: dist/includes/classes/class-conditions.php:144,
+#: dist/includes/classes/class-conditions.php:154,
+#: dist/includes/classes/class-conditions.php:164,
+#: dist/includes/classes/class-conditions.php:173
+msgid "Search a product..."
+msgstr "Meklēt produktu ..."
+
+#: dist/includes/classes/class-conditions.php:151
+msgid "Is not equal to"
+msgstr "Nav vienāds ar"
+
+#: dist/includes/classes/class-conditions.php:161
+msgid "In list"
+msgstr "Sarakstā"
+
+#: dist/includes/classes/class-conditions.php:170
+msgid "Not in list"
+msgstr "Nav sarakstā"
+
+#: dist/includes/classes/class-conditions.php:181
+msgid "Product variation"
+msgstr "Produktu variācijas"
+
+#: dist/includes/classes/class-conditions.php:186
+msgid "Product category"
+msgstr "Produkta kategorija"
+
+#: dist/includes/classes/class-conditions.php:192
+msgid "Product type"
+msgstr "Produkta veids"
+
+#: dist/includes/classes/class-fields.php:16
+msgid "Text"
+msgstr "Teksts"
+
+#: dist/includes/classes/class-fields.php:21
+msgid "Text Area"
+msgstr "Teksta laukums"
+
+#: dist/includes/classes/class-fields.php:26
+msgid "Number"
+msgstr "Skaits"
+
+#: dist/includes/classes/class-fields.php:31
+msgid "E-mail"
+msgstr "E-pasts"
+
+#: dist/includes/classes/class-fields.php:36
+msgid "URL"
+msgstr "URL"
+
+#: dist/includes/classes/class-fields.php:41
+msgid "Select"
+msgstr "Izvēlieties"
+
+#: dist/includes/classes/class-fields.php:46
+msgid "True/False"
+msgstr "Patiess / nepatiess"
+
+#: dist/includes/classes/class-fields.php:51
+msgid "Checkboxes"
+msgstr "Izvēles rūtiņas"
+
+#: dist/includes/classes/class-fields.php:56
+msgid "Radio buttons"
+msgstr "Radio pogas"
+
+#: dist/includes/classes/class-fields.php:61
+msgid "File upload"
+msgstr "Failu augšupielāde"
+
+#: dist/includes/classes/class-fields.php:66
+msgid "Image swatches"
+msgstr "Attēlu paraugi"
+
+#: dist/includes/classes/class-fields.php:71
+msgid "Color swatches"
+msgstr "Krāsu paraugi"
+
+#: dist/includes/classes/class-fields.php:76
+msgid "Text swatches"
+msgstr "Teksta swatches"
+
+#: dist/includes/classes/class-fields.php:95
+msgid "Message"
+msgstr "Ziņa"
+
+#: dist/includes/classes/class-fields.php:96
+msgid "Displays text alongside the checkbox."
+msgstr "Parāda tekstu blakus izvēles rūtiņai."
+
+#: dist/includes/classes/class-fields.php:101
+msgid "Checked"
+msgstr "Pārbaudīts"
+
+#: dist/includes/classes/class-fields.php:102
+msgid "Unchecked"
+msgstr "Bez izvēles"
+
+#: dist/includes/classes/class-fields.php:106,
+#: dist/includes/classes/class-fields.php:121,
+#: dist/includes/classes/class-fields.php:142,
+#: dist/includes/classes/class-fields.php:163,
+#: dist/includes/classes/class-fields.php:196,
+#: dist/includes/classes/class-fields.php:218
+msgid "Default value"
+msgstr "Noklusējuma vērtība"
+
+#: dist/includes/classes/class-fields.php:107,
+#: dist/includes/classes/class-fields.php:122,
+#: dist/includes/classes/class-fields.php:143,
+#: dist/includes/classes/class-fields.php:164,
+#: dist/includes/classes/class-fields.php:197,
+#: dist/includes/classes/class-fields.php:219
+msgid "The pre-set value of the field when the page loads."
+msgstr "Iepriekš iestatīta lauka vērtība, kad lapa tiek ielādēta."
+
+#: dist/includes/classes/class-fields.php:112,
+#: dist/includes/classes/class-fields.php:133,
+#: dist/includes/classes/class-fields.php:154,
+#: dist/includes/classes/class-fields.php:187,
+#: dist/includes/classes/class-fields.php:209,
+#: dist/includes/classes/class-fields.php:230,
+#: dist/views/admin/settings/options.php:19
+msgid "Adjust pricing"
+msgstr "Pielāgojiet cenu"
+
+#: dist/includes/classes/class-fields.php:113,
+#: dist/includes/classes/class-fields.php:134,
+#: dist/includes/classes/class-fields.php:155,
+#: dist/includes/classes/class-fields.php:188,
+#: dist/includes/classes/class-fields.php:210,
+#: dist/includes/classes/class-fields.php:231
+msgid ""
+"Should the price of the product or cart change when the user interacts with "
+"this field?"
+msgstr ""
+"Vai produkta vai groza cenai vajadzētu mainīties, kad lietotājs "
+"mijiedarbojas ar šo lauku?"
+
+#: dist/includes/classes/class-fields.php:127,
+#: dist/includes/classes/class-fields.php:148,
+#: dist/includes/classes/class-fields.php:169,
+#: dist/includes/classes/class-fields.php:202,
+#: dist/includes/classes/class-fields.php:224
+msgid "Placeholder text"
+msgstr "Vietas vietas teksts"
+
+#: dist/includes/classes/class-fields.php:128,
+#: dist/includes/classes/class-fields.php:149,
+#: dist/includes/classes/class-fields.php:170,
+#: dist/includes/classes/class-fields.php:203,
+#: dist/includes/classes/class-fields.php:225
+msgid "Appears within the input field"
+msgstr "Parādās ievades laukā"
+
+#: dist/includes/classes/class-fields.php:175
+msgid "Minimum value"
+msgstr "Minimālā vērtība"
+
+#: dist/includes/classes/class-fields.php:176
+msgid "No minimum"
+msgstr "Nav minimuma"
+
+#: dist/includes/classes/class-fields.php:181
+msgid "Maximum value"
+msgstr "Maksimālā vērtība"
+
+#: dist/includes/classes/class-fields.php:182
+msgid "No maximum"
+msgstr "Nav maksimālā"
+
+#: dist/includes/classes/class-fields.php:239,
+#: dist/includes/classes/class-fields.php:250,
+#: dist/includes/classes/class-fields.php:262
+msgid "Options"
+msgstr "Iespējas"
+
+#: dist/includes/classes/class-fields.php:240
+msgid "Add the options for this select list."
+msgstr "Pievienojiet šī atlasītā saraksta opcijas."
+
+#: dist/includes/classes/class-fields.php:251
+msgid "Each option is a checkbox."
+msgstr "Katra opcija ir izvēles rūtiņa."
+
+#: dist/includes/classes/class-fields.php:263
+msgid "Each option is a radio button."
+msgstr "Katra opcija ir radiopoga."
+
+#: dist/includes/classes/class-fields.php:346
+msgid "Flat fee (not quantity-based)"
+msgstr "Vienota maksa (nav atkarīga no daudzuma)"
+
+#: dist/includes/classes/class-fields.php:347
+msgid "Quantity based flat fee (Pro only)"
+msgstr "Vienotā maksa par daudzumu (tikai Pro)"
+
+#: dist/includes/classes/class-fields.php:348
+msgid "Formula (Pro only)"
+msgstr "Formula (tikai Pro)"
+
+#: dist/includes/classes/class-fields.php:349
+msgid "Percentage based (Pro only)"
+msgstr "Procentuāli (tikai Pro)"
+
+#: dist/includes/classes/class-fields.php:350
+msgid "Amount &times; field value (Pro only)"
+msgstr "Summa × lauka vērtība (tikai Pro)"
+
+#: dist/includes/classes/class-fields.php:351
+msgid "Amount &times; character count (Pro only)"
+msgstr "Summa × rakstzīmju skaits (tikai Pro)"
+
+#: dist/includes/classes/class-wapf-list-table.php:15
+msgid "Title"
+msgstr "Nosaukums"
+
+#: dist/includes/classes/class-wapf-list-table.php:16,
+#: dist/views/admin/field.php:61
+msgid "Type"
+msgstr "Veids"
+
+#: dist/includes/classes/class-wapf-list-table.php:17,
+#: dist/includes/controllers/class-admin-controller.php:196,
+#: dist/includes/controllers/class-admin-controller.php:447
+msgid "Fields"
+msgstr "Lauki"
+
+#: dist/includes/classes/class-wapf-list-table.php:18
+msgid "Date"
+msgstr "Datums"
+
+#: dist/includes/classes/class-wapf-list-table.php:108
+msgid "Duplicate &#8220;%s&#8221;"
+msgstr "“%S” dublikāts"
+
+#: dist/includes/classes/class-wapf-list-table.php:175
+msgid "No Product Field Groups found."
+msgstr "Nav atrasta neviena produktu lauka grupa."
+
+#: dist/includes/classes/class-woocommerce-service.php:133
+msgid "any"
+msgstr "jebkura"
+
+#: dist/includes/controllers/class-admin-controller.php:78
+msgid "Please add a field group title first."
+msgstr "Lūdzu, vispirms pievienojiet lauka grupas nosaukumu."
+
+#: dist/includes/controllers/class-admin-controller.php:79
+msgid "Please add some fields first."
+msgstr "Lūdzu, vispirms pievienojiet dažus laukus."
+
+#: dist/includes/controllers/class-admin-controller.php:80
+msgid ""
+"You can only add 5 fields in the free version. Please consider upgrading to "
+"premium to support our product. Thank you!"
+msgstr ""
+"Bezmaksas versijā varat pievienot tikai 5 laukus. Lūdzu, apsveriet "
+"jaunināšanu uz premium, lai atbalstītu mūsu produktu. Paldies!"
+
+#: dist/includes/controllers/class-admin-controller.php:81
+msgid ""
+"You've reached the amount of field groups you can create in the free version."
+" Please consider upgrading to premium to add unlimited field groups. Thank "
+"you!"
+msgstr ""
+"Jūs esat sasniedzis to lauku grupu skaitu, kuras varat izveidot bezmaksas "
+"versijā. Lūdzu, apsveriet jaunināšanu uz premium, lai pievienotu "
+"neierobežotas lauku grupas. Paldies!"
+
+#: dist/includes/controllers/class-admin-controller.php:110,
+#: dist/includes/controllers/class-admin-controller.php:111
+msgid "Product Fields"
+msgstr "Produktu lauki"
+
+#: dist/includes/controllers/class-admin-controller.php:120
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#: dist/includes/controllers/class-admin-controller.php:121
+msgid "Global fields"
+msgstr "Globālie lauki"
+
+#: dist/includes/controllers/class-admin-controller.php:161
+msgid "Copy"
+msgstr "Kopēt"
+
+#: dist/includes/controllers/class-admin-controller.php:174
+msgid ""
+"Sorry :( We can't duplicate this field group. You've reached the amount of "
+"field groups allowed in the free version. Consider removing an old field "
+"group or upgrading to premium for unlimited field groups."
+msgstr ""
+"Atvainojiet :( Mēs nevaram kopēt šo lauku grupu. Jūs esat sasniedzis "
+"bezmaksas versijā atļauto lauku grupu daudzumu. Apsveriet iespēju noņemt "
+"veco lauka grupu vai jaunināt uz premium neierobežotu lauku grupu gadījumā."
+
+#: dist/includes/controllers/class-admin-controller.php:185
+msgid "Custom fields"
+msgstr "Pielāgoti lauki"
+
+#: dist/includes/controllers/class-admin-controller.php:196,
+#: dist/includes/controllers/class-admin-controller.php:447
+msgid "Add some custom fields to this group."
+msgstr "Pievienojiet šai grupai dažus pielāgotos laukus."
+
+#: dist/includes/controllers/class-admin-controller.php:205,
+#: dist/includes/controllers/class-admin-controller.php:465
+msgid "Layout"
+msgstr "Izkārtojums"
+
+#: dist/includes/controllers/class-admin-controller.php:205,
+#: dist/includes/controllers/class-admin-controller.php:465
+msgid "Field group layout settings"
+msgstr "Lauku grupas izkārtojuma iestatījumi"
+
+#: dist/includes/controllers/class-admin-controller.php:239
+msgid "Product field settings"
+msgstr "Izstrādājuma lauka iestatījumi"
+
+#: dist/includes/controllers/class-admin-controller.php:244
+msgid "Show in cart"
+msgstr "Rādīt grozā"
+
+#: dist/includes/controllers/class-admin-controller.php:248
+msgid "Show on customer's cart page."
+msgstr "Rādīt klienta groza lapā."
+
+#: dist/includes/controllers/class-admin-controller.php:249
+msgid ""
+"When a user has filled out your fields, should they be summarized on their "
+"cart page after adding the product to their cart?"
+msgstr ""
+"Kad lietotājs ir aizpildījis jūsu laukus, vai tie jāapkopo savā groza lapā "
+"pēc produkta pievienošanas grozam?"
+
+#: dist/includes/controllers/class-admin-controller.php:253
+msgid "Show on checkout"
+msgstr "Rādīt izrakstoties"
+
+#: dist/includes/controllers/class-admin-controller.php:257
+msgid "Show on the checkout page."
+msgstr "Rādīt izrakstīšanās lapā."
+
+#: dist/includes/controllers/class-admin-controller.php:258
+msgid ""
+"When a user has filled out your fields, should they be summarized on their "
+"checkout page?"
+msgstr ""
+"Kad lietotājs ir aizpildījis jūsu laukus, vai tie būtu jāapkopo savā "
+"norēķinu lapā?"
+
+#: dist/includes/controllers/class-admin-controller.php:262
+msgid "\"Add to cart\" button text"
+msgstr "Pogas \"Pievienot grozam\" teksts"
+
+#: dist/includes/controllers/class-admin-controller.php:265
+msgid ""
+"When a product has custom fields, what should the \"add to cart\" button say?"
+"."
+msgstr ""
+"Kad produktam ir pielāgoti lauki, ko vajadzētu teikt pogai “pievienot "
+"grozam”?"
+
+#: dist/includes/controllers/class-admin-controller.php:266,
+#: dist/includes/controllers/class-product-controller.php:87
+msgid "Select options"
+msgstr "Atlasiet opcijas"
+
+#: dist/includes/controllers/class-admin-controller.php:277
+msgid "Product fields"
+msgstr "Produktu lauki"
+
+#: dist/includes/controllers/class-admin-controller.php:456
+msgid "Conditions"
+msgstr "Nosacījumi"
+
+#: dist/includes/controllers/class-admin-controller.php:456
+msgid "When should this field group be displayed?"
+msgstr "Kad šī lauka grupa būtu jāparāda?"
+
+#: dist/views/admin/conditions.php:21
+msgid "Rules"
+msgstr "Noteikumi"
+
+#: dist/views/admin/conditions.php:23
+msgid "Add a set of rules to determine when this field group should appear."
+msgstr ""
+"Pievienojiet kārtulu kopu, lai noteiktu, kad šai lauka grupai vajadzētu "
+"parādīties."
+
+#: dist/views/admin/conditions.php:28
+msgid "Add your first rule"
+msgstr "Pievienojiet savu pirmo kārtulu"
+
+#: dist/views/admin/conditions.php:33, dist/views/admin/conditions.php:86,
+#: dist/views/admin/settings/conditionals.php:45
+msgid "Or"
+msgstr "Vai"
+
+#: dist/views/admin/conditions.php:78,
+#: dist/views/admin/settings/conditionals.php:41
+msgid "And"
+msgstr "Un"
+
+#: dist/views/admin/cpt-list-table.php:32
+msgid ""
+"Sorry :( We can't add a new field group. You've reached the amount of field "
+"groups allowed in the free version. Consider removing an old field group or "
+"upgrading to premium for unlimited field groups."
+msgstr ""
+"Atvainojiet :( Mēs nevaram pievienot jaunu lauku grupu. Jūs esat sasniedzis "
+"bezmaksas versijā atļauto lauku grupu daudzumu. Apsveriet iespēju noņemt "
+"veco lauku grupu vai jaunināt uz premium neierobežotām lauku grupām."
+
+#: dist/views/admin/field.php:62
+msgid "What type of field should this be?"
+msgstr "Kāda veida laukam tam vajadzētu būt?"
+
+#: dist/views/admin/field.php:70
+msgid "Label"
+msgstr "Etiķete"
+
+#: dist/views/admin/field.php:71
+msgid "This is the label that is shown next to the field."
+msgstr "Šī ir etiķete, kas tiek parādīta blakus laukam."
+
+#: dist/views/admin/field.php:78
+msgid "Instructions"
+msgstr "Instrukcijas"
+
+#: dist/views/admin/field.php:79
+msgid ""
+"Instructions can be used to display extra information near the field. Keep "
+"it short."
+msgstr ""
+"Norādījumus var izmantot, lai parādītu papildu informāciju lauka tuvumā. "
+"Turiet to īsu."
+
+#: dist/views/admin/field.php:86
+msgid "Required"
+msgstr "Obligāti"
+
+#: dist/views/admin/field.php:87
+msgid "Select \"yes\" if the field should require input from the user."
+msgstr "Atlasiet “jā”, ja laukam ir jāpieprasa lietotāja ievadīšana."
+
+#: dist/views/admin/field.php:106
+msgid "Quantity based"
+msgstr "Daudzums pamatots"
+
+#: dist/views/admin/field.php:107
+msgid ""
+"Should this field appear multiple times depending on the chosen quantity?"
+msgstr ""
+"Vai šim laukam vajadzētu parādīties vairākas reizes atkarībā no izvēlētā "
+"daudzuma?"
+
+#: dist/views/admin/field.php:116
+msgid "Conditionals"
+msgstr "Nosacīti"
+
+#: dist/views/admin/field.php:117
+msgid "Only show this field when conditional rules are true."
+msgstr "Rādīt šo lauku tikai tad, ja ir izpildīti nosacītie noteikumi."
+
+#: dist/views/admin/field.php:124
+msgid "Wrapper attributes"
+msgstr "Wrapper atribūti"
+
+#: dist/views/admin/help-modal.php:8
+msgid "View help"
+msgstr "Skatīt palīdzību"
+
+#: dist/views/admin/layout.php:22
+msgid "Label position"
+msgstr "Etiķetes novietojums"
+
+#: dist/views/admin/layout.php:23
+msgid "Where should the label be positioned in relation to the field?"
+msgstr "Kur etiķete jānovieto attiecībā pret lauku?"
+
+#: dist/views/admin/layout.php:25
+msgid "Above the field"
+msgstr "Virs lauka"
+
+#: dist/views/admin/layout.php:26, dist/views/admin/layout.php:40
+msgid "Below the field"
+msgstr "Zem lauka"
+
+#: dist/views/admin/layout.php:36
+msgid "Instruction position"
+msgstr "Instrukcijas pozīcija"
+
+#: dist/views/admin/layout.php:37
+msgid "Where should the instructions be positioned?"
+msgstr "Kur būtu jānovieto instrukcijas?"
+
+#: dist/views/admin/layout.php:39
+msgid "Below the label"
+msgstr "Zem etiķetes"
+
+#: dist/views/admin/layout.php:48
+msgid "Mark required fields"
+msgstr "Atzīmējiet nepieciešamos laukus"
+
+#: dist/views/admin/layout.php:49
+msgid "Add a *-symbol next to required fields."
+msgstr "Blakus nepieciešamajiem laukiem pievienojiet simbolu *."
+
+#: dist/views/admin/layout.php:56
+msgid "Change product image"
+msgstr "Mainīt produkta attēlu"
+
+#: dist/views/admin/layout.php:57
+msgid "Should the product image change when options are selected?"
+msgstr "Vai produkta attēlam vajadzētu mainīties, ja tiek atlasītas opcijas?"
+
+#: dist/views/admin/settings/attributes.php:14
+msgid "Width"
+msgstr "Platums"
+
+#: dist/views/admin/settings/attributes.php:25
+msgid "Class"
+msgstr "Klase"
+
+#: dist/views/admin/settings/conditionals.php:16
+msgid ""
+"You need atleast 2 fields to create conditional rules. Add another field "
+"first."
+msgstr ""
+"Lai izveidotu nosacītus noteikumus, jums ir nepieciešami vismaz 2 lauki. "
+"Vispirms pievienojiet citu lauku."
+
+#: dist/views/admin/settings/conditionals.php:40
+msgid "Delete"
+msgstr "Dzēst"
+
+#: dist/views/admin/settings/conditionals.php:48
+msgid "Add new rule group"
+msgstr "Pievienojiet jaunu kārtulu grupu"
+
+#: dist/views/admin/settings/options.php:16
+msgid "Option label"
+msgstr "Opcijas etiķete"
+
+#: dist/views/admin/settings/options.php:17
+msgid "Unique key"
+msgstr "Unikālā atslēga"
+
+#: dist/views/admin/settings/options.php:20
+msgid "Pricing amount"
+msgstr "Cenas summa"
+
+#: dist/views/admin/settings/options.php:22
+msgid "Selected"
+msgstr "Atlasīts"
+
+#: dist/views/admin/settings/options.php:32
+msgid "No price change"
+msgstr "Cenas nemainās"
+
+#: dist/views/admin/settings/options.php:51
+msgid "Add option"
+msgstr "Pievienot opciju"
+
+#: dist/views/admin/settings/options.php:54,
+#: dist/views/admin/settings/pricing.php:42
+msgid ""
+"<p>please note the pricing option in the free version has some limitations:"
+"</p><ul style='list-style: disc;margin-left:30px;'><li>Add-on pricing is not "
+"quantity-based. This means if the user changes the product quantity, the "
+"price does not multiply, but stays the same.</li><li>You can only use the "
+"\"flat fee\" option.</li></ul><p><a target=\"_blank\" href=\"https://www."
+"studiowombat.com/kb-article/all-pricing-options-explained/?ref=wapf_lite\">"
+"See which other pricing options</a> are available in the premium verion.</p>"
+msgstr ""
+"<p> lūdzu, ņemiet vērā, ka cenu noteikšanas opcijai bezmaksas versijā ir "
+"daži ierobežojumi: </p><ul style='list-style: disc;margin-left:30px;'><li> "
+"Papildcenu noteikšana nav atkarīga no daudzuma. Tas nozīmē, ja lietotājs "
+"maina preces daudzumu, cena nevis reizinās, bet paliek nemainīga. </li><li> "
+"Jūs varat izmantot tikai iespēju &quot;fiksēta maksa&quot;. </li></ul><p> <a "
+"target=\"_blank\" href=\"https://www.studiowombat.com/kb-article/all-pricing-"
+"options-explained/?ref=wapf_lite\">Uzziniet, kuras citas cenu iespējas</a> "
+"ir pieejamas premium versijā. </p>"
+
+#: dist/views/admin/settings/options.php:54,
+#: dist/views/admin/settings/options.php:54,
+#: dist/views/admin/settings/pricing.php:42,
+#: dist/views/admin/settings/pricing.php:42
+msgid "Important note about pricing"
+msgstr "Svarīga piezīme par cenu noteikšanu"
+
+#: dist/views/admin/settings/pricing.php:21,
+#: dist/views/admin/settings/true-false.php:19
+msgid "Yes"
+msgstr "Jā"
+
+#: dist/views/admin/settings/pricing.php:21,
+#: dist/views/admin/settings/true-false.php:19
+msgid "No"
+msgstr "Nē"
+
+#: dist/views/admin/settings/true-false.php:8
+msgid "(Pro only)"
+msgstr "(Tikai profesionāļiem)"
+
+#: dist/views/frontend/fields/select.php:15
+msgid "Choose an option"
+msgstr "Izvēlieties iespēju"
+
+#: dist/views/frontend/product-totals.php:9
+msgid "Product total"
+msgstr "Kopējais produkts"
+
+#: dist/views/frontend/product-totals.php:13
+msgid "Options total"
+msgstr "Iespējas kopā"
+
+#: dist/views/frontend/product-totals.php:17
+msgid "Grand total"
+msgstr "kopsumma"

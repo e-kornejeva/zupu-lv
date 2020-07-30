@@ -1,0 +1,1188 @@
+# THIS IS A GENERATED FILE. DO NOT EDIT DIRECTLY.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s woocommerce-services\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-12T23:08:10.985Z\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-07-26 09:27+0300\n"
+"Last-Translator: \n"
+"Language-Team: Latviešu valoda\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=n % 10 == 1 && n % 100 != 11 ? 0 : n != 0 ? 1 : "
+"2;\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2\n"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Dismiss"
+msgstr "Atlaist"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Required"
+msgstr "Obligāti"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Optional"
+msgstr "Neobligāti"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "More"
+msgstr "Vairāk"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "All services selected"
+msgstr "Visi izvēlētie pakalpojumi"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "%(numSelected)d service selected"
+msgid_plural "%(numSelected)d services selected"
+msgstr[0] "Atlasīts %(numSelected)d pakalpojums"
+msgstr[1] "Atlasīti %(numSelected)d pakalpojumi"
+msgstr[2] ""
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Expand Services"
+msgstr "Izvērsiet pakalpojumu"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Service"
+msgstr "apkalpošana"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Price adjustment"
+msgstr "Cenas korekcija"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"Increase the rates calculated by the carrier to account for packaging and "
+"handling costs. You can also add a negative amount to save your customers money."
+msgstr ""
+"Palieliniet pārvadātāja aprēķinātās likmes, lai ņemtu vērā iesaiņošanas un "
+"apstrādes izmaksas. Varat arī pievienot negatīvu summu, lai ietaupītu klientu "
+"naudu."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Saved Packages"
+msgstr "Saglabātās pakas"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Add and edit saved packages using the {{a}}Packaging Manager{{/a}}."
+msgstr ""
+"Pievienojiet un rediģējiet saglabātās paketes, izmantojot {{a}} Iepakojuma "
+"pārvaldnieku {{/ a}}."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "You have unsaved changes."
+msgstr "Jums ir nesaglabātas izmaiņas."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Your changes have been saved."
+msgstr "Jūsu veiktās izmaiņas ir saglabātas."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"There was a problem with one or more entries. Please fix the errors below and try "
+"saving again."
+msgstr ""
+"Radās problēma ar vienu vai vairākiem ierakstiem. Lūdzu, izlabojiet tālāk esošās "
+"kļūdas un mēģiniet saglabāt vēlreiz."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Save changes"
+msgstr "Saglabāt izmaiņas"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Saving…"
+msgstr "Notiek saglabāšana ..."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Save Settings"
+msgstr "Saglabāt iestatījumus"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"We have slightly modified the address entered. If correct, please use the "
+"suggested address to ensure accurate delivery."
+msgstr ""
+"Mēs esam nedaudz mainījuši ievadīto adresi. Ja tā ir pareiza, lūdzu, izmantojiet "
+"ieteikto adresi, lai nodrošinātu precīzu piegādi."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Address entered"
+msgstr "Ievadīta adrese"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Suggested address"
+msgstr "Ieteicamā adrese"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Use selected address"
+msgstr "Izmantojiet izvēlēto adresi"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Edit address"
+msgstr "Rediģēt adresi"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "We were unable to automatically verify the address — %(error)s."
+msgstr "Mēs nevarējām automātiski verificēt adresi - %(error)s."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "We were unable to automatically verify the address."
+msgstr "Mēs nevarējām automātiski verificēt adresi."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"Automatic verification failed for this address. It may still be a valid address — "
+"use the tools below to manually verify."
+msgstr ""
+"Automātiska šīs adreses verifikācija neizdevās. Tā joprojām var būt derīga adrese "
+"- izmantojiet tālāk esošos rīkus, lai manuāli pārbaudītu."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Verify with USPS"
+msgstr "Pārbaudiet, izmantojot USPS"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "View on Google Maps"
+msgstr "Skatīt pakalpojumā Google Maps"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Use address as entered"
+msgstr "Izmantojiet ievadīto adresi"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Name"
+msgstr "Vārds"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Company"
+msgstr "Uzņēmums"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Phone"
+msgstr "Tālr"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "%(message)s. Please modify the address and try again."
+msgstr "%(message)s. Lūdzu, mainiet adresi un mēģiniet vēlreiz."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Address"
+msgstr "Adrese"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "City"
+msgstr "Pilsēta"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "State"
+msgstr "Valsts"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Select one…"
+msgstr "Izvēlies vienu…"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Postal code"
+msgstr "Pasta indekss"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Country"
+msgstr "Valsts"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Verify address"
+msgstr "Pārbaudiet adresi"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Expand"
+msgstr "Izvērsiet"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Validating address…"
+msgstr "Notiek adreses apstiprināšana ..."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Invalid address"
+msgstr "Nederīga adrese"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "You've edited the address, please revalidate it for accurate rates"
+msgstr ""
+"Jūs esat rediģējis adresi, lūdzu, pārbaudiet to vēlreiz, lai iegūtu precīzas cenas"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Packages to be Shipped"
+msgstr "Sūtāmās pakas"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Move"
+msgstr "Kustēties"
+
+#. Length placeholder for dimensions input
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "L"
+msgstr "L"
+
+#. Width placeholder for dimensions input
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "W"
+msgstr "W"
+
+#. Height placeholder for dimensions input
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "H"
+msgstr "H"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Invalid value."
+msgstr "Nederīga vērtība."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "This field is required."
+msgstr "Šis lauks ir obligāts."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Type of package"
+msgstr "Iepakojuma veids"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Box"
+msgstr "Kaste"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Envelope"
+msgstr "Aploksne"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Package name"
+msgstr "Iepakojuma nosaukums"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Unique package name"
+msgstr "Unikāls pakotnes nosaukums"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "This field must be unique"
+msgstr "Šim laukam jābūt unikālam"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Dimensions (L x W x H)"
+msgstr "Izmēri (L x R x A)"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Weight of empty package"
+msgstr "Tukša iesaiņojuma svars"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "0.0"
+msgstr "0,0"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Untitled"
+msgstr "Bez nosaukuma"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "All packages selected"
+msgstr "Visas paketes atlasītas"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "%(selectedCount)d package selected"
+msgid_plural "%(selectedCount)d packages selected"
+msgstr[0] "%(selectedCount)d pakete izvēlēta"
+msgstr[1] "Atlasīti %(selectedCount)d pakotnes"
+msgstr[2] ""
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Your shipping packages have been saved."
+msgstr "Jūsu piegādes paketes ir saglabātas."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Unable to save your shipping packages. Please try again."
+msgstr "Nevar saglabāt nosūtīšanas paketes. Lūdzu mēģiniet vēlreiz."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Add package"
+msgid_plural "Add packages"
+msgstr[0] "Pievienojiet paketi"
+msgstr[1] "Pievienojiet paketes"
+msgstr[2] ""
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Done"
+msgstr "Gatavs"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Cancel"
+msgstr "Atcelt"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "{{icon/}} Delete this package"
+msgstr "{{icon /}} izdzēst šo pakotni"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Individually Shipped Item"
+msgstr "Individuāli nosūtīta prece"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Item Dimensions"
+msgstr "Vienuma izmēri"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Package details"
+msgstr "Sīkāka informācija par iepakojumu"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Select a package type"
+msgstr "Atlasiet paketes veidu"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Please select a package"
+msgstr "Lūdzu, atlasiet paketi"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Add items"
+msgstr "Pievienojiet vienumus"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Items to fulfill"
+msgstr "Izpildāmās preces"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Weight"
+msgstr "Svars"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "QTY"
+msgstr "QTY"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "There are no items in this package."
+msgstr "Šajā paketē nav preču."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Total Weight (with package)"
+msgstr "Kopējais svars (ar iepakojumu)"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "0"
+msgstr "0"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "{{itemLink/}} is currently saved for a later shipment."
+msgstr "{{itemLink /}} pašlaik tiek saglabāts vēlākam sūtījumam."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "{{itemLink/}} is currently shipped in its original packaging."
+msgstr "{{itemLink /}} pašlaik tiek piegādāts oriģinālajā iepakojumā."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "{{itemLink/}} is currently in {{pckg/}}."
+msgstr "{{itemLink /}} pašlaik atrodas {{pckg /}}."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Submit"
+msgstr "Iesniegt"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Move item"
+msgstr "Pārvietot vienumu"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Where would you like to move it?"
+msgstr "Kur jūs to vēlētos pārvietot?"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Add to a New Package"
+msgstr "Pievienot jaunai pakotnei"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Ship in original packaging"
+msgstr "Nosūtīt oriģinālajā iepakojumā"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "%(item)s from {{pckg/}}"
+msgstr "%(item)s no {{pckg/}}"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Close"
+msgstr "Aizveriet"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Add"
+msgstr "Pievienot"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Add item"
+msgstr "Pievienot vienumu"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Which items would you like to add to {{pckg/}}?"
+msgstr "Kurus priekšmetus vēlaties pievienot {{pckg/}}?"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Packaging"
+msgstr "Iepakojums"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "No packages selected"
+msgstr "Nav atlasīts neviens iepakojums"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "1 item in 1 package: %(weight)s %(unit)s total"
+msgstr "1 prece 1 iepakojumā: %(weight)s %(unit)s kopā"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "%(itemsCount)d items in 1 package: %(weight)s %(unit)s total"
+msgstr "%(itemsCount)d preces vienā iepakojumā: %(weight)s %(unit)s kopā"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "%(itemsCount)d items in %(packageCount)d packages: %(weight)s %(unit)s total"
+msgstr "%(itemsCount)d preces %(packCount)d iepakojumos: %(weight)s %(unit)s kopā"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Use these packages"
+msgstr "Izmantojiet šīs paketes"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "HS Tariff number"
+msgstr "HS tarifa numurs"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "more info"
+msgstr "vairāk informācijas"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Origin country"
+msgstr "Izcelsmes valsts"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Country where the product was manufactured or assembled"
+msgstr "Valsts, kurā produkts tika ražots vai samontēts"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Description"
+msgstr "Apraksts"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Weight (%s per unit)"
+msgstr "Svars (%s uz vienību)"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Value ($ per unit)"
+msgstr "Vērtība (EUR par vienību)"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Weight (per unit)"
+msgstr "Svars (par vienību)"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Value (per unit)"
+msgstr "Vērtība (par vienību)"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Return to sender if package is unable to be delivered"
+msgstr "Atgriezieties sūtītājam, ja paku nevar piegādāt"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Contents type"
+msgstr "Satura tips"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Merchandise"
+msgstr "Preces"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Documents"
+msgstr "Dokumenti"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Gift"
+msgstr "Dāvana"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Sample"
+msgstr "Paraugs"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Other…"
+msgstr "Cits…"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Details"
+msgstr "Sīkāka informācija"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Restriction type"
+msgstr "Ierobežojuma tips"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "None"
+msgstr "Nav"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Quarantine"
+msgstr "Karantīna"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Sanitary / Phytosanitary inspection"
+msgstr "Sanitārā / fitosanitārā pārbaude"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "ITN"
+msgstr "ITN"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Customs information incomplete"
+msgstr "Muitas informācija ir nepilnīga"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Customs information valid"
+msgstr "Muitas informācija derīga"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Customs"
+msgstr "Muita"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Save customs form"
+msgstr "Saglabājiet muitas formu"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"The service and rate chosen by the customer at checkout is not available. Please "
+"choose another."
+msgstr ""
+"Pakalpojums un tarifs, ko klients izvēlējies norēķinoties, nav pieejami. Lūdzu, "
+"izvēlieties citu."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Choose rate: %(pckg)s"
+msgstr "Izvēlieties likmi: %(pckg)s"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Unsaved changes made to packages"
+msgstr "Nesaglabātas pakešu izmaiņas"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "No rates found"
+msgstr "Netika atrasta neviena likme"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "%(serviceName)s: %(rate)s"
+msgstr "%(serviceName)s: %(rate)s"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Total rate: %(total)s"
+msgstr "Kopējā likme: %(total)s"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Shipping rates"
+msgstr "Piegādes likmes"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Customer paid a {{shippingMethod/}} of {{shippingCost/}} for shipping"
+msgstr "Klients samaksāja {{shipMethod /}} no {{shipCost /}} par nosūtīšanu"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Your customer selected {{shippingMethod/}}"
+msgstr "Jūsu klients izvēlējās {{shipMethod /}}"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"WooCommerce Services gives you access to USPS Commercial Pricing, which is "
+"discounted over Retail rates."
+msgstr ""
+"WooCommerce Services dod jums piekļuvi USPS Commercial Cenu noteikšanai, kas tiek "
+"diskontēta, izmantojot mazumtirdzniecības likmes."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "You save %s with WooCommerce Services"
+msgstr "Jūs ietaupāt %s, izmantojot WooCommerce Services"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Package %(index)s"
+msgstr "Komplekts %(index)s"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Total"
+msgstr "Kopā"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Shipping summary"
+msgstr "Piegādes kopsavilkums"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Shipping from"
+msgstr "Piegāde no plkst"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Edit"
+msgstr "Rediģēt"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "shipping label ready"
+msgid_plural "shipping labels ready"
+msgstr[0] "nosūtīšanas etiķete gatava"
+msgstr[1] "nosūtīšanas etiķetes gatavas"
+msgstr[2] ""
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Print"
+msgstr "Drukāt"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Purchasing…"
+msgstr "Notiek pirkšana ..."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Buy shipping label"
+msgid_plural "Buy shipping labels"
+msgstr[0] "Pērciet piegādes etiķeti"
+msgstr[1] "Pērciet piegādes etiķetes"
+msgstr[2] ""
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Choose credit card"
+msgstr "Izvēlieties kredītkarti"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"To print this shipping label, {{a}}choose a credit card to add to your account{{/"
+"a}}."
+msgstr ""
+"Lai izdrukātu šo nosūtīšanas etiķeti, {{a}} izvēlieties kredītkarti, ko pievienot "
+"savam kontam {{/ a}}."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Add credit card"
+msgstr "Pievienojiet kredītkarti"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "To print this shipping label, {{a}}add a credit card to your account{{/a}}."
+msgstr ""
+"Lai izdrukātu šo nosūtīšanas etiķeti, {{a}} pievienojiet kredītkarti savam kontam "
+"{{/ a}}."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Paper size"
+msgstr "Papīra izmērs"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Notify the customer with shipment details"
+msgstr "Paziņojiet klientam ar sūtījuma informāciju"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Mark this order as complete and notify the customer"
+msgstr "Atzīmējiet šo pasūtījumu kā pabeigtu un paziņojiet klientam"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Create shipping label"
+msgid_plural "Create shipping labels"
+msgstr[0] "Izveidojiet piegādes etiķeti"
+msgstr[1] "Izveidojiet piegādes etiķetes"
+msgstr[2] ""
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Origin address"
+msgstr "Izcelsmes adrese"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Destination address"
+msgstr "Galamērķa adrese"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Toggle menu"
+msgstr "Pārslēgt izvēlni"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Refund label (-%(amount)s)"
+msgstr "Atmaksas etiķete (-%(amount)s)"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Request a refund"
+msgstr "Pieprasiet atmaksu"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"You can request a refund for a shipping label that has not been used to ship a "
+"package. It will take at least 14 days to process."
+msgstr ""
+"Jūs varat pieprasīt kompensāciju par nosūtīšanas etiķeti, kas nav izmantota "
+"iesaiņojuma nosūtīšanai. Apstrāde prasīs vismaz 14 dienas."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Purchase date"
+msgstr "Pirkuma datums"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Amount eligible for refund"
+msgstr "Atmaksājamo summu"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Reprint shipping label"
+msgstr "Pārdrukājiet nosūtīšanas etiķeti"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"If there was a printing error when you purchased the label, you can print it "
+"again."
+msgstr "Ja, iegādājoties etiķeti, radās drukas kļūda, varat to izdrukāt vēlreiz."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"NOTE: If you already used the label in a package, printing and using it again is "
+"a violation of our terms of service and may result in criminal charges."
+msgstr ""
+"PIEZĪME. Ja etiķeti jau izmantojāt iesaiņojumā, tās izdrukāšana un atkārtota "
+"lietošana ir mūsu pakalpojumu noteikumu pārkāpums, un par to var tikt ierosināta "
+"krimināllieta."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Label #%(labelIndex)s details"
+msgstr "Etiķetes #%(labelIndex)s informācija"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Receipt"
+msgstr "Kvīts"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Package"
+msgstr "Komplekts"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Items"
+msgstr "Priekšmeti"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "N/A"
+msgstr "Nav"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Labels older than 30 days cannot be refunded."
+msgstr "Par etiķetēm, kas vecākas par 30 dienām, nevar atmaksāt."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Request refund"
+msgstr "Pieprasiet atmaksu"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"Label images older than 180 days are deleted by our technology partners for "
+"general security and data privacy concerns."
+msgstr ""
+"Etiķetes attēlus, kas vecāki par 180 dienām, mūsu tehnoloģiju partneri dzēš "
+"vispārīgu drošības un datu privātuma problēmu dēļ."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Reprint"
+msgstr "Atkārtot"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "View details"
+msgstr "Skatīt detaļas"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Schedule a pickup"
+msgstr "Ieplānojiet saņemšanu"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "%(service)s label (#%(labelIndex)d)"
+msgstr "%(service)setiķete (#%(labelIndex)d)"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Tracking #: {{trackingLink/}}"
+msgstr "Izsekošanas numurs: {{trackingLink /}}"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Internal note"
+msgstr "Iekšējā piezīme"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Note sent to customer"
+msgstr "Piezīme nosūtīta klientam"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "%(service)s label (#%(labelNum)d) refund requested (%(amount)s)"
+msgstr "%(service)s etiķete (#%(labelNum)d) pieprasītā atmaksa (%(amount)s)"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "%(service)s label (#%(labelNum)d) refunded (%(amount)s)"
+msgstr "%(service)s etiķete (#%(labelNum)d) atmaksāta (%(amount)s)"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "%(service)s label (#%(labelNum)d) refund rejected"
+msgstr "%(service)s etiķete (#%(labelNum)d) atmaksa noraidīta"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Refund"
+msgstr "Atmaksa"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Refunded %(amount)s"
+msgstr "Atmaksāti %(amount)s"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Note"
+msgstr "Piezīme"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "%(count)s event"
+msgid_plural "%(count)s events"
+msgstr[0] "%(count)s notikums"
+msgstr[1] "%(count)s notikumu"
+msgstr[2] ""
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Show notes from %(date)s"
+msgstr "Rādīt piezīmes no %(date)s"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "No activity yet"
+msgstr "Pagaidām aktivitātes nav"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Which package would you like to track?"
+msgstr "Kuru paketi jūs vēlētos izsekot?"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Track Package"
+msgid_plural "Track Packages"
+msgstr[0] "Track pakete"
+msgstr[1] "Izsekošanas paketes"
+msgstr[2] ""
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Create new label"
+msgstr "Izveidojiet jaunu iezīmi"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Connection error: unable to create label at this time"
+msgstr "Savienojuma kļūda: pašlaik nevar izveidot iezīmi"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "%(itemCount)d item was fulfilled on {{span}}%(createdDate)s{{/span}}"
+msgid_plural ""
+"%(itemCount)d items were fulfilled on {{span}}%(createdDate)s{{/span}}"
+msgstr[0] ""
+"%(itemCount)d vienums tika izpildīts šādā datumā: {{span}}%(createdDate)s{{/span}}"
+msgstr[1] ""
+"%(itemCount)d vienumi tika izpildīti šādā datumā: {{span}}%(createdDate)s{{/span}}"
+msgstr[2] ""
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "%(itemCount)d item is ready to be fulfilled"
+msgid_plural "%(itemCount)d items are ready to be fulfilled"
+msgstr[0] "%(itemCount)d vienums ir gatavs izpildei"
+msgstr[1] "%(itemCount)d vienības ir gatavas izpildei"
+msgstr[2] ""
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "No tracking information available at this time"
+msgstr "Pagaidām nav pieejama izsekošanas informācija"
+
+#. Name for WeChat Pay - https://pay.weixin.qq.com
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "WeChat Pay"
+msgstr "WeChat Pay"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "American Express"
+msgstr "Amerikāņu ekspresis"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Discover"
+msgstr "Atklājiet"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "MasterCard"
+msgstr "MasterCard"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "VISA"
+msgstr "VISA"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "PayPal"
+msgstr "PayPal"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "%(card)s ****%(digits)s"
+msgstr "%(card)s ****%(digits)s"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgctxt "date is of the form MM/YY"
+msgid "Expires %(date)s"
+msgstr "Derīgums beidzas %(date)s"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"Only the site owner can manage shipping label payment methods. Please contact "
+"%(ownerName)s (%(ownerLogin)s) to manage payment methods."
+msgstr ""
+"Piegādes etiķešu apmaksas metodes var pārvaldīt tikai vietnes īpašnieks. Lai "
+"pārvaldītu maksājuma veidus, lūdzu, sazinieties ar %(ownerName)s (%(ownerLogin)s)."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Retry"
+msgstr "Mēģiniet vēlreiz"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"Only the site owner can change these settings. Please contact %(ownerName)s "
+"(%(ownerLogin)s) to change the shipping label settings."
+msgstr ""
+"Šos iestatījumus var mainīt tikai vietnes īpašnieks. Lai mainītu nosūtīšanas "
+"etiķetes iestatījumus, lūdzu, sazinieties ar %(ownerName)s (%(ownerLogin)s)."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"Credit cards are retrieved from the following WordPress.com account: "
+"%(wpcomLogin)s <%(wpcomEmail)s>"
+msgstr ""
+"Kredītkartes tiek izgūtas no šī WordPress.com konta: %(wpcomLogin)s <"
+"%(wpcomEmail)s>"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"We'll charge the credit card on your account (%(card)s) to pay for the labels you "
+"print"
+msgstr ""
+"Mēs iekasēsim kredītkarti no jūsu konta (%(card)s), lai samaksātu par drukātajām "
+"etiķetēm"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "To purchase shipping labels, add a credit card."
+msgstr "Lai iegādātos piegādes etiķetes, pievienojiet kredītkarti."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Choose a different card"
+msgstr "Izvēlieties citu karti"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"To purchase shipping labels, choose a credit card you have on file or add a new "
+"card."
+msgstr ""
+"Lai iegādātos nosūtīšanas etiķetes, izvēlieties kredītkarti, kas jums ir failā, "
+"vai pievienojiet jaunu karti."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Add another credit card"
+msgstr "Pievienojiet citu kredītkarti"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Add a credit card"
+msgstr "Pievienojiet kredītkarti"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Email Receipts"
+msgstr "E-pasta kvītis"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"Email the label purchase receipts to %(ownerName)s (%(ownerLogin)s) at "
+"%(ownerEmail)s"
+msgstr ""
+"Nosūtiet etiķetes iegādes kvītis pa e-pastu%(ownerName)s (%(ownerLogin)s) pa e-"
+"pastu %(ownerEmail)s"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Payment"
+msgstr "Maksājums"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Unable to get your settings. Please refresh the page to try again."
+msgstr "Nevar iegūt iestatījumus. Lūdzu, atsvaidziniet lapu, lai mēģinātu vēlreiz."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Shipping Labels"
+msgstr "Piegādes etiķetes"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Print shipping labels yourself and save a trip to the post office."
+msgstr ""
+"Izdrukājiet pārvadāšanas etiķetes pats un ietaupiet ceļojumu uz pasta nodaļu."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Dimensions"
+msgstr "Izmēri"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Remove"
+msgstr "Noņemt"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Add boxes, envelopes, and other packages you use most frequently."
+msgstr ""
+"Pievienojiet kastes, aploksnes un citas paketes, kuras visbiežāk izmantojat."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Return to Order #%(orderId)s"
+msgstr "Atgriezties pie pasūtījuma #%(orderId)s"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Your shipping settings have been saved."
+msgstr "Jūsu nosūtīšanas iestatījumi ir saglabāti."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Unable to save your shipping settings. Please try again."
+msgstr "Nevar saglabāt nosūtīšanas iestatījumus. Lūdzu mēģiniet vēlreiz."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "A payment method is required to print shipping labels."
+msgstr "Lai izdrukātu nosūtīšanas etiķetes, ir nepieciešams maksājuma veids."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgctxt ""
+"This section displays the overall health of WooCommerce Services and the things "
+"it depends on"
+msgid "Health"
+msgstr "Veselība"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Last updated %s. {{a}}Refresh{{/a}}"
+msgstr "Pēdējoreiz atjaunināts %s. {{a}} Atsvaidzināt {{/ a}}"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Refresh"
+msgstr "atjaunot"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Jetpack"
+msgstr "Jetpack"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "WooCommerce Services Data"
+msgstr "WooCommerce pakalpojumu dati"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Log tail copied to clipboard"
+msgstr "Žurnāla aste ir kopēta starpliktuvē"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Last %s entry. {{a}}Show full log{{/a}}"
+msgid_plural "Last %s entries. {{a}}Show full log{{/a}}"
+msgstr[0] "Pēdējais %s ieraksts. {{a}} Rādīt pilnu žurnālu {{/ a}}"
+msgstr[1] "Pēdējie %s ieraksti. {{a}} Rādīt pilnu žurnālu {{/ a}}"
+msgstr[2] ""
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Copy for support"
+msgstr "Atbalsta kopija"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Request was made %s - check logs below or {{a}}edit service settings{{/a}}"
+msgstr ""
+"Pieprasījums tika veikts %s - pārbaudiet zemāk esošos žurnālus vai {{a}} "
+"rediģējiet pakalpojumu iestatījumus {{/ a}}"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Edit service settings"
+msgstr "Rediģēt pakalpojumu iestatījumus"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Services"
+msgstr "Pakalpojumi"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "No services configured. {{a}}Add a shipping service{{/a}}"
+msgstr ""
+"Nav konfigurēts neviens pakalpojums. {{a}} Pievienojiet pārvadāšanas pakalpojumu "
+"{{/ a}}"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Debug"
+msgstr "Atkļūdošana"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Display troubleshooting information on the Cart and Checkout pages."
+msgstr "Parādiet traucējummeklēšanas informāciju groza un norēķinu lapās."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Enabled"
+msgstr "Iespējots"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Disabled"
+msgstr "Invalīds"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Logging"
+msgstr "Mežizstrāde"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Write diagnostic messages to log files. Helpful when contacting support."
+msgstr ""
+"Rakstiet diagnostikas ziņojumus, lai reģistrētu failus. Noderīga, sazinoties ar "
+"atbalsta dienestu."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Shipping Log"
+msgstr "Piegādes žurnāls"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Taxes Log"
+msgstr "Nodokļu žurnāls"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Other Log"
+msgstr "Cits žurnāls"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Support"
+msgstr "Atbalsts"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Need help?"
+msgstr "Vajadzīga palīdzība?"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"Our team is here for you. View our {{docsA}}support docs{{/docsA}} or {{ticketA}}"
+"open a support ticket{{/ticketA}}."
+msgstr ""
+"Mūsu komanda ir šeit jums. Skatiet mūsu {{docsA}} atbalsta dokumentus {{/ docsA}} "
+"vai {{ticketA}} un atveriet atbalsta biļeti {{/ ticketA}}."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Activated"
+msgstr "Aktivizēts"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Check email to activate account"
+msgstr "Pārbaudiet e-pastu, lai aktivizētu kontu"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Disconnecting"
+msgstr "Atvienošana"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Disconnect"
+msgstr "Atvienojiet"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Stripe account"
+msgstr "Svītru konts"
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid "Account disconnected. Reloading page…"
+msgstr "Konts ir atvienots. Lapa tiek atkārtoti ielādēta ..."
+
+#: dist/woocommerce-services-1.23.2.js:107
+msgid ""
+"You’ve got WooCommerce Services installed. If you’d like, we can automatically "
+"copy keys from your Stripe account for you. {{a}}Click here{{/a}} to connect your "
+"Stripe account using WooCommerce Services."
+msgstr ""
+"Jūs esat instalējis WooCommerce Services. Ja vēlaties, mēs varam automātiski "
+"kopēt atslēgas no jūsu Stripe konta jūsu vietā. {{a}} Noklikšķiniet šeit {{/ a}}, "
+"lai izveidotu savienojumu ar Stripe kontu, izmantojot WooCommerce Services."

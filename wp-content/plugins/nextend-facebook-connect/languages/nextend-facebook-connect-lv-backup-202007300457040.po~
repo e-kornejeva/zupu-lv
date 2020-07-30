@@ -1,0 +1,2263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nextend Social Login\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-16 05:22+0000\n"
+"PO-Revision-Date: 2020-07-26 09:18+0300\n"
+"Last-Translator: zupu.lv\n"
+"Language-Team: Latviešu valoda\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=n % 10 == 1 && n % 100 != 11 ? 0 : n != 0 ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2\n"
+
+#: providers/facebook/admin/getting-started.php:11
+#: providers/facebook/admin/settings.php:13
+#, fuzzy, php-format
+msgid ""
+"%1$s allows HTTPS OAuth Redirects only. You must move your site to HTTPS in "
+"order to allow login with %1$s."
+msgstr ""
+"%1$s atļauj tikai HTTPS OAuth novirzīšanu. Jums ir jāpārvieto sava vietne uz "
+"HTTPS, lai atļautu pieteikšanos ar %1$s."
+
+#: admin/templates/pro-addon.php:119
+#, php-format
+msgid ""
+"%1$s and %2$s are not compatible. Please update %2$s to version %3$s or newer."
+msgstr ""
+"%1$s un %2$s nav savietojami. Lūdzu, atjauniniet %2$s uz versiju %3$s vai "
+"jaunāku."
+
+#: admin/admin.php:595
+#, php-format
+msgid ""
+"%1$s detected that %2$s installed on your site. You must set \"<b>Page for "
+"register flow</b>\" and \"<b>OAuth redirect uri proxy page</b>\" in %1$s to work "
+"properly."
+msgstr ""
+"%1$s atklāja, ka %2$s ir instalēts jūsu vietnē. Lai pareizi darbotos,%1$s "
+"jāiestata “<b> Lapa reģistra plūsmai </b>” un “<b> OAuth novirzīt uri "
+"starpniekservera lapu </b>”."
+
+#: admin/admin.php:588
+#, fuzzy, php-format
+msgid ""
+"%1$s detected that %2$s installed on your site. You need the Pro Addon to "
+"display Social Login buttons in %2$s login form!"
+msgstr ""
+"%1$s atklāja, ka %2$s ir instalēts jūsu vietnē. Lai parādītu sociālās "
+"pieteikšanās pogas %2$s pieteikšanās formā, jums ir nepieciešams Pro Addon!"
+
+#: admin/templates/settings/general.php:101
+#, fuzzy, php-format
+msgid "%1$s First create a new page then select this page above."
+msgstr "%1$s Vispirms izveidojiet jaunu lapu, pēc tam atlasiet šo lapu iepriekš."
+
+#. %2$s: PHP version
+#: nextend-facebook-connect.php:34
+#, fuzzy, php-format
+msgid "%1$s requires PHP version %2$s+, plugin is currently NOT ACTIVE."
+msgstr "%1$s nepieciešama PHP versija %2$s +, spraudnis pašlaik NAV AKTĪvs."
+
+#. %2$s: WordPress version
+#: nextend-facebook-connect.php:41
+#, php-format
+msgid ""
+"%1$s requires WordPress version %2$s+. Because you are using an earlier version, "
+"the plugin is currently NOT ACTIVE."
+msgstr ""
+"%1$s nepieciešama WordPress versija %2$s +. Tā kā jūs izmantojat vecāku versiju, "
+"spraudnis pašlaik NAV AKTĪVS."
+
+#: admin/templates/settings/general.php:76 admin/templates/settings/general.php:102
+#, fuzzy, php-format
+msgid ""
+"%1$s You won't be able to reach the selected page unless a social login/"
+"registration happens."
+msgstr ""
+"%1$s Jūs nevarēsit sasniegt atlasīto lapu, ja nenotiks sociālā pieteikšanās / "
+"reģistrēšanās."
+
+#: admin/templates/settings/general.php:75
+#, php-format
+msgid ""
+"%2$s First create a new page and insert the following shortcode: %1$s then "
+"select this page above"
+msgstr ""
+"%2$s Vispirms izveidojiet jaunu lapu un ievietojiet šo īso kodu: %1$s, pēc tam "
+"atlasiet šo lapu iepriekš"
+
+#: widget.php:10
+#, fuzzy, php-format
+msgid "%s Buttons"
+msgstr "%s pogas"
+
+#: admin/admin.php:577 admin/templates/fix-redirect-uri.php:21
+#, fuzzy, php-format
+msgid ""
+"%s detected that your login url changed. You must update the Oauth redirect URIs "
+"in the related social applications."
+msgstr ""
+"%s atklāja, ka mainījies jūsu pieteikšanās URL. Jums ir jāatjaunina Oauth "
+"novirzīšanas URI attiecīgajās sociālajās lietojumprogrammās."
+
+#: admin/admin.php:203
+#, fuzzy, php-format
+msgid "%s needs json_decode function."
+msgstr "%s nepieciešama json_decode funkcija."
+
+#: providers/google/admin/getting-started.php:24
+#, fuzzy, php-format
+msgid ""
+"<b>Note:</b> We don't use sensitive or restricted scopes either. But if you will "
+"use this App for other purposes too, then you may need to go through an %1$s!"
+msgstr ""
+"<b> Piezīme: </b> Mēs arī neizmantojam sensitīvas vai ierobežotas tvērumus. Bet, "
+"ja jūs šo lietotni izmantosit arī citiem mērķiem, iespējams, jums būs jāiet "
+"cauri %1$s!"
+
+#: providers/google/admin/getting-started.php:36
+#, fuzzy
+msgid ""
+"A modal should pop up with your credentials. If that doesn't happen, go to the "
+"Credentials in the left hand menu and select your app by clicking on its name "
+"and you'll be able to copy-paste the \"<b>Client ID</b>\" and \"<b>Client "
+"Secret</b>\" from there."
+msgstr ""
+"Ar akreditācijas datiem vajadzētu parādīties modālam. Ja tas nenotiek, kreisajā "
+"izvēlnē dodieties uz Akreditācijas dati un atlasiet savu lietotni, noklikšķinot "
+"uz tās nosaukuma, un jūs varēsit nokopēt-ielīmēt “<b> Klienta ID </b>” un “< b> "
+"klienta noslēpums </b> \"no turienes."
+
+#: admin/templates/settings/userpro.php:82 admin/templates/settings/userpro.php:133
+#: admin/templates/settings/ultimate-member.php:70
+#: admin/templates/settings/ultimate-member.php:136
+#: admin/templates/settings/login-form-pro.php:72
+#: admin/templates/settings/login-form-pro.php:122
+#: admin/templates/settings/woocommerce.php:82
+#: admin/templates/settings/woocommerce.php:140
+#: admin/templates/settings/woocommerce.php:198
+#: admin/templates/settings/woocommerce.php:248
+#: admin/templates/settings/memberpress.php:55
+#: admin/templates/settings/memberpress.php:121
+#: admin/templates/settings/buddypress.php:136
+#, fuzzy
+msgid "Above"
+msgstr "Virs"
+
+#: admin/templates/settings/userpro.php:88 admin/templates/settings/userpro.php:139
+#: admin/templates/settings/ultimate-member.php:76
+#: admin/templates/settings/ultimate-member.php:142
+#: admin/templates/settings/login-form-pro.php:78
+#: admin/templates/settings/login-form-pro.php:128
+#: admin/templates/settings/woocommerce.php:88
+#: admin/templates/settings/woocommerce.php:146
+#: admin/templates/settings/woocommerce.php:204
+#: admin/templates/settings/woocommerce.php:254
+#: admin/templates/settings/memberpress.php:61
+#: admin/templates/settings/memberpress.php:127
+#: admin/templates/settings/buddypress.php:142
+#, fuzzy
+msgid "Above with separator"
+msgstr "Augšpusē ar atdalītāju"
+
+#: admin/templates/settings/privacy.php:102
+#, fuzzy
+msgid "Access token"
+msgstr "Pieejas atslēga"
+
+#: admin/templates/settings/ultimate-member.php:150
+#: admin/templates/settings/woocommerce.php:265
+#: admin/templates/settings/memberpress.php:135
+#, fuzzy
+msgid "Account details"
+msgstr "Konta informācija"
+
+#: admin/admin.php:626
+#, fuzzy
+msgid "Activate"
+msgstr "Aktivizēt"
+
+#: admin/templates/pro.php:34 admin/templates/pro-addon.php:22
+#: admin/templates/pro-addon.php:32
+#, fuzzy
+msgid "Activate Pro Addon"
+msgstr "Aktivizējiet Pro Addon"
+
+#: admin/admin.php:620
+#, fuzzy
+msgid "Activate your Pro Addon"
+msgstr "Aktivizējiet savu Pro Addon"
+
+#: admin/templates/pro-addon.php:94
+#, fuzzy
+msgid "Activating..."
+msgstr "Notiek aktivizēšana ..."
+
+#: providers/google/admin/getting-started.php:34
+#: providers/google/admin/fix-redirect-uri.php:12
+#, fuzzy, php-format
+msgid ""
+"Add the following URL to the \"<b>Authorised redirect URIs</b>\" field: <b>%s</b>"
+msgstr ""
+"Laukā “<b> Autorizētie novirzīšanas URI </b>” pievienojiet šo URL: <b> %s </b>"
+
+#: providers/twitter/admin/getting-started.php:22
+#: providers/twitter/admin/fix-redirect-uri.php:12
+#, fuzzy, php-format
+msgid "Add the following URL to the \"<b>Callback URLs</b>\" field: <b>%s</b>"
+msgstr "Laukā “<b> Atzvanīšanas URL </b>” pievienojiet šo URL: <b> %s </b>"
+
+#: providers/facebook/admin/getting-started.php:36
+#: providers/facebook/admin/fix-redirect-uri.php:12
+#, fuzzy, php-format
+msgid ""
+"Add the following URL to the \"<b>Valid OAuth redirect URIs</b>\" field: <b>%s</"
+"b>"
+msgstr ""
+"Laukā “<b> Derīgi OAuth novirzīšanas URI </b>” pievienojiet šo URL: <b> %s </b>"
+
+#: admin/templates/settings/general-pro.php:60
+#, fuzzy
+msgid "Admin"
+msgstr "Administrators"
+
+#: admin/templates/settings/general.php:250
+#, fuzzy
+msgid "Allow registration with Social login."
+msgstr "Atļaut reģistrāciju, izmantojot sociālo pieteikumvārdu."
+
+#: admin/templates/settings/general-pro.php:75
+#, fuzzy
+msgid "Allow Social account unlink"
+msgstr "Atļaut sociālā konta atsaistīšanu"
+
+#: admin/templates-provider/settings-pro.php:41
+#: admin/templates-provider/settings-pro.php:59
+#: admin/templates-provider/settings-pro.php:72
+#, fuzzy
+msgid "Always"
+msgstr "Vienmēr"
+
+#: providers/twitter/admin/settings.php:27
+#, fuzzy
+msgid "API Key"
+msgstr "API atslēga"
+
+#: providers/twitter/admin/settings.php:38
+#, fuzzy
+msgid "API secret key"
+msgstr "API slepenā atslēga"
+
+#: providers/facebook/admin/getting-started.php:21
+#: providers/twitter/admin/getting-started.php:13
+#: providers/google/admin/getting-started.php:13
+#, fuzzy, php-format
+msgctxt "App creation"
+msgid "Create %s"
+msgstr "Izveidot %s"
+
+#: providers/facebook/admin/settings.php:35
+#, fuzzy
+msgid "App ID"
+msgstr "Lietotnes ID"
+
+#: providers/facebook/admin/settings.php:47
+#, fuzzy
+msgid "App Secret"
+msgstr "Lietotņu noslēpums"
+
+#: admin/templates-provider/settings-pro.php:28
+#: admin/templates-provider/settings-pro.php:32
+#, fuzzy
+msgid "Ask E-mail on registration"
+msgstr "Jautājiet e-pastu par reģistrāciju"
+
+#: admin/templates-provider/settings-pro.php:64
+#, fuzzy
+msgid "Ask Password on registration"
+msgstr "Reģistrējoties jautājiet paroli"
+
+#: admin/templates-provider/settings-pro.php:46
+#: admin/templates-provider/settings-pro.php:50
+#, fuzzy
+msgid "Ask Username on registration"
+msgstr "Reģistrējoties jautājiet lietotājvārdu"
+
+#: includes/provider.php:635 includes/user.php:127
+#, fuzzy
+msgid "Authentication error"
+msgstr "Autentifikācijas kļūda"
+
+#: includes/provider.php:909
+#, fuzzy
+msgid "Authentication failed"
+msgstr "Autentifikācija neizdevās"
+
+#: includes/provider.php:350 includes/provider.php:693 includes/provider.php:698
+#, fuzzy
+msgid "Authentication successful"
+msgstr "Autentifikācija ir veiksmīga"
+
+#: admin/templates/pro.php:16
+#, fuzzy
+msgid "Authorize Pro Addon"
+msgstr "Atļaut Pro Addon"
+
+#: admin/templates-provider/settings-pro.php:88
+#, fuzzy
+msgid "Automatic, based on email address"
+msgstr "Automātiska, pamatojoties uz e-pasta adresi"
+
+#: admin/templates-provider/settings-pro.php:77
+#: admin/templates-provider/settings-pro.php:81
+#, fuzzy
+msgid "Automatically connect the existing account upon registration"
+msgstr "Reģistrējoties automātiski izveidojiet savienojumu ar esošo kontu"
+
+#: includes/avatar.php:59 admin/templates/settings/privacy.php:91
+#, fuzzy
+msgid "Avatar"
+msgstr "Iemiesojums"
+
+#: includes/avatar.php:61
+#, fuzzy, php-format
+msgid "Avatar <span class=\"count\">(%s)</span>"
+msgid_plural "Avatar <span class=\"count\">(%s)</span>"
+msgstr[0] "Iemiesojums <span class=\"count\">( %s)</span>"
+msgstr[1] "Iemiesojums <span class=\"count\">( %s)</span>"
+msgstr[2] ""
+
+#: includes/provider-admin.php:199
+#, fuzzy
+msgid ""
+"Before you can start letting your users register with your app it needs to be "
+"tested. This test makes sure that no users will have troubles with the login and "
+"registration process. <br> If you see error message in the popup check the "
+"copied ID and secret or the app itself. Otherwise your settings are fine."
+msgstr ""
+"Lai jūs varētu sākt ļaut lietotājiem reģistrēties jūsu lietotnē, tā ir "
+"jāpārbauda. Šis tests nodrošina, ka nevienam lietotājam nebūs nepatikšanas ar "
+"pieteikšanās un reģistrācijas procesu. <br> Ja uznirstošajā logā tiek parādīts "
+"kļūdas ziņojums, pārbaudiet nokopēto ID un slepeno vai pašu lietotni. Pretējā "
+"gadījumā jūsu iestatījumi ir labi."
+
+#: admin/templates/settings/userpro.php:70 admin/templates/settings/userpro.php:121
+#: admin/templates/settings/ultimate-member.php:58
+#: admin/templates/settings/ultimate-member.php:124
+#: admin/templates/settings/login-form-pro.php:54
+#: admin/templates/settings/login-form-pro.php:110
+#: admin/templates/settings/woocommerce.php:70
+#: admin/templates/settings/woocommerce.php:128
+#: admin/templates/settings/woocommerce.php:186
+#: admin/templates/settings/woocommerce.php:236
+#: admin/templates/settings/memberpress.php:43
+#: admin/templates/settings/memberpress.php:109
+#: admin/templates/settings/buddypress.php:124
+#, fuzzy
+msgid "Below"
+msgstr "Zemāk"
+
+#: admin/templates/settings/login-form-pro.php:66
+#, fuzzy
+msgid "Below and floating"
+msgstr "Zem un peldošs"
+
+#: admin/templates/settings/userpro.php:76 admin/templates/settings/userpro.php:127
+#: admin/templates/settings/ultimate-member.php:64
+#: admin/templates/settings/ultimate-member.php:130
+#: admin/templates/settings/login-form-pro.php:60
+#: admin/templates/settings/login-form-pro.php:116
+#: admin/templates/settings/woocommerce.php:76
+#: admin/templates/settings/woocommerce.php:134
+#: admin/templates/settings/woocommerce.php:192
+#: admin/templates/settings/woocommerce.php:242
+#: admin/templates/settings/memberpress.php:49
+#: admin/templates/settings/memberpress.php:115
+#: admin/templates/settings/buddypress.php:130
+#, fuzzy
+msgid "Below with separator"
+msgstr "Zemāk ar atdalītāju"
+
+#: admin/templates/settings/woocommerce.php:154
+#, fuzzy
+msgid "Billing form"
+msgstr "Norēķinu forma"
+
+#: admin/templates/settings/woocommerce.php:174
+#, fuzzy
+msgid "Billing layout"
+msgstr "Norēķinu izkārtojums"
+
+#: admin/templates/settings/general.php:196
+#, fuzzy
+msgid "Blacklisted redirects"
+msgstr "Melnajā sarakstā ietvertie novirzījumi"
+
+#: widget.php:53
+#, fuzzy
+msgid "Button align:"
+msgstr "Pogas izlīdzināšana:"
+
+#: admin/templates/settings/userpro.php:147
+#: admin/templates/settings/ultimate-member.php:166
+#: admin/templates/settings/login-form.php:53
+#: admin/templates/settings/comment.php:53
+#: admin/templates/settings/woocommerce.php:286
+#: admin/templates/settings/memberpress.php:151
+#: admin/templates/settings/buddypress.php:150
+#, fuzzy
+msgid "Button alignment"
+msgstr "Pogu izlīdzināšana"
+
+#: providers/google/admin/buttons.php:2
+#, fuzzy
+msgid "Button skin"
+msgstr "Pogas āda"
+
+#: admin/templates/settings/comment.php:33
+#: admin/templates/settings/woocommerce.php:18
+#, fuzzy
+msgid "Button style"
+msgstr "Pogas stils"
+
+#: widget.php:38
+#, fuzzy
+msgid "Button style:"
+msgstr "Pogas stils:"
+
+#: admin/templates-provider/menu.php:17
+#, fuzzy
+msgid "Buttons"
+msgstr "Pogas"
+
+#: admin/templates/pro.php:14
+#, fuzzy
+msgid "Buy Pro Addon"
+msgstr "Pērciet Pro Addon"
+
+#: nextend-social-login.php:143 admin/templates/settings/privacy.php:6
+#, fuzzy
+msgid ""
+"By clicking Register, you accept our <a href=\"#privacy_policy_url\" target="
+"\"_blank\">Privacy Policy</a>"
+msgstr ""
+"Noklikšķinot uz Reģistrēties, jūs piekrītat mūsu <a href=\"#privacy_policy_url\" "
+"target=\"_blank\">privātuma politikai</a>"
+
+#: widget.php:62 admin/templates/settings/userpro.php:155
+#: admin/templates/settings/ultimate-member.php:174
+#: admin/templates/settings/login-form.php:61
+#: admin/templates/settings/login-form-pro.php:143
+#: admin/templates/settings/comment.php:61
+#: admin/templates/settings/woocommerce.php:294
+#: admin/templates/settings/memberpress.php:159
+#: admin/templates/settings/buddypress.php:158
+#, fuzzy
+msgid "Center"
+msgstr "Centrs"
+
+#: admin/templates/settings/woocommerce.php:214
+#, fuzzy
+msgid "Checkout for WooCommerce"
+msgstr "Izrakstīšanās vietnē WooCommerce"
+
+#: admin/templates/settings/woocommerce.php:230
+#, fuzzy
+msgid "Checkout for WooCommerce layout"
+msgstr "Pārbaudiet WooCommerce izkārtojumu"
+
+#: providers/google/admin/getting-started.php:22
+#, fuzzy
+msgid ""
+"Choose a <b>User Type</b> according to your needs. If you want to enable the "
+"social login with Google for any users with a Google account, then pick the "
+"External option!"
+msgstr ""
+"Izvēlieties <b> Lietotāja tips </b> atbilstoši jūsu vajadzībām. Ja vēlaties "
+"iespējot sociālo pieteikšanos ar Google visiem lietotājiem, kuriem ir Google "
+"konts, izvēlieties opciju Ārējs!"
+
+#: providers/google/admin/getting-started.php:31
+#, fuzzy
+msgid "Choose the \"<b>OAuth client ID</b>\" option."
+msgstr "Izvēlieties opciju <b> OAuth klienta ID </b>."
+
+#: admin/templates-provider/usage.php:34
+#, fuzzy
+msgid "Click here to login or register"
+msgstr "Noklikšķiniet šeit, lai pieteiktos vai reģistrētos"
+
+#: providers/facebook/admin/fix-redirect-uri.php:13
+#, fuzzy
+msgid "Click on \"<b>Save Changes</b>\""
+msgstr "Noklikšķiniet uz <b> Saglabāt izmaiņas </b>"
+
+#: providers/twitter/admin/fix-redirect-uri.php:13
+#: providers/google/admin/fix-redirect-uri.php:13
+#, fuzzy
+msgid "Click on \"<b>Save</b>\""
+msgstr "Noklikšķiniet uz \"<b> Saglabāt </b>\""
+
+#: providers/facebook/admin/getting-started.php:26
+#, fuzzy
+msgid "Click on the \"<b>Add a New App\" button</b>"
+msgstr "Noklikšķiniet uz pogas <b> Pievienot jaunu lietotni </b>"
+
+#: providers/google/admin/getting-started.php:35
+#, fuzzy
+msgid "Click on the \"<b>Create</b>\" button"
+msgstr "Noklikšķiniet uz pogas <b> Izveidot </b>"
+
+#: providers/google/admin/fix-redirect-uri.php:10
+#, fuzzy
+msgid "Click on the \"<b>Credentials</b>\" in the left hand menu"
+msgstr "Kreisajā pusē esošajā izvēlnē noklikšķiniet uz <b> Akreditācijas dati </b>"
+
+#: providers/facebook/admin/fix-redirect-uri.php:10
+#, fuzzy, php-format
+msgid "Click on the App with App ID: <b>%s</b>"
+msgstr "Noklikšķiniet uz Lietotne ar lietotnes ID: <b> %s </b>"
+
+#: providers/facebook/admin/getting-started.php:37
+#, fuzzy
+msgid "Click on “<b>Save Changes</b>”"
+msgstr "Noklikšķiniet uz “<b> Saglabāt izmaiņas </b>”"
+
+#: providers/facebook/admin/getting-started.php:29
+#, fuzzy
+msgid "Click the \"<b>Create App ID</b>\" button and complete the Security Check."
+msgstr ""
+"Noklikšķiniet uz pogas \"<b> Izveidot lietotnes ID </b>\" un pabeidziet drošības "
+"pārbaudi."
+
+#: providers/twitter/admin/getting-started.php:24
+#, fuzzy
+msgid "Click the <b>Create</b> button."
+msgstr "Noklikšķiniet uz pogas <b> Izveidot </b>."
+
+#: providers/google/admin/getting-started.php:21
+#, fuzzy
+msgid "Click the “<b>OAuth consent screen</b>” button on the left hand side."
+msgstr "Kreisajā pusē noklikšķiniet uz pogas “<b> OAuth piekrišanas ekrāns </b>”."
+
+#: providers/google/admin/settings.php:27
+#, fuzzy
+msgid "Client ID"
+msgstr "Klienta ID"
+
+#: providers/google/admin/settings.php:40
+#, fuzzy
+msgid "Client Secret"
+msgstr "Klienta noslēpums"
+
+#: admin/templates/global-settings.php:39
+#, fuzzy
+msgid "Comment"
+msgstr "Komentārs"
+
+#: admin/templates/settings/buddypress.php:36
+#, fuzzy
+msgid "Connect button after register"
+msgstr "Pēc reģistrācijas pievienojiet pogu"
+
+#: admin/templates/settings/buddypress.php:31
+#, fuzzy
+msgid "Connect button before account details"
+msgstr "Poga Savienojums pirms konta informācijas"
+
+#: admin/templates/settings/buddypress.php:26
+#, fuzzy
+msgid "Connect button before register"
+msgstr "Pievienojiet pogu pirms reģistrēšanās"
+
+#: admin/templates/settings/ultimate-member.php:26
+#: admin/templates/settings/ultimate-member.php:92
+#: admin/templates/settings/woocommerce.php:46
+#: admin/templates/settings/woocommerce.php:51
+#: admin/templates/settings/woocommerce.php:104
+#: admin/templates/settings/woocommerce.php:109
+#: admin/templates/settings/woocommerce.php:162
+#: admin/templates/settings/woocommerce.php:167
+#: admin/templates/settings/woocommerce.php:222
+#: admin/templates/settings/memberpress.php:77
+#, fuzzy
+msgid "Connect button on"
+msgstr "Ieslēgšanas poga ir ieslēgta"
+
+#: providers/facebook/facebook.php:79
+#, fuzzy
+msgid "Continue with <b>Facebook</b>"
+msgstr "Turpiniet ar <b> Facebook </b>"
+
+#: providers/google/google.php:106
+#, fuzzy
+msgid "Continue with <b>Google</b>"
+msgstr "Turpiniet ar <b> Google </b>"
+
+#: providers/twitter/twitter.php:69
+#, fuzzy
+msgid "Continue with <b>Twitter</b>"
+msgstr "Turpiniet ar <b> Twitter </b>"
+
+#: providers/google/admin/buttons.php:20
+#, fuzzy
+msgid "Dark"
+msgstr "Tumšs"
+
+#: admin/admin.php:255
+#, fuzzy
+msgid "Deactivate completed."
+msgstr "Deaktivizēšana pabeigta."
+
+#: admin/templates/pro-addon.php:37 admin/templates/pro-addon.php:142
+#, fuzzy
+msgid "Deactivate Pro Addon"
+msgstr "Deaktivizējiet Pro Addon"
+
+#: admin/templates/debug.php:7 admin/templates/header.php:20
+#, fuzzy
+msgid "Debug"
+msgstr "Atkļūdošana"
+
+#: admin/templates/settings/general.php:43
+#, fuzzy
+msgid "Debug mode"
+msgstr "Atkļūdošanas režīms"
+
+#: widget.php:42 admin/templates-provider/settings-pro.php:121
+#: admin/templates/settings/userpro.php:51 admin/templates/settings/userpro.php:102
+#: admin/templates/settings/ultimate-member.php:39
+#: admin/templates/settings/ultimate-member.php:105
+#: admin/templates/settings/login-form-pro.php:35
+#: admin/templates/settings/login-form-pro.php:91
+#: admin/templates/settings/comment.php:39
+#: admin/templates/settings/woocommerce.php:24
+#: admin/templates/settings/woocommerce.php:64
+#: admin/templates/settings/woocommerce.php:122
+#: admin/templates/settings/woocommerce.php:180
+#: admin/templates/settings/memberpress.php:24
+#: admin/templates/settings/memberpress.php:90
+#: admin/templates/settings/buddypress.php:50
+#: admin/templates/settings/buddypress.php:99
+#: admin/templates/settings/buddypress.php:118
+#, fuzzy
+msgid "Default"
+msgstr "Noklusējums"
+
+#: admin/templates-provider/buttons.php:112
+#, fuzzy
+msgid "Default button"
+msgstr "Noklusējuma poga"
+
+#: admin/templates/settings/general.php:121
+#, fuzzy
+msgid "Default redirect url"
+msgstr "Noklusējuma novirzīšanas URL"
+
+#: admin/templates-provider/settings-pro.php:113
+#, fuzzy
+msgid "Default roles for user who registered with this provider"
+msgstr ""
+"Noklusējuma lomas lietotājam, kurš reģistrējies pie šī pakalpojumu sniedzēja"
+
+#: includes/provider-admin.php:257 admin/templates/providers.php:89
+#, fuzzy
+msgid "Disable"
+msgstr "Atspējot"
+
+#: admin/templates/settings/general-pro.php:81
+#, fuzzy
+msgid "Disable Admin bar for roles"
+msgstr "Atspējot lomu administratoru joslu"
+
+#: admin/templates/settings/general.php:114
+#, fuzzy
+msgid "Disable external redirects"
+msgstr "Atspējojiet ārējos novirzījumus"
+
+#: admin/templates-provider/settings-pro.php:93
+#, fuzzy
+msgid "Disable login for the selected roles"
+msgstr "Atspējot pieteikšanos atlasītajām lomām"
+
+#: providers/google/admin/settings.php:56
+#, fuzzy
+msgid ""
+"Disable, when you don't want to see the account select prompt on each login."
+msgstr ""
+"Atspējojiet, ja nevēlaties redzēt kontu, atlasiet uzvedni katrā pieteikšanās "
+"reizē."
+
+#: includes/provider-admin.php:217 admin/templates-provider/settings-pro.php:85
+#: admin/templates/providers.php:39 admin/templates/settings/general.php:48
+#: admin/templates/settings/general.php:212
+#: admin/templates/settings/general.php:227
+#: admin/templates/settings/general.php:245
+#, fuzzy
+msgid "Disabled"
+msgstr "Invalīds"
+
+#: admin/templates/review.php:16
+#, fuzzy
+msgid "Disliked it"
+msgstr "Nepatika"
+
+#: admin/admin.php:589
+#, fuzzy
+msgid "Dismiss"
+msgstr "Atlaist"
+
+#: admin/admin.php:589
+#, fuzzy
+msgid "Dismiss and check Pro Addon"
+msgstr "Atlaidiet un pārbaudiet Pro Addon"
+
+#: admin/templates/settings/general.php:222
+#, fuzzy
+msgid "Display avatars in \"All media items\""
+msgstr "Rādīt iemiesojumus sadaļā “Visi multivides vienumi”"
+
+#: admin/templates/header.php:14
+#, fuzzy
+msgid "Docs"
+msgstr "Dokumenti"
+
+#: admin/templates/settings/privacy.php:78
+#, fuzzy
+msgid "Email"
+msgstr "E-pasts"
+
+#: admin/templates/settings/login-form.php:36
+#, fuzzy
+msgid "Embedded login form"
+msgstr "Iegulta pieteikšanās forma"
+
+#: admin/templates/settings/login-form-pro.php:135
+#, fuzzy
+msgid "Embedded login form button alignment"
+msgstr "Iegultās pieteikšanās formas pogu izlīdzināšana"
+
+#: admin/templates/settings/login-form-pro.php:85
+#, fuzzy
+msgid "Embedded Login form button style"
+msgstr "Iegultās pieteikšanās formas pogas stils"
+
+#: admin/templates/settings/login-form-pro.php:104
+#, fuzzy
+msgid "Embedded Login layout"
+msgstr "Iegultās pieteikšanās izkārtojums"
+
+#: includes/provider-admin.php:249 admin/templates/providers.php:77
+#, fuzzy
+msgid "Enable"
+msgstr "Iespējot"
+
+#: includes/provider-admin.php:220 admin/templates/providers.php:42
+#: providers/google/admin/settings.php:53 admin/templates/settings/general.php:51
+#: admin/templates/settings/general.php:215
+#: admin/templates/settings/general.php:230
+#: admin/templates/settings/general.php:248
+#, fuzzy
+msgid "Enabled"
+msgstr "Iespējots"
+
+#: admin/templates/settings/general.php:232
+#, fuzzy
+msgid ""
+"Enabling this option can speed up loading images in Media Library - Grid view!"
+msgstr ""
+"Iespējojot šo opciju, var paātrināt attēlu ielādi Media Library - Režģa skatā!"
+
+#: providers/google/admin/getting-started.php:33
+#, fuzzy
+msgid "Enter \"<b>Name</b>\" that for your OAuth client ID."
+msgstr "Ievadiet \"<b> Vārds </b>\", kas norādīts jūsu OAuth klienta ID."
+
+#: providers/google/admin/getting-started.php:27
+#, fuzzy
+msgid ""
+"Enter a name for your App to the \"<b>Application name</b>\" field, which will "
+"appear as the name of the app asking for consent."
+msgstr ""
+"Laukā <b> Lietojumprogrammas nosaukums </b> \"ievadiet savas lietotnes "
+"nosaukumu, kas parādīsies kā tās lietotnes nosaukums, kurai tiek lūgta "
+"piekrišana."
+
+#: providers/facebook/admin/getting-started.php:32
+#, fuzzy, php-format
+msgid ""
+"Enter your domain name to the \"<b>App Domains</b>\" field, probably: <b>%s</b>"
+msgstr ""
+"Laukā “<b> Lietotņu domēni </b>” ievadiet savu domēna vārdu, iespējams, <b>%s</b>"
+
+#: providers/facebook/admin/getting-started.php:31
+#, fuzzy
+msgid "Enter your domain name to the \"App Domains\" field."
+msgstr "Laukā “Lietotņu domēni” ievadiet savu domēna vārdu."
+
+#: admin/templates/providers.php:116
+#, fuzzy
+msgid "Enter your email address"
+msgstr "ievadiet savu e-pasta adresi"
+
+#: admin/templates/pro-addon.php:13
+#, fuzzy
+msgid "Error"
+msgstr "Kļūda"
+
+#: admin/templates/fix-redirect-uri.php:13
+#, fuzzy
+msgid "Every Oauth Redirect URI seems fine"
+msgstr "Katrs Oauth novirzīšanas URI šķiet labs"
+
+#: admin/templates-provider/settings-other.php:23
+#, fuzzy
+msgid "Fallback username prefix on register"
+msgstr "Rezerves lietotājvārda prefikss reģistrā"
+
+#: providers/facebook/admin/getting-started.php:28
+#, fuzzy, php-format
+msgid ""
+"Fill \"<b>Display Name</b>\" and \"<b>Contact Email</b>\". The specified "
+"\"Display Name\" will appear on your %s!"
+msgstr ""
+"Aizpildiet \"<b> Parādāmais vārds </b>\" un \"<b> Kontakta e-pasts </b>\". "
+"Norādītais \"Parādāmais vārds\" parādīsies uz %s!"
+
+#: providers/google/admin/getting-started.php:28
+#, fuzzy, php-format
+msgid ""
+"Fill the \"<b>Authorized domains</b>\" field with your domain name probably: <b>"
+"%s</b> without subdomains!"
+msgstr ""
+"Lauku \"<b> Atļautie domēni </b>\" aizpildiet, iespējams, ar sava domēna vārdu: "
+"<b> %s </b> bez apakšdomēniem!"
+
+#: providers/twitter/admin/getting-started.php:20
+#, fuzzy, php-format
+msgid ""
+"Fill the <b>App name</b>, <b>Application description</b> fields. Then enter your "
+"site's URL to the <b>Website URL</b> field: <b>%s</b>"
+msgstr ""
+"Aizpildiet laukus <b> Lietotnes nosaukums </b>, <b> Programmas apraksts </b>. "
+"Pēc tam laukā <b> Vietnes URL </b> ievadiet savas vietnes URL: <b> %s </b>"
+
+#: providers/twitter/admin/getting-started.php:23
+#, fuzzy
+msgid ""
+"Fill the “<b>Terms of Service URL</b>\", \"<b>Privacy policy URL</b>\" and "
+"\"<b>Tell us how this app will be used</b>\" fields!"
+msgstr ""
+"Aizpildiet laukus “<b> Pakalpojuma noteikumu URL </b>”, “<b> Konfidencialitātes "
+"politikas URL </b>” un “<b> Pastāstiet mums, kā šī lietotne tiks izmantota </b>”!"
+
+#: providers/facebook/admin/getting-started.php:33
+#, fuzzy
+msgid ""
+"Fill up the \"<b>Privacy Policy URL</b>\" field. Provide a publicly available "
+"and easily accessible privacy policy that explains what data you are collecting "
+"and how you will use that data."
+msgstr ""
+"Aizpildiet lauku <b> Privātuma politikas URL </b>. Nodrošiniet publiski pieejamu "
+"un viegli pieejamu privātuma politiku, kurā ir paskaidrots, kādus datus jūs "
+"apkopojat un kā jūs šos datus izmantosit."
+
+#: providers/facebook/admin/getting-started.php:39
+#, fuzzy, php-format
+msgid ""
+"Finally on the left side, click on the \"<b>%1$s</b>\" menu point, then click "
+"\"<b>%2$s</b>\" again. Here you can see your \"<b>APP ID</b>\" and you can see "
+"your \"<b>App secret</b>\" if you click on the \"Show\" button. These will be "
+"needed in plugin’s settings."
+msgstr ""
+"Visbeidzot kreisajā pusē noklikšķiniet uz izvēlnes punkta \"<b>%1$s </b>\" un "
+"pēc tam vēlreiz noklikšķiniet uz \"<b>%2$s </b>\". Šeit jūs varat redzēt savu "
+"\"<b> APP ID </b>\" un savu \"<b> Lietotnes noslēpums </b>\", ja jūs "
+"noklikšķiniet uz pogas \"Rādīt\". Tie būs nepieciešami spraudņa iestatījumos."
+
+#: providers/twitter/admin/fix-redirect-uri.php:10
+#, fuzzy
+msgid "Find your App and click on the \"<b>Details</b>\" button"
+msgstr ""
+"Atrodiet savu lietotni un noklikšķiniet uz pogas <b> Sīkāka informācija </b>"
+
+#: admin/templates/settings/privacy.php:65
+#, fuzzy
+msgid "First and last name"
+msgstr "Vārds un uzvārds"
+
+#: admin/admin.php:578
+#, fuzzy
+msgid "Fix Error"
+msgstr "Labot kļūdu"
+
+#: admin/admin.php:596
+#, fuzzy
+msgid "Fix now"
+msgstr "Labot tūlīt"
+
+#: admin/templates/fix-redirect-uri.php:2
+#, fuzzy
+msgid "Fix Oauth Redirect URIs"
+msgstr "Labot Oauth novirzīšanas URI"
+
+#: admin/templates/settings/general.php:159
+#, fuzzy
+msgid "Fixed redirect url"
+msgstr "Fiksēts novirzīšanas URL"
+
+#: admin/templates/settings/general.php:134
+#: admin/templates/settings/general.php:172
+#, fuzzy
+msgid "for Login"
+msgstr "par pieteikšanos"
+
+#: admin/templates/settings/general.php:149
+#: admin/templates/settings/general.php:187
+#, fuzzy
+msgid "for Register"
+msgstr "reģistrācijai"
+
+#: admin/templates/global-settings.php:31
+#, fuzzy
+msgid "General"
+msgstr "Vispārīgi"
+
+#: admin/templates/pro.php:8
+#, fuzzy
+msgid "Get Pro Addon to unlock more features"
+msgstr "Iegūstiet Pro Addon, lai atbloķētu citas funkcijas"
+
+#: admin/templates-provider/menu.php:13 admin/templates/providers.php:61
+#: providers/facebook/admin/getting-started.php:17
+#: providers/twitter/admin/getting-started.php:9
+#: providers/google/admin/getting-started.php:9
+#, fuzzy
+msgid "Getting Started"
+msgstr "Darba sākšana"
+
+#: admin/templates/menu.php:8 admin/templates/global-settings.php:28
+#, fuzzy
+msgid "Global Settings"
+msgstr "Globālie iestatījumi"
+
+#: providers/twitter/admin/getting-started.php:28
+#, fuzzy
+msgid ""
+"Go to the <b>Keys and tokens</b> tab and find the <b>API key</b> and <b>API "
+"secret key</b>"
+msgstr ""
+"Atveriet cilni <b> Taustiņi un marķieri </b> un atrodiet <b> API atslēga </b> un "
+"<b> API slepenā atslēga </b>"
+
+#: admin/templates/fix-redirect-uri.php:32
+#, fuzzy
+msgid "Got it"
+msgstr "Sapratu"
+
+#: admin/templates/review.php:15
+#, fuzzy
+msgid "Hated it"
+msgstr "To ienīda"
+
+#: admin/templates/settings/comment.php:26
+#, fuzzy
+msgid "Hide"
+msgstr "Paslēpties"
+
+#: admin/templates/settings/userpro.php:26 admin/templates/settings/userpro.php:39
+#: admin/templates/settings/login-form.php:17
+#: admin/templates/settings/login-form.php:30
+#: admin/templates/settings/login-form.php:47
+#: admin/templates/settings/buddypress.php:69
+#: admin/templates/settings/buddypress.php:85
+#, fuzzy
+msgid "Hide login buttons"
+msgstr "Slēpt pieteikšanās pogas"
+
+#: providers/facebook/admin/getting-started.php:13
+#: providers/facebook/admin/settings.php:15
+#, fuzzy
+msgid "How to get SSL for my WordPress site?"
+msgstr "Kā iegūt SSL manai WordPress vietnei?"
+
+#. URI of the plugin
+#, fuzzy
+msgid "https://nextendweb.com/"
+msgstr "https://nextendweb.com/"
+
+#: providers/facebook/admin/getting-started.php:43
+#: providers/twitter/admin/getting-started.php:32
+#: providers/google/admin/getting-started.php:40
+#, fuzzy, php-format
+msgid "I am done setting up my %s"
+msgstr "Es esmu pabeidzis iestatīt savu %s"
+
+#: widget.php:47 admin/templates/settings/userpro.php:57
+#: admin/templates/settings/userpro.php:108
+#: admin/templates/settings/ultimate-member.php:45
+#: admin/templates/settings/ultimate-member.php:111
+#: admin/templates/settings/login-form-pro.php:41
+#: admin/templates/settings/login-form-pro.php:97
+#: admin/templates/settings/comment.php:45
+#: admin/templates/settings/woocommerce.php:30
+#: admin/templates/settings/memberpress.php:30
+#: admin/templates/settings/memberpress.php:96
+#: admin/templates/settings/buddypress.php:56
+#: admin/templates/settings/buddypress.php:105
+#, fuzzy
+msgid "Icon"
+msgstr "Ikona"
+
+#: admin/templates-provider/buttons.php:143
+#, fuzzy
+msgid "Icon button"
+msgstr "Pogas ikona"
+
+#: admin/templates/pro.php:10
+#, fuzzy
+msgid ""
+"If you already have a license, you can Authorize your Pro Addon. Otherwise you "
+"can purchase it using the button below."
+msgstr ""
+"Ja jums jau ir licence, varat pilnvarot savu Pro Addon. Pretējā gadījumā jūs to "
+"varat iegādāties, izmantojot zemāk esošo pogu."
+
+#: admin/templates/review.php:32
+#, fuzzy
+msgid ""
+"If you are happy with <b>Nextend Social Login</b> and can take a minute please "
+"leave us a review. It will be a tremendous help for us!"
+msgstr ""
+"Ja esat apmierināts ar <b> Nextend sociālo pieteikšanos </b> un varat veltīt "
+"minūti, lūdzu, atstājiet mums pārskatu. Tā mums būs milzīga palīdzība!"
+
+#: providers/facebook/admin/settings.php:41 providers/twitter/admin/settings.php:33
+#: providers/google/admin/settings.php:35
+#, fuzzy, php-format
+msgid ""
+"If you are not sure what is your %1$s, please head over to <a href=\"%2$s"
+"\">Getting Started</a>"
+msgstr ""
+"Ja neesat pārliecināts, kas ir jūsu %1$s, lūdzu, dodieties uz <a href=\"%2$s"
+"\">darba sākšanu</a>"
+
+#: providers/twitter/admin/getting-started.php:18
+#, fuzzy
+msgid ""
+"If you don't have a developer account yet, please apply one by filling all the "
+"required details! This is required for the next steps!"
+msgstr ""
+"Ja jums vēl nav izstrādātāja konta, lūdzu, ienāciet tajā, aizpildot visu "
+"nepieciešamo informāciju. Tas ir nepieciešams nākamajām darbībām!"
+
+#: providers/google/admin/getting-started.php:18
+#, fuzzy
+msgid ""
+"If you don't have a project yet, you'll need to create one. You can do this by "
+"clicking on the blue \"<b>Create</b>\" button on the right side!  ( If you "
+"already have a project, click on the name of your project in the dashboard "
+"instead, which will bring up a modal and click <b>\"New Project\"</b>. )"
+msgstr ""
+"Ja jums vēl nav projekta, jums tas būs jāizveido. To var izdarīt, labajā pusē "
+"noklikšķinot uz zilās pogas “<b> Izveidot </b>”! (Ja jums jau ir projekts, tā "
+"vietā informācijas panelī noklikšķiniet uz sava projekta nosaukuma, kas parādīs "
+"modālu, un noklikšķiniet uz <b> \"Jauns projekts\" </b>.)"
+
+#: providers/facebook/admin/getting-started.php:27
+#, fuzzy
+msgid ""
+"If you see the message \"<b>Become a Facebook Developer</b>\", then you need to "
+"click on the green \"<b>Register Now</b>\" button, fill the form then finally "
+"verify your account."
+msgstr ""
+"Ja redzat ziņojumu \"<b> Kļūsti par Facebook izstrādātāju </b>\", tad jums "
+"jānoklikšķina uz zaļās pogas \"<b> Reģistrēties tagad </b>\", aizpildiet "
+"veidlapu un pēc tam pārbaudiet savu kontu."
+
+#: admin/templates/settings/general.php:202
+#, fuzzy
+msgid "If you want to blacklist redirect url params. One pattern per line."
+msgstr ""
+"Ja vēlaties iekļaut melnajā sarakstā, novirzīt URL parametrus. Viens raksts "
+"katrā rindā."
+
+#: admin/templates-provider/usage.php:39
+#, fuzzy
+msgid "Image button"
+msgstr "Attēla poga"
+
+#: admin/templates-provider/usage.php:42
+#, fuzzy
+msgid "Image url"
+msgstr "Attēla URL"
+
+#: admin/templates-provider/usage.php:12
+#, fuzzy
+msgid "Important!"
+msgstr "Svarīgs!"
+
+#: admin/templates/settings/general.php:76 admin/templates/settings/general.php:102
+#, fuzzy
+msgid "Important:"
+msgstr "Svarīgs:"
+
+#: providers/facebook/admin/fix-redirect-uri.php:11
+#, fuzzy
+msgid "In the left sidebar, click on \"<b>Facebook Login > Settings</b>\""
+msgstr ""
+"Kreisajā sānjoslā noklikšķiniet uz \"<b> Pieteikšanās Facebook> Iestatījumi </b>"
+"\""
+
+#: admin/templates/pro.php:47 admin/templates/pro-addon.php:60
+#, fuzzy
+msgid "Install Pro Addon"
+msgstr "Instalējiet Pro Addon"
+
+#: admin/templates/review.php:17
+#, fuzzy
+msgid "It was ok"
+msgstr "Tas bija ok"
+
+#: widget.php:57 admin/templates/settings/userpro.php:152
+#: admin/templates/settings/ultimate-member.php:171
+#: admin/templates/settings/login-form.php:58
+#: admin/templates/settings/login-form-pro.php:140
+#: admin/templates/settings/comment.php:58
+#: admin/templates/settings/woocommerce.php:291
+#: admin/templates/settings/memberpress.php:156
+#: admin/templates/settings/buddypress.php:155
+#, fuzzy
+msgid "Left"
+msgstr "Kreisais"
+
+#: admin/admin.php:724
+#, fuzzy
+msgid "License key"
+msgstr "Licences atslēga"
+
+#: providers/google/admin/buttons.php:14
+#, fuzzy
+msgid "Light"
+msgstr "Gaismas"
+
+#: admin/templates/review.php:18
+#, fuzzy
+msgid "Liked it"
+msgstr "Patika tas"
+
+#: admin/templates-provider/sync-data.php:66
+#, fuzzy
+msgid "Link"
+msgstr "Saite"
+
+#: providers/facebook/facebook.php:80
+#, fuzzy
+msgid "Link account with <b>Facebook</b>"
+msgstr "Saistiet kontu ar <b> Facebook </b>"
+
+#: providers/google/google.php:107
+#, fuzzy
+msgid "Link account with <b>Google</b>"
+msgstr "Saistiet kontu ar <b> Google </b>"
+
+#: providers/twitter/twitter.php:70
+#, fuzzy
+msgid "Link account with <b>Twitter</b>"
+msgstr "Saistiet kontu ar <b> Twitter </b>"
+
+#: admin/templates/settings/ultimate-member.php:158
+#: admin/templates/settings/memberpress.php:143
+#, fuzzy
+msgid "Link buttons after account details"
+msgstr "Saites pogas pēc konta informācijas"
+
+#: admin/templates/settings/woocommerce.php:273
+#: admin/templates/settings/woocommerce.php:278
+#, fuzzy
+msgid "Link buttons on"
+msgstr "Ieslēgšanas pogas"
+
+#: admin/templates-provider/buttons.php:89
+#, fuzzy
+msgid "Link label"
+msgstr "Saites etiķete"
+
+#: providers/facebook/admin/getting-started.php:25
+#: providers/facebook/admin/fix-redirect-uri.php:9
+#: providers/twitter/admin/fix-redirect-uri.php:9
+#: providers/google/admin/getting-started.php:17
+#: providers/google/admin/fix-redirect-uri.php:9
+#, fuzzy, php-format
+msgid "Log in with your %s credentials if you are not logged in"
+msgstr "Ienāciet ar saviem %s akreditācijas datiem, ja neesat pieteicies"
+
+#: providers/twitter/admin/getting-started.php:17
+#, fuzzy, php-format
+msgid "Log in with your %s credentials if you are not logged in yet"
+msgstr "Ienāciet ar saviem %s akreditācijas datiem, ja vēl neesat pieteicies"
+
+#: admin/templates-provider/sync-data.php:58
+#, fuzzy
+msgid "Login"
+msgstr "Pieslēgties"
+
+#: admin/templates/settings/comment.php:18
+#, fuzzy
+msgid "Login button"
+msgstr "Pieteikšanās poga"
+
+#: admin/templates/settings/buddypress.php:93
+#, fuzzy
+msgid "Login button style"
+msgstr "Pieteikšanās pogas stils"
+
+#: admin/templates/global-settings.php:35 admin/templates/settings/userpro.php:18
+#: admin/templates/settings/login-form.php:9
+#, fuzzy
+msgid "Login Form"
+msgstr "Pieteikšanās forma"
+
+#: admin/templates/settings/ultimate-member.php:18
+#: admin/templates/settings/woocommerce.php:38
+#: admin/templates/settings/buddypress.php:80
+#, fuzzy
+msgid "Login form"
+msgstr "Pieteikšanās forma"
+
+#: admin/templates/settings/userpro.php:45
+#: admin/templates/settings/ultimate-member.php:33
+#: admin/templates/settings/login-form-pro.php:29
+#: admin/templates/settings/memberpress.php:18
+#, fuzzy
+msgid "Login form button style"
+msgstr "Pieteikšanās formas pogas stils"
+
+#: admin/templates-provider/buttons.php:79
+#, fuzzy
+msgid "Login label"
+msgstr "Pieteikšanās etiķete"
+
+#: admin/templates/settings/userpro.php:64
+#: admin/templates/settings/ultimate-member.php:52
+#: admin/templates/settings/login-form-pro.php:48
+#: admin/templates/settings/woocommerce.php:58
+#: admin/templates/settings/memberpress.php:37
+#: admin/templates/settings/buddypress.php:112
+#, fuzzy
+msgid "Login layout"
+msgstr "Pieteikšanās izkārtojums"
+
+#: admin/templates/review.php:19
+#, fuzzy
+msgid "Loved it"
+msgstr "Patika"
+
+#: includes/avatar.php:60
+#, fuzzy
+msgid "Manage Avatar"
+msgstr "Pārvaldīt iemiesojumu"
+
+#: admin/templates/settings/general.php:237
+#, fuzzy
+msgid "Membership"
+msgstr "Dalība"
+
+#: providers/google/admin/getting-started.php:19
+#, fuzzy
+msgid "Name your project and then click on the \"<b>Create</b>\" button again"
+msgstr ""
+"Nosauciet savu projektu un pēc tam vēlreiz noklikšķiniet uz pogas <b> Izveidot </"
+"b>"
+
+#: providers/facebook/admin/getting-started.php:24
+#: providers/google/admin/getting-started.php:16
+#, fuzzy, php-format
+msgid "Navigate to %s"
+msgstr "Dodieties uz %s"
+
+#: providers/facebook/admin/fix-redirect-uri.php:8
+#: providers/twitter/admin/getting-started.php:16
+#: providers/twitter/admin/fix-redirect-uri.php:8
+#: providers/google/admin/fix-redirect-uri.php:8
+#, fuzzy, php-format
+msgid "Navigate to <b>%s</b>"
+msgstr "Dodieties uz <b> %s </b>"
+
+#: admin/templates/test-connection.php:49
+#, fuzzy, php-format
+msgid "Network connection failed: %1$s"
+msgstr "Tīkla savienojums neizdevās: %1$s"
+
+#: admin/templates/test-connection.php:42
+#, fuzzy, php-format
+msgid "Network connection successful: %1$s"
+msgstr "Tīkla savienojums veiksmīgs: %1$s"
+
+#: admin/templates-provider/settings-pro.php:35
+#: admin/templates-provider/settings-pro.php:69
+#, fuzzy
+msgid "Never"
+msgstr "Nekad"
+
+#: admin/templates-provider/settings-pro.php:53
+#, fuzzy
+msgid "Never, generate automatically"
+msgstr "Nekad neveidojiet automātiski"
+
+#. Name of the plugin
+#, fuzzy
+msgid "Nextend Social Login"
+msgstr "Nextend sociālā pieteikšanās"
+
+#. Description of the plugin
+#, fuzzy
+msgid ""
+"Nextend Social Login displays social login buttons for Facebook, Google and "
+"Twitter."
+msgstr ""
+"Nextend Social Login parāda sociālās pieteikšanās pogas Facebook, Google un "
+"Twitter."
+
+#. Author of the plugin
+#, fuzzy
+msgid "Nextendweb"
+msgstr "Nextendweb"
+
+#: admin/templates/settings/buddypress.php:23
+#, fuzzy
+msgid "No Connect button"
+msgstr "Nav savienojuma pogas"
+
+#: admin/templates/settings/woocommerce.php:219
+#, fuzzy
+msgid "No Connect button in \"Checkout for WooCommerce\" form"
+msgstr "Veidā “Checkout for WooCommerce” nav pogas Pievienoties"
+
+#: admin/templates/settings/woocommerce.php:159
+#, fuzzy
+msgid "No Connect button in billing form"
+msgstr "Norēķinu formā nav pogas Pievienoties"
+
+#: admin/templates/settings/ultimate-member.php:23
+#, fuzzy
+msgid "No Connect button in Login form"
+msgstr "Pieslēgšanās formā nav pogas Pieslēgties"
+
+#: admin/templates/settings/woocommerce.php:43
+#, fuzzy
+msgid "No Connect button in login form"
+msgstr "Pieslēgšanās formā nav pogas Pieslēgties"
+
+#: admin/templates/settings/ultimate-member.php:89
+#, fuzzy
+msgid "No Connect button in Register form"
+msgstr "Reģistrācijas formā nav pogas Pieslēgties"
+
+#: admin/templates/settings/woocommerce.php:101
+#, fuzzy
+msgid "No Connect button in register form"
+msgstr "Reģistrācijas formā nav pogas Pieslēgties"
+
+#: admin/templates/settings/memberpress.php:74
+#, fuzzy
+msgid "No Connect button in Sign Up form"
+msgstr "Reģistrēšanās formā nav pogas Pievienoties"
+
+#: admin/templates/settings/woocommerce.php:270
+#, fuzzy
+msgid "No Connect buttons in account details form"
+msgstr "Konta detaļu veidlapā nav pogu Savienojumi"
+
+#: admin/templates/settings/ultimate-member.php:155
+#: admin/templates/settings/memberpress.php:140
+#, fuzzy
+msgid "No link buttons"
+msgstr "Nav saites pogu"
+
+#: admin/templates/settings/general-pro.php:54
+#, fuzzy
+msgid "Nobody"
+msgstr "Neviens"
+
+#: admin/templates/settings/general.php:66 admin/templates/settings/general.php:91
+#, fuzzy
+msgid "None"
+msgstr "Nav"
+
+#: admin/templates/providers.php:30
+#, fuzzy
+msgid "Not Available"
+msgstr "Nav pieejams"
+
+#: admin/templates/pro-addon.php:118
+#, fuzzy
+msgid "Not compatible!"
+msgstr "Nav saderīgs!"
+
+#: admin/templates/providers.php:33
+#, fuzzy
+msgid "Not Configured"
+msgstr "Nav konfigurēts"
+
+#: admin/templates/providers.php:36
+#, fuzzy
+msgid "Not Verified"
+msgstr "Nav pārbaudīts"
+
+#: admin/admin.php:578
+#, fuzzy
+msgid "Oauth Redirect URI"
+msgstr "Oauth novirzīt URI"
+
+#: admin/templates/settings/general.php:80
+#, fuzzy
+msgid "OAuth redirect uri proxy page"
+msgstr "OAuth novirzīt uri starpniekservera lapu"
+
+#: admin/templates/review.php:34
+#, fuzzy
+msgid "Ok, you deserve it"
+msgstr "Ok, jūs to esat pelnījuši"
+
+#: providers/google/admin/getting-started.php:30
+#, fuzzy, php-format
+msgid ""
+"On the left side, click on the \"<b>%1$s</b>\" menu point, then click the \"<b>"
+"%2$s</b>\" button in the top bar."
+msgstr ""
+"Kreisajā pusē noklikšķiniet uz izvēlnes punkta \"<b>%1$s </b>\" un pēc tam "
+"augšējā joslā noklikšķiniet uz pogas \"<b>%2$s </b>\"."
+
+#: providers/facebook/admin/getting-started.php:30
+#: providers/facebook/admin/getting-started.php:35
+#, fuzzy, php-format
+msgid ""
+"On the left side, click on the “<b>%1$s</b>” menu point, then click “<b>%2$s</"
+"b>”."
+msgstr ""
+"Kreisajā pusē noklikšķiniet uz izvēlnes punkta “<b>%1$s </b>” un pēc tam "
+"noklikšķiniet uz “<b>%2$s </b>”."
+
+#: providers/google/admin/getting-started.php:20
+#, fuzzy
+msgid "Once you have a project, you'll end up in the dashboard."
+msgstr "Kad būsit izveidojis projektu, jūs nonāksit informācijas panelī."
+
+#: providers/twitter/admin/getting-started.php:19
+#, fuzzy, php-format
+msgid ""
+"Once your developer account is complete, navigate back to <b>%s</b> if you "
+"aren't already there!"
+msgstr ""
+"Kad izstrādātāja konts ir izveidots, dodieties atpakaļ uz <b> %s </b>, ja vēl "
+"neesat tur!"
+
+#: admin/templates/providers.php:138
+#, fuzzy
+msgid "Order Saved"
+msgstr "Pasūtījums saglabāts"
+
+#: providers/twitter/admin/settings.php:71
+#, fuzzy
+msgid "Original"
+msgstr "Oriģināls"
+
+#: admin/templates-provider/settings-other.php:11
+#, fuzzy
+msgid "Other settings"
+msgstr "Citi iestatījumi"
+
+#: admin/templates-provider/settings-other.php:43
+#, fuzzy, php-format
+msgid "Override global \"%1$s\""
+msgstr "Ignorēt globālo “%1$s”"
+
+#: admin/templates/settings/general.php:56
+#, fuzzy
+msgid "Page for register flow"
+msgstr "Reģistrācijas plūsmas lapa"
+
+#: admin/templates/test-connection.php:52
+#, fuzzy
+msgid ""
+"Please contact with your hosting provider to resolve the network issue between "
+"your server and the provider."
+msgstr ""
+"Lūdzu, sazinieties ar savu mitināšanas pakalpojumu sniedzēju, lai atrisinātu "
+"tīkla problēmu starp jūsu serveri un pakalpojumu sniedzēju."
+
+#: admin/admin.php:203
+#, fuzzy
+msgid "Please contact your server administrator and ask for solution!"
+msgstr "Lūdzu, sazinieties ar servera administratoru un jautājiet risinājumu!"
+
+#: admin/templates/review.php:31
+#, fuzzy
+msgid "Please Leave a Review"
+msgstr "Lūdzu, atstājiet pārskatu"
+
+#: includes/provider-admin.php:242
+#, fuzzy
+msgid "Please save your changes before verifying settings."
+msgstr "Pirms iestatījumu verifikācijas, lūdzu, saglabājiet izmaiņas."
+
+#: includes/provider-admin.php:205
+#, fuzzy
+msgid "Please save your changes to verify settings."
+msgstr "Lūdzu, saglabājiet izmaiņas, lai pārbaudītu iestatījumus."
+
+#: nextend-social-login.php:56 nextend-social-login.php:63
+#, fuzzy, php-format
+msgid "Please update %1$s to version %2$s or newer."
+msgstr "Lūdzu, atjauniniet %1$s uz versiju %2$s vai jaunāku."
+
+#: admin/templates/settings/general.php:217
+#, fuzzy, php-format
+msgid "Please visit to our %1$s to check what plugins are supported!"
+msgstr ""
+"Lūdzu, apmeklējiet mūsu %1$s, lai pārbaudītu, kādi spraudņi tiek atbalstīti!"
+
+#: admin/templates/settings/general-pro.php:37
+#, fuzzy
+msgid "Prefer new tab"
+msgstr "Dodiet priekšroku jaunai cilnei"
+
+#: admin/templates/settings/general-pro.php:34
+#, fuzzy
+msgid "Prefer popup"
+msgstr "Dodiet priekšroku uznirstošajam"
+
+#: admin/templates/settings/general-pro.php:40
+#, fuzzy
+msgid "Prefer same window"
+msgstr "Dod priekšroku tam pašam logam"
+
+#: admin/templates/settings/general.php:108
+#, fuzzy
+msgid "Prevent external redirect overrides"
+msgstr "Novērst ārējās novirzīšanas ignorēšanu"
+
+#: admin/templates/global-settings.php:33
+#, fuzzy
+msgid "Privacy"
+msgstr "Privātums"
+
+#: admin/templates/menu.php:12 admin/templates/header.php:23
+#, fuzzy
+msgid "Pro Addon"
+msgstr "Pro Addon"
+
+#: admin/templates/pro-addon.php:133
+#, fuzzy
+msgid "Pro Addon is installed and activated"
+msgstr "Pro Addon ir instalēts un aktivizēts"
+
+#: admin/templates/pro-addon.php:23
+#, fuzzy
+msgid ""
+"Pro Addon is installed but not activated. To be able to use the Pro features, "
+"you need to activate it."
+msgstr ""
+"Pro Addon ir instalēts, bet nav aktivizēts. Lai varētu izmantot Pro funkcijas, "
+"tā jāaktivizē."
+
+#: admin/templates/pro.php:25
+#, fuzzy
+msgid "Pro Addon is not activated"
+msgstr "Pro Addon nav aktivizēts"
+
+#: admin/templates/pro.php:43 admin/templates/pro-addon.php:48
+#, fuzzy
+msgid "Pro Addon is not installed"
+msgstr "Pro Addon nav instalēts"
+
+#: admin/templates-provider/settings-pro.php:18
+#: admin/templates/settings/login-form-pro.php:12
+#: admin/templates/settings/general-pro.php:12
+#, fuzzy
+msgid "PRO settings"
+msgstr "PRO iestatījumi"
+
+#: providers/twitter/admin/settings.php:57
+#, fuzzy
+msgid "Profile image size"
+msgstr "Profila attēla izmērs"
+
+#: admin/templates/menu.php:6
+#, fuzzy
+msgid "Providers"
+msgstr "Sniedzēji"
+
+#: admin/templates/review.php:14
+#, fuzzy
+msgid "Rate your experience!"
+msgstr "Novērtējiet savu pieredzi!"
+
+#: providers/twitter/admin/getting-started.php:25
+#, fuzzy
+msgid "Read the Developer Terms and click the <b>Create</b> button again!"
+msgstr ""
+"Izlasiet izstrādātāja noteikumus un vēlreiz noklikšķiniet uz pogas <b> Izveidot "
+"</b>!"
+
+#: admin/templates/providers.php:115
+#, fuzzy
+msgid ""
+"Receive info on the latest plugin updates and social provider related changes."
+msgstr ""
+"Saņemiet informāciju par jaunākajiem spraudņu atjauninājumiem un ar sabiedrisko "
+"pakalpojumu sniedzēju saistītajām izmaiņām."
+
+#: admin/templates-provider/sync-data.php:50
+#, fuzzy
+msgid "Register"
+msgstr "Reģistrēties"
+
+#: admin/templates/settings/buddypress.php:44
+#, fuzzy
+msgid "Register button style"
+msgstr "Reģistrēt pogas stilu"
+
+#: admin/templates/settings/userpro.php:31
+#, fuzzy
+msgid "Register Form"
+msgstr "Reģistrācijas forma"
+
+#: admin/templates/settings/ultimate-member.php:84
+#: admin/templates/settings/woocommerce.php:96
+#: admin/templates/settings/buddypress.php:18
+#, fuzzy
+msgid "Register form"
+msgstr "Reģistrācijas forma"
+
+#: admin/templates/settings/userpro.php:96
+#: admin/templates/settings/ultimate-member.php:99
+#, fuzzy
+msgid "Register form button style"
+msgstr "Reģistrācijas veidlapas pogas stils"
+
+#: admin/templates/settings/userpro.php:115
+#: admin/templates/settings/ultimate-member.php:118
+#: admin/templates/settings/woocommerce.php:116
+#, fuzzy
+msgid "Register layout"
+msgstr "Reģistrēt izkārtojumu"
+
+#: admin/templates/settings/login-form.php:22
+#, fuzzy
+msgid "Registration Form"
+msgstr "Reģistrācijas forma"
+
+#: admin/templates/settings/general-pro.php:46
+#, fuzzy
+msgid "Registration notification sent to"
+msgstr "Reģistrācijas paziņojums nosūtīts uz"
+
+#: providers/facebook/admin/settings.php:36
+#: providers/facebook/admin/settings.php:48 providers/twitter/admin/settings.php:28
+#: providers/google/admin/settings.php:28 providers/google/admin/settings.php:41
+#, fuzzy
+msgid "Required"
+msgstr "Obligāti"
+
+#: providers/google/google.php:285
+#, fuzzy, php-format
+msgid "Required API: %1$s"
+msgstr "Nepieciešamā API: %1$s"
+
+#: providers/facebook/facebook.php:253
+#, fuzzy, php-format
+msgid "Required scope: %1$s"
+msgstr "Nepieciešamā darbības joma: %1$s"
+
+#: admin/templates-provider/buttons.php:84 admin/templates-provider/buttons.php:95
+#: admin/templates-provider/buttons.php:106
+#: admin/templates-provider/buttons.php:135
+#: admin/templates-provider/buttons.php:165 admin/templates/settings/privacy.php:53
+#, fuzzy
+msgid "Reset to default"
+msgstr "Atiestatīt uz noklusējumu"
+
+#: widget.php:67 admin/templates/settings/userpro.php:159
+#: admin/templates/settings/ultimate-member.php:178
+#: admin/templates/settings/login-form.php:65
+#: admin/templates/settings/login-form-pro.php:147
+#: admin/templates/settings/comment.php:65
+#: admin/templates/settings/woocommerce.php:298
+#: admin/templates/settings/memberpress.php:163
+#: admin/templates/settings/buddypress.php:162
+#, fuzzy
+msgid "Right"
+msgstr "Taisnība"
+
+#: providers/google/admin/getting-started.php:29
+#, fuzzy
+msgid "Save your settings!"
+msgstr "Saglabājiet iestatījumus!"
+
+#: admin/templates/providers.php:137
+#, fuzzy
+msgid "Saving failed"
+msgstr "Saglabāšana neizdevās"
+
+#: admin/templates/providers.php:136
+#, fuzzy
+msgid "Saving..."
+msgstr "Notiek saglabāšana ..."
+
+#: admin/templates-provider/usage.php:14
+#, fuzzy
+msgid "See the full list of shortcode parameters."
+msgstr "Skatīt visu īso kodu parametru sarakstu."
+
+#: providers/facebook/admin/getting-started.php:34
+#, fuzzy
+msgid ""
+"Select a “<b>Category</b>”, an “<b>App Icon</b>” and pick the “<b>Business Use</"
+"b>” option that describes your the App best, then press \"<b>Save Changes</b>\"."
+msgstr ""
+"Atlasiet “<b> Kategorija </b>”, “<b> Lietotnes ikona </b>” un izvēlieties opciju "
+"“<b> Uzņēmējdarbības vajadzībām </b>”, kas vislabāk raksturo jūsu lietotni, pēc "
+"tam nospiediet “ <b> Saglabāt izmaiņas </b> \"."
+
+#: providers/google/admin/settings.php:47
+#, fuzzy
+msgid "Select account on each login"
+msgstr "Katrā pieteikšanās reizē atlasiet kontu"
+
+#: providers/google/admin/getting-started.php:32
+#, fuzzy
+msgid "Select the \"<b>Web application</b>\" under Application type."
+msgstr ""
+"Sadaļā Lietojumprogrammas tips atlasiet “<b> Tīmekļa lietojumprogramma </b>”."
+
+#: providers/twitter/admin/getting-started.php:26
+#, fuzzy
+msgid "Select the <b>Permissions</b> tab and click <b>Edit</b>."
+msgstr "Atlasiet cilni <b> Atļaujas </b> un noklikšķiniet uz <b> Rediģēt </b>."
+
+#: admin/templates-provider/menu.php:15 admin/templates/providers.php:81
+#: admin/templates/providers.php:93
+#, fuzzy
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#: admin/templates-provider/usage.php:9
+#, fuzzy
+msgid "Shortcode"
+msgstr "Īsais kods"
+
+#: admin/templates/settings/privacy.php:42 admin/templates/settings/comment.php:23
+#, fuzzy
+msgid "Show"
+msgstr "Izrāde"
+
+#: widget.php:85
+#, fuzzy
+msgid "Show link buttons"
+msgstr "Rādīt saišu pogas"
+
+#: widget.php:76 admin/templates/settings/userpro.php:23
+#: admin/templates/settings/userpro.php:36
+#: admin/templates/settings/login-form.php:14
+#: admin/templates/settings/login-form.php:27
+#: admin/templates/settings/login-form.php:44
+#: admin/templates/settings/buddypress.php:72
+#: admin/templates/settings/buddypress.php:88
+#, fuzzy
+msgid "Show login buttons"
+msgstr "Rādīt pieteikšanās pogas"
+
+#: widget.php:94
+#, fuzzy
+msgid "Show unlink buttons"
+msgstr "Rādīt atsaistīšanas pogas"
+
+#: admin/templates/settings/buddypress.php:64
+#, fuzzy
+msgid "Sidebar Login form"
+msgstr "Sānjoslas pieteikšanās forma"
+
+#: admin/templates/settings/memberpress.php:69
+#, fuzzy
+msgid "Sign Up form"
+msgstr "Reģistrēšanās forma"
+
+#: admin/templates/settings/memberpress.php:84
+#, fuzzy
+msgid "Sign Up form button style"
+msgstr "Reģistrēšanās formas pogas stils"
+
+#: admin/templates/settings/memberpress.php:103
+#, fuzzy
+msgid "Sign Up layout"
+msgstr "Reģistrēšanās izkārtojums"
+
+#: admin/templates-provider/usage.php:31
+#, fuzzy
+msgid "Simple link"
+msgstr "Vienkārša saite"
+
+#: nextend-social-login.php:1094
+#, fuzzy
+msgid "Social Accounts"
+msgstr "Sociālie konti"
+
+#: nextend-social-login.php:737 nextend-social-login.php:1113
+#, fuzzy
+msgid "Social Login"
+msgstr "Sociālā pieteikšanās"
+
+#: admin/templates/settings/buddypress.php:73
+#, fuzzy
+msgid ""
+"Some themes that use BuddyPress, display the social buttons twice in the same "
+"login form. This option can disable the one for: <b>bp_sidebar_login_form "
+"action</b>.  "
+msgstr ""
+"Dažās tēmās, kurās tiek izmantots BuddyPress, sociālās pogas divreiz tiek "
+"parādītas tajā pašā pieteikšanās formā. Šī opcija var atspējot vienu no šādām "
+"darbībām: <b> bp_sidebar_login_form action </b>."
+
+#: admin/templates/providers.php:114
+#, fuzzy
+msgid "Stay Updated"
+msgstr "Palieciet atjaunināts"
+
+#: admin/templates/settings/privacy.php:59
+#, fuzzy
+msgid "Store"
+msgstr "Veikals"
+
+#: admin/templates-provider/sync-data.php:84
+#, fuzzy
+msgid "Store in meta key"
+msgstr "Uzglabāt meta atslēgā"
+
+#: admin/templates/providers.php:120
+#, fuzzy
+msgid "Subscribe"
+msgstr "Abonēt"
+
+#: admin/templates/providers.php:207
+#, fuzzy
+msgid "Successfully subscribed!"
+msgstr "Veiksmīgi abonējat!"
+
+#: admin/templates/header.php:17
+#, fuzzy
+msgid "Support"
+msgstr "Atbalsts"
+
+#: admin/templates/settings/general.php:207
+#, fuzzy
+msgid "Support login restrictions"
+msgstr "Atbalstiet pieteikšanās ierobežojumus"
+
+#: admin/templates-provider/menu.php:21
+#, fuzzy
+msgid "Sync data"
+msgstr "Sinhronizēt datus"
+
+#: admin/templates/settings/general-pro.php:29
+#, fuzzy
+msgid "Target window"
+msgstr "Mērķa logs"
+
+#: admin/templates-provider/settings-other.php:32
+#: admin/templates-provider/settings-other.php:43
+#: admin/templates/settings/privacy.php:35
+#, fuzzy
+msgid "Terms and conditions"
+msgstr "Noteikumi un nosacījumi"
+
+#: admin/templates/debug.php:58
+#, fuzzy, php-format
+msgid "Test %1$s connection"
+msgstr "Pārbaudiet savienojumu %1$s"
+
+#: admin/templates/debug.php:41
+#, fuzzy
+msgid "Test network connection with providers"
+msgstr "Pārbaudiet tīkla savienojumu ar pakalpojumu sniedzējiem"
+
+#: providers/facebook/facebook.php:135 providers/twitter/twitter.php:95
+#: providers/google/google.php:158
+#, fuzzy, php-format
+msgid "The %1$s entered did not appear to be a valid. Please enter a valid %2$s."
+msgstr "Ievadītais %1$s nelikās derīgs. Lūdzu, ievadiet derīgu %2$s."
+
+#: providers/twitter/admin/fix-redirect-uri.php:11
+#, fuzzy
+msgid ""
+"The <b>Edit</b> button can be found on the App details tab. Click on it and "
+"select \"<b>Edit details</b>\""
+msgstr ""
+"Poga <b> Rediģēt </b> ir atrodama cilnē App details. Noklikšķiniet uz tā un "
+"atlasiet “<b> Rediģēt informāciju </b>”"
+
+#: admin/admin.php:244
+#, fuzzy
+msgid "The activation was successful"
+msgstr "Aktivizēšana bija veiksmīga"
+
+#: admin/templates/providers.php:214
+#, fuzzy
+msgid "The entered email address is invalid!"
+msgstr "Ievadītā e-pasta adrese nav derīga."
+
+#: admin/templates/pro.php:9
+#, fuzzy, php-format
+msgid ""
+"The features below are available in %s Pro Addon. Get it today and tweak the "
+"awesome settings."
+msgstr ""
+"Tālāk norādītās funkcijas ir pieejamas %s Pro Addon. Iegūstiet to šodien un "
+"pielāgojiet lieliskos iestatījumus."
+
+#: admin/templates-provider/usage.php:13
+#, fuzzy
+msgid "The shortcodes are only rendered for users who haven't logged in yet!"
+msgstr ""
+"Īsie kodi tiek piešķirti tikai tiem lietotājiem, kuri vēl nav pieteikušies!"
+
+#: includes/provider.php:856 includes/provider.php:863
+#, fuzzy
+msgid "The test was successful"
+msgstr "Pārbaude bija veiksmīga"
+
+#: includes/user.php:82
+#, fuzzy, php-format
+msgid "This %s account is already linked to other user."
+msgstr "Šis %s konts jau ir saistīts ar citu lietotāju."
+
+#: includes/provider-admin.php:227
+#, fuzzy, php-format
+msgid ""
+"This provider is currently disabled, which means that users can’t register or "
+"login via their %s account."
+msgstr ""
+"Šis pakalpojumu sniedzējs pašlaik ir atspējots, kas nozīmē, ka lietotāji nevar "
+"reģistrēties vai pieteikties, izmantojot savu %s kontu."
+
+#: includes/provider-admin.php:233
+#, fuzzy, php-format
+msgid ""
+"This provider is currently enabled, which means that users can register or login "
+"via their %s account."
+msgstr ""
+"Šis pakalpojumu sniedzējs pašlaik ir iespējots, kas nozīmē, ka lietotāji var "
+"reģistrēties vai pieteikties, izmantojot savu %s kontu."
+
+#: includes/provider-admin.php:230
+#, fuzzy, php-format
+msgid ""
+"This provider works fine, but you can test it again. If you don’t want to let "
+"users register or login with %s anymore you can disable it."
+msgstr ""
+"Šis pakalpojumu sniedzējs darbojas lieliski, taču jūs varat to vēlreiz "
+"pārbaudīt. Ja vairs nevēlaties ļaut lietotājiem reģistrēties vai pieteikties, "
+"izmantojot %s, varat to atspējot."
+
+#: admin/templates/settings/general.php:74
+#, fuzzy
+msgid ""
+"This setting is used when you request additional data from the users (such as "
+"email address) and to display the Terms and conditions."
+msgstr ""
+"Šis iestatījums tiek izmantots, kad jūs pieprasāt no lietotājiem papildu datus "
+"(piemēram, e-pasta adresi) un lai parādītu pakalpojumu sniegšanas noteikumus."
+
+#: providers/twitter/admin/getting-started.php:27
+#, fuzzy
+msgid ""
+"Tick the <b>Request email address from users</b> under the Additional "
+"permissions section and click <b>Save</b>."
+msgstr ""
+"Sadaļā Papildu atļaujas atzīmējiet <b> Pieprasīt e-pasta adresi no lietotājiem </"
+"b> un noklikšķiniet uz <b> Saglabāt </b>."
+
+#: providers/twitter/admin/getting-started.php:21
+#, fuzzy
+msgid "Tick the checkbox next to <b>Enable Sign in with Twitter</b>!"
+msgstr ""
+"Atzīmējiet izvēles rūtiņu blakus <b> Iespējot pierakstīšanos ar Twitter </b>!"
+
+#: admin/templates/pro-addon.php:50
+#, fuzzy
+msgid "To access the Pro features, you need to install and activate the Pro Addon."
+msgstr "Lai piekļūtu Pro funkcijām, jums jāinstalē un jāaktivizē Pro Addon."
+
+#: providers/facebook/admin/getting-started.php:19
+#: providers/twitter/admin/getting-started.php:11
+#: providers/google/admin/getting-started.php:11
+#, fuzzy, php-format
+msgid ""
+"To allow your visitors to log in with their %1$s account, first you must create "
+"a %1$s App. The following guide will help you through the %1$s App creation "
+"process. After you have created your %1$s App, head over to \"Settings\" and "
+"configure the given \"%2$s\" and \"%3$s\" according to your %1$s App."
+msgstr ""
+"Lai ļautu apmeklētājiem pieteikties, izmantojot savu kontu %1$s, vispirms "
+"jāizveido lietotne %1$s. Šis ceļvedis palīdzēs jums izveidot %1$s lietotnes "
+"izveides procesu. Kad esat izveidojis savu lietotni %1$s, dodieties uz sadaļu "
+"“Iestatījumi” un konfigurējiet dotos “%2$s” un “%3$s” atbilstoši jūsu lietotnei "
+"%1$s."
+
+#: admin/admin.php:621
+#, fuzzy
+msgid ""
+"To be able to use the Pro features, you need to activate Nextend Social Connect "
+"Pro Addon. You can do this by clicking on the Activate button below then select "
+"the related purchase."
+msgstr ""
+"Lai varētu izmantot Pro funkcijas, jums jāaktivizē Nextend Social Connect Pro "
+"Addon. To var izdarīt, noklikšķinot uz zemāk esošās pogas Aktivizēt, pēc tam "
+"atlasot saistīto pirkumu."
+
+#: admin/templates/pro.php:26 admin/templates/pro.php:44
+#, fuzzy
+msgid ""
+"To be able to use the Pro features, you need to install and activate the Nextend "
+"Social Connect Pro Addon."
+msgstr ""
+"Lai varētu izmantot Pro funkcijas, jums jāinstalē un jāaktivizē Nextend Social "
+"Connect Pro Addon."
+
+#: providers/google/admin/fix-redirect-uri.php:11
+#, fuzzy, php-format
+msgid ""
+"Under the \"<b>OAuth 2.0 Client IDs</b>\" section find your Client ID: <b>%s</b>"
+msgstr ""
+"Sadaļā “<b> OAuth 2.0 klienta ID </b>” atrodiet savu klienta ID: <b> %s </b>"
+
+#: includes/oauth2.php:141 includes/oauth2.php:286 admin/admin.php:516
+#: providers/facebook/facebook-client.php:84
+#: providers/twitter/twitter-client.php:165
+#, fuzzy, php-format
+msgid "Unexpected response: %s"
+msgstr "Negaidīta atbilde: %s"
+
+#: providers/google/admin/buttons.php:8
+#, fuzzy
+msgid "Uniform"
+msgstr "Vienveidīgs"
+
+#: admin/templates/settings/general-pro.php:69
+#, fuzzy
+msgid "Unlink"
+msgstr "Atsaistīt"
+
+#: providers/facebook/facebook.php:81
+#, fuzzy
+msgid "Unlink account from <b>Facebook</b>"
+msgstr "Atsaistiet kontu no <b> Facebook </b>"
+
+#: providers/google/google.php:108
+#, fuzzy
+msgid "Unlink account from <b>Google</b>"
+msgstr "Atsaistiet kontu no <b> Google </b>"
+
+#: providers/twitter/twitter.php:71
+#, fuzzy
+msgid "Unlink account from <b>Twitter</b>"
+msgstr "Atsaistiet kontu no <b> Twitter </b>"
+
+#: includes/provider.php:652
+#, fuzzy
+msgid "Unlink is not allowed!"
+msgstr "Atsaistīt nav atļauts!"
+
+#: admin/templates-provider/buttons.php:101
+#, fuzzy
+msgid "Unlink label"
+msgstr "Atsaistīt etiķeti"
+
+#: includes/provider.php:650
+#, fuzzy
+msgid "Unlink successful."
+msgstr "Atsaiste veiksmīga."
+
+#: nextend-social-login.php:56 nextend-social-login.php:63
+#, fuzzy
+msgid "Update now!"
+msgstr "Atjaunināt tagad!"
+
+#: admin/templates/pro-addon.php:123
+#, fuzzy
+msgid "Update Pro Addon"
+msgstr "Atjauniniet Pro papildinājumu"
+
+#: admin/templates/providers.php:54
+#, fuzzy
+msgid "Upgrade Now"
+msgstr "Uzlabot tagad"
+
+#: admin/templates-provider/menu.php:24
+#, fuzzy
+msgid "Usage"
+msgstr "Lietošana"
+
+#: admin/templates/settings/general.php:75 admin/templates/settings/general.php:101
+#, fuzzy
+msgid "Usage:"
+msgstr "Lietošana:"
+
+#: admin/templates-provider/buttons.php:128
+#: admin/templates-provider/buttons.php:158
+#, fuzzy
+msgid "Use custom button"
+msgstr "Izmantojiet pielāgoto pogu"
+
+#: admin/templates-provider/buttons.php:135
+#, fuzzy, php-format
+msgid "Use the %s in your custom button's code to make the label show up."
+msgstr "Izmantojiet %s savas pielāgotās pogas kodā, lai etiķete tiktu parādīta."
+
+#: admin/templates-provider/settings-other.php:27
+#, fuzzy
+msgid "Used when username is invalid or not stored"
+msgstr "Tiek izmantots, ja lietotājvārds nav derīgs vai netiek saglabāts"
+
+#: admin/templates/settings/general-pro.php:57
+#, fuzzy
+msgid "User"
+msgstr "Lietotājs"
+
+#: admin/templates/settings/general-pro.php:63
+#, fuzzy
+msgid "User and Admin"
+msgstr "Lietotājs un administrators"
+
+#: admin/templates-provider/settings-other.php:16
+#, fuzzy
+msgid "Username prefix on register"
+msgstr "Lietotājvārda prefikss reģistrā"
+
+#: includes/provider-admin.php:204 admin/templates/providers.php:69
+#, fuzzy
+msgid "Verify Settings"
+msgstr "Pārbaudiet iestatījumus"
+
+#: includes/provider-admin.php:241
+#, fuzzy
+msgid "Verify Settings Again"
+msgstr "Pārbaudiet iestatījumus vēlreiz"
+
+#: admin/templates/providers.php:207
+#, fuzzy
+msgid ""
+"We'll be bringing you all the latest news and updates about Social Login - right "
+"to your inbox."
+msgstr ""
+"Mēs sniegsim jums visas jaunākās ziņas un atjauninājumus par sociālo "
+"pieteikšanos - tieši jūsu iesūtnē."
+
+#: admin/templates-provider/settings-pro.php:38
+#, fuzzy
+msgid "When email is not provided or empty"
+msgstr "Ja e-pasts netiek sniegts vai ir tukšs"
+
+#: admin/templates/settings/privacy.php:81
+#, fuzzy
+msgid "When not enabled, email will be empty."
+msgstr "Ja tā nav iespējota, e-pasts būs tukšs."
+
+#: admin/templates/settings/privacy.php:68
+#, fuzzy
+msgid "When not enabled, username will be randomly generated."
+msgstr "Ja tas nav iespējots, lietotājvārds tiks ģenerēts nejauši."
+
+#: admin/templates-provider/settings-pro.php:56
+#, fuzzy
+msgid "When username is empty or invalid"
+msgstr "Kad lietotājvārds ir tukšs vai nederīgs"
+
+#: admin/templates/settings/general-pro.php:51
+#: admin/templates/settings/general.php:242
+#, fuzzy
+msgid "WordPress default"
+msgstr "WordPress noklusējums"
+
+#: includes/provider-admin.php:213
+#, fuzzy
+msgid "Works Fine"
+msgstr "Darbojas labi"
+
+#: admin/templates/settings/general.php:100
+#, fuzzy
+msgid ""
+"You can use this setting when wp-login.php page is not available to handle the "
+"OAuth flow."
+msgstr ""
+"Šo iestatījumu var izmantot, ja lapa Wp-login.php nav pieejama, lai apstrādātu "
+"OAuth plūsmu."
+
+#: admin/templates/debug.php:48
+#, fuzzy
+msgid "You don't have cURL support, please enable it in php.ini!"
+msgstr "Jums nav CURL atbalsta, lūdzu, iespējojiet to php.ini!"
+
+#: admin/templates/pro-addon.php:14
+#, fuzzy
+msgid ""
+"You don’t have sufficient permissions to install and activate plugins. Please "
+"contact your site’s administrator!"
+msgstr ""
+"Jums nav pietiekamu atļauju spraudņu instalēšanai un aktivizēšanai. Lūdzu, "
+"sazinieties ar vietnes administratoru!"
+
+#: includes/user.php:77
+#, fuzzy, php-format
+msgid ""
+"You have already linked a(n) %s account. Please unlink the current and then you "
+"can link other %s account."
+msgstr ""
+"Jūs jau esat saistījis (n) %s kontu. Lūdzu, atsaistiet pašreizējo un pēc tam "
+"varat saistīt citu %s kontu."
+
+#: admin/templates/pro-addon.php:135
+#, fuzzy
+msgid ""
+"You installed and activated the Pro Addon. If you don’t want to use it anymore, "
+"you can deactivate using the button below."
+msgstr ""
+"Jūs instalējāt un aktivizējāt Pro Addon. Ja vairs nevēlaties to izmantot, varat "
+"to deaktivizēt, izmantojot zemāk esošo pogu."
+
+#: admin/templates/settings/comment.php:28
+#, fuzzy, php-format
+msgid "You need to turn on the ' %1$s > %2$s > %3$s ' for this feature to work"
+msgstr "Lai šī funkcija darbotos, jums jāieslēdz “%1$s>%2$s>%3$s”"
+
+#: includes/user.php:74
+#, fuzzy, php-format
+msgid ""
+"Your %1$s account is successfully linked with your account. Now you can sign in "
+"with %2$s easily."
+msgstr ""
+"Jūsu %1$s konts ir veiksmīgi saistīts ar jūsu kontu. Tagad jūs varat viegli "
+"pierakstīties, izmantojot %2$s."
+
+#: providers/facebook/admin/getting-started.php:38
+#, fuzzy
+msgid ""
+"Your application is currently private, which means that only you can log in with "
+"it. In the top bar click on the switch next to the \"<b>In development</b>\" "
+"label, then click the \"<b>Switch Mode</b>\" button."
+msgstr ""
+"Jūsu lietojumprogramma pašlaik ir privāta, kas nozīmē, ka tikai jūs varat tajā "
+"pieteikties. Augšējā joslā noklikšķiniet uz slēdža blakus marķējumam “<b> "
+"Izstrādē </b>”, pēc tam noklikšķiniet uz pogas “<b> Pārslēgšanas režīms </b>”."
+
+#: includes/provider-admin.php:198
+#, fuzzy
+msgid "Your configuration needs to be verified"
+msgstr "Jūsu konfigurācija ir jāpārbauda"
