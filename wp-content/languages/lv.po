@@ -2,13 +2,13 @@
 # This file is distributed under the same license as the WordPress - 5.4.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-07-26 10:33+0300\n"
+"PO-Revision-Date: 2020-07-30 09:16+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n %10==1 && n %100!=11 ? 0 : n != 0 ? 1 : "
 "2);\n"
-"X-Generator: Poedit 2.3.1\n"
+"X-Generator: Poedit 2.4\n"
 "Language: lv\n"
 "Project-Id-Version: WordPress - 5.4.x - Development\n"
 "Report-Msgid-Bugs-To: \n"
@@ -763,7 +763,7 @@ msgstr ""
 
 #: wp-signup.php:905
 msgid "Greetings Network Administrator!"
-msgstr "Sveicināts tīkla administrator! "
+msgstr "Sveicināts tīkla administrator!"
 
 #: wp-signup.php:910
 msgid "The network currently disallows registrations."
@@ -1531,7 +1531,7 @@ msgstr "Nav saistīto subtitru."
 
 #: wp-includes/media-template.php:1428 wp-includes/media.php:3908
 msgid "No items found."
-msgstr "Nekas nav atrasts"
+msgstr "Nekas nav atrasts."
 
 #: wp-includes/media-template.php:1435
 msgid "Image crop area preview. Requires mouse interaction."
@@ -1630,7 +1630,7 @@ msgstr "Vai rādīt vienuma autoru, ja ir iespējams?"
 
 #: wp-includes/widgets.php:1650
 msgid "Display item date?"
-msgstr "Rādīt vienumu datumu."
+msgstr "Rādīt vienumu datumu?"
 
 #. %s: Protected post title.
 #: wp-includes/post-template.php:127
@@ -2038,7 +2038,7 @@ msgstr "Jauna atsauces notifikācija ziņai \"%s\" gaida jūsu apstiprinājumu"
 
 #: wp-includes/pluggable.php:1773
 msgid "Trackback excerpt: "
-msgstr "Atsauces paziņojuma izraksts:"
+msgstr "Atsauces paziņojuma izraksts: "
 
 #. %s: Post title.
 #: wp-includes/pluggable.php:1778
@@ -2048,7 +2048,7 @@ msgstr "Jauns atbalss paziņojums ziņai \"%s\" gaida jūsu apstiprinājumu"
 
 #: wp-includes/pluggable.php:1784
 msgid "Pingback excerpt: "
-msgstr "Atbalss paziņojuma izraksts:"
+msgstr "Atbalss paziņojuma izraksts: "
 
 #. %s: Post title.
 #: wp-includes/pluggable.php:1789
@@ -2683,7 +2683,7 @@ msgstr "Maksimālais iegultā rāmja platums pikseļos."
 
 #: wp-includes/class-wp-oembed-controller.php:90
 msgid "The maximum height of the embed frame in pixels."
-msgstr "Maksimālais iegultā rāmja augstums pikseļos. "
+msgstr "Maksimālais iegultā rāmja augstums pikseļos."
 
 #: wp-includes/class-wp-oembed-controller.php:95
 msgid ""
@@ -2704,7 +2704,7 @@ msgstr "Meklēt:"
 #: wp-includes/general-template.php:275
 msgctxt "placeholder"
 msgid "Search &hellip;"
-msgstr "Meklēt …"
+msgstr "Meklēt &hellip;"
 
 #: wp-includes/general-template.php:277 wp-includes/general-template.php:284
 msgctxt "submit button"
@@ -2754,7 +2754,7 @@ msgstr "Lapa nav atrasta"
 #: wp-includes/general-template.php:1059
 #, php-format
 msgid "Search Results for &#8220;%s&#8221;"
-msgstr "Meklēšanas rezultāti vaicājumam “% s”"
+msgstr "Meklēšanas rezultāti vaicājumam &#8220;%s&#8221;"
 
 #: wp-includes/general-template.php:1091 wp-includes/general-template.php:1573
 msgctxt "yearly archives date format"
@@ -2770,7 +2770,7 @@ msgstr "F Y"
 #: wp-includes/general-template.php:1103
 #, php-format
 msgid "Page %s"
-msgstr "Lapa% s"
+msgstr "Lapa %s"
 
 #. 1: Separator, 2: Search query.
 #: wp-includes/general-template.php:1266
@@ -2790,37 +2790,37 @@ msgstr "Arhīvi"
 #: wp-includes/general-template.php:1564
 #, php-format
 msgid "Category: %s"
-msgstr "Kategorija:% s"
+msgstr "Kategorija: %s"
 
 #. Tag archive title. %s: Tag name.
 #: wp-includes/general-template.php:1567
 #, php-format
 msgid "Tag: %s"
-msgstr "Tag:% s"
+msgstr "Tag: %s"
 
 #. Author archive title. %s: Author name.
 #: wp-includes/general-template.php:1570
 #, php-format
 msgid "Author: %s"
-msgstr "Autors:% s"
+msgstr "Autors: %s"
 
 #. Yearly archive title. %s: Year.
 #: wp-includes/general-template.php:1573
 #, php-format
 msgid "Year: %s"
-msgstr "Gads:% s"
+msgstr "Gads: %s"
 
 #. Monthly archive title. %s: Month name and year.
 #: wp-includes/general-template.php:1576
 #, php-format
 msgid "Month: %s"
-msgstr "Mēnesis:% s"
+msgstr "Mēnesis: %s"
 
 #. Daily archive title. %s: Date.
 #: wp-includes/general-template.php:1579
 #, php-format
 msgid "Day: %s"
-msgstr "Diena:% s"
+msgstr "Diena: %s"
 
 #: wp-includes/general-template.php:1579 wp-includes/general-template.php:2214
 msgctxt "daily archives date format"
@@ -2876,7 +2876,7 @@ msgstr "Tērzēšana"
 #: wp-includes/general-template.php:1602
 #, php-format
 msgid "Archives: %s"
-msgstr "Arhīvi:% s"
+msgstr "Arhīvi: %s"
 
 #. Taxonomy term archive title. 1: Taxonomy singular name, 2: Current taxonomy term.
 #: wp-includes/general-template.php:1608
@@ -2902,7 +2902,7 @@ msgstr " %1$s %2$s"
 #: wp-includes/general-template.php:2216
 #, php-format
 msgid "Posts published on %s"
-msgstr "Ziņas publicētas% s"
+msgstr "Ziņas publicētas %s"
 
 #: wp-includes/general-template.php:2241
 msgid "Previous and next months"
@@ -4102,7 +4102,7 @@ msgstr "Atcelt"
 #: wp-includes/media.php:3892
 #, php-format
 msgid "%d selected"
-msgstr "Atlasīts% d"
+msgstr "Atlasīts %d"
 
 #: wp-includes/media.php:3893
 msgid "Drag and drop to reorder media files."
@@ -4214,13 +4214,13 @@ msgstr "Meklēt multimediju..."
 #: wp-includes/media.php:3927
 #, php-format
 msgid "Number of media items found: %d"
-msgstr "Atrasto mediju vienību skaits:% d"
+msgstr "Atrasto mediju vienību skaits: %d"
 
 #: wp-includes/media.php:3928
 #, php-format
 msgid "Number of media items displayed: %d. Scroll the page for more results."
 msgstr ""
-"Parādīto multivides vienību skaits:% d. Ritiniet lapu, lai iegūtu vairāk "
+"Parādīto multivides vienību skaits: %d. Ritiniet lapu, lai iegūtu vairāk "
 "rezultātu."
 
 #: wp-includes/media.php:3929
@@ -4502,8 +4502,8 @@ msgstr ""
 #, php-format
 msgid "%s second"
 msgid_plural "%s seconds"
-msgstr[0] "% s otrais"
-msgstr[1] "% s sekundes"
+msgstr[0] " %s otrais"
+msgstr[1] " %s sekundes"
 msgstr[2] ""
 
 #. Time difference between two dates, in minutes (min=minute). %s: Number of minutes.
@@ -4511,8 +4511,8 @@ msgstr[2] ""
 #, php-format
 msgid "%s min"
 msgid_plural "%s mins"
-msgstr[0] "% s min"
-msgstr[1] "% s min"
+msgstr[0] " %s min"
+msgstr[1] " %s min"
 msgstr[2] ""
 
 #. Time difference between two dates, in hours. %s: Number of hours.
@@ -4521,8 +4521,8 @@ msgstr[2] ""
 #, php-format
 msgid "%s hour"
 msgid_plural "%s hours"
-msgstr[0] "% s stunda"
-msgstr[1] "% s stundas"
+msgstr[0] " %s stunda"
+msgstr[1] " %s stundas"
 msgstr[2] ""
 
 #. Time difference between two dates, in days. %s: Number of days.
@@ -4530,8 +4530,8 @@ msgstr[2] ""
 #, php-format
 msgid "%s day"
 msgid_plural "%s days"
-msgstr[0] "% s dienā"
-msgstr[1] "% s dienas"
+msgstr[0] " %s dienā"
+msgstr[1] " %s dienas"
 msgstr[2] ""
 
 #. Time difference between two dates, in weeks. %s: Number of weeks.
@@ -4539,8 +4539,8 @@ msgstr[2] ""
 #, php-format
 msgid "%s week"
 msgid_plural "%s weeks"
-msgstr[0] "% s nedēļa"
-msgstr[1] "% s nedēļas"
+msgstr[0] " %s nedēļa"
+msgstr[1] " %s nedēļas"
 msgstr[2] ""
 
 #. Time difference between two dates, in months. %s: Number of months.
@@ -4548,8 +4548,8 @@ msgstr[2] ""
 #, php-format
 msgid "%s month"
 msgid_plural "%s months"
-msgstr[0] "% s mēnesī"
-msgstr[1] "% s mēneši"
+msgstr[0] " %s mēnesī"
+msgstr[1] " %s mēneši"
 msgstr[2] ""
 
 #. Time difference between two dates, in years. %s: Number of years.
@@ -4557,8 +4557,8 @@ msgstr[2] ""
 #, php-format
 msgid "%s year"
 msgid_plural "%s years"
-msgstr[0] "% s gadā"
-msgstr[1] "% s gadi"
+msgstr[0] " %s gadā"
+msgstr[1] " %s gadi"
 msgstr[2] ""
 
 #. Maximum number of words used in a post excerpt.
@@ -5542,8 +5542,8 @@ msgstr "Jums ir jānorāda datums nākotnē, lai ieplānotu."
 #, php-format
 msgid "Unable to save due to %s invalid setting."
 msgid_plural "Unable to save due to %s invalid settings."
-msgstr[0] "Nevar saglabāt, jo nederīgs iestatījums% s."
-msgstr[1] "Nevar saglabāt, jo nederīgi iestatījumi% s."
+msgstr[0] "Nevar saglabāt, jo nederīgs iestatījums %s."
+msgstr[1] "Nevar saglabāt, jo nederīgi iestatījumi %s."
 msgstr[2] ""
 
 #: wp-includes/class-wp-customize-manager.php:3118
@@ -5597,14 +5597,14 @@ msgid ""
 "%s is already customizing this changeset. Please wait until they are done to "
 "try customizing. Your latest changes have been autosaved."
 msgstr ""
-"% s jau pielāgo šo izmaiņu kopu. Lūdzu, uzgaidiet, līdz tie tiks pabeigti, "
+" %s jau pielāgo šo izmaiņu kopu. Lūdzu, uzgaidiet, līdz tie tiks pabeigti, "
 "lai mēģinātu pielāgot. Jūsu pēdējās izmaiņas ir saglabātas automātiski."
 
 #. %s: User who is customizing the changeset in customizer.
 #: wp-includes/class-wp-customize-manager.php:4071
 #, php-format
 msgid "%s is already customizing this changeset. Do you want to take over?"
-msgstr "% s jau pielāgo šo izmaiņu kopu. Vai vēlaties pārņemt?"
+msgstr " %s jau pielāgo šo izmaiņu kopu. Vai vēlaties pārņemt?"
 
 #. %s: User who is customizing the changeset in customizer.
 #: wp-includes/class-wp-customize-manager.php:4076
@@ -5613,14 +5613,14 @@ msgid ""
 "%s is already customizing this site. Please wait until they are done to try "
 "customizing. Your latest changes have been autosaved."
 msgstr ""
-"% s jau pielāgo šo vietni. Lūdzu, uzgaidiet, līdz tie tiks pabeigti, lai "
+" %s jau pielāgo šo vietni. Lūdzu, uzgaidiet, līdz tie tiks pabeigti, lai "
 "mēģinātu pielāgot. Jūsu pēdējās izmaiņas ir saglabātas automātiski."
 
 #. %s: User who is customizing the changeset in customizer.
 #: wp-includes/class-wp-customize-manager.php:4078
 #, php-format
 msgid "%s is already customizing this site. Do you want to take over?"
-msgstr "% s jau pielāgo šo vietni. Vai vēlaties pārņemt?"
+msgstr " %s jau pielāgo šo vietni. Vai vēlaties pārņemt?"
 
 #: wp-includes/class-wp-customize-manager.php:4234
 #: wp-includes/script-loader.php:696 wp-includes/script-loader.php:875
@@ -5670,13 +5670,13 @@ msgstr "Kopēts"
 #: wp-includes/class-wp-customize-manager.php:4505
 #, php-format
 msgid "Customize: %s"
-msgstr "Pielāgot:% s"
+msgstr "Pielāgot: %s"
 
 #. %s: Document title from the preview.
 #: wp-includes/class-wp-customize-manager.php:4508
 #, php-format
 msgid "Live Preview: %s"
-msgstr "Tiešraides priekšskatījums:% s"
+msgstr "Tiešraides priekšskatījums: %s"
 
 #: wp-includes/class-wp-customize-manager.php:4778
 #: wp-includes/script-loader.php:1152 wp-includes/script-loader.php:1320
@@ -5702,7 +5702,7 @@ msgstr "Vai tiešām vēlaties izdzēst šo motīvu?"
 #: wp-includes/class-wp-customize-manager.php:4867
 #, php-format
 msgid "%d themes found"
-msgstr "Atrasti% d motīvi"
+msgstr "Atrasti %d motīvi"
 
 #. %d: Number of themes being displayed, which cannot currently consider singular vs. plural forms.
 #: wp-includes/class-wp-customize-manager.php:4869
@@ -5714,7 +5714,7 @@ msgstr "%d motīvu parādīšana"
 #: wp-includes/class-wp-customize-manager.php:4871
 #, php-format
 msgid "Showing details for theme: %s"
-msgstr "Rāda detaļas tēmu:% s"
+msgstr "Rāda detaļas tēmu: %s"
 
 #: wp-includes/class-wp-customize-manager.php:4951
 msgid "Enter desktop preview mode"
@@ -5786,7 +5786,7 @@ msgstr ""
 #: wp-includes/class-wp-customize-manager.php:5127
 #, php-format
 msgid "Site Icons should be square and at least %s pixels."
-msgstr "Vietnes ikonām jābūt kvadrātveida un vismaz% s pikseļiem."
+msgstr "Vietnes ikonām jābūt kvadrātveida un vismaz %s pikseļiem."
 
 #: wp-includes/class-wp-customize-manager.php:5152
 msgid "Logo"
@@ -6237,7 +6237,7 @@ msgstr "Vai tiešām vēlaties to darīt?"
 #: wp-includes/deprecated.php:3184
 #, php-format
 msgid "File &#8220;%s&#8221; doesn&#8217;t exist?"
-msgstr "Fails “% s” neeksistē?"
+msgstr "Fails “%s” neeksistē?"
 
 #: wp-includes/deprecated.php:3188
 msgid "The GD image library is not installed."
@@ -6247,7 +6247,7 @@ msgstr "GD attēlu bibliotēka nav instalēta."
 #: wp-includes/deprecated.php:3197
 #, php-format
 msgid "File &#8220;%s&#8221; is not an image."
-msgstr "Fails “% s” nav attēls."
+msgstr "Fails “%s” nav attēls."
 
 #: wp-includes/deprecated.php:3933 wp-includes/deprecated.php:3950
 msgid "The Press This plugin is required."
@@ -6442,7 +6442,7 @@ msgid ""
 "<strong>Error</strong>: The password you entered for the username %s is "
 "incorrect."
 msgstr ""
-"<strong> Kļūda </strong>: lietotājvārdam% s ievadītā parole nav pareiza."
+"<strong> Kļūda </strong>: lietotājvārdam %s ievadītā parole nav pareiza."
 
 #: wp-includes/user.php:212
 msgid "<strong>Error</strong>: The email field is empty."
@@ -6461,7 +6461,7 @@ msgid ""
 "<strong>Error</strong>: The password you entered for the email address %s is "
 "incorrect."
 msgstr ""
-"<strong> Kļūda </strong>: e-pasta adresē% s ievadītā parole nav pareiza."
+"<strong> Kļūda </strong>: e-pasta adresē %s ievadītā parole nav pareiza."
 
 #: wp-includes/user.php:291 wp-includes/functions.php:6504
 msgid "Please log in again."
@@ -6578,7 +6578,7 @@ msgstr ""
 #: wp-includes/user.php:2083
 #, php-format
 msgid "[%s] Email Changed"
-msgstr "[% s] E-pasts mainīts"
+msgstr "[ %s] E-pasts mainīts"
 
 #: wp-includes/user.php:2205
 msgid "AIM"
@@ -6600,7 +6600,7 @@ msgid ""
 msgstr ""
 "Padoms: parolei jābūt vismaz divpadsmit rakstzīmēm. Lai padarītu to "
 "stiprāku, izmantojiet lielos un mazos burtus, ciparus un simbolus, piemēram! "
-"&quot;? $% ^ &amp;)."
+"&quot;? $ % ^ &amp;)."
 
 #: wp-includes/user.php:2312
 msgid "Password reset is not allowed for this user"
@@ -6707,7 +6707,7 @@ msgstr ""
 #: wp-includes/user.php:2883
 #, php-format
 msgid "[%s] Email Change Request"
-msgstr "[% s] E-pasta maiņas pieprasījums"
+msgstr "[ %s] E-pasta maiņas pieprasījums"
 
 #. %s: New email address.
 #: wp-includes/user.php:2905
@@ -6716,8 +6716,8 @@ msgid ""
 "Your email address has not been updated yet. Please check your inbox at %s "
 "for a confirmation email."
 msgstr ""
-"Jūsu e-pasta adrese vēl nav atjaunināta. Lūdzu, pārbaudiet iesūtni vietnē"
-"% s, lai saņemtu apstiprinājuma e-pastu."
+"Jūsu e-pasta adrese vēl nav atjaunināta. Lūdzu, pārbaudiet iesūtni vietnē "
+"%s, lai saņemtu apstiprinājuma e-pastu."
 
 #: wp-includes/user.php:2935
 msgid "WordPress User"
@@ -6771,7 +6771,7 @@ msgstr "Lietotāja apraksts"
 #: wp-includes/user.php:3047
 #, php-format
 msgid "Filter %s returned items with reserved names."
-msgstr "Filtrējiet% s atgrieztās preces ar rezervētajiem nosaukumiem."
+msgstr "Filtrējiet %s atgrieztās preces ar rezervētajiem nosaukumiem."
 
 #: wp-includes/user.php:3061
 msgid "User"
@@ -6877,7 +6877,7 @@ msgstr "[ %1$s] darbība apstiprināta: %2$s"
 #: wp-includes/user.php:3388
 #, php-format
 msgid "[%s] Erasure Request Fulfilled"
-msgstr "[% s] Dzēšanas pieprasījums izpildīts"
+msgstr "[ %s] Dzēšanas pieprasījums izpildīts"
 
 #. Do not translate SITENAME, SITEURL; those are placeholders.
 #: wp-includes/user.php:3415
@@ -6995,7 +6995,7 @@ msgstr "Dzēst personiskos datus"
 #: wp-includes/user.php:3631
 #, php-format
 msgid "Confirm the \"%s\" action"
-msgstr "Apstipriniet darbību \"% s\""
+msgstr "Apstipriniet darbību \"%s\""
 
 #: wp-includes/user.php:3661
 msgid "Invalid user request."
@@ -7631,7 +7631,7 @@ msgid ""
 "Sorry, you have used your space allocation of %s. Please delete some files "
 "to upload more files."
 msgstr ""
-"Atvainojiet, jūs esat izmantojis vietas% s piešķiršanu. Lūdzu, izdzēsiet "
+"Atvainojiet, jūs esat izmantojis vietas %s piešķiršanu. Lūdzu, izdzēsiet "
 "dažus failus, lai augšupielādētu vairāk failu."
 
 #. 1: File name, 2: Error message.
@@ -7702,8 +7702,8 @@ msgstr "izslēgts"
 #, php-format
 msgid "%s minute"
 msgid_plural "%s minutes"
-msgstr[0] "% s minūte"
-msgstr[1] "% s minūtes"
+msgstr[0] " %s minūte"
+msgstr[1] " %s minūtes"
 msgstr[2] ""
 
 #: wp-includes/functions.php:1547
@@ -7727,7 +7727,7 @@ msgid ""
 "Unable to create directory %s. Is its parent directory writable by the "
 "server?"
 msgstr ""
-"Nevar izveidot direktoriju% s. Vai tā mātes direktoriju var ierakstīt "
+"Nevar izveidot direktoriju %s. Vai tā mātes direktoriju var ierakstīt "
 "serveris?"
 
 #: wp-includes/functions.php:2626
@@ -7742,13 +7742,13 @@ msgstr "Diemžēl drošības apsvērumu dēļ šis faila tips nav atļauts."
 #: wp-includes/functions.php:2685
 #, php-format
 msgid "Could not write file %s"
-msgstr "Nevarēja uzrakstīt failu% s"
+msgstr "Nevarēja uzrakstīt failu %s"
 
 #. %s: Site title.
 #: wp-includes/functions.php:3207
 #, php-format
 msgid "You are attempting to log out of %s"
-msgstr "Jūs mēģināt atteikties no% s"
+msgstr "Jūs mēģināt atteikties no %s"
 
 #. %s: Logout URL.
 #: wp-includes/functions.php:3214
@@ -7844,7 +7844,7 @@ msgstr ""
 #: wp-includes/functions.php:5150
 #, php-format
 msgid "(This message was added in version %s.)"
-msgstr "(Šis ziņojums tika pievienots versijā% s.)"
+msgstr "(Šis ziņojums tika pievienots versijā %s.)"
 
 #. %s: Documentation URL.
 #: wp-includes/functions.php:5155
@@ -7920,7 +7920,7 @@ msgstr ""
 #: wp-includes/functions.php:7019
 #, php-format
 msgid "[%s] Admin Email Changed"
-msgstr "[% s] Administratora e-pasts mainīts"
+msgstr "[ %s] Administratora e-pasts mainīts"
 
 #. Deleted text.
 #: wp-includes/functions.php:7162
@@ -9119,13 +9119,13 @@ msgstr "Jūs pielāgojat %s"
 #: wp-includes/script-loader.php:340
 #, php-format
 msgid "%s from now"
-msgstr "% s no šī brīža"
+msgstr " %s no šī brīža"
 
 #. %s: Duration.
 #: wp-includes/script-loader.php:342
 #, php-format
 msgid "%s ago"
-msgstr "Pirms% s"
+msgstr "Pirms %s"
 
 #. Abbreviated date/time format, see https://www.php.net/date
 #: wp-includes/script-loader.php:353
@@ -9245,7 +9245,7 @@ msgstr ""
 #, php-format
 msgid "%d results found. Use up and down arrow keys to navigate."
 msgstr ""
-"Atrasti% d rezultāti. Izmantojiet bulttaustiņus uz augšu un uz leju, lai "
+"Atrasti %d rezultāti. Izmantojiet bulttaustiņus uz augšu un uz leju, lai "
 "pārvietotos."
 
 #: wp-includes/script-loader.php:807
@@ -9280,7 +9280,7 @@ msgstr "Jūs esat mēģinājis rindā pārāk daudz failu."
 #: wp-includes/script-loader.php:855
 #, php-format
 msgid "%s exceeds the maximum upload size for this site."
-msgstr "% s pārsniedz maksimālo augšupielādes lielumu šai vietnei."
+msgstr " %s pārsniedz maksimālo augšupielādes lielumu šai vietnei."
 
 #: wp-includes/script-loader.php:856
 msgid "This file is empty. Please try another."
@@ -9348,7 +9348,7 @@ msgid ""
 "%s exceeds the maximum upload size for the multi-file uploader when used in "
 "your browser."
 msgstr ""
-"% s pārsniedz vairāku failu augšupielādētāja maksimālo augšupielādes "
+" %s pārsniedz vairāku failu augšupielādētāja maksimālo augšupielādes "
 "lielumu, ja to izmanto jūsu pārlūkprogrammā."
 
 #: wp-includes/script-loader.php:871
@@ -9379,7 +9379,7 @@ msgstr "pārvietots uz miskasti."
 #: wp-includes/script-loader.php:879
 #, php-format
 msgid "&#8220;%s&#8221; has failed to upload."
-msgstr "Neizdevās augšupielādēt failu “% s”."
+msgstr "Neizdevās augšupielādēt failu “%s”."
 
 #: wp-includes/script-loader.php:938
 msgid "Download File"
@@ -9688,8 +9688,8 @@ msgstr ""
 msgid "There is %d error which must be fixed before you can update this file."
 msgid_plural ""
 "There are %d errors which must be fixed before you can update this file."
-msgstr[0] "Lai atjauninātu šo failu, ir jānovērš kļūda% d."
-msgstr[1] "Lai atjauninātu šo failu, ir jānovērš% d kļūdas."
+msgstr[0] "Lai atjauninātu šo failu, ir jānovērš kļūda %d."
+msgstr[1] "Lai atjauninātu šo failu, ir jānovērš %d kļūdas."
 msgstr[2] ""
 
 #: wp-includes/script-loader.php:1082
@@ -9836,7 +9836,7 @@ msgstr "Vai tiešām vēlaties atmest nepublicētās izmaiņas?"
 #: wp-includes/script-loader.php:1182
 #, php-format
 msgid "%s has taken over and is currently customizing."
-msgstr "% s ir pārņēmis un pašlaik pielāgojas."
+msgstr " %s ir pārņēmis un pašlaik pielāgojas."
 
 #. %s: URL to the Customizer to load the autosaved version.
 #: wp-includes/script-loader.php:1184
@@ -9938,7 +9938,7 @@ msgstr "Komentāri"
 #: wp-includes/script-loader.php:1276
 #, php-format
 msgid "Comments (%s)"
-msgstr "Komentāri (% s)"
+msgstr "Komentāri ( %s)"
 
 #: wp-includes/script-loader.php:1287
 msgid "Drag boxes here"
@@ -10102,7 +10102,7 @@ msgstr "Mēģinot eksportēt personas datus, radās kļūda."
 #: wp-includes/script-loader.php:1444
 #, php-format
 msgid "Search results for &#8220;%s&#8221;"
-msgstr "Meklēšanas rezultāti vaicājumam “% s”"
+msgstr "Meklēšanas rezultāti vaicājumam “%s”"
 
 #: wp-includes/script-loader.php:1445
 msgid "Search Results"
@@ -10139,7 +10139,7 @@ msgstr "Atjaunināt tagad"
 #, php-format
 msgctxt "plugin"
 msgid "Update %s now"
-msgstr "Atjaunināt% s tagad"
+msgstr "Atjaunināt %s tagad"
 
 #: wp-includes/script-loader.php:1455
 msgid "Update Failed!"
@@ -10149,28 +10149,28 @@ msgstr "Neizdevās atjaunināt!"
 #: wp-includes/script-loader.php:1457
 #, php-format
 msgid "Update Failed: %s"
-msgstr "Neizdevās atjaunināt:% s"
+msgstr "Neizdevās atjaunināt: %s"
 
 #. %s: Plugin name and version.
 #: wp-includes/script-loader.php:1459
 #, php-format
 msgctxt "plugin"
 msgid "Updating %s..."
-msgstr "Notiek% s atjaunināšana ..."
+msgstr "Notiek %s atjaunināšana ..."
 
 #. %s: Plugin name and version.
 #: wp-includes/script-loader.php:1461
 #, php-format
 msgctxt "plugin"
 msgid "%s updated!"
-msgstr "% s atjaunināts!"
+msgstr " %s atjaunināts!"
 
 #. %s: Plugin name and version.
 #: wp-includes/script-loader.php:1463
 #, php-format
 msgctxt "plugin"
 msgid "%s update failed"
-msgstr "Neizdevās atjaunināt% s"
+msgstr "Neizdevās atjaunināt %s"
 
 #. Accessibility text.
 #: wp-includes/script-loader.php:1465
@@ -10200,7 +10200,7 @@ msgstr "Instalēt tagad"
 #, php-format
 msgctxt "plugin"
 msgid "Install %s now"
-msgstr "Instalējiet% s tūlīt"
+msgstr "Instalējiet %s tūlīt"
 
 #: wp-includes/script-loader.php:1474
 msgid "Installing..."
@@ -10224,49 +10224,49 @@ msgstr "Instalēšana neizdevās!"
 #: wp-includes/script-loader.php:1479
 #, php-format
 msgid "Installation failed: %s"
-msgstr "Instalēšana neizdevās:% s"
+msgstr "Instalēšana neizdevās: %s"
 
 #. %s: Plugin name and version.
 #: wp-includes/script-loader.php:1481
 #, php-format
 msgctxt "plugin"
 msgid "Installing %s..."
-msgstr "Notiek% s instalēšana ..."
+msgstr "Notiek %s instalēšana ..."
 
 #. %s: Theme name and version.
 #: wp-includes/script-loader.php:1483
 #, php-format
 msgctxt "theme"
 msgid "Installing %s..."
-msgstr "Notiek% s instalēšana ..."
+msgstr "Notiek %s instalēšana ..."
 
 #. %s: Plugin name and version.
 #: wp-includes/script-loader.php:1485
 #, php-format
 msgctxt "plugin"
 msgid "%s installed!"
-msgstr "% s ir instalēts!"
+msgstr " %s ir instalēts!"
 
 #. %s: Theme name and version.
 #: wp-includes/script-loader.php:1487
 #, php-format
 msgctxt "theme"
 msgid "%s installed!"
-msgstr "% s ir instalēts!"
+msgstr " %s ir instalēts!"
 
 #. %s: Plugin name and version.
 #: wp-includes/script-loader.php:1489
 #, php-format
 msgctxt "plugin"
 msgid "%s installation failed"
-msgstr "Neizdevās instalēt% s"
+msgstr "Neizdevās instalēt %s"
 
 #. %s: Theme name and version.
 #: wp-includes/script-loader.php:1491
 #, php-format
 msgctxt "theme"
 msgid "%s installation failed"
-msgstr "Neizdevās instalēt% s"
+msgstr "Neizdevās instalēt %s"
 
 #: wp-includes/script-loader.php:1492
 msgid "Installing... please wait."
@@ -10287,13 +10287,13 @@ msgstr ""
 #: wp-includes/script-loader.php:1497
 #, php-format
 msgid "Are you sure you want to delete %s?"
-msgstr "Vai tiešām vēlaties izdzēst% s?"
+msgstr "Vai tiešām vēlaties izdzēst %s?"
 
 #. %s: Plugin name.
 #: wp-includes/script-loader.php:1499
 #, php-format
 msgid "Are you sure you want to delete %s and its data?"
-msgstr "Vai tiešām vēlaties izdzēst% s un tā datus?"
+msgstr "Vai tiešām vēlaties izdzēst %s un tā datus?"
 
 #: wp-includes/script-loader.php:1500
 msgid "Are you sure you want to delete the selected plugins and their data?"
@@ -10315,7 +10315,7 @@ msgstr "Notiek dzēšana ..."
 #: wp-includes/script-loader.php:1504
 #, php-format
 msgid "Deletion failed: %s"
-msgstr "Dzēšana neizdevās:% s"
+msgstr "Dzēšana neizdevās: %s"
 
 #: wp-includes/script-loader.php:1505
 msgctxt "plugin"
@@ -10345,26 +10345,26 @@ msgstr "Iespējot tīklu"
 #, php-format
 msgctxt "plugin"
 msgid "Network Activate %s"
-msgstr "Tīkls, aktivizējiet% s"
+msgstr "Tīkls, aktivizējiet %s"
 
 #: wp-includes/script-loader.php:1511
 #, php-format
 msgctxt "plugin"
 msgid "Activate %s"
-msgstr "Aktivizēt% s"
+msgstr "Aktivizēt %s"
 
 #. %s: Theme name.
 #: wp-includes/script-loader.php:1513
 #, php-format
 msgctxt "theme"
 msgid "Network Activate %s"
-msgstr "Tīkls, aktivizējiet% s"
+msgstr "Tīkls, aktivizējiet %s"
 
 #: wp-includes/script-loader.php:1513
 #, php-format
 msgctxt "theme"
 msgid "Activate %s"
-msgstr "Aktivizēt% s"
+msgstr "Aktivizēt %s"
 
 #: wp-includes/script-loader.php:1514
 msgid "Run Importer"
@@ -10374,7 +10374,7 @@ msgstr "Palaist importētāju"
 #: wp-includes/script-loader.php:1516
 #, php-format
 msgid "Run %s"
-msgstr "Palaist% s"
+msgstr "Palaist %s"
 
 #: wp-includes/script-loader.php:1518
 msgid "Connection lost or the server is busy. Please try again later."
@@ -10386,7 +10386,7 @@ msgstr ""
 #: wp-includes/script-loader.php:1521
 #, php-format
 msgid "Number of plugins found: %d"
-msgstr "Atrasto spraudņu skaits:% d"
+msgstr "Atrasto spraudņu skaits: %d"
 
 #: wp-includes/script-loader.php:1522
 msgid "No plugins found. Try a different search."
@@ -10496,14 +10496,14 @@ msgid ""
 "We couldn&#8217;t locate %s. Please try another nearby city. For example: "
 "Kansas City; Springfield; Portland."
 msgstr ""
-"Nevarējām atrast vietu% s. Lūdzu, izmēģiniet citu tuvējo pilsētu. Piemēram: "
+"Nevarējām atrast vietu %s. Lūdzu, izmēģiniet citu tuvējo pilsētu. Piemēram: "
 "Kanzassitija; Springfīlda; Portlenda."
 
 #. %s: The name of a city.
 #: wp-includes/script-loader.php:2049
 #, php-format
 msgid "City updated. Listing events near %s."
-msgstr "Pilsēta ir atjaunināta. Notikumu uzskaitīšana blakus% s."
+msgstr "Pilsēta ir atjaunināta. Notikumu uzskaitīšana blakus %s."
 
 #: wp-includes/comment.php:258
 msgid "Unapproved"
@@ -10624,7 +10624,7 @@ msgstr "Lietotāja komentāru dati."
 #: wp-includes/comment.php:3604
 #, php-format
 msgid "Comment %d contains personal data but could not be anonymized."
-msgstr "Komentārā% d ir personīgi dati, bet to nevar anonimizēt."
+msgstr "Komentārā %d ir personīgi dati, bet to nevar anonimizēt."
 
 #: wp-includes/admin-bar.php:136 wp-includes/admin-bar.php:155
 msgid "About WordPress"
@@ -11133,8 +11133,8 @@ msgstr "Publicēts"
 #, php-format
 msgid "Published <span class=\"count\">(%s)</span>"
 msgid_plural "Published <span class=\"count\">(%s)</span>"
-msgstr[0] "Publicēts <span class=\"count\">(% s)</span>"
-msgstr[1] "Publicēts <span class=\"count\">(% s)</span>"
+msgstr[0] "Publicēts <span class=\"count\">( %s)</span>"
+msgstr[1] "Publicēts <span class=\"count\">( %s)</span>"
 msgstr[2] ""
 
 #: wp-includes/post.php:329
@@ -11147,8 +11147,8 @@ msgstr "Plānots"
 #, php-format
 msgid "Scheduled <span class=\"count\">(%s)</span>"
 msgid_plural "Scheduled <span class=\"count\">(%s)</span>"
-msgstr[0] "Plānots <span class=\"count\">(% s)</span>"
-msgstr[1] "Plānots <span class=\"count\">(% s)</span>"
+msgstr[0] "Plānots <span class=\"count\">( %s)</span>"
+msgstr[1] "Plānots <span class=\"count\">( %s)</span>"
 msgstr[2] ""
 
 #: wp-includes/post.php:343
@@ -11161,8 +11161,8 @@ msgstr "Melnraksts"
 #, php-format
 msgid "Draft <span class=\"count\">(%s)</span>"
 msgid_plural "Drafts <span class=\"count\">(%s)</span>"
-msgstr[0] "Melnraksts <span class=\"count\">(% s)</span>"
-msgstr[1] "Melnraksti <span class=\"count\">(% s)</span>"
+msgstr[0] "Melnraksts <span class=\"count\">( %s)</span>"
+msgstr[1] "Melnraksti <span class=\"count\">( %s)</span>"
 msgstr[2] ""
 
 #: wp-includes/post.php:358
@@ -11176,8 +11176,8 @@ msgstr "Gaida"
 #, php-format
 msgid "Pending <span class=\"count\">(%s)</span>"
 msgid_plural "Pending <span class=\"count\">(%s)</span>"
-msgstr[0] "Gaida <span class=\"count\">(% s)</span>"
-msgstr[1] "Gaida <span class=\"count\">(% s)</span>"
+msgstr[0] "Gaida <span class=\"count\">( %s)</span>"
+msgstr[1] "Gaida <span class=\"count\">( %s)</span>"
 msgstr[2] ""
 
 #: wp-includes/post.php:373
@@ -11190,8 +11190,8 @@ msgstr "Privāts"
 #, php-format
 msgid "Private <span class=\"count\">(%s)</span>"
 msgid_plural "Private <span class=\"count\">(%s)</span>"
-msgstr[0] "Privāts <span class=\"count\">(% s)</span>"
-msgstr[1] "Privāts <span class=\"count\">(% s)</span>"
+msgstr[0] "Privāts <span class=\"count\">( %s)</span>"
+msgstr[1] "Privāts <span class=\"count\">( %s)</span>"
 msgstr[2] ""
 
 #: wp-includes/post.php:387
@@ -11204,8 +11204,8 @@ msgstr "Atkritumi"
 #, php-format
 msgid "Trash <span class=\"count\">(%s)</span>"
 msgid_plural "Trash <span class=\"count\">(%s)</span>"
-msgstr[0] "Miskaste <span class=\"count\">(% s)</span>"
-msgstr[1] "Miskaste <span class=\"count\">(% s)</span>"
+msgstr[0] "Miskaste <span class=\"count\">( %s)</span>"
+msgstr[1] "Miskaste <span class=\"count\">( %s)</span>"
 msgstr[2] ""
 
 #: wp-includes/post.php:422
@@ -11223,8 +11223,8 @@ msgstr "Apstiprināts"
 #, php-format
 msgid "Confirmed <span class=\"count\">(%s)</span>"
 msgid_plural "Confirmed <span class=\"count\">(%s)</span>"
-msgstr[0] "Apstiprināts <span class=\"count\">(% s)</span>"
-msgstr[1] "Apstiprināts <span class=\"count\">(% s)</span>"
+msgstr[0] "Apstiprināts <span class=\"count\">( %s)</span>"
+msgstr[1] "Apstiprināts <span class=\"count\">( %s)</span>"
 msgstr[2] ""
 
 #: wp-includes/post.php:452
@@ -11237,8 +11237,8 @@ msgstr "Neizdevās"
 #, php-format
 msgid "Failed <span class=\"count\">(%s)</span>"
 msgid_plural "Failed <span class=\"count\">(%s)</span>"
-msgstr[0] "Neizdevās <span class=\"count\">(% s)</span>"
-msgstr[1] "Neizdevās <span class=\"count\">(% s)</span>"
+msgstr[0] "Neizdevās <span class=\"count\">( %s)</span>"
+msgstr[1] "Neizdevās <span class=\"count\">( %s)</span>"
 msgstr[2] ""
 
 #: wp-includes/post.php:467
@@ -11251,8 +11251,8 @@ msgstr "Pabeigts"
 #, php-format
 msgid "Completed <span class=\"count\">(%s)</span>"
 msgid_plural "Completed <span class=\"count\">(%s)</span>"
-msgstr[0] "Pabeigts <span class=\"count\">(% s)</span>"
-msgstr[1] "Pabeigts <span class=\"count\">(% s)</span>"
+msgstr[0] "Pabeigts <span class=\"count\">( %s)</span>"
+msgstr[1] "Pabeigts <span class=\"count\">( %s)</span>"
 msgstr[2] ""
 
 #: wp-includes/post.php:946 wp-includes/post.php:967
@@ -11542,8 +11542,8 @@ msgstr "Pārvaldīt attēlus"
 #, php-format
 msgid "Image <span class=\"count\">(%s)</span>"
 msgid_plural "Images <span class=\"count\">(%s)</span>"
-msgstr[0] "Attēls <span class=\"count\">(% s)</span>"
-msgstr[1] "Attēli <span class=\"count\">(% s)</span>"
+msgstr[0] "Attēls <span class=\"count\">( %s)</span>"
+msgstr[1] "Attēli <span class=\"count\">( %s)</span>"
 msgstr[2] ""
 
 #: wp-includes/post.php:2731
@@ -11560,8 +11560,8 @@ msgstr "Pārvaldīt audio"
 #, php-format
 msgid "Audio <span class=\"count\">(%s)</span>"
 msgid_plural "Audio <span class=\"count\">(%s)</span>"
-msgstr[0] "Audio <span class=\"count\">(% s)</span>"
-msgstr[1] "Audio <span class=\"count\">(% s)</span>"
+msgstr[0] "Audio <span class=\"count\">( %s)</span>"
+msgstr[1] "Audio <span class=\"count\">( %s)</span>"
 msgstr[2] ""
 
 #: wp-includes/post.php:2740
@@ -11578,8 +11578,8 @@ msgstr "Pārvaldīt video"
 #, php-format
 msgid "Video <span class=\"count\">(%s)</span>"
 msgid_plural "Video <span class=\"count\">(%s)</span>"
-msgstr[0] "Video <span class=\"count\">(% s)</span>"
-msgstr[1] "Video <span class=\"count\">(% s)</span>"
+msgstr[0] "Video <span class=\"count\">( %s)</span>"
+msgstr[1] "Video <span class=\"count\">( %s)</span>"
 msgstr[2] ""
 
 #: wp-includes/post.php:2749
@@ -11595,8 +11595,8 @@ msgstr "Pārvaldīt dokumentus"
 #, php-format
 msgid "Document <span class=\"count\">(%s)</span>"
 msgid_plural "Documents <span class=\"count\">(%s)</span>"
-msgstr[0] "Dokuments <span class=\"count\">(% s)</span>"
-msgstr[1] "Dokumenti <span class=\"count\">(% s)</span>"
+msgstr[0] "Dokuments <span class=\"count\">( %s)</span>"
+msgstr[1] "Dokumenti <span class=\"count\">( %s)</span>"
 msgstr[2] ""
 
 #: wp-includes/post.php:2758
@@ -11612,8 +11612,8 @@ msgstr "Pārvaldiet izklājlapas"
 #, php-format
 msgid "Spreadsheet <span class=\"count\">(%s)</span>"
 msgid_plural "Spreadsheets <span class=\"count\">(%s)</span>"
-msgstr[0] "Izklājlapa <span class=\"count\">(% s)</span>"
-msgstr[1] "Izklājlapas <span class=\"count\">(% s)</span>"
+msgstr[0] "Izklājlapa <span class=\"count\">( %s)</span>"
+msgstr[1] "Izklājlapas <span class=\"count\">( %s)</span>"
 msgstr[2] ""
 
 #: wp-includes/post.php:2767
@@ -11630,8 +11630,8 @@ msgstr "Pārvaldīt arhīvus"
 #, php-format
 msgid "Archive <span class=\"count\">(%s)</span>"
 msgid_plural "Archives <span class=\"count\">(%s)</span>"
-msgstr[0] "Arhīvs <span class=\"count\">(% s)</span>"
-msgstr[1] "Arhīvi <span class=\"count\">(% s)</span>"
+msgstr[0] "Arhīvs <span class=\"count\">( %s)</span>"
+msgstr[1] "Arhīvi <span class=\"count\">( %s)</span>"
 msgstr[2] ""
 
 #: wp-includes/post.php:3469
@@ -11658,7 +11658,7 @@ msgstr "Nevarēja ievietot ziņu datu bāzē"
 #: wp-includes/post.php:3978
 #, php-format
 msgid "Invalid taxonomy: %s."
-msgstr "Nederīga taksonomija:% s."
+msgstr "Nederīga taksonomija: %s."
 
 #: wp-includes/post.php:4045
 msgid "Invalid page template."
@@ -11676,7 +11676,7 @@ msgid ""
 "and password is okay) but not able to select the %s database."
 msgstr ""
 "Mēs varējām izveidot savienojumu ar datu bāzes serveri (kas nozīmē, ka jūsu "
-"lietotājvārds un parole ir pareiza), taču nevarējām atlasīt% s datu bāzi."
+"lietotājvārds un parole ir pareiza), taču nevarējām atlasīt %s datu bāzi."
 
 #: wp-includes/wp-db.php:1097
 msgid "Are you sure it exists?"
@@ -11715,7 +11715,7 @@ msgstr ""
 #: wp-includes/wp-db.php:1166
 #, php-format
 msgid "%s must set a database connection for use with escaping."
-msgstr "% s ir jāiestata datu bāzes savienojums izmantošanai ar bēgšanu."
+msgstr " %s ir jāiestata datu bāzes savienojums izmantošanai ar bēgšanu."
 
 #. %s: wpdb::prepare()
 #: wp-includes/wp-db.php:1301
@@ -11727,7 +11727,7 @@ msgstr "%s vaicājuma argumentam ir jābūt vietturim."
 #: wp-includes/wp-db.php:1322
 #, php-format
 msgid "Unsupported value type (%s)."
-msgstr "Neatbalstīts vērtības tips (% s)."
+msgstr "Neatbalstīts vērtības tips ( %s)."
 
 #: wp-includes/wp-db.php:1365
 msgid ""
@@ -11810,7 +11810,7 @@ msgid ""
 "This means that we lost contact with the database server at %s. This could "
 "mean your host&#8217;s database server is down."
 msgstr ""
-"Tas nozīmē, ka mēs zaudējām kontaktu ar datu bāzes serveri vietnē% s. Tas "
+"Tas nozīmē, ka mēs zaudējām kontaktu ar datu bāzes serveri vietnē %s. Tas "
 "varētu nozīmēt, ka jūsu resursdatora datu bāzes serveris nedarbojas."
 
 #: wp-includes/wp-db.php:1844
@@ -11841,7 +11841,7 @@ msgstr "Rediģēt šo"
 #: wp-includes/link-template.php:1724
 #, php-format
 msgid "Use commas instead of %s to separate excluded terms."
-msgstr "Lai atdalītu izslēgtos terminus, izmantojiet komatus, nevis% s."
+msgstr "Lai atdalītu izslēgtos terminus, izmantojiet komatus, nevis %s."
 
 #: wp-includes/link-template.php:1915 wp-includes/link-template.php:2165
 msgid "Previous Post"
@@ -12194,7 +12194,7 @@ msgstr "Nevarēja datu bāzē ievietot terminu attiecības."
 #: wp-includes/taxonomy.php:2926
 #, php-format
 msgid "The slug &#8220;%s&#8221; is already in use by another term."
-msgstr "Gliemezi “% s” jau lieto cits termins."
+msgstr "Gliemezi “%s” jau lieto cits termins."
 
 #: wp-includes/taxonomy.php:3826
 msgid "Could not split shared term."
@@ -12203,7 +12203,7 @@ msgstr "Nevarēja sadalīt dalīto terminu."
 #. %s: Taxonomy label, %l: List of terms formatted as per $term_template.
 #: wp-includes/taxonomy.php:4343
 msgid "%s: %l."
-msgstr "% s:% l."
+msgstr " %s:%l."
 
 #: wp-includes/taxonomy.php:4416
 msgid "Invalid object ID."
